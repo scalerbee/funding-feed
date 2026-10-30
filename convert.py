@@ -43,7 +43,9 @@ for it in d["items"]:
         "applyLink": it["link"],
         "active": True,
         "source": "auto",
-        "addedOn": d["updated"]
+        "addedOn": d["updated"],
+        "slug": it["id"],
+        **({"take": it["take"]} if it.get("take") else {})
     })
 json.dump({"updated": d["updated"], "items": feed}, open(out,"w",encoding="utf-8"), ensure_ascii=False, indent=1)
 print(len(feed), "items ->", out)
