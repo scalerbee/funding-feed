@@ -21,35 +21,7 @@
    "active": true,
    "source": "auto",
    "addedOn": "2026-10-30",
-   "slug": "elevate-nxt-2026-27",
-   "take": {
-    "summary": "This is one of the biggest equity-free cheques in India right now, and most founders outside Karnataka scroll past it because they assume it's only for Bengaluru startups. It isn't — any deep-tech startup in India can apply. The catch comes later: if you win, you have to move your registered office to Karnataka. Decide that before you apply, not after you're selected.",
-    "applyIf": "You have real tech IP (hardware, AI models, biotech, materials), a working prototype, and a team that can explain the science simply.",
-    "skipIf": "You're a services firm or an app built on someone else's technology — you won't clear the deep-tech bar.",
-    "lookFor": "How hard the technology would be to copy, a clear milestone plan showing what each tranche of money unlocks, and proof the team can deliver. You need at least 60 marks to reach the final pitch, so the written application carries most of the weight.",
-    "prepare": [
-     "Startup affidavit (template on the portal)",
-     "CA revenue certificate (template on the portal)",
-     "CA shareholding certificate (template on the portal)",
-     "Pitch deck",
-     "Milestone-linked use of funds"
-    ],
-    "mistake": "Asking for the full ₹1 Cr without tying each rupee to a milestone. Grant committees fund plans, not ambition.",
-    "faq": [
-     {
-      "q": "What is the last date to apply for ELEVATE NxT 2026–27?",
-      "a": "13 November 2026, 5:00 PM IST."
-     },
-     {
-      "q": "Does ELEVATE NxT take equity?",
-      "a": "No. It is an equity-free grant-in-aid released against milestones."
-     },
-     {
-      "q": "Can a startup outside Karnataka apply?",
-      "a": "Yes. Deep-tech startups from anywhere in India can apply, but winners must move their registered office to Karnataka."
-     }
-    ]
-   }
+   "slug": "elevate-nxt-2026-27"
   },
   {
    "id": "auto-elevate-minorities-2026",
@@ -93,32 +65,7 @@
    "active": true,
    "source": "auto",
    "addedOn": "2026-10-30",
-   "slug": "grand-startup-challenge-2027",
-   "take": {
-    "summary": "Don't apply to this for the prize money — ₹1 crore split across 12 winners is roughly ₹8 lakh each. Apply for the deployment. Getting your product used on a real problem, with Startup India's name next to yours, is worth more in your next fundraise than the cheque.",
-    "applyIf": "Your product directly solves one of the published track problems.",
-    "skipIf": "You'd have to twist your product to fit a track. Judges spot that within a minute.",
-    "lookFor": "A sharp fit to the problem statement, proof it works (pilots, users, data), and whether you could deploy within a month.",
-    "prepare": [
-     "A one-page 'problem → our solution → proof' note for your chosen track",
-     "A short demo video"
-    ],
-    "mistake": "Applying to every track. Pick one and go deep.",
-    "faq": [
-     {
-      "q": "What is the last date for the Grand Startup Challenge?",
-      "a": "10 November 2026, 11:59 PM IST. The organisers say it will not be extended."
-     },
-     {
-      "q": "Does the Grand Startup Challenge take equity?",
-      "a": "No. Winners share a ₹1 crore prize pool without giving up equity."
-     },
-     {
-      "q": "Where is the finale?",
-      "a": "New Delhi, in January 2027."
-     }
-    ]
-   }
+   "slug": "grand-startup-challenge-2027"
   },
   {
    "id": "auto-undp-generali-msme-insurance-2026",
@@ -602,34 +549,7 @@
    "active": true,
    "source": "auto",
    "addedOn": "2026-10-30",
-   "slug": "cgss",
-   "take": {
-    "summary": "Most founders don't know this exists. The government guarantees your loan, so the bank or NBFC doesn't ask you for collateral. If you already have revenue and need working capital or a bridge before your next round, this is cheaper than giving up equity.",
-    "applyIf": "You're DPIIT-recognised with steady revenue and can service a loan.",
-    "skipIf": "You're pre-revenue. A guarantee doesn't make a lender fund a business with no cash flow.",
-    "lookFor": "You don't apply to the government. You approach a bank, NBFC or venture-debt fund that is a member of the scheme, and the lender gets the guarantee cover. Lenders look at revenue consistency and your ability to repay.",
-    "prepare": [
-     "DPIIT recognition certificate",
-     "12–24 months of bank statements",
-     "Financial statements",
-     "Cash-flow projection showing repayment"
-    ],
-    "mistake": "Walking into a branch that has never processed a CGSS loan. Ask for lenders who already use the scheme.",
-    "faq": [
-     {
-      "q": "Do I need collateral for a CGSS loan?",
-      "a": "Not for the guaranteed portion — that is the point of the scheme."
-     },
-     {
-      "q": "How much cover does CGSS give?",
-      "a": "Guarantee cover of up to ₹20 crore per borrower."
-     },
-     {
-      "q": "Does CGSS take equity?",
-      "a": "No. It is debt; you keep full ownership."
-     }
-    ]
-   }
+   "slug": "cgss"
   },
   {
    "id": "auto-tdb-funding",
