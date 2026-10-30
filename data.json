@@ -1,0 +1,844 @@
+{
+  "updated": "2026-10-30",
+  "items": [
+    {
+      "id": "elevate-nxt-2026-27",
+      "title": "ELEVATE NxT 2026–27 (DeepTech)",
+      "org": "Govt of Karnataka (KITS / Startup Karnataka)",
+      "type": "Grant",
+      "amount": "Up to ₹1 crore, equity-free",
+      "amountMax": 10000000,
+      "deadline": "2026-11-13",
+      "region": "National",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "DeepTech"
+      ],
+      "equity": "No equity",
+      "summary": "Karnataka's milestone-based grant-in-aid for deep-tech startups. Open to eligible startups from anywhere in India; winners are expected to move their registered office to Karnataka.",
+      "eligibility": [
+        "Deep-tech startup as per DPIIT definition (up to 20 years old, turnover up to ₹300 Cr)",
+        "No ELEVATE grant received in the 3 years before 13 Oct 2026",
+        "Must relocate registered office to Karnataka if selected"
+      ],
+      "benefits": [
+        "One-time equity-free grant up to ₹1 Cr in milestones",
+        "Mentoring and incubation support"
+      ],
+      "link": "https://eitbt.karnataka.gov.in/",
+      "note": "Closes 5:00 PM IST on 13 Nov 2026."
+    },
+    {
+      "id": "elevate-minorities-2026",
+      "title": "ELEVATE Minorities 2026",
+      "org": "Govt of Karnataka (KITS / Startup Karnataka)",
+      "type": "Grant",
+      "amount": "Up to ₹50 lakh, equity-free",
+      "amountMax": 5000000,
+      "deadline": "2026-11-13",
+      "region": "Karnataka",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "All sectors"
+      ],
+      "equity": "No equity",
+      "summary": "Grant-in-aid for Karnataka-registered startups where a founder from a minority community holds at least 51% equity.",
+      "eligibility": [
+        "Startup registered in Karnataka",
+        "At least 51% equity held by a minority-community founder",
+        "DPIIT recognition not required per the 2026 call"
+      ],
+      "benefits": [
+        "One-time grant up to ₹50 lakh",
+        "Mentoring support"
+      ],
+      "link": "https://eitbt.karnataka.gov.in/",
+      "note": "Closes 5:00 PM IST on 13 Nov 2026. Applicants need at least 60 marks to reach the final pitch."
+    },
+    {
+      "id": "grand-startup-challenge-2027",
+      "title": "Grand Startup Challenge",
+      "org": "CARS24 with Startup India & Startup Policy Forum",
+      "type": "Challenge",
+      "amount": "₹1 crore prize pool (12 winners) + deployment",
+      "amountMax": 10000000,
+      "deadline": "2026-11-10",
+      "region": "National",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Mobility",
+        "Technology"
+      ],
+      "equity": "No equity",
+      "summary": "National challenge putting early-stage startups on real problem statements across four tracks, with mentorship, deployment opportunities and a finale in New Delhi in January 2027.",
+      "eligibility": [
+        "Early-stage Indian startups",
+        "Solution must fit one of the published track problem statements"
+      ],
+      "benefits": [
+        "Share of ₹1 Cr prize pool",
+        "Month of mentorship (Dec 2026)",
+        "Real deployment and investor visibility"
+      ],
+      "link": "https://gsc.cars24.com/",
+      "note": "Hard deadline 10 Nov 2026, 11:59 PM IST — organisers say it will not be extended."
+    },
+    {
+      "id": "undp-generali-msme-insurance-2026",
+      "title": "UNDP–Generali MSME Insurance Innovation Challenge (India)",
+      "org": "UNDP India & Generali Central",
+      "type": "Challenge",
+      "amount": "Up to ₹38.7 lakh each (max 3 winners)",
+      "amountMax": 3870000,
+      "deadline": "2026-11-20",
+      "region": "National",
+      "stages": [
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Fintech",
+        "Insurtech"
+      ],
+      "equity": "No equity",
+      "summary": "Funding to develop or scale insurance products and services that are accessible, affordable and relevant for Indian MSMEs and their workers.",
+      "eligibility": [
+        "Organisations with insurance / risk-protection solutions for Indian MSMEs",
+        "Solution should have a credible pathway to scale"
+      ],
+      "benefits": [
+        "Performance-based grant up to ~₹38.7 lakh",
+        "Access to UNDP and Generali expertise"
+      ],
+      "link": "https://www.undp.org/india/press-releases/undp-and-generali-central-launch-insurance-innovation-challenge-strengthen-msme-resilience-india",
+      "note": "Deadline 20 Nov 2026."
+    },
+    {
+      "id": "undp-ocean-innovation-2026",
+      "title": "UNDP Ocean Innovation Challenge — 5th Call",
+      "org": "UNDP with Sida",
+      "type": "Challenge",
+      "amount": "Up to USD 100,000 + 17 months incubation",
+      "amountMax": 8800000,
+      "deadline": "2026-11-15",
+      "region": "Global",
+      "stages": [
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Climate",
+        "Blue economy",
+        "Waste / plastics"
+      ],
+      "equity": "No equity",
+      "summary": "Implementation-ready solutions for marine pollution, coastal ecosystem restoration and a sustainable blue economy. Up to 10 winners.",
+      "eligibility": [
+        "Legally registered private-sector organisations",
+        "Implementation-ready innovation",
+        "Preference for women-led and youth-led ventures; priority countries are Bangladesh, Indonesia, Philippines, Thailand and Viet Nam — check India eligibility in the call"
+      ],
+      "benefits": [
+        "Up to USD 100,000 via deliverable-based contract",
+        "Up to 17 months of incubation and mentoring"
+      ],
+      "link": "https://www.undp.org/press-releases/innovators-wanted-undp-launches-usd-1-million-global-challenge-healthier-ocean",
+      "note": "Closes 15 Nov 2026, 23:59 New York time."
+    },
+    {
+      "id": "kits-grassroot-innovation-2026",
+      "title": "Grassroot Innovation Programme 2026",
+      "org": "Govt of Karnataka (KITS)",
+      "type": "Grant",
+      "amount": "Up to ₹4 lakh per project",
+      "amountMax": 400000,
+      "deadline": "2026-11-23",
+      "region": "Karnataka",
+      "stages": [
+        "Idea",
+        "Prototype"
+      ],
+      "sectors": [
+        "All sectors",
+        "Social impact"
+      ],
+      "equity": "No equity",
+      "summary": "Grant for grassroots innovators in Karnataka building solutions to local, community-level problems.",
+      "eligibility": [
+        "Innovators based in Karnataka"
+      ],
+      "benefits": [
+        "Grant up to ₹4 lakh"
+      ],
+      "link": "https://www2.fundsforngos.org/innovation/grassroot-innovation-programme-2026-grant-opportunity-for-innovators-in/",
+      "note": "Deadline 23 Nov 2026, 5 PM. Link is a listing page — confirm on the KITS portal."
+    },
+    {
+      "id": "be-hub-udaan-cohort-1",
+      "title": "BE Hub Udaan — Accelerator Cohort 1",
+      "org": "BE Hub (Saturo Technologies founders), Pune",
+      "type": "Accelerator",
+      "amount": "Not disclosed",
+      "amountMax": 0,
+      "deadline": "2026-11-18",
+      "region": "Maharashtra",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "DeepTech",
+        "Technology"
+      ],
+      "equity": "Not stated",
+      "summary": "12-week acceleration programme for early-stage deep-tech and tech-led startups. Only 5–6 startups selected; starts 23 Nov 2026.",
+      "eligibility": [
+        "Early-stage founders building deep-tech or tech-led startups"
+      ],
+      "benefits": [
+        "Idea and business-model validation",
+        "Industry network access",
+        "Growth preparation"
+      ],
+      "link": "https://sahyadristartups.com/news/be-hub-udaan-opens-applications-for-first-startup-accelerator-cohort-on-october-27/",
+      "note": "Deadline 18 Nov 2026."
+    },
+    {
+      "id": "hitachi-startup-challenge-fy26",
+      "title": "Hitachi Startup Challenge FY26",
+      "org": "Hitachi",
+      "type": "Challenge",
+      "amount": "Paid pilot opportunity",
+      "amountMax": 0,
+      "deadline": "2026-11-08",
+      "region": "Global",
+      "stages": [
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Mobility",
+        "Manufacturing",
+        "Industrial"
+      ],
+      "equity": "No equity",
+      "summary": "8-week programme to build a proof-of-concept plan with Hitachi business units in mobility and manufacturing; winners progress to a potential pilot.",
+      "eligibility": [
+        "Companies worldwide with tech for transport or industrial operations"
+      ],
+      "benefits": [
+        "PoC co-development with Hitachi BUs",
+        "Potential pilot deal"
+      ],
+      "link": "https://www.hitachi.com/en-eu/about/events/hitachi-startup-challenge-2026/",
+      "note": "Closes 8 Nov 2026, 11:59 PM GMT."
+    },
+    {
+      "id": "techstars-2027-anywhere",
+      "title": "Techstars Accelerators 2027 (incl. Anywhere / London)",
+      "org": "Techstars",
+      "type": "Accelerator",
+      "amount": "USD 220K for 5% equity",
+      "amountMax": 19360000,
+      "deadline": "2026-11-18",
+      "region": "Global",
+      "stages": [
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "All sectors"
+      ],
+      "equity": "Takes equity",
+      "summary": "3-month accelerator; the remote 'Anywhere' and London programmes accept global founders, including from India. Programme starts 8 Mar 2027.",
+      "eligibility": [
+        "Early-stage startups, any sector"
+      ],
+      "benefits": [
+        "USD 220K investment",
+        "Mentor network and demo day"
+      ],
+      "link": "https://www.techstars.com/accelerators",
+      "note": "Applications close 18 Nov 2026."
+    },
+    {
+      "id": "yeco-2026-27",
+      "title": "Ye! Youth Ecopreneurs Programme (YECO) 2026/27",
+      "org": "ITC & UNCCD-G20 Global Land Initiative",
+      "type": "Challenge",
+      "amount": "USD 100,000 prize pool + conference trip",
+      "amountMax": 0,
+      "deadline": "2026-11-22",
+      "region": "Global",
+      "stages": [
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Climate",
+        "Agritech",
+        "Land restoration"
+      ],
+      "equity": "No equity",
+      "summary": "Global programme for young green entrepreneurs building land-restoration and environmental businesses.",
+      "eligibility": [
+        "Founder / co-founder / CEO under 35 at the deadline",
+        "Green business with a scalable solution"
+      ],
+      "benefits": [
+        "Share of USD 100K prizes",
+        "All-expenses-paid trip to an international conference",
+        "Acceleration support"
+      ],
+      "link": "https://www.opportunitiesforafricans.com/the-ye-youth-ecopreneurs-programme-yeco-2026-2027/",
+      "note": "Deadline 22 Nov 2026. Link is a listing page — confirm on ITC's Ye! site."
+    },
+    {
+      "id": "kotak-bizlabs-iimcip-2026",
+      "title": "Kotak BizLabs Accelerator — IIM Calcutta Innovation Park",
+      "org": "Kotak Mahindra Bank (CSR) × IIMCIP",
+      "type": "Accelerator",
+      "amount": "Up to ₹30 lakh grant",
+      "amountMax": 3000000,
+      "deadline": "2026-10-31",
+      "region": "National",
+      "stages": [
+        "Revenue"
+      ],
+      "sectors": [
+        "Social impact",
+        "Sustainability"
+      ],
+      "equity": "No equity",
+      "summary": "CSR accelerator for 20 early-revenue startups with social impact and a sustainability focus.",
+      "eligibility": [
+        "DPIIT-recognised startup",
+        "Early-revenue stage",
+        "Social impact / sustainability focus"
+      ],
+      "benefits": [
+        "Grant up to ₹30 lakh (milestone-based)",
+        "One-on-one mentoring from the IIMCIP network"
+      ],
+      "link": "https://iimcip.org/kotak-bizlabs/",
+      "note": "Closes 31 Oct 2026."
+    },
+    {
+      "id": "birac-e-yuva-2026",
+      "title": "BIRAC E-YUVA & Innovation Fellowships — 4th call 2026",
+      "org": "BIRAC (Dept of Biotechnology)",
+      "type": "Fellowship",
+      "amount": "PG: ₹30K/month + ₹3L/yr; Postdoc: ₹50K/month + ₹5L/yr",
+      "amountMax": 1100000,
+      "deadline": "2026-10-31",
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype"
+      ],
+      "sectors": [
+        "Biotech",
+        "Healthtech"
+      ],
+      "equity": "No equity",
+      "summary": "Fellowships at E-YUVA centres for students, postgraduates and PhDs turning biotech research into products and startups.",
+      "eligibility": [
+        "UG teams, PG and PhD/postdoc innovators",
+        "Must work at a BIRAC E-YUVA centre"
+      ],
+      "benefits": [
+        "Monthly stipend + annual research grant",
+        "Incubation and venture-creation support"
+      ],
+      "link": "https://birac.nic.in/",
+      "note": "Closes 31 Oct 2026."
+    },
+    {
+      "id": "nidhi-prayas",
+      "title": "NIDHI-PRAYAS",
+      "org": "DST (NIDHI) via PRAYAS centres",
+      "type": "Grant",
+      "amount": "Up to ₹10 lakh (prototype)",
+      "amountMax": 1000000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype"
+      ],
+      "sectors": [
+        "Hardware",
+        "DeepTech",
+        "All sectors"
+      ],
+      "equity": "No equity",
+      "summary": "Prototype grant for innovators turning an idea into a working proof-of-concept, routed through DST-approved PRAYAS incubators.",
+      "eligibility": [
+        "Individual innovators or early teams",
+        "Apply through a PRAYAS centre (incubator)"
+      ],
+      "benefits": [
+        "Up to ₹10 lakh for prototyping",
+        "Incubator lab and mentoring access"
+      ],
+      "link": "https://nidhi.dst.gov.in/",
+      "note": "Rolling/periodic calls via individual PRAYAS centres."
+    },
+    {
+      "id": "nidhi-sss",
+      "title": "NIDHI Seed Support System (NIDHI-SSS)",
+      "org": "DST via Technology Business Incubators",
+      "type": "Grant",
+      "amount": "Up to ₹1 crore (seed)",
+      "amountMax": 10000000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Technology",
+        "All sectors"
+      ],
+      "equity": "Varies (debt/convertible/equity via TBI)",
+      "summary": "Seed support for startups incubated at DST-backed TBIs, typically via convertible or equity-linked instruments.",
+      "eligibility": [
+        "Incubated at a DST-supported TBI",
+        "Indian startup with a tech product"
+      ],
+      "benefits": [
+        "Seed funding up to ₹1 Cr"
+      ],
+      "link": "https://nidhi.dst.gov.in/",
+      "note": "Apply through your incubator; each TBI runs its own window."
+    },
+    {
+      "id": "birac-big",
+      "title": "BIRAC Biotechnology Ignition Grant (BIG)",
+      "org": "BIRAC (Dept of Biotechnology)",
+      "type": "Grant",
+      "amount": "Up to ₹50 lakh",
+      "amountMax": 5000000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype"
+      ],
+      "sectors": [
+        "Biotech",
+        "Healthtech",
+        "Agritech"
+      ],
+      "equity": "No equity",
+      "summary": "BIRAC's flagship early-stage grant to take biotech ideas to proof-of-concept, managed through partner bio-incubators.",
+      "eligibility": [
+        "Biotech / life-science innovation",
+        "Individuals or startups (DPIIT/company as per call)"
+      ],
+      "benefits": [
+        "Grant up to ₹50 lakh over ~18 months",
+        "Mentoring by BIG partners"
+      ],
+      "link": "https://birac.nic.in/",
+      "note": "Two calls a year; watch BIRAC's call-for-proposals page."
+    },
+    {
+      "id": "rkvy-raftaar",
+      "title": "RKVY-RAFTAAR Agribusiness Incubation",
+      "org": "Ministry of Agriculture & Farmers Welfare",
+      "type": "Grant",
+      "amount": "₹5 lakh pre-seed / ₹25 lakh seed",
+      "amountMax": 2500000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "Agritech",
+        "Food"
+      ],
+      "equity": "No equity",
+      "summary": "Grant-in-aid for agri and allied startups through RKVY-RAFTAAR agribusiness incubators (R-ABIs) across India.",
+      "eligibility": [
+        "Agriculture / allied-sector startups",
+        "Selected through an R-ABI cohort"
+      ],
+      "benefits": [
+        "Pre-seed up to ₹5 lakh",
+        "Seed up to ₹25 lakh",
+        "Two-month incubation training"
+      ],
+      "link": "https://rkvy.nic.in/",
+      "note": "Cohort calls by individual R-ABIs (IARI Pusa, MANAGE, etc.)."
+    },
+    {
+      "id": "idex",
+      "title": "iDEX — Innovations for Defence Excellence",
+      "org": "Ministry of Defence (DIO)",
+      "type": "Challenge",
+      "amount": "Up to ₹1.5 crore (SPARK grant)",
+      "amountMax": 15000000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "Defence",
+        "Aerospace",
+        "DeepTech"
+      ],
+      "equity": "No equity",
+      "summary": "Defence India Startup Challenges (DISC) and open challenges where startups solve problem statements from the armed forces.",
+      "eligibility": [
+        "Indian startups / MSMEs / individual innovators",
+        "Solution to a published defence problem statement"
+      ],
+      "benefits": [
+        "Grant up to ₹1.5 Cr",
+        "Path to procurement by the armed forces"
+      ],
+      "link": "https://idex.gov.in/",
+      "note": "New DISC rounds are released periodically."
+    },
+    {
+      "id": "msme-innovative-incubation",
+      "title": "MSME Innovative Scheme (Incubation)",
+      "org": "Ministry of MSME via Host Institutes",
+      "type": "Grant",
+      "amount": "Up to ₹15 lakh per idea",
+      "amountMax": 1500000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype"
+      ],
+      "sectors": [
+        "All sectors"
+      ],
+      "equity": "No equity",
+      "summary": "Funding to develop and nurture ideas into prototypes through approved Host Institutes (incubators).",
+      "eligibility": [
+        "Individual innovators / MSMEs",
+        "Apply via an approved Host Institute"
+      ],
+      "benefits": [
+        "Up to ₹15 lakh per idea"
+      ],
+      "link": "https://innovative.msme.gov.in/",
+      "note": "Rolling via the MSME Innovative portal."
+    },
+    {
+      "id": "ksum-grants",
+      "title": "Kerala Startup Mission Grants (Idea → Scale-up)",
+      "org": "Kerala Startup Mission",
+      "type": "Grant",
+      "amount": "₹3 lakh to ₹15 lakh by stage",
+      "amountMax": 1500000,
+      "deadline": null,
+      "region": "Kerala",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "All sectors"
+      ],
+      "equity": "No equity",
+      "summary": "Stage-wise grants: Idea (₹3L), Productization (₹7L; ₹12L for women/transgender founders), Market Acceleration (₹10L), Scale-up (₹15L).",
+      "eligibility": [
+        "Startups registered with KSUM / operating in Kerala"
+      ],
+      "benefits": [
+        "Stage-based equity-free grants"
+      ],
+      "link": "https://startupmission.kerala.gov.in/",
+      "note": "Periodic calls; check KSUM schemes page."
+    },
+    {
+      "id": "startinup-up",
+      "title": "StartinUP Incentives (UP Startup Policy 2026)",
+      "org": "Govt of Uttar Pradesh",
+      "type": "Grant",
+      "amount": "₹20K/month for 2 yrs + up to ₹10L prototype + up to ₹15L seed",
+      "amountMax": 2980000,
+      "deadline": null,
+      "region": "Uttar Pradesh",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "All sectors"
+      ],
+      "equity": "No equity",
+      "summary": "Under UP Startup Policy 2026: sustenance allowance, a one-time prototype grant and seed capital for StartinUP-registered startups, plus free incubation for up to two years.",
+      "eligibility": [
+        "DPIIT-recognised startup",
+        "Registered and recognised on the StartinUP portal (Uttar Pradesh)"
+      ],
+      "benefits": [
+        "Sustenance allowance ₹20,000/month for 2 years",
+        "Prototype grant up to ₹10 lakh",
+        "Seed capital up to ₹15 lakh",
+        "Free incubation up to 2 years at recognised incubators/CoEs"
+      ],
+      "link": "https://startupmission.up.gov.in/",
+      "note": "Rolling. Detailed operational guidelines are published on the UP Startup Mission portal."
+    },
+    {
+      "id": "up-matching-grant",
+      "title": "UP Startup Policy 2026 — Matching Grant",
+      "org": "Govt of Uttar Pradesh",
+      "type": "Grant",
+      "amount": "50% match up to ₹5 crore",
+      "amountMax": 50000000,
+      "deadline": null,
+      "region": "Uttar Pradesh",
+      "stages": [
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "All sectors"
+      ],
+      "equity": "No equity",
+      "summary": "Matches 50% of external capital raised by UP-recognised startups, capped at ₹5 crore.",
+      "eligibility": [
+        "UP state-recognised startup",
+        "Prior fundraise of at least ₹2 crore"
+      ],
+      "benefits": [
+        "Matching grant up to ₹5 Cr"
+      ],
+      "link": "https://startupmission.up.gov.in/",
+      "note": "Open year-round. Confirm operational guidelines on the portal."
+    },
+    {
+      "id": "up-grand-challenges",
+      "title": "UP Grand Challenges Grant",
+      "org": "Govt of Uttar Pradesh",
+      "type": "Challenge",
+      "amount": "Up to ₹3 crore",
+      "amountMax": 30000000,
+      "deadline": null,
+      "region": "Uttar Pradesh",
+      "stages": [
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "All sectors"
+      ],
+      "equity": "No equity",
+      "summary": "Open competitive calls under UP Startup Policy 2026; scaling-stage winners receive grant-in-aid.",
+      "eligibility": [
+        "UP state-recognised startup",
+        "Scaling stage"
+      ],
+      "benefits": [
+        "Grant-in-aid up to ₹3 Cr"
+      ],
+      "link": "https://startupmission.up.gov.in/",
+      "note": "Challenges announced periodically."
+    },
+    {
+      "id": "gujarat-ssip",
+      "title": "Student Startup & Innovation Policy (SSIP 2.0)",
+      "org": "Govt of Gujarat",
+      "type": "Grant",
+      "amount": "Up to ₹2.5 lakh",
+      "amountMax": 250000,
+      "deadline": null,
+      "region": "Gujarat",
+      "stages": [
+        "Idea",
+        "Prototype"
+      ],
+      "sectors": [
+        "All sectors"
+      ],
+      "equity": "No equity",
+      "summary": "Proof-of-concept support for student and recent-graduate innovators in Gujarat institutions.",
+      "eligibility": [
+        "Students / recent grads of Gujarat institutions"
+      ],
+      "benefits": [
+        "PoC grant up to ₹2.5 lakh"
+      ],
+      "link": "https://www.ssipgujarat.in/",
+      "note": "Rolling via institute SSIP cells."
+    },
+    {
+      "id": "ihub-srujan",
+      "title": "i-Hub Gujarat — Startup Srujan",
+      "org": "i-Hub, Govt of Gujarat",
+      "type": "Grant",
+      "amount": "₹2.5 lakh to ₹10 lakh",
+      "amountMax": 1000000,
+      "deadline": null,
+      "region": "Gujarat",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "All sectors"
+      ],
+      "equity": "No equity",
+      "summary": "Seed support (S4) under Gujarat's SSIP 2.0, implemented by i-Hub, for student and early-stage innovators.",
+      "eligibility": [
+        "Student / young innovators from Gujarat's education ecosystem (under 35)"
+      ],
+      "benefits": [
+        "Grant ₹2.5L–₹10L",
+        "Incubation at i-Hub Ahmedabad"
+      ],
+      "link": "https://www.ssipgujarat.in/",
+      "note": "Rolling."
+    },
+    {
+      "id": "cgss",
+      "title": "Credit Guarantee Scheme for Startups (CGSS)",
+      "org": "DPIIT / NCGTC",
+      "type": "Debt",
+      "amount": "Collateral-free loans, guarantee cover up to ₹20 crore",
+      "amountMax": 200000000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "All sectors"
+      ],
+      "equity": "No equity",
+      "summary": "Government guarantee on loans and venture debt from banks, NBFCs and AIF debt funds to DPIIT startups, so lenders need no collateral.",
+      "eligibility": [
+        "DPIIT-recognised startup",
+        "Stable revenue / not in default"
+      ],
+      "benefits": [
+        "Collateral-free debt",
+        "Guarantee cover up to ₹20 Cr per borrower"
+      ],
+      "link": "https://www.ncgtc.in/",
+      "note": "Apply through member lending institutions."
+    },
+    {
+      "id": "tdb-funding",
+      "title": "Technology Development Board — Funding",
+      "org": "TDB, Dept of Science & Technology",
+      "type": "Debt",
+      "amount": "Soft loan / equity / grant — varies",
+      "amountMax": 0,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Technology",
+        "Manufacturing",
+        "DeepTech"
+      ],
+      "equity": "Varies",
+      "summary": "Low-interest loans and equity support to commercialise indigenous technology; also runs bilateral calls (e.g. India–Finland).",
+      "eligibility": [
+        "Indian company commercialising a technology"
+      ],
+      "benefits": [
+        "Soft loans at concessional interest",
+        "Equity / grant in select calls"
+      ],
+      "link": "https://tdb.gov.in/",
+      "note": "Rolling applications plus periodic calls."
+    },
+    {
+      "id": "100unicorns",
+      "title": "100Unicorns Accelerator VC",
+      "org": "100Unicorns (formerly 9Unicorns)",
+      "type": "Equity",
+      "amount": "Seed investment — varies",
+      "amountMax": 0,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Idea",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "All sectors"
+      ],
+      "equity": "Takes equity",
+      "summary": "Accelerator VC giving seed funding and hands-on support to early-stage Indian startups from idea to angel stage.",
+      "eligibility": [
+        "Early-stage Indian startups"
+      ],
+      "benefits": [
+        "Seed cheque",
+        "Mentoring and follow-on network"
+      ],
+      "link": "https://100unicorns.in/",
+      "note": "Always open."
+    },
+    {
+      "id": "zero-shot-fund",
+      "title": "Zero Shot Fund",
+      "org": "Zero Shot (OpenAI alumni)",
+      "type": "Equity",
+      "amount": "USD 1M–4M (pre-seed / seed)",
+      "amountMax": 352000000,
+      "deadline": null,
+      "region": "Global",
+      "stages": [
+        "Idea",
+        "MVP"
+      ],
+      "sectors": [
+        "AI",
+        "Robotics",
+        "Energy",
+        "Security"
+      ],
+      "equity": "Takes equity",
+      "summary": "USD 100M fund backing AI-native founders in robotics, energy, automation, infrastructure, security and observability. No deck needed to start a conversation.",
+      "eligibility": [
+        "Building an AI-native company"
+      ],
+      "benefits": [
+        "USD 1M–4M cheque"
+      ],
+      "link": "https://sabapplier.com/fundingAlerts/zero-shot-fund",
+      "note": "Rolling. Link is a listing page — find the fund's own apply form."
+    }
+  ]
+}
