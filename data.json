@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "items": [
     {
       "id": "elevate-nxt-2026-27",
@@ -839,6 +839,159 @@
       ],
       "link": "https://sabapplier.com/fundingAlerts/zero-shot-fund",
       "note": "Rolling. Link is a listing page — find the fund's own apply form."
+    },
+    {
+      "id": "yc-winter-2027",
+      "title": "Y Combinator Winter 2027 Batch",
+      "org": "Y Combinator",
+      "type": "Accelerator",
+      "amount": "US$500,000 investment (~₹4.4 Cr)",
+      "amountMax": 44000000,
+      "deadline": "2026-11-02",
+      "region": "Global",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Technology",
+        "Any sector"
+      ],
+      "equity": "Takes equity",
+      "summary": "YC's three-month Winter 2027 batch (January–March) in San Francisco, open to founders anywhere in the world, with a US$500K investment in every accepted company.",
+      "eligibility": [
+        "Startups from any country, including India — no US incorporation, visa or business licence needed to apply",
+        "Any stage, from idea to early revenue",
+        "Founders must be able to attend in person in San Francisco for the batch",
+        "One application per company; co-founders apply together"
+      ],
+      "benefits": [
+        "US$500,000 invested on acceptance",
+        "Three months of partner office hours and weekly in-person events",
+        "Demo Day access to a large investor audience",
+        "YC help with US incorporation and visas after acceptance",
+        "Lifetime access to the YC alumni network"
+      ],
+      "link": "https://www.ycombinator.com/apply/",
+      "note": "On-time deadline is 2 Nov 2026 at 8:00 PM Pacific — about 9:30 AM IST on 3 Nov. YC still reviews late applications but gives no fixed response date. Expect to relocate to San Francisco for the batch; no application fee."
+    },
+    {
+      "id": "icmr-first-in-the-world-2026",
+      "title": "First in the World Challenge Grants 2026",
+      "org": "Indian Council of Medical Research (ICMR)",
+      "type": "Grant",
+      "amount": "Up to ₹8 Cr (staged: ₹1 Cr / ₹4 Cr / ₹8 Cr)",
+      "amountMax": 80000000,
+      "deadline": "2026-11-30",
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "HealthTech",
+        "Biotech",
+        "MedTech",
+        "Pharma"
+      ],
+      "equity": "No equity",
+      "summary": "ICMR's high-risk, high-reward call for health technologies that have never been attempted anywhere in the world — new vaccines, drugs, diagnostics or interventions — funded in milestone-linked stages up to ₹8 crore.",
+      "eligibility": [
+        "Indian startups, MSMEs and industry can apply alongside academic and research institutions",
+        "Government medical colleges, INIs, ICMR institutes, universities and recognised R&D labs",
+        "Private institutions and NGOs registered with DSIR as research organisations (NGOs must also be on NITI Aayog's DARPAN portal)",
+        "Each proposal needs one Principal Investigator plus at least one Co-PI from the same institution",
+        "Idea must be genuinely first-of-its-kind globally; incremental improvements are rejected"
+      ],
+      "benefits": [
+        "Proof-of-concept stage: up to ₹1 Cr over 2 years",
+        "Prototype stage: up to ₹4 Cr over 3 years",
+        "Final product/model stage: up to ₹8 Cr over 4 years",
+        "Non-dilutive funding released against deliverables, with a path to the next stage"
+      ],
+      "link": "https://www.icmr.gov.in/post/call-for-investigator-initiated-research-proposals-for-first-in-world-challenge-grants-2026-last-date-november-30-2026-17-30-hrs",
+      "note": "Submit only on the ICMR e-PMS portal (epms.icmr.org.in) by 30 Nov 2026, 5:30 PM IST; results expected 31 Dec 2026. Incomplete proposals are rejected before review. Selected teams must later provide an institutional undertaking, ethics (IEC) approval where relevant, and bank details."
+    },
+    {
+      "id": "hello-tomorrow-challenge-2027",
+      "title": "Hello Tomorrow Global Challenge 2026–27",
+      "org": "Hello Tomorrow",
+      "type": "Challenge",
+      "amount": "€200K investment for the top pitch + in-kind prizes",
+      "amountMax": 19000000,
+      "deadline": "2026-11-30",
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "DeepTech",
+        "Climate",
+        "Biotech",
+        "Technology"
+      ],
+      "equity": "Varies",
+      "summary": "Free-to-enter global deep-tech competition with 12 tracks; around 800 startups become Deep Tech Pioneers, about 90 finalists pitch at the Amsterdam summit in June 2027, and the winner pitch carries a €200K investment from DeepBright Ventures.",
+      "eligibility": [
+        "Deep-tech startups built on new technology, a scientific discovery or complex engineering",
+        "Stage: proof of concept or prototype up to Series B",
+        "Team of at least two people",
+        "Not a subsidiary or spin-off of an existing company",
+        "Market application expected within 15 years; incorporation not needed to apply"
+      ],
+      "benefits": [
+        "Deep Tech Pioneer status and Investor Day meetings with 300+ VCs and CVCs",
+        "Finalists pitch for a €200K investment from DeepBright Ventures",
+        "Track-winner coaching and investor, partner and customer introductions",
+        "Corporate-track pitching slots and prizes"
+      ],
+      "link": "https://hello-tomorrow.org/faq-global-challenge/",
+      "note": "Applications close 30 Nov 2026 and are free. Pioneers are notified late Jan–early Feb 2027; finalists in mid-March. Summit tickets need a refundable €99 deposit, and travel and accommodation to Amsterdam are not covered. Prize funds are only paid once the startup is incorporated."
+    },
+    {
+      "id": "vcf-st-tribal-startups",
+      "title": "Venture Capital Fund for Scheduled Tribes (VCF-ST)",
+      "org": "Ministry of Tribal Affairs, managed by IFCI Venture Capital Funds",
+      "type": "Debt",
+      "amount": "₹10 lakh – ₹5 Cr per company",
+      "amountMax": 50000000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Manufacturing",
+        "Services",
+        "Technology",
+        "Any sector"
+      ],
+      "equity": "Varies",
+      "summary": "A ₹50 crore government-anchored fund that backs Scheduled Tribe-owned businesses and startups, mainly through convertible or non-convertible debentures, with limited equity for innovative tech startups.",
+      "eligibility": [
+        "Company at least 51% owned and managed by Scheduled Tribe entrepreneurs",
+        "Ownership and control held for 6 months (up to ₹50 lakh) or 12 months (above ₹50 lakh)",
+        "Manufacturing, services or allied sectors, including TBI-incubated startups; projects must create assets",
+        "A new company can qualify as successor to an eligible proprietorship, partnership, OPC or LLP",
+        "Documentary proof of ST status required; women-led ventures preferred for at least 30% of support"
+      ],
+      "benefits": [
+        "₹10 lakh to ₹5 crore, capped at twice the company's net worth",
+        "TBI-selected tech projects: up to ₹10 lakh a year for 3 years",
+        "Instruments include CCDs, OCDs and NCDs; equity up to 49% for innovative tech startups",
+        "Government-anchored capital with screening via NSTFDC"
+      ],
+      "link": "https://tribal.nic.in/downloads/Livelihood/Guidelines/VCF-STGuidelines1123.pdf",
+      "note": "Rolling scheme with no fixed closing date. Funding is mostly debt-style debentures, so expect repayment or conversion terms; assistance is limited to twice your net worth. Applications are sourced through NSTFDC and IFCI Venture — contact them for the current application route."
     }
   ]
 }
