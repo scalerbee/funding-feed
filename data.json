@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "items": [
     {
       "id": "elevate-nxt-2026-27",
@@ -992,6 +992,131 @@
       ],
       "link": "https://tribal.nic.in/downloads/Livelihood/Guidelines/VCF-STGuidelines1123.pdf",
       "note": "Rolling scheme with no fixed closing date. Funding is mostly debt-style debentures, so expect repayment or conversion terms; assistance is limited to twice your net worth. Applications are sourced through NSTFDC and IFCI Venture — contact them for the current application route."
+    },
+    {
+      "id": "national-startup-awards-6",
+      "title": "National Startup Awards 6.0 (2026)",
+      "org": "DPIIT, Ministry of Commerce & Industry (Startup India)",
+      "type": "Challenge",
+      "amount": "₹25 lakh per category winner",
+      "amountMax": 2500000,
+      "deadline": "2026-11-20",
+      "region": "National",
+      "stages": [
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Agritech",
+        "Deeptech",
+        "Climate",
+        "Healthcare",
+        "Fintech",
+        "Defence",
+        "Spacetech",
+        "Mobility",
+        "Education",
+        "Semiconductors",
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "The government's flagship startup awards are back with a much bigger purse: ₹25 lakh for the winner in each of 20 sector categories and two special categories, up from ₹10 lakh last edition. A separate ₹25 lakh pool covers school and college student innovators.",
+      "eligibility": [
+        "DPIIT-recognised startup (private limited company, registered partnership or LLP)",
+        "Not more than 10 years old from the date of incorporation",
+        "Annual turnover never above ₹100 crore in any financial year",
+        "Not under insolvency proceedings; past NSA winners cannot re-apply",
+        "Student Innovator track: school/college students (individual or team of up to 4) with a prototype, MVP or proof of concept; DPIIT recognition not needed"
+      ],
+      "benefits": [
+        "₹25 lakh cash prize per winning category (20 sectoral + Women-Led Startup of the Year + North-East Startup Excellence)",
+        "Student track prizes from ₹2 lakh to ₹6 lakh across four age groups",
+        "Mentoring, investor connects, market access and corporate tie-ups",
+        "National visibility and priority at DPIIT-backed startup events in India and abroad"
+      ],
+      "link": "https://www.startupindia.gov.in/content/sih/en/nsa-landing.html",
+      "note": "Applications opened 27 Oct 2026 and close 20 Nov 2026 per DPIIT's launch announcement (one aggregator shows 30 Nov — treat 20 Nov as the safe date). Keep your DPIIT certificate and recent financial statements ready; check the portal for the full category rules and how many categories you may enter."
+    },
+    {
+      "id": "set-award-2027",
+      "title": "Start Up Energy Transition (SET) Award 2027",
+      "org": "dena – German Energy Agency",
+      "type": "Challenge",
+      "amount": "€10,000 per category winner",
+      "amountMax": 1000000,
+      "deadline": "2026-11-30",
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Climate",
+        "Clean energy",
+        "Energy storage",
+        "Mobility",
+        "Buildings",
+        "Industry"
+      ],
+      "equity": "No equity",
+      "summary": "A long-running global competition for energy and climate-tech startups, run by Germany's national energy agency. Five category winners take equity-free prize money, and finalists get a stage at the SET Tech Festival in Berlin in front of investors and corporates.",
+      "eligibility": [
+        "Company founded in August 2016 or later, registered or in the process of registering",
+        "Past the idea stage with at least a proof of concept",
+        "Must have a client, an institutional/corporate partner, or a working prototype (hardware generally TRL 4+)",
+        "Apply to only one of the five categories; full application and attachments in English",
+        "Open to startups worldwide, including India"
+      ],
+      "benefits": [
+        "€10,000 equity-free prize for each category winner",
+        "Showcase and networking at the SET Tech Festival in Berlin",
+        "Media visibility through dena's international network",
+        "Introductions to energy-sector investors and corporate partners"
+      ],
+      "link": "https://www.startup-energy-transition.com/set-award/set-award-2027/",
+      "note": "Closes 30 Nov 2026 (Central European time — submit by the evening of 30 Nov IST to be safe). Late or partially completed applications are rejected. Categories: Clean Energy & Storage; Digital Energy, Markets & Economy; Buildings & Construction; Industry & Value Chains; Mobility & Transportation. No application fee mentioned."
+    },
+    {
+      "id": "telangana-innovation-startup-challenge-2026",
+      "title": "Telangana Innovation Startup Challenge (TISC) 2026",
+      "org": "Government of Telangana",
+      "type": "Challenge",
+      "amount": "Government pilots + possible procurement",
+      "amountMax": 0,
+      "deadline": "2026-11-30",
+      "region": "Telangana",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Agritech",
+        "Clean energy",
+        "Govtech",
+        "Healthcare",
+        "Edtech",
+        "Spacetech",
+        "Urban infrastructure"
+      ],
+      "equity": "Not stated",
+      "summary": "Telangana is asking startups to solve seven concrete public-sector problems — led by low-cost solar irrigation for deep borewells — with the reward being paid government pilots that can turn into long-term procurement contracts. Shortlisted teams will be showcased at the Invest Telangana Global Summit in December 2026.",
+      "eligibility": [
+        "Startups, innovators, researchers, technology firms and academic institutions",
+        "Applicants from anywhere in India (and international innovation centres) may apply",
+        "Solution must address one of the seven listed problem statements",
+        "Judged on problem relevance, originality, technology readiness, team capability and impact"
+      ],
+      "benefits": [
+        "Pilot deployment with Telangana government departments",
+        "Route to long-term government procurement contracts, subject to pilot results",
+        "Showcase slot at the Invest Telangana Global Summit 2026 (Bharat Future City, December)",
+        "Direct engagement with state officials on real-world problems"
+      ],
+      "link": "https://tisc.telangana.gov.in",
+      "note": "Deadline 30 Nov 2026. The seven challenges: solar irrigation pumps/retrofit kits for deep borewells (~30% cheaper, theft-resistant panels, tamper-proof metering); rapid food-adulteration testing for hostels; satellite monitoring of lake and land encroachment; automated pothole mapping and repair; needle-free anaemia screening; AI-based Telugu reading assessment; satellite/app-based crop mapping. No cash prize announced — the value is the pilot and contract pathway."
     }
   ]
 }
