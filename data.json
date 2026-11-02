@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "items": [
     {
       "id": "elevate-nxt-2026-27",
@@ -1117,6 +1117,85 @@
       ],
       "link": "https://tisc.telangana.gov.in",
       "note": "Deadline 30 Nov 2026. The seven challenges: solar irrigation pumps/retrofit kits for deep borewells (~30% cheaper, theft-resistant panels, tamper-proof metering); rapid food-adulteration testing for hostels; satellite monitoring of lake and land encroachment; automated pothole mapping and repair; needle-free anaemia screening; AI-based Telugu reading assessment; satellite/app-based crop mapping. No cash prize announced — the value is the pilot and contract pathway."
+    },
+    {
+      "id": "masschallenge-challenge-programs-2027",
+      "title": "MassChallenge Challenge Programs 2026–27",
+      "org": "MassChallenge (with corporate partners)",
+      "type": "Accelerator",
+      "amount": "Corporate pilots + mentoring (no cash stated)",
+      "amountMax": 0,
+      "deadline": "2026-11-09",
+      "region": "Global",
+      "stages": [
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Climate",
+        "Healthcare",
+        "FinTech",
+        "Insurance",
+        "Security",
+        "Food systems"
+      ],
+      "equity": "Not stated",
+      "summary": "A five-month, partner-matched accelerator in which pre-seed to Series A startups work directly with a large corporate on that company's published problem statement, aiming for a pilot or commercial deal. Tracks this cycle cover climate, security and resiliency, fintech, healthcare and sustainable food systems.",
+      "eligibility": [
+        "Pre-seed to Series A startups based anywhere in the world (Boston residency not required)",
+        "Your solution must answer at least one partner's published challenge statement",
+        "At least one founder or C-suite member must attend the in-person Boston sessions",
+        "Able to commit roughly 3–5 hours a week from February to June 2027"
+      ],
+      "benefits": [
+        "Matched collaboration with a corporate partner (past partners include Deloitte, Eli Lilly, Sanofi, Verizon, MassMutual, SharkNinja)",
+        "Regular partner meetings aimed at a pilot or commercial agreement",
+        "Mentors across marketing, legal, investment, compliance and technology",
+        "Entry into the MassChallenge alumni and investor network"
+      ],
+      "link": "https://masschallenge.org/2026-2027-challenge-cycle/",
+      "note": "Applications close 9 Nov 2026 (no closing time given, so assume US Eastern and submit early). Finalists hear in December; matchmaking is 6–8 Jan 2027 and kickoff 9–10 Feb 2027 in Boston. Indian founders should budget for travel and US visas for the mandatory in-person events; equity and fee terms are not stated on the official page."
+    },
+    {
+      "id": "microsoft-imagine-cup-2027",
+      "title": "Microsoft Imagine Cup 2027",
+      "org": "Microsoft",
+      "type": "Challenge",
+      "amount": "Up to USD 5K Azure credits + prizes",
+      "amountMax": 0,
+      "deadline": "2027-02-28",
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Developer tools",
+        "Retail",
+        "Healthcare",
+        "Cybersecurity",
+        "Financial services",
+        "Deep tech / Physical AI"
+      ],
+      "equity": "No equity",
+      "summary": "Microsoft's global AI startup competition, now run as seven categories including a dedicated Student Startup track. Teams build on Microsoft Cloud and AI, and category winners and finalists advance to a World Championship.",
+      "eligibility": [
+        "Every team member must be at least 18 and register individually; teams of up to four",
+        "The startup must be a registered legal entity founded on or after 2 November 2024",
+        "Must not have raised Series C or later funding; past Imagine Cup winners cannot re-enter",
+        "Not based in or operating from US-sanctioned regions (India is eligible)",
+        "Student-led startups can enter the Student Startup category"
+      ],
+      "benefits": [
+        "Up to USD 5,000 in Azure credits for registered teams to build an MVP",
+        "Category winner and Top 20 Startup recognition",
+        "Finalists and the Student Prize winner pitch at the World Championship",
+        "Visibility with Microsoft for Startups and its partner network"
+      ],
+      "link": "https://imaginecup.microsoft.com/support/faq",
+      "note": "Submissions close 11:59 pm US Central Time on 28 Feb 2027 (about 11:29 am IST on 1 Mar). You cannot edit after submitting. Cash prize amounts are not listed on the official FAQ, and the Official Rules override the FAQ, so read them before entering."
     }
   ]
 }
