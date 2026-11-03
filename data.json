@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "items": [
     {
       "id": "elevate-nxt-2026-27",
@@ -1196,6 +1196,119 @@
       ],
       "link": "https://imaginecup.microsoft.com/support/faq",
       "note": "Submissions close 11:59 pm US Central Time on 28 Feb 2027 (about 11:29 am IST on 1 Mar). You cannot edit after submitting. Cash prize amounts are not listed on the official FAQ, and the Official Rules override the FAQ, so read them before entering."
+    },
+    {
+      "id": "medtech-innovator-2027",
+      "title": "MedTech Innovator 2027 Accelerator",
+      "org": "MedTech Innovator (non-profit)",
+      "type": "Accelerator",
+      "amount": "Share of USD 700K+ prizes (top prize USD 350K)",
+      "amountMax": 30800000,
+      "deadline": "2026-12-01",
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Medical devices",
+        "Diagnostics",
+        "Digital health"
+      ],
+      "equity": "Varies",
+      "summary": "A five-month, mentor-led accelerator for medical device, diagnostics and digital health companies that ends in a public prize competition. Non-US startups, including Indian ones, are welcome as long as they plan to enter the US market.",
+      "eligibility": [
+        "Building a medical device, diagnostic or digital health product",
+        "Early to mid-stage, with clinical validation in progress or on the horizon",
+        "A founder or C-suite leader must commit to the full five-month programme",
+        "Companies outside the US can apply but need a clear US market strategy",
+        "No fee to apply"
+      ],
+      "benefits": [
+        "Mentor matching with industry leaders and access to investors",
+        "Early-stage track competes for USD 350K and mid-stage track for USD 250K at the finals, plus extra awards",
+        "Showcase at The MedTech Conference",
+        "Partner resources and in-kind services through the programme"
+      ],
+      "link": "https://medtechinnovator.org/apply/",
+      "note": "Applications close 1 Dec 2026 (US time, so submit by 30 Nov in India to be safe). Applying is free, but selected companies pay a USD 15,000 programme fee in cash or as a USD 50K SAFE. Scholarships exist, and some specialty tracks require a USD 50K SAFE. Expect US travel for in-person events."
+    },
+    {
+      "id": "biotools-innovator-2027",
+      "title": "BioTools Innovator 2027 Accelerator",
+      "org": "BioTools Innovator (MedTech Innovator group)",
+      "type": "Accelerator",
+      "amount": "Up to USD 250K grand prize (USD 300K+ pool)",
+      "amountMax": 22000000,
+      "deadline": "2026-12-01",
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Life science tools",
+        "Diagnostics",
+        "Biotech"
+      ],
+      "equity": "Varies",
+      "summary": "A non-profit accelerator and prize competition for companies building life science research tools, diagnostics, software and services used by drug developers. Startups headquartered anywhere, including India, can apply if they have a US go-to-market plan.",
+      "eligibility": [
+        "Life science tools, diagnostics, software or services for drug developers (drug, biologic, cell and gene therapy developers are out of scope)",
+        "Pre-seed to Series B, with a prototype and proof of concept in hand or close to it",
+        "Raised no more than USD 25M in equity",
+        "International companies welcome with a clear US market strategy",
+        "Must be incorporated before the programme starts and attend two mandatory in-person events"
+      ],
+      "benefits": [
+        "USD 250K for the finals winner, USD 25K for each of up to four finalists and USD 10K for the best video",
+        "Mentorship from corporate partners, workshops and investor pitching",
+        "A BARDA-backed VANGUARD track for up to ten biotools startups, with its programme fee fully covered"
+      ],
+      "link": "https://biotoolsinnovator.org/apply/",
+      "note": "Closes 1 Dec 2026; no closing time is published, so submit a few days early. No application fee, but accepted companies pay USD 15,000 (cash, two instalments, or a USD 50K SAFE) unless they win a scholarship or join VANGUARD."
+    },
+    {
+      "id": "sushi-tech-challenge-2027",
+      "title": "SusHi Tech Challenge 2027 (Tokyo pitch contest)",
+      "org": "Tokyo Metropolitan Government",
+      "type": "Challenge",
+      "amount": "JPY 10M grand prize (~₹58L)",
+      "amountMax": 5800000,
+      "deadline": "2026-12-18",
+      "region": "Global",
+      "stages": [
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Smart cities",
+        "Deep tech",
+        "AI",
+        "Climate",
+        "Healthcare"
+      ],
+      "equity": "No equity",
+      "summary": "The global startup pitch competition at SusHi Tech Tokyo 2027, Asia's large innovation conference run by the Tokyo government, with a JPY 10 million grand prize. It looks for startups whose technology helps build sustainable, resilient cities.",
+      "eligibility": [
+        "Startups with a new technology or business model and real growth potential",
+        "Must already have a product or service in the market",
+        "Business should fit the theme of sustainable cities through technology (e.g. physical AI, quantum, resilience, longevity, drug discovery)",
+        "Must be able to pitch in person in Tokyo on both event days and staff a booth for all three days (20–22 May 2027)"
+      ],
+      "benefits": [
+        "JPY 10 million for the grand prize winner",
+        "Semifinalists get the JPY 300,000 booth fee waived and a networking session",
+        "Planned special awards from corporate partners",
+        "Exposure to investors, corporates and the Tokyo government"
+      ],
+      "link": "https://sushi-tech-tokyo.agorize.com/en/challenges/sushi-tech-challenge-2027",
+      "note": "Closes 5:00 pm JST on 18 Dec 2026 (1:30 pm IST). Travel to Tokyo is at your own cost; the page mentions no travel support. Read the official application guidelines for any further conditions."
     }
   ]
 }
