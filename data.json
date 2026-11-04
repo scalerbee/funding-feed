@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "items": [
     {
       "id": "elevate-nxt-2026-27",
@@ -1309,6 +1309,82 @@
       ],
       "link": "https://sushi-tech-tokyo.agorize.com/en/challenges/sushi-tech-challenge-2027",
       "note": "Closes 5:00 pm JST on 18 Dec 2026 (1:30 pm IST). Travel to Tokyo is at your own cost; the page mentions no travel support. Read the official application guidelines for any further conditions."
+    },
+    {
+      "id": "azim-premji-social-startups-2027",
+      "title": "Social Startups Programme (Cohort 1)",
+      "org": "Azim Premji Foundation",
+      "type": "Fellowship",
+      "amount": "₹45K/month for 8 months, then ₹15–20 lakh/yr seed grant for 2 yrs",
+      "amountMax": 4000000,
+      "deadline": "2026-12-31",
+      "region": "National",
+      "stages": [
+        "Idea"
+      ],
+      "sectors": [
+        "Social Impact",
+        "Livelihoods",
+        "Health",
+        "Education",
+        "Rural Development"
+      ],
+      "equity": "No equity",
+      "summary": "A new Azim Premji Foundation programme for experienced development professionals who want to found and lead their own grassroots non-profit. About 100 people get a paid eight-month seeding phase to set up the organisation in Odisha, the North-East, Eastern UP or Bengaluru Urban, with a two-year seed grant open to those who hit their milestones.",
+      "eligibility": [
+        "Under 40 years of age",
+        "Graduate degree",
+        "At least 3 years of ground-level work in the development sector",
+        "Must intend to set up and lead a new civil society organisation as a first-time founder",
+        "Not already a founder or co-founder of any registered organisation",
+        "Willing to relocate to and commit long-term to one of the four focus geographies"
+      ],
+      "benefits": [
+        "Monthly honorarium of ₹45,000 during the 8-month seeding phase (from 1 April 2027)",
+        "One-month residential boot camp and supported fieldwork",
+        "Hands-on help with registration, governance, compliance, finance, HR and programme design",
+        "Pathway to a two-year grant of ₹15–20 lakh per year for those who meet milestones"
+      ],
+      "link": "https://azimpremjifoundation.org/who-we-are/how-we-are-organised/grants/social-startups-programme/",
+      "note": "Applications close 31 Dec 2026. This is for founding a non-profit, not a for-profit startup. Selection: screening, document review, statement of purpose, online interview and in-person panel; results expected by Feb 2027. Focus themes include rural livelihoods, health, youth, disability, child welfare, Adivasi well-being and urban informal settlements."
+    },
+    {
+      "id": "unicef-femtech-ventures-2026",
+      "title": "UNICEF Femtech Ventures – Call 2.0",
+      "org": "UNICEF Venture Fund (Office of Innovation)",
+      "type": "Grant",
+      "amount": "Up to US$100,000 equity-free + 12 months mentoring",
+      "amountMax": 8800000,
+      "deadline": "2026-11-11",
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "HealthTech",
+        "FemTech",
+        "AI",
+        "Open Source"
+      ],
+      "equity": "No equity",
+      "summary": "UNICEF's Venture Fund is backing early-stage for-profit companies that use frontier technology to improve the health of women and girls. Selected startups receive equity-free funding plus a year of technical support, in exchange for making their solution open source.",
+      "eligibility": [
+        "Registered private for-profit company (NGOs, universities and individuals cannot apply)",
+        "Registered in a UNICEF programme country — check UNICEF's country list",
+        "Working prototype that has already produced some initial data",
+        "Frontier-tech solution (e.g. AI, data science, blockchain) benefiting vulnerable girls and women",
+        "Willing to release the solution under an open-source licence"
+      ],
+      "benefits": [
+        "Up to US$100,000 in equity-free funding",
+        "12 months of technical mentorship",
+        "Access to UNICEF's global network and country offices",
+        "Founders keep all other IP — the open-source code is UNICEF's only 'return'"
+      ],
+      "link": "https://www.unicef.org/innovation/FemTechCall",
+      "note": "Closes 11 Nov 2026. Funded companies must have an OSI-approved (or equivalent) open-source licence in place by month six. Women-led teams and founders under 35 are strongly encouraged."
     }
   ]
 }
