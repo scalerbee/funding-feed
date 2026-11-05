@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "items": [
     {
       "id": "elevate-nxt-2026-27",
@@ -1385,6 +1385,127 @@
       ],
       "link": "https://www.unicef.org/innovation/FemTechCall",
       "note": "Closes 11 Nov 2026. Funded companies must have an OSI-approved (or equivalent) open-source licence in place by month six. Women-led teams and founders under 35 are strongly encouraged."
+    },
+    {
+      "id": "d-prize-global-competition-2026",
+      "title": "D-Prize Global Competition 2026–27",
+      "org": "D-Prize (Global Distribution Fund)",
+      "type": "Grant",
+      "amount": "Up to US$20,000 seed grant",
+      "amountMax": 1760000,
+      "deadline": "2026-11-15",
+      "region": "Global",
+      "stages": [
+        "Idea",
+        "Prototype"
+      ],
+      "sectors": [
+        "Social Impact",
+        "Healthcare",
+        "Education",
+        "Agriculture",
+        "WASH",
+        "Poverty Alleviation"
+      ],
+      "equity": "No equity",
+      "summary": "D-Prize gives first-time social entrepreneurs seed money to launch a venture that delivers an already-proven poverty intervention — such as ORS for childhood diarrhoea, reading glasses, water filters or post-harvest support — to people who still lack it. You pick one of its listed challenges (or propose your own) and pitch a distribution model you can pilot quickly.",
+      "eligibility": [
+        "New ventures only: typically under 18 months of full-time operation and under US$30,000 raised",
+        "Existing organisations considered only if their core work is distributing an evidence-based poverty intervention",
+        "Must target one of D-Prize's challenge areas or a well-argued 'propose your own' intervention",
+        "Founders from low- and middle-income countries such as India are especially encouraged",
+        "Willing to run a pilot and then raise follow-on funding to scale"
+      ],
+      "benefits": [
+        "Up to US$20,000 to launch and pilot the venture",
+        "Ongoing guidance from the D-Prize team during the pilot",
+        "Credibility with follow-on funders after a successful pilot",
+        "Light first round — only a two-page concept note and CVs"
+      ],
+      "link": "https://d-prize.org/",
+      "note": "Regular round closes 15 Nov 2026 at midnight Pacific Time (about 1:30 PM IST on 16 Nov). A final extension deadline of 6 Dec 2026 is available only if you register for it on D-Prize's extension page. Round 1 needs a two-page concept note plus resumes; the top ~5% get two weeks to answer written questions, then interviews. Only around the top 1% of applicants are funded."
+    },
+    {
+      "id": "liveability-challenge-2027",
+      "title": "The Liveability Challenge 2027",
+      "org": "Temasek Foundation with Eco-Business",
+      "type": "Challenge",
+      "amount": "Up to S$1 million funding per winner",
+      "amountMax": 67000000,
+      "deadline": "2027-02-18",
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "ClimateTech",
+        "Decarbonisation",
+        "Climate Resilience",
+        "Cooling",
+        "Ocean / Blue Economy",
+        "Sustainability"
+      ],
+      "equity": "Varies",
+      "summary": "A global search for scalable, commercially viable solutions to urban sustainability problems in tropical cities, run across three tracks: Decarbonisation, Cool Earth (resilience and cooling) and Oceans. Top solutions win grant funding and a pitch slot at the Grand Finale in Singapore during Ecosperity Week 2027.",
+      "eligibility": [
+        "Open to startups and ventures worldwide, including India",
+        "Solution must address one of the three tracks: Decarbonisation, Cool Earth or Oceans",
+        "Must be scalable and commercially viable, with relevance to cities in the tropics",
+        "Early-stage to growth-stage companies with a working technology or business model are best placed"
+      ],
+      "benefits": [
+        "Up to S$1 million in grant funding for top solutions in each track",
+        "Decarbonisation finalists can be considered for up to S$2 million in development funding from A*STAR",
+        "Oceans finalists can be considered for up to S$500,000 equity investment from the Asia Ocean Fund",
+        "Pitch at the Grand Finale in Singapore before investors and corporates"
+      ],
+      "link": "https://www.theliveabilitychallenge.org/participate",
+      "note": "Submissions close 18 Feb 2027 (check the portal for the exact time, usually Singapore time). The core prize is grant funding, but the A*STAR and Asia Ocean Fund add-ons are separate — the Asia Ocean Fund route is an equity investment. Finalists are expected to attend the Grand Finale in Singapore."
+    },
+    {
+      "id": "prip-call-2-pharma-medtech",
+      "title": "PRIP Scheme – Second Call (Pharma & MedTech R&D)",
+      "org": "Department of Pharmaceuticals, Ministry of Chemicals & Fertilizers",
+      "type": "Grant",
+      "amount": "Up to ₹5 Cr (early stage) / ₹100 Cr (later stage)",
+      "amountMax": 1000000000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Pharma",
+        "MedTech",
+        "Biotech",
+        "HealthTech",
+        "Diagnostics",
+        "AI/ML"
+      ],
+      "equity": "No equity",
+      "summary": "The second call of the ₹5,000 crore Promotion of Research and Innovation in Pharma & MedTech (PRIP) scheme funds startups, MSMEs and industry building new drugs, biosimilars and novel medical devices. Early-stage projects start with a short concept note; later-stage projects apply directly with a detailed proposal.",
+      "eligibility": [
+        "Early-stage track: startups and MSMEs taking a product from TRL 1–3 up to (not beyond) TRL 5",
+        "Later-stage track: industry, startups and MSMEs taking a product from TRL 4–6 to higher readiness",
+        "Project must fall in a priority area: new chemical/biological entities, phyto-pharmaceuticals, complex generics, biosimilars, or novel medical devices not yet approved by CDSCO",
+        "Projects already submitted in PRIP Round 1 should not be resubmitted",
+        "Ecosystem enablers (incubators etc.) may submit early-stage concept notes on behalf of startups in their network"
+      ],
+      "benefits": [
+        "Up to ₹5 crore per early-stage project",
+        "Up to ₹100 crore per later-stage project, covering up to 35% of approved project cost",
+        "Mentorship for commercialisation, plus MedTech Mitra and Patent Mitra support",
+        "Access to a collaboration platform linking industry, academia and startups"
+      ],
+      "link": "https://prip.pharma-dept.gov.in/",
+      "note": "Submission window opened on the PRIP portal from mid-September 2026; no closing date has been announced, so apply early and check the portal. Later-stage awards need the applicant to co-fund at least 65% of the project. Novel device categories include AI/ML devices and SaMD/SiMD, genetic diagnostics, surgical robotics, telemedicine-enabled devices and novel IVDs/biomarkers."
     }
   ]
 }
