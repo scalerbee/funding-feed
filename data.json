@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "items": [
     {
       "id": "elevate-nxt-2026-27",
@@ -1506,6 +1506,202 @@
       ],
       "link": "https://prip.pharma-dept.gov.in/",
       "note": "Submission window opened on the PRIP portal from mid-September 2026; no closing date has been announced, so apply early and check the portal. Later-stage awards need the applicant to co-fund at least 65% of the project. Novel device categories include AI/ML devices and SaMD/SiMD, genetic diagnostics, surgical robotics, telemedicine-enabled devices and novel IVDs/biomarkers."
+    },
+    {
+      "id": "startup-buildathon-india-2026",
+      "title": "Startup Buildathon India 2026 (Google AI)",
+      "org": "Hack2skill with nasscom and HeadStart, alongside Google DeepMind and Google Cloud",
+      "type": "Challenge",
+      "amount": "$10,000 per winning team (top 10)",
+      "amountMax": 880000,
+      "deadline": "2026-11-13",
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "AI/ML",
+        "SaaS",
+        "Consumer Tech",
+        "Any"
+      ],
+      "equity": "No equity",
+      "summary": "A multi-city build sprint for early AI startups and would-be founders, ending in a Grand Finale at Google in Bengaluru. Ten winning teams each take home $5,000 in cash plus $5,000 in Google AI and Cloud credits.",
+      "eligibility": [
+        "Early-stage startups working on a new product idea, or aspiring founders with a startup idea",
+        "Solo founders and teams of two or more can apply",
+        "The product must be AI-powered",
+        "Shortlisted teams must attend an in-person city buildathon in one of ten Indian cities on 20–21 November"
+      ],
+      "benefits": [
+        "$10,000 per top-10 team: $5,000 cash and $5,000 in Google AI/Cloud credits (subject to taxes and terms)",
+        "Access to Google experts and mentors during the build",
+        "Route into Google startup support programmes",
+        "Pitch slots at regional showcases (Gurugram, Mumbai, Hyderabad) and the Bengaluru finale on 2 December"
+      ],
+      "link": "https://startupbuildathon.com/",
+      "note": "Applications close 13 November 2026 (no closing time published — submit by the evening before to be safe). Selected teams are told by 18 November. City buildathons run 20–21 November in Ahmedabad, Bengaluru, Chennai, Delhi, Hyderabad, Jaipur, Kochi, Kolkata, Mumbai and Pune; you must travel to your city round at your own cost. Judging weighs founder profile, product potential, market viability, technical architecture and how well you use Google AI."
+    },
+    {
+      "id": "nldsl-digitwin-grand-challenge-2026",
+      "title": "NLDSL DigiTwin Grand Challenge 2026",
+      "org": "NICDC Logistics Data Services Ltd (NLDSL) with NICDC and DPIIT Startup India",
+      "type": "Challenge",
+      "amount": "₹3 lakh per sector winner; ₹20–30 lakh+ pool",
+      "amountMax": 300000,
+      "deadline": "2026-11-14",
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "Logistics",
+        "Supply Chain",
+        "AI/ML",
+        "GIS",
+        "Mobility",
+        "EV",
+        "Mining",
+        "Deep Tech"
+      ],
+      "equity": "No equity",
+      "summary": "A government-backed contest to build digital twins of Indian logistics systems — ports, rail and road corridors, warehousing, mining and EV supply chains — using simulated datasets and the ULIP API platform. Stage 1 asks only for team registration and a concept note.",
+      "eligibility": [
+        "Open to students, startups, enterprises, academic and research institutions, and independent innovators based in India",
+        "Teams of 2 to 5 members",
+        "At least one member must have hands-on skills in data engineering, AI/ML, GIS, modelling/simulation or software development",
+        "No participation fee",
+        "Teams may enter both the DigiTwin and the Freight Transport Model themes as separate applications"
+      ],
+      "benefits": [
+        "₹3 lakh for the best team in each of six DigiTwin tracks (multimodal logistics; industrial corridors, parks and warehousing; mining and minerals; urban mobility and EV logistics; pharma/health/agri supply chains; open category)",
+        "Access to simulated logistics datasets and optional official ULIP APIs during prototyping",
+        "Demo to a national Grand Jury in January 2027",
+        "Winners may be enlisted as vendors with NLDSL"
+      ],
+      "link": "https://digitwingrandchallenge.nldsl.in/",
+      "note": "Stage 1 (registration + concept note) closes 14 November 2026. Shortlists follow on 22 November; Stage 2 detailed ideas are due 8 December; prototypes are built 10–31 December; jury demos run 4–14 January 2027. The organiser calls the timeline indicative. IP terms are in the full guidelines — read them before submitting. Help desk: support.digitaltwingc@nldsl.in."
+    },
+    {
+      "id": "itu-ai-for-good-innovation-factory-2026-27",
+      "title": "AI for Good Innovation Factory 2026–27",
+      "org": "ITU (UN International Telecommunication Union) – AI for Good",
+      "type": "Challenge",
+      "amount": "$20,000 grand prize",
+      "amountMax": 1760000,
+      "deadline": null,
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "AI/ML",
+        "Climate",
+        "HealthTech",
+        "EdTech",
+        "AgriTech",
+        "Social Impact"
+      ],
+      "equity": "No equity",
+      "summary": "The UN's AI for Good platform runs monthly online pitch rounds from September 2026 to May 2027 for startups using AI against global development challenges. Winners of each round progress towards a Grand Finale at the AI for Good Global Summit in Geneva, where the top startup wins $20,000.",
+      "eligibility": [
+        "Startups worldwide (Indian founders included) with an AI-powered solution",
+        "The solution should address one or more UN Sustainable Development Goals",
+        "The AI must be central, innovative and able to scale",
+        "A working product or pilot strengthens your chances in the live pitch rounds"
+      ],
+      "benefits": [
+        "$20,000 cash prize for the overall winner",
+        "Live online pitch sessions in front of experts, investors and UN agencies",
+        "Startup Accelerator Programme in Geneva, 21–24 June 2027, for finalists",
+        "Global visibility through the AI for Good Global Summit"
+      ],
+      "link": "https://aiforgood.itu.int/about-us/innovation-factory/",
+      "note": "Applications run through ITU's Innovation Factory startup form and feed a series of monthly pitching sessions until May 2027, so apply early to get a slot (one listing names 23 November 2026 for the next intake). The pre-final is on 22 June 2027 and the Grand Finale on 24 June 2027 in Geneva — travel costs aren't stated. ITU warns it is not linked to any paid pitch-coaching services offering 'guaranteed' entry."
+    },
+    {
+      "id": "achema-startup-award-2027",
+      "title": "ACHEMA Start-up Award 2027",
+      "org": "DECHEMA (organiser of ACHEMA, Frankfurt)",
+      "type": "Challenge",
+      "amount": "€15,000 prize",
+      "amountMax": 1452000,
+      "deadline": "2026-11-30",
+      "region": "Global",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Chemicals",
+        "Process Engineering",
+        "Biotech",
+        "Life Sciences",
+        "Materials",
+        "CleanTech"
+      ],
+      "equity": "No equity",
+      "summary": "A business-plan competition for young companies and founding teams in chemistry, process engineering and biotechnology, run by the organiser of ACHEMA, the world's largest process-industry trade fair. Up to ten finalists exhibit at ACHEMA 2027 in Frankfurt and the winner receives €15,000.",
+      "eligibility": [
+        "Teams or individuals with a company concept or business plan, or companies founded after 1 January 2024",
+        "Venture must be in chemistry, process technology or biotechnology",
+        "Product or service must be a market innovation with a clear competitive advantage, explained in the plan",
+        "Entries in English or German; at least one named person as founder/contact",
+        "No nationality restriction is stated in the terms"
+      ],
+      "benefits": [
+        "€15,000 prize money for the winner, presented on stage at ACHEMA 2027",
+        "Mentors and venture capitalists assigned from the start",
+        "Free showcase space for up to ten finalists during ACHEMA, 14–18 June 2027",
+        "Jury pitch in February 2027 and exposure to global process-industry buyers"
+      ],
+      "link": "https://www.achema.de/en/the-achema/achema-start-up-award",
+      "note": "Full business plans must be submitted by 30 November 2026, along with a signed copy of the terms and conditions. Finalists are picked in January 2027 and must present in person in Frankfurt (February jury pitch and June fair) — budget for travel. File patents before submitting, as plans are shared with jurors and mentors under NDA."
+    },
+    {
+      "id": "nexa-lighthouse-asia-pacific-2026",
+      "title": "Nexa Lighthouse — Climate & Health Innovation Call (Asia-Pacific)",
+      "org": "Grand Challenges Canada and AVPN, funded by the Novo Nordisk Foundation",
+      "type": "Grant",
+      "amount": "$250K – $2M (Transition to Scale)",
+      "amountMax": 176000000,
+      "deadline": "2026-11-17",
+      "region": "Global",
+      "stages": [
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "HealthTech",
+        "Climate",
+        "Public Health",
+        "MedTech",
+        "Social Impact"
+      ],
+      "equity": "Varies",
+      "summary": "Nexa Lighthouse funds proven, locally led innovations in Asia and the Pacific that help health systems act on climate risks such as extreme heat, air pollution and shifting malaria/dengue patterns. A linked South Asia call focuses on protecting people with diabetes and heart disease from extreme heat.",
+      "eligibility": [
+        "Incorporated organisations based in Asia-Pacific (India included): companies, social enterprises, NGOs, non-profits, research institutions or government bodies",
+        "Individuals, sole proprietorships, unincorporated trusts and partnerships cannot apply",
+        "Innovation must already be proven and ready to scale — this is not early-idea money",
+        "Solution must be locally led and address a climate-linked health threat (heat, air quality, vector-borne disease)"
+      ],
+      "benefits": [
+        "Transition to Scale investment of roughly $250,000 to $2 million per innovation, sized by maturity",
+        "Backing from Grand Challenges Canada and AVPN's network of Asian funders",
+        "Support to embed the solution with local health actors and systems"
+      ],
+      "link": "https://grandchallenges.ca/programs/nexa/",
+      "note": "Proposals are due 17 November 2026 at 2:00 pm ET (12:30 am IST on 18 November) via Grand Challenges Canada's Fluxx portal — apply through that portal, not the Novo Nordisk Foundation, or you risk disqualification. Funding instrument (grant vs. repayable/equity-linked) is set at the partners' discretion. The South Asia cardiometabolic-heat strand must be framed around heat protection for patients, not general climate adaptation."
     }
   ]
 }
