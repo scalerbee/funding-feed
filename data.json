@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "items": [
     {
       "id": "elevate-nxt-2026-27",
@@ -1702,6 +1702,184 @@
       ],
       "link": "https://grandchallenges.ca/programs/nexa/",
       "note": "Proposals are due 17 November 2026 at 2:00 pm ET (12:30 am IST on 18 November) via Grand Challenges Canada's Fluxx portal — apply through that portal, not the Novo Nordisk Foundation, or you risk disqualification. Funding instrument (grant vs. repayable/equity-linked) is set at the partners' discretion. The South Asia cardiometabolic-heat strand must be framed around heat protection for patients, not general climate adaptation."
+    },
+    {
+      "id": "uplink-ai-plastics-value-chain-2026",
+      "title": "UpLink AI for Plastic Value Chain Transformation Challenge",
+      "org": "UpLink (World Economic Forum) with the WEF Circular Economy Transformation Initiative",
+      "type": "Challenge",
+      "amount": "Non-cash: UpLink Ventures recognition, WEF access & visibility",
+      "amountMax": 0,
+      "deadline": "2026-12-02",
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Climate",
+        "Circular Economy",
+        "AI",
+        "Materials",
+        "Waste Management",
+        "Manufacturing"
+      ],
+      "equity": "No equity",
+      "summary": "The World Economic Forum's open-innovation platform is looking for early-stage ventures that use AI to fix the plastics value chain, from designing better materials and products to sorting, recovering and returning hard-to-recycle waste to industry. Selected teams join a 2027 UpLink cohort with access to WEF's plastics and circular-economy community.",
+      "eligibility": [
+        "Early-stage ventures with an AI-driven solution for some part of the plastics value chain; open globally, Indian startups included",
+        "Must choose one primary track: better material/product design, making recovered or alternative materials work in production, high-purity data-rich recovery, or turning hard-to-recycle waste into usable feedstock",
+        "Ventures already named UpLink Ventures in an earlier challenge are not eligible",
+        "Judged on solution quality, impact, scalability of the business model, traction signals and team"
+      ],
+      "benefits": [
+        "Recognition as an UpLink Venture of the World Economic Forum",
+        "Access to selected WEF and partner events, projects and communities, including the Plastics Technology and Innovation workstream",
+        "Visibility through WEF and UpLink channels — useful for corporate pilots and investor credibility",
+        "Chance to contribute a case study to WEF's Plastics and Technology report (planned for summer 2027)"
+      ],
+      "link": "https://uplink.weforum.org/systems-industries-ai-supply-chains-ai-for-plastics-value-chains-transformation",
+      "note": "Submissions close 2 December 2026 at 11:59 pm CET (about 4:29 am IST on 3 December). There is no cash prize — the value is WEF network access and visibility. Timeline: review Dec 2026–Feb 2027, pitch day March 2027, cohort announced April 2027, programme starts May 2027. No application fee is mentioned."
+    },
+    {
+      "id": "bihar-startup-seed-fund",
+      "title": "Bihar Startup Policy — Interest-Free Seed Fund up to ₹10 Lakh",
+      "org": "Department of Industries, Government of Bihar (Startup Bihar)",
+      "type": "Debt",
+      "amount": "Up to ₹10 lakh interest-free (10-year repayment)",
+      "amountMax": 1000000,
+      "deadline": null,
+      "region": "Bihar",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "Sector agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Under the Bihar Startup Policy 2022–27, startups recognised by the state can get a seed loan of up to ₹10 lakh at zero interest, repayable over ten years and released in milestone-linked tranches. Women, SC/ST and differently-abled founders get an added top-up on the standard limits.",
+      "eligibility": [
+        "Startup must be registered and recognised by the Startup Bihar nodal agency (Department of Industries) via the Startup Bihar portal",
+        "Business operating from Bihar with an innovative, scalable product or service",
+        "Funding size is decided after a rating-agency assessment and review by the State Startup Monitoring and Implementation Committee (SMIC)",
+        "Extra incentives (5% women, 5% SC/ST, 15% differently-abled) apply only where the startup is wholly owned by founders from that category"
+      ],
+      "benefits": [
+        "Seed support of up to ₹10 lakh as a 10-year interest-free loan, released in tranches against milestones",
+        "Usable for idea validation, prototyping, market research, travel, training, marketing and initial setup",
+        "Matching loan up to the amount raised from angel groups or Category-I AIFs",
+        "Incubation cost reimbursement (up to ₹2 lakh, paid to incubator), patent filing support, free valuation at commercialisation, and procurement preference"
+      ],
+      "link": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Bihar-state-policy.html",
+      "note": "Rolling — apply through the Startup Bihar portal (startup.bihar.gov.in) after getting state recognition; helpline 1800 345 6214, startup-bihar@gov.in. This is a loan, not a grant: it must be repaid over 10 years. The actual amount depends on the rating-agency score, and the current policy runs until 2027."
+    },
+    {
+      "id": "haryana-startup-seed-grant",
+      "title": "Haryana Seed Funding for Startups Scheme — up to ₹10 Lakh",
+      "org": "Department of Industries & Commerce, Government of Haryana (Startup Haryana)",
+      "type": "Grant",
+      "amount": "Up to ₹10 lakh (non-repayable)",
+      "amountMax": 1000000,
+      "deadline": "2027-07-06",
+      "region": "Haryana",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "Sector agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Haryana gives DPIIT-recognised startups with a registered office in the state a non-repayable seed grant of up to ₹10 lakh, paid in three tranches. Applications are reviewed quarterly by an evaluation committee and the scheme accepts entries until the policy ends in July 2027.",
+      "eligibility": [
+        "Registered with Startup Haryana as a Category 1 startup (requires DPIIT recognition and a registered office in Haryana)",
+        "Must hold a Haryana Udyam Memorandum (HUM)",
+        "Product or service must not be on the state's restricted list; otherwise sector-agnostic",
+        "Cannot claim a similar incentive for the same purpose under another state policy",
+        "Must score at least 60/100 in the Evaluation & Approval Committee assessment (a presentation may be required)"
+      ],
+      "benefits": [
+        "Non-repayable seed grant of up to ₹10 lakh per startup",
+        "Released 50% / 40% / 10%, each later tranche after a utilisation certificate",
+        "Travel and field/market-research costs covered up to ₹50,000 each within the grant",
+        "Rejected applicants can reapply in a later quarter"
+      ],
+      "link": "https://haryanaindustries.gov.in/themes/backend/uploads/Startup%20Seed%20Funding%20Scheme.pdf",
+      "note": "Effectively rolling: applications are taken any time and considered in the quarter after submission, but must be in before the policy expires on 6 July 2027. Apply online on the Industries & Commerce Department portal. Documents: authorisation letter, representative's PAN and photo, notarised undertaking, HUM copy, cancelled cheque and pitch deck; deficiencies must be fixed within 10 working days. Tranche claims need CA-certified utilisation certificates and invoices. Quotas are capped by block category (A–D)."
+    },
+    {
+      "id": "startup-odisha-allowance-product-assistance",
+      "title": "Startup Odisha — Monthly Allowance & Product Development/Marketing Assistance",
+      "org": "Startup Odisha, MSME Department, Government of Odisha",
+      "type": "Grant",
+      "amount": "₹20K–22K/month allowance; up to ₹15–16 lakh product/marketing assistance",
+      "amountMax": 1600000,
+      "deadline": null,
+      "region": "Odisha",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Sector agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Startups recognised by Startup Odisha can draw a monthly sustenance allowance at the idea/prototype stage and, once commercialised, a one-time grant for product development and marketing/publicity. Women, transgender and SC/ST/SEBC/PH founders get higher limits.",
+      "eligibility": [
+        "Startup must be recognised by Startup Odisha (state recognition is the first step for all schemes)",
+        "Monthly allowance is for idea/prototype-stage startups",
+        "Product development & marketing assistance is for startups that have commercialised their idea",
+        "Higher amounts apply if a founder/co-founder is a woman, transgender person, or from SC/ST/SEBC/PH categories (women-led needs at least 50% women equity)"
+      ],
+      "benefits": [
+        "Monthly allowance of ₹20,000 (₹22,000 for women/transgender/SC/ST/SEBC/PH founders) — women-led startups get it for one year",
+        "Product development and marketing/publicity assistance of up to ₹15 lakh (₹16 lakh for the categories above)",
+        "Both are non-repayable and equity-free",
+        "Access to O-Hub and the wider Startup Odisha ecosystem"
+      ],
+      "link": "https://startupodisha.gov.in/",
+      "note": "Rolling — no fixed closing date; apply through the Startup Odisha portal after recognition. Assistance is typically released on a reimbursement/milestone basis, so keep bills and progress records. Confirm current terms with Startup Odisha (O-Hub, Bhubaneswar; toll-free 1800-345-7100) before planning around the full amount."
+    },
+    {
+      "id": "antler-india-residency",
+      "title": "Antler India — AI Residency & Direct Pre-Seed Investment",
+      "org": "Antler India",
+      "type": "Equity",
+      "amount": "Up to ~₹4 crore (~$425K–470K) for 11% equity",
+      "amountMax": 40000000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "AI",
+        "Sector agnostic"
+      ],
+      "equity": "Takes equity",
+      "summary": "Antler India backs very early founders, either through a quarterly Bengaluru residency focused on AI-first startups or by investing directly in pre-launch teams. Its standard deal is up to about ₹4 crore for 11% equity, with decisions in a few weeks.",
+      "eligibility": [
+        "Pre-launch, pre-product or pre-revenue teams; AI-first ideas are the focus but other exceptional ideas are considered",
+        "Founders must be full-time and actively testing with users",
+        "Residency participants must be able to relocate to Bengaluru for the in-person portion",
+        "Solo founders and teams can apply; a warm referral helps but is not required"
+      ],
+      "benefits": [
+        "Pre-seed investment of up to about ₹4 crore for 11% equity, with potential follow-on capital",
+        "Residency: 2-week in-person programme in Bengaluru with partner office hours and 1-on-1s with AI builders",
+        "One-time ₹2 lakh grant to residency founders for expenses, plus office space in Bengaluru",
+        "AI and cloud perks worth over $1M (up to $4M in total perks)"
+      ],
+      "link": "https://antler.co/location/india",
+      "note": "Rolling — apply any time via antler.co/apply; residencies run roughly every quarter on a ~45-day cycle (dates are announced on Antler's cohort page). This is equity money (11%), not a grant, and Antler invests in only part of each residency cohort. Founders not yet ready can join the free Before Day Zero community."
     }
   ]
 }
