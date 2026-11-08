@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "items": [
     {
       "id": "elevate-nxt-2026-27",
@@ -305,66 +305,6 @@
       ],
       "link": "https://www.opportunitiesforafricans.com/the-ye-youth-ecopreneurs-programme-yeco-2026-2027/",
       "note": "Deadline 22 Nov 2026. Link is a listing page — confirm on ITC's Ye! site."
-    },
-    {
-      "id": "kotak-bizlabs-iimcip-2026",
-      "title": "Kotak BizLabs Accelerator — IIM Calcutta Innovation Park",
-      "org": "Kotak Mahindra Bank (CSR) × IIMCIP",
-      "type": "Accelerator",
-      "amount": "Up to ₹30 lakh grant",
-      "amountMax": 3000000,
-      "deadline": "2026-10-31",
-      "region": "National",
-      "stages": [
-        "Revenue"
-      ],
-      "sectors": [
-        "Social impact",
-        "Sustainability"
-      ],
-      "equity": "No equity",
-      "summary": "CSR accelerator for 20 early-revenue startups with social impact and a sustainability focus.",
-      "eligibility": [
-        "DPIIT-recognised startup",
-        "Early-revenue stage",
-        "Social impact / sustainability focus"
-      ],
-      "benefits": [
-        "Grant up to ₹30 lakh (milestone-based)",
-        "One-on-one mentoring from the IIMCIP network"
-      ],
-      "link": "https://iimcip.org/kotak-bizlabs/",
-      "note": "Closes 31 Oct 2026."
-    },
-    {
-      "id": "birac-e-yuva-2026",
-      "title": "BIRAC E-YUVA & Innovation Fellowships — 4th call 2026",
-      "org": "BIRAC (Dept of Biotechnology)",
-      "type": "Fellowship",
-      "amount": "PG: ₹30K/month + ₹3L/yr; Postdoc: ₹50K/month + ₹5L/yr",
-      "amountMax": 1100000,
-      "deadline": "2026-10-31",
-      "region": "National",
-      "stages": [
-        "Idea",
-        "Prototype"
-      ],
-      "sectors": [
-        "Biotech",
-        "Healthtech"
-      ],
-      "equity": "No equity",
-      "summary": "Fellowships at E-YUVA centres for students, postgraduates and PhDs turning biotech research into products and startups.",
-      "eligibility": [
-        "UG teams, PG and PhD/postdoc innovators",
-        "Must work at a BIRAC E-YUVA centre"
-      ],
-      "benefits": [
-        "Monthly stipend + annual research grant",
-        "Incubation and venture-creation support"
-      ],
-      "link": "https://birac.nic.in/",
-      "note": "Closes 31 Oct 2026."
     },
     {
       "id": "nidhi-prayas",
@@ -1880,6 +1820,116 @@
       ],
       "link": "https://antler.co/location/india",
       "note": "Rolling — apply any time via antler.co/apply; residencies run roughly every quarter on a ~45-day cycle (dates are announced on Antler's cohort page). This is equity money (11%), not a grant, and Antler invests in only part of each residency cohort. Founders not yet ready can join the free Before Day Zero community."
+    },
+    {
+      "id": "entrepreneur-first-bangalore-winter-2027",
+      "title": "Entrepreneur First — Bangalore Winter 2027 Programme",
+      "org": "Entrepreneur First (EF)",
+      "type": "Accelerator",
+      "amount": "Up to $250K (~₹2.2 crore) pre-seed for selected companies",
+      "amountMax": 22000000,
+      "deadline": "2026-12-01",
+      "region": "National",
+      "stages": [
+        "Idea"
+      ],
+      "sectors": [
+        "Deep tech",
+        "AI",
+        "Sector agnostic"
+      ],
+      "equity": "Takes equity",
+      "summary": "EF's Bangalore programme recruits individual technical and entrepreneurial people before they have a co-founder or an idea, helps them form a team and a company over 14 weeks in Bangalore, then moves funded teams to San Francisco. The Winter 2027 cohort starts in February 2027 and 1 December 2026 is the cut-off for its third selection round.",
+      "eligibility": [
+        "Individuals apply, not companies: you do not need a co-founder or a startup idea",
+        "Aimed at early-career people with exceptional results relative to their peers, typically technical or commercial builders",
+        "Must be able to commit full-time and in person in Bangalore for the 14-week programme",
+        "Funded companies are expected to relocate and build from San Francisco after the Bangalore phase (EF may help with visas but does not provide them)",
+        "Existing co-founders can apply, but each person should submit their own application and mention the other"
+      ],
+      "benefits": [
+        "Structured co-founder matching and idea development alongside a cohort of other founders",
+        "Pre-seed investment for companies EF backs: reported terms are $125K on a post-money SAFE for 8%, plus an optional further $125K on an uncapped MFN SAFE",
+        "A further 3 months in San Francisco after the Bangalore phase for funded teams",
+        "Access to EF's global investor and alumni network"
+      ],
+      "link": "https://apply.joinef.com/",
+      "note": "Apply by 1 December 2026 to be considered in the third of four selection rounds for Winter 2027 (programme starts February 2027). This is equity investment, not a grant, and only teams EF chooses to back receive money. Investment terms come from EF's published standard deal as reported by third parties; confirm the India terms at interview. Expect to relocate to San Francisco if funded."
+    },
+    {
+      "id": "google-for-startups-cloud-ai",
+      "title": "Google for Startups Cloud Program — AI Tier (up to $350K credits)",
+      "org": "Google Cloud",
+      "type": "Grant",
+      "amount": "Up to $350K (~₹3 crore) in Google Cloud credits over 2 years",
+      "amountMax": 30800000,
+      "deadline": null,
+      "region": "Global",
+      "stages": [
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "AI",
+        "SaaS",
+        "Deep tech"
+      ],
+      "equity": "No equity",
+      "summary": "Google Cloud gives venture-backed startups free cloud credits for two years, with AI-first companies building on Gemini eligible for up to $350,000. It is in-kind support for compute, storage and Google's AI models rather than cash, and applications are open year-round.",
+      "eligibility": [
+        "Founded within the last five years",
+        "Raised a pre-seed or seed round from institutional investors/VCs in the last five years, or a Series A in the last 12 months (SAFEs count; angel, grant, prize and friends-and-family money do not qualify for this tier)",
+        "Has not already received more than $5,000 in Google Cloud credits",
+        "Uses or plans to use Gemini as a foundation of the main product to get the AI-first amount",
+        "Not a consultancy, agency, dev shop, non-profit, educational or government body, or crypto-mining company; company domain must not have had a paid Google Workspace plan in the 31 days before applying"
+      ],
+      "benefits": [
+        "AI-first startups: 100% of usage covered up to $250K in year 1, plus 20% up to another $100K in year 2",
+        "Other eligible startups: up to $100K in year 1 plus up to $100K in year 2 (up to $200K total)",
+        "Credits usable on Google Cloud services and Google's own models (Gemini, Gemma)",
+        "Webinars and Q&As with Google Cloud AI product teams, and access to the Gemini Startup Forum"
+      ],
+      "link": "https://cloud.google.com/startup/ai",
+      "note": "Rolling. Credits are in-kind (not cash) and third-party models on Google Cloud are billed separately. Bootstrapped or angel-funded startups do not qualify for this tier but may be considered for Google's lower Start tier. Approval is at Google's discretion; keep your funding documents and company website ready."
+    },
+    {
+      "id": "aws-activate-credits",
+      "title": "AWS Activate — Cloud Credits for Startups (up to $200K)",
+      "org": "Amazon Web Services (AWS)",
+      "type": "Grant",
+      "amount": "$1K–$5K (bootstrapped) or up to $200K (investor-backed) in AWS credits",
+      "amountMax": 17600000,
+      "deadline": null,
+      "region": "Global",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "AI",
+        "SaaS",
+        "Sector agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "AWS Activate gives startups free AWS cloud credits: bootstrapped founders can apply directly for up to $5,000, while startups backed by an approved accelerator, angel network or VC can receive up to $200,000. Applications are open all year and decisions usually take one to two weeks.",
+      "eligibility": [
+        "Pre-Series B startup founded in the last 10 years",
+        "AWS account on a paid-tier plan",
+        "New to Activate credits, or requesting more than previously received",
+        "For the Portfolio tier (up to $200K): backed by an AWS Activate Provider (accelerator, incubator, angel or VC) and able to supply that provider's Org ID"
+      ],
+      "benefits": [
+        "Activate Founders: credits starting at $1,000, up to $5,000, for self-funded startups",
+        "Activate Portfolio: up to $200,000 in credits through an Activate Provider",
+        "Access to 200+ AWS services including AI and data tools, plus Kiro startup credits for eligible startups",
+        "Invite-only AI credits beyond $200K for scaling AI startups, and migration support credits"
+      ],
+      "link": "https://aws.amazon.com/startups/credits",
+      "note": "Rolling; apply with an AWS Builder ID using your work email, choose your tier, add company and funding details, then link an AWS account. Replies typically arrive in 5–10 business days. Credits are in-kind and carry expiry dates under AWS's promotional credit terms. Ask your incubator whether it is an Activate Provider — many Indian incubators are, which unlocks the bigger tier."
     }
   ]
 }

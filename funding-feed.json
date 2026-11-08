@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07",
+ "updated": "2026-11-08",
  "items": [
   {
    "id": "auto-elevate-nxt-2026-27",
@@ -20,7 +20,7 @@
    "applyLink": "https://eitbt.karnataka.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "elevate-nxt-2026-27"
   },
   {
@@ -42,7 +42,7 @@
    "applyLink": "https://eitbt.karnataka.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "elevate-minorities-2026"
   },
   {
@@ -64,7 +64,7 @@
    "applyLink": "https://gsc.cars24.com/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "grand-startup-challenge-2027"
   },
   {
@@ -86,7 +86,7 @@
    "applyLink": "https://www.undp.org/india/press-releases/undp-and-generali-central-launch-insurance-innovation-challenge-strengthen-msme-resilience-india",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "undp-generali-msme-insurance-2026"
   },
   {
@@ -108,7 +108,7 @@
    "applyLink": "https://www.undp.org/press-releases/innovators-wanted-undp-launches-usd-1-million-global-challenge-healthier-ocean",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "undp-ocean-innovation-2026"
   },
   {
@@ -130,7 +130,7 @@
    "applyLink": "https://www2.fundsforngos.org/innovation/grassroot-innovation-programme-2026-grant-opportunity-for-innovators-in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "kits-grassroot-innovation-2026"
   },
   {
@@ -152,7 +152,7 @@
    "applyLink": "https://sahyadristartups.com/news/be-hub-udaan-opens-applications-for-first-startup-accelerator-cohort-on-october-27/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "be-hub-udaan-cohort-1"
   },
   {
@@ -174,7 +174,7 @@
    "applyLink": "https://www.hitachi.com/en-eu/about/events/hitachi-startup-challenge-2026/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "hitachi-startup-challenge-fy26"
   },
   {
@@ -196,7 +196,7 @@
    "applyLink": "https://www.techstars.com/accelerators",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "techstars-2027-anywhere"
   },
   {
@@ -218,52 +218,8 @@
    "applyLink": "https://www.opportunitiesforafricans.com/the-ye-youth-ecopreneurs-programme-yeco-2026-2027/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "yeco-2026-27"
-  },
-  {
-   "id": "auto-kotak-bizlabs-iimcip-2026",
-   "title": "Kotak BizLabs Accelerator — IIM Calcutta Innovation Park",
-   "type": "Accelerator",
-   "stages": "Early Traction",
-   "sectors": "Social impact, Sustainability",
-   "shortDesc": "CSR accelerator for 20 early-revenue startups with social impact and a sustainability focus.",
-   "fundingAmount": "Up to ₹30 lakh grant",
-   "provider": "Kotak Mahindra Bank (CSR) × IIMCIP",
-   "geography": "India",
-   "deadline": "2026-10-31",
-   "about": "CSR accelerator for 20 early-revenue startups with social impact and a sustainability focus. Closes 31 Oct 2026.",
-   "eligibility": "DPIIT-recognised startup\nEarly-revenue stage\nSocial impact / sustainability focus",
-   "benefits": "Grant up to ₹30 lakh (milestone-based)\nOne-on-one mentoring from the IIMCIP network",
-   "fundingType": "Non-dilutive",
-   "fundingSource": "CSR",
-   "applyLink": "https://iimcip.org/kotak-bizlabs/",
-   "active": true,
-   "source": "auto",
-   "addedOn": "2026-11-07",
-   "slug": "kotak-bizlabs-iimcip-2026"
-  },
-  {
-   "id": "auto-birac-e-yuva-2026",
-   "title": "BIRAC E-YUVA & Innovation Fellowships — 4th call 2026",
-   "type": "Fellowship",
-   "stages": "Idea, Prototype",
-   "sectors": "Biotech, Healthtech",
-   "shortDesc": "Fellowships at E-YUVA centres for students, postgraduates and PhDs turning biotech research into products and startups.",
-   "fundingAmount": "PG: ₹30K/month + ₹3L/yr; Postdoc: ₹50K/month + ₹5L/yr",
-   "provider": "BIRAC (Dept of Biotechnology)",
-   "geography": "India",
-   "deadline": "2026-10-31",
-   "about": "Fellowships at E-YUVA centres for students, postgraduates and PhDs turning biotech research into products and startups. Closes 31 Oct 2026.",
-   "eligibility": "UG teams, PG and PhD/postdoc innovators\nMust work at a BIRAC E-YUVA centre",
-   "benefits": "Monthly stipend + annual research grant\nIncubation and venture-creation support",
-   "fundingType": "Non-dilutive",
-   "fundingSource": "Government",
-   "applyLink": "https://birac.nic.in/",
-   "active": true,
-   "source": "auto",
-   "addedOn": "2026-11-07",
-   "slug": "birac-e-yuva-2026"
   },
   {
    "id": "auto-nidhi-prayas",
@@ -284,7 +240,7 @@
    "applyLink": "https://nidhi.dst.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "nidhi-prayas"
   },
   {
@@ -306,7 +262,7 @@
    "applyLink": "https://nidhi.dst.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "nidhi-sss"
   },
   {
@@ -328,7 +284,7 @@
    "applyLink": "https://birac.nic.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "birac-big"
   },
   {
@@ -350,7 +306,7 @@
    "applyLink": "https://rkvy.nic.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "rkvy-raftaar"
   },
   {
@@ -372,7 +328,7 @@
    "applyLink": "https://idex.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "idex"
   },
   {
@@ -394,7 +350,7 @@
    "applyLink": "https://innovative.msme.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "msme-innovative-incubation"
   },
   {
@@ -416,7 +372,7 @@
    "applyLink": "https://startupmission.kerala.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "ksum-grants"
   },
   {
@@ -438,7 +394,7 @@
    "applyLink": "https://startupmission.up.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "startinup-up"
   },
   {
@@ -460,7 +416,7 @@
    "applyLink": "https://startupmission.up.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "up-matching-grant"
   },
   {
@@ -482,7 +438,7 @@
    "applyLink": "https://startupmission.up.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "up-grand-challenges"
   },
   {
@@ -504,7 +460,7 @@
    "applyLink": "https://www.ssipgujarat.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "gujarat-ssip"
   },
   {
@@ -526,7 +482,7 @@
    "applyLink": "https://www.ssipgujarat.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "ihub-srujan"
   },
   {
@@ -548,7 +504,7 @@
    "applyLink": "https://www.ncgtc.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "cgss"
   },
   {
@@ -570,7 +526,7 @@
    "applyLink": "https://tdb.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "tdb-funding"
   },
   {
@@ -592,7 +548,7 @@
    "applyLink": "https://100unicorns.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "100unicorns"
   },
   {
@@ -614,7 +570,7 @@
    "applyLink": "https://sabapplier.com/fundingAlerts/zero-shot-fund",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "zero-shot-fund"
   },
   {
@@ -636,7 +592,7 @@
    "applyLink": "https://www.ycombinator.com/apply/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "yc-winter-2027"
   },
   {
@@ -658,7 +614,7 @@
    "applyLink": "https://www.icmr.gov.in/post/call-for-investigator-initiated-research-proposals-for-first-in-world-challenge-grants-2026-last-date-november-30-2026-17-30-hrs",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "icmr-first-in-the-world-2026"
   },
   {
@@ -680,7 +636,7 @@
    "applyLink": "https://hello-tomorrow.org/faq-global-challenge/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "hello-tomorrow-challenge-2027"
   },
   {
@@ -702,7 +658,7 @@
    "applyLink": "https://tribal.nic.in/downloads/Livelihood/Guidelines/VCF-STGuidelines1123.pdf",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "vcf-st-tribal-startups"
   },
   {
@@ -724,7 +680,7 @@
    "applyLink": "https://www.startupindia.gov.in/content/sih/en/nsa-landing.html",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "national-startup-awards-6"
   },
   {
@@ -746,7 +702,7 @@
    "applyLink": "https://www.startup-energy-transition.com/set-award/set-award-2027/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "set-award-2027"
   },
   {
@@ -768,7 +724,7 @@
    "applyLink": "https://tisc.telangana.gov.in",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "telangana-innovation-startup-challenge-2026"
   },
   {
@@ -790,7 +746,7 @@
    "applyLink": "https://masschallenge.org/2026-2027-challenge-cycle/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "masschallenge-challenge-programs-2027"
   },
   {
@@ -812,7 +768,7 @@
    "applyLink": "https://imaginecup.microsoft.com/support/faq",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "microsoft-imagine-cup-2027"
   },
   {
@@ -834,7 +790,7 @@
    "applyLink": "https://medtechinnovator.org/apply/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "medtech-innovator-2027"
   },
   {
@@ -856,7 +812,7 @@
    "applyLink": "https://biotoolsinnovator.org/apply/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "biotools-innovator-2027"
   },
   {
@@ -878,7 +834,7 @@
    "applyLink": "https://sushi-tech-tokyo.agorize.com/en/challenges/sushi-tech-challenge-2027",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "sushi-tech-challenge-2027"
   },
   {
@@ -900,7 +856,7 @@
    "applyLink": "https://azimpremjifoundation.org/who-we-are/how-we-are-organised/grants/social-startups-programme/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "azim-premji-social-startups-2027"
   },
   {
@@ -922,7 +878,7 @@
    "applyLink": "https://www.unicef.org/innovation/FemTechCall",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "unicef-femtech-ventures-2026"
   },
   {
@@ -944,7 +900,7 @@
    "applyLink": "https://d-prize.org/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "d-prize-global-competition-2026"
   },
   {
@@ -966,7 +922,7 @@
    "applyLink": "https://www.theliveabilitychallenge.org/participate",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "liveability-challenge-2027"
   },
   {
@@ -988,7 +944,7 @@
    "applyLink": "https://prip.pharma-dept.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "prip-call-2-pharma-medtech"
   },
   {
@@ -1010,7 +966,7 @@
    "applyLink": "https://startupbuildathon.com/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "startup-buildathon-india-2026"
   },
   {
@@ -1032,7 +988,7 @@
    "applyLink": "https://digitwingrandchallenge.nldsl.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "nldsl-digitwin-grand-challenge-2026"
   },
   {
@@ -1054,7 +1010,7 @@
    "applyLink": "https://aiforgood.itu.int/about-us/innovation-factory/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "itu-ai-for-good-innovation-factory-2026-27"
   },
   {
@@ -1076,7 +1032,7 @@
    "applyLink": "https://www.achema.de/en/the-achema/achema-start-up-award",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "achema-startup-award-2027"
   },
   {
@@ -1098,7 +1054,7 @@
    "applyLink": "https://grandchallenges.ca/programs/nexa/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "nexa-lighthouse-asia-pacific-2026"
   },
   {
@@ -1120,7 +1076,7 @@
    "applyLink": "https://uplink.weforum.org/systems-industries-ai-supply-chains-ai-for-plastics-value-chains-transformation",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "uplink-ai-plastics-value-chain-2026"
   },
   {
@@ -1142,7 +1098,7 @@
    "applyLink": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Bihar-state-policy.html",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "bihar-startup-seed-fund"
   },
   {
@@ -1164,7 +1120,7 @@
    "applyLink": "https://haryanaindustries.gov.in/themes/backend/uploads/Startup%20Seed%20Funding%20Scheme.pdf",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "haryana-startup-seed-grant"
   },
   {
@@ -1186,7 +1142,7 @@
    "applyLink": "https://startupodisha.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "startup-odisha-allowance-product-assistance"
   },
   {
@@ -1208,8 +1164,74 @@
    "applyLink": "https://antler.co/location/india",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-07",
+   "addedOn": "2026-11-08",
    "slug": "antler-india-residency"
+  },
+  {
+   "id": "auto-entrepreneur-first-bangalore-winter-2027",
+   "title": "Entrepreneur First — Bangalore Winter 2027 Programme",
+   "type": "Accelerator",
+   "stages": "Idea",
+   "sectors": "Deep tech, AI, Sector agnostic",
+   "shortDesc": "EF's Bangalore programme recruits individual technical and entrepreneurial people before they have a co-founder or an idea, helps them form a team and a company over 14 weeks in Bangalore, then moves funded teams to San Francisco. The Winter 2027 cohort starts in February 2027 and 1 December 2026 is the cut-off for its third selection round.",
+   "fundingAmount": "Up to $250K (~₹2.2 crore) pre-seed for selected companies",
+   "provider": "Entrepreneur First (EF)",
+   "geography": "India",
+   "deadline": "2026-12-01",
+   "about": "EF's Bangalore programme recruits individual technical and entrepreneurial people before they have a co-founder or an idea, helps them form a team and a company over 14 weeks in Bangalore, then moves funded teams to San Francisco. The Winter 2027 cohort starts in February 2027 and 1 December 2026 is the cut-off for its third selection round. Apply by 1 December 2026 to be considered in the third of four selection rounds for Winter 2027 (programme starts February 2027). This is equity investment, not a grant, and only teams EF chooses to back receive money. Investment terms come from EF's published standard deal as reported by third parties; confirm the India terms at interview. Expect to relocate to San Francisco if funded.",
+   "eligibility": "Individuals apply, not companies: you do not need a co-founder or a startup idea\nAimed at early-career people with exceptional results relative to their peers, typically technical or commercial builders\nMust be able to commit full-time and in person in Bangalore for the 14-week programme\nFunded companies are expected to relocate and build from San Francisco after the Bangalore phase (EF may help with visas but does not provide them)\nExisting co-founders can apply, but each person should submit their own application and mention the other",
+   "benefits": "Structured co-founder matching and idea development alongside a cohort of other founders\nPre-seed investment for companies EF backs: reported terms are $125K on a post-money SAFE for 8%, plus an optional further $125K on an uncapped MFN SAFE\nA further 3 months in San Francisco after the Bangalore phase for funded teams\nAccess to EF's global investor and alumni network",
+   "fundingType": "Equity",
+   "fundingSource": "Private",
+   "applyLink": "https://apply.joinef.com/",
+   "active": true,
+   "source": "auto",
+   "addedOn": "2026-11-08",
+   "slug": "entrepreneur-first-bangalore-winter-2027"
+  },
+  {
+   "id": "auto-google-for-startups-cloud-ai",
+   "title": "Google for Startups Cloud Program — AI Tier (up to $350K credits)",
+   "type": "Grant",
+   "stages": "MVP, Early Traction, Growth",
+   "sectors": "AI, SaaS, Deep tech",
+   "shortDesc": "Google Cloud gives venture-backed startups free cloud credits for two years, with AI-first companies building on Gemini eligible for up to $350,000. It is in-kind support for compute, storage and Google's AI models rather than cash, and applications are open year-round.",
+   "fundingAmount": "Up to $350K (~₹3 crore) in Google Cloud credits over 2 years",
+   "provider": "Google Cloud",
+   "geography": "Global",
+   "deadline": "",
+   "about": "Google Cloud gives venture-backed startups free cloud credits for two years, with AI-first companies building on Gemini eligible for up to $350,000. It is in-kind support for compute, storage and Google's AI models rather than cash, and applications are open year-round. Rolling. Credits are in-kind (not cash) and third-party models on Google Cloud are billed separately. Bootstrapped or angel-funded startups do not qualify for this tier but may be considered for Google's lower Start tier. Approval is at Google's discretion; keep your funding documents and company website ready.",
+   "eligibility": "Founded within the last five years\nRaised a pre-seed or seed round from institutional investors/VCs in the last five years, or a Series A in the last 12 months (SAFEs count; angel, grant, prize and friends-and-family money do not qualify for this tier)\nHas not already received more than $5,000 in Google Cloud credits\nUses or plans to use Gemini as a foundation of the main product to get the AI-first amount\nNot a consultancy, agency, dev shop, non-profit, educational or government body, or crypto-mining company; company domain must not have had a paid Google Workspace plan in the 31 days before applying",
+   "benefits": "AI-first startups: 100% of usage covered up to $250K in year 1, plus 20% up to another $100K in year 2\nOther eligible startups: up to $100K in year 1 plus up to $100K in year 2 (up to $200K total)\nCredits usable on Google Cloud services and Google's own models (Gemini, Gemma)\nWebinars and Q&As with Google Cloud AI product teams, and access to the Gemini Startup Forum",
+   "fundingType": "Non-dilutive",
+   "fundingSource": "Private",
+   "applyLink": "https://cloud.google.com/startup/ai",
+   "active": true,
+   "source": "auto",
+   "addedOn": "2026-11-08",
+   "slug": "google-for-startups-cloud-ai"
+  },
+  {
+   "id": "auto-aws-activate-credits",
+   "title": "AWS Activate — Cloud Credits for Startups (up to $200K)",
+   "type": "Grant",
+   "stages": "Idea, Prototype, MVP, Early Traction, Growth",
+   "sectors": "AI, SaaS, Sector agnostic",
+   "shortDesc": "AWS Activate gives startups free AWS cloud credits: bootstrapped founders can apply directly for up to $5,000, while startups backed by an approved accelerator, angel network or VC can receive up to $200,000. Applications are open all year and decisions usually take one to two weeks.",
+   "fundingAmount": "$1K–$5K (bootstrapped) or up to $200K (investor-backed) in AWS credits",
+   "provider": "Amazon Web Services (AWS)",
+   "geography": "Global",
+   "deadline": "",
+   "about": "AWS Activate gives startups free AWS cloud credits: bootstrapped founders can apply directly for up to $5,000, while startups backed by an approved accelerator, angel network or VC can receive up to $200,000. Applications are open all year and decisions usually take one to two weeks. Rolling; apply with an AWS Builder ID using your work email, choose your tier, add company and funding details, then link an AWS account. Replies typically arrive in 5–10 business days. Credits are in-kind and carry expiry dates under AWS's promotional credit terms. Ask your incubator whether it is an Activate Provider — many Indian incubators are, which unlocks the bigger tier.",
+   "eligibility": "Pre-Series B startup founded in the last 10 years\nAWS account on a paid-tier plan\nNew to Activate credits, or requesting more than previously received\nFor the Portfolio tier (up to $200K): backed by an AWS Activate Provider (accelerator, incubator, angel or VC) and able to supply that provider's Org ID",
+   "benefits": "Activate Founders: credits starting at $1,000, up to $5,000, for self-funded startups\nActivate Portfolio: up to $200,000 in credits through an Activate Provider\nAccess to 200+ AWS services including AI and data tools, plus Kiro startup credits for eligible startups\nInvite-only AI credits beyond $200K for scaling AI startups, and migration support credits",
+   "fundingType": "Non-dilutive",
+   "fundingSource": "Private",
+   "applyLink": "https://aws.amazon.com/startups/credits",
+   "active": true,
+   "source": "auto",
+   "addedOn": "2026-11-08",
+   "slug": "aws-activate-credits"
   }
  ]
 }
