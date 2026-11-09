@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "items": [
     {
       "id": "elevate-nxt-2026-27",
@@ -1930,6 +1930,116 @@
       ],
       "link": "https://aws.amazon.com/startups/credits",
       "note": "Rolling; apply with an AWS Builder ID using your work email, choose your tier, add company and funding details, then link an AWS account. Replies typically arrive in 5–10 business days. Credits are in-kind and carry expiry dates under AWS's promotional credit terms. Ask your incubator whether it is an Activate Provider — many Indian incubators are, which unlocks the bigger tier."
+    },
+    {
+      "id": "wef-technology-pioneers-2027",
+      "title": "World Economic Forum Technology Pioneers 2027",
+      "org": "World Economic Forum",
+      "type": "Accelerator",
+      "amount": "No cash — free 2-year WEF community membership",
+      "amountMax": 0,
+      "deadline": "2027-01-31",
+      "region": "Global",
+      "stages": [
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "DeepTech",
+        "AI",
+        "Climate",
+        "Health",
+        "Technology"
+      ],
+      "equity": "No equity",
+      "summary": "The Forum picks around 100 early-stage frontier-tech companies worldwide each year for a two-year membership that brings them into WEF meetings, initiatives and publications; the 2027 call is open to Indian startups at no cost.",
+      "eligibility": [
+        "Company commercialising frontier or cutting-edge technology with a workable business model",
+        "At Series A funding stage",
+        "Less than 10 years since incorporation",
+        "Independent and privately held",
+        "Demonstrable positive impact on society or the planet, and leadership willing to give time to Forum activities"
+      ],
+      "benefits": [
+        "Two-year membership of the Technology Pioneers community, with no fee",
+        "Invitations to Forum meetings and multi-stakeholder initiatives alongside governments and large corporates",
+        "Platform to publish thought leadership through Forum Stories",
+        "Access to WEF research and the strategic intelligence platform",
+        "Global visibility when the cohort is announced in June 2027"
+      ],
+      "link": "https://initiatives.weforum.org/technology-pioneers/criteria",
+      "note": "Applications close 31 Jan 2027 at midnight Pacific Time (about 1:30 pm IST on 1 Feb). No fee at any stage. Review runs Feb–Apr 2027 and the cohort is announced in June 2027. This is recognition and network access, not funding — travel to events is usually at your own cost."
+    },
+    {
+      "id": "allianz-movenow-challenge-2026",
+      "title": "Allianz x Social Shifters MoveNow Social Innovation Challenge 2026",
+      "org": "Allianz with Social Shifters",
+      "type": "Challenge",
+      "amount": "US$5,000–10,000 grants ($90K pool)",
+      "amountMax": 880000,
+      "deadline": "2026-12-18",
+      "region": "Global",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Social Impact",
+        "Fintech",
+        "Health",
+        "Climate"
+      ],
+      "equity": "No equity",
+      "summary": "A worldwide challenge for founders aged 18–30 tackling social or environmental problems in underserved communities; three themes each award one US$10,000 grant and four US$5,000 grants, plus an Allianz business mentor for finalists.",
+      "eligibility": [
+        "Founders aged 18–30, based anywhere in the world (Indians eligible)",
+        "Youth-led startup, venture or project addressing a clearly defined social or environmental problem",
+        "Solution designed for and with underserved communities",
+        "Must fit one theme: financial confidence in the digital economy, closing the health gap, or community-led climate resilience"
+      ],
+      "benefits": [
+        "Grants of US$10,000 (one per theme) or US$5,000 (four per theme), equity-free",
+        "Mentoring from an Allianz business expert for finalists",
+        "Exposure through the Social Shifters global network"
+      ],
+      "link": "https://www.socialshifters.co/allianz-movenow-social-innovation-challenge/",
+      "note": "Deadline 18 Dec 2026 (no closing time published — submit by 17 Dec IST to be safe). Age is checked strictly; the lead applicant must be 18–30. Theme 1 targets tools that help entrepreneurs and SMEs manage money online; theme 2 focuses on women and marginalised groups in health; theme 3 on vulnerable rural and urban climate adaptation."
+    },
+    {
+      "id": "champalimaud-vision-award-2027",
+      "title": "António Champalimaud Vision Award 2027",
+      "org": "Champalimaud Foundation (Portugal)",
+      "type": "Grant",
+      "amount": "€1 million award",
+      "amountMax": 95000000,
+      "deadline": "2026-12-31",
+      "region": "Global",
+      "stages": [
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Health",
+        "MedTech",
+        "Social Impact"
+      ],
+      "equity": "No equity",
+      "summary": "One of the world's largest prizes in vision, the 2027 edition rewards organisations fighting blindness and visual impairment, mainly in developing regions, or building technology that improves life for blind and visually impaired people — a strong fit for Indian eye-care NGOs, hospitals and assistive-tech ventures.",
+      "eligibility": [
+        "Organisations of any size — local, national, regional or international — can apply or be nominated",
+        "Work must reduce blindness or visual impairment, primarily in developing countries, and/or deliver innovations that improve quality of life for visually impaired people",
+        "Collaborative, multi-institution or multidisciplinary efforts are welcome",
+        "A proven track record of productive work is expected (this is an award for results, not a seed grant)"
+      ],
+      "benefits": [
+        "€1,000,000 prize, usable for any non-commercial purpose that advances the laureates' work",
+        "International recognition at the award ceremony in Lisbon",
+        "Entries stay active for three award cycles, with updates allowed"
+      ],
+      "link": "https://fchampalimaud.org/vision-award",
+      "note": "Applications and nominations close 31 Dec 2026; supplementary material can be sent in the first half of January 2027 if you notify the Foundation (award@fchampalimaud.org). Prize money cannot be used for commercial purposes, so early-stage for-profit startups are a weak fit. Odd-year awards focus on public-health and assistive work; even years go to research."
     }
   ]
 }
