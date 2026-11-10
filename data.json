@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "items": [
     {
       "id": "elevate-nxt-2026-27",
@@ -779,43 +779,6 @@
       ],
       "link": "https://sabapplier.com/fundingAlerts/zero-shot-fund",
       "note": "Rolling. Link is a listing page — find the fund's own apply form."
-    },
-    {
-      "id": "yc-winter-2027",
-      "title": "Y Combinator Winter 2027 Batch",
-      "org": "Y Combinator",
-      "type": "Accelerator",
-      "amount": "US$500,000 investment (~₹4.4 Cr)",
-      "amountMax": 44000000,
-      "deadline": "2026-11-02",
-      "region": "Global",
-      "stages": [
-        "Idea",
-        "Prototype",
-        "MVP",
-        "Revenue"
-      ],
-      "sectors": [
-        "Technology",
-        "Any sector"
-      ],
-      "equity": "Takes equity",
-      "summary": "YC's three-month Winter 2027 batch (January–March) in San Francisco, open to founders anywhere in the world, with a US$500K investment in every accepted company.",
-      "eligibility": [
-        "Startups from any country, including India — no US incorporation, visa or business licence needed to apply",
-        "Any stage, from idea to early revenue",
-        "Founders must be able to attend in person in San Francisco for the batch",
-        "One application per company; co-founders apply together"
-      ],
-      "benefits": [
-        "US$500,000 invested on acceptance",
-        "Three months of partner office hours and weekly in-person events",
-        "Demo Day access to a large investor audience",
-        "YC help with US incorporation and visas after acceptance",
-        "Lifetime access to the YC alumni network"
-      ],
-      "link": "https://www.ycombinator.com/apply/",
-      "note": "On-time deadline is 2 Nov 2026 at 8:00 PM Pacific — about 9:30 AM IST on 3 Nov. YC still reviews late applications but gives no fixed response date. Expect to relocate to San Francisco for the batch; no application fee."
     },
     {
       "id": "icmr-first-in-the-world-2026",
@@ -2040,6 +2003,87 @@
       ],
       "link": "https://fchampalimaud.org/vision-award",
       "note": "Applications and nominations close 31 Dec 2026; supplementary material can be sent in the first half of January 2027 if you notify the Foundation (award@fchampalimaud.org). Prize money cannot be used for commercial purposes, so early-stage for-profit startups are a weak fit. Odd-year awards focus on public-health and assistive work; even years go to research."
+    },
+    {
+      "id": "lee-kuan-yew-global-business-plan-competition-2027",
+      "title": "Lee Kuan Yew Global Business Plan Competition 2027 (13th edition)",
+      "org": "Institute of Innovation & Entrepreneurship, Singapore Management University (SMU)",
+      "type": "Challenge",
+      "amount": "Share of a S$2.5M+ prize pool (cash, grants, investment, in-kind)",
+      "amountMax": 0,
+      "deadline": "2027-03-31",
+      "region": "Global",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Climate Tech",
+        "Energy",
+        "Food & Agri",
+        "Urban Mobility",
+        "HealthTech",
+        "Circular Economy",
+        "DeepTech"
+      ],
+      "equity": "Not stated",
+      "summary": "SMU's flagship global competition is looking for university-linked founders building deep-tech answers to urban and sustainability problems, from climate and energy to mobility, food systems and longevity. Fifty finalists are flown to Singapore for the finals, and the strongest can move into SMU's Urban SustaInnovator accelerator and fund.",
+      "eligibility": [
+        "At least one founder must be currently enrolled at a university or have graduated within the last five years",
+        "Startup must address one of the competition's 12 urban/sustainability focus areas (e.g. climate tech, energy, food and land use, urban mobility, longevity/healthtech, sustainable materials)",
+        "Two tracks: 'Beta' for 0-to-1 ventures and 'Infinity' for 1-to-scale ventures",
+        "Open to founders from any country, including India",
+        "Registration is free via the competition's Agorize page"
+      ],
+      "benefits": [
+        "Share of a total prize pool above S$2.5 million, mixing cash, grants, investment opportunities and in-kind support",
+        "Finalists flown to Singapore for the finals and Innovation Festival (28 Sep – 1 Oct 2027)",
+        "Investor, mentor and corporate introductions during finals week",
+        "Selected finalists can join SMU's Urban SustaInnovator (USI) accelerator and be considered by its fund"
+      ],
+      "link": "https://iie.smu.edu.sg/lkygbpc",
+      "note": "Final registration closes 31 Mar 2027; an early-bird round closes 31 Jan 2027, so registering early is wise. No closing time zone is published — treat it as Singapore time (IST+2:30). The university link is a hard requirement: a founder without a current enrolment or a degree from the last five years makes the team ineligible."
+    },
+    {
+      "id": "birac-pcp-fund",
+      "title": "BIRAC Product Commercialization Program (PCP) Fund",
+      "org": "BIRAC (Dept of Biotechnology, Govt of India)",
+      "type": "Debt",
+      "amount": "Co-funding for commercialisation; BIRAC share set by committee",
+      "amountMax": 0,
+      "deadline": "2026-12-31",
+      "region": "National",
+      "stages": [
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Biotech",
+        "HealthTech",
+        "MedTech",
+        "AgriTech",
+        "Life Sciences"
+      ],
+      "equity": "No equity",
+      "summary": "BIRAC's PCP Fund helps Indian biotech startups with a market-ready product (TRL 7+) pay for the final push to launch — market testing, scale-up and commercial roll-out. It is soft funding repaid through a royalty, not a free grant, so it suits teams expecting revenue within 6–18 months.",
+      "eligibility": [
+        "Indian startup incorporated within the last 10 years (as per the incorporation certificate)",
+        "At least 51% Indian shareholding held by Indian citizens, certified by a CA/CS with a valid UDIN",
+        "Product or technology at TRL 7 or above on BIRAC's scale and of national relevance — it need not have been developed with BIRAC money",
+        "Applicant must put in at least 30% of the total project cost",
+        "A product that has already received PCP funding cannot apply again"
+      ],
+      "benefits": [
+        "BIRAC co-funds the cost of taking a validated product to market (launch, market testing, scale-up)",
+        "No equity taken — repayment is via royalty",
+        "Milestone-linked fund releases with committee guidance on commercial readiness",
+        "Route for products from BIRAC's BIG/SBIRI/BioNEST pipeline as well as externally funded biotech startups"
+      ],
+      "link": "https://birac.nic.in/webcontent/1767868002_PCP_07_01_2026.pdf",
+      "note": "The India Science & Technology portal lists the last date as 31 Dec 2026, while BIRAC's January 2026 call text describes rolling, year-round intake with periodic evaluation — confirm on the BIRAC proposal portal before investing time. The catch: BIRAC's contribution is repaid as a royalty within 5 years of project completion — 1.5x if the product is commercialised, 1x if not, with at least 20% paid each year. Keep ready the incorporation certificate, CA/CS shareholding certificate with UDIN and passports of the 51% Indian shareholders."
     }
   ]
 }
