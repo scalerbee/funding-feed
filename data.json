@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "items": [
     {
       "id": "elevate-nxt-2026-27",
@@ -2084,6 +2084,131 @@
       ],
       "link": "https://birac.nic.in/webcontent/1767868002_PCP_07_01_2026.pdf",
       "note": "The India Science & Technology portal lists the last date as 31 Dec 2026, while BIRAC's January 2026 call text describes rolling, year-round intake with periodic evaluation — confirm on the BIRAC proposal portal before investing time. The catch: BIRAC's contribution is repaid as a royalty within 5 years of project completion — 1.5x if the product is commercialised, 1x if not, with at least 20% paid each year. Keep ready the incorporation certificate, CA/CS shareholding certificate with UDIN and passports of the 51% Indian shareholders."
+    },
+    {
+      "id": "iima-ventures-ai-for-livelihoods-hackathon-2026",
+      "title": "AI for Livelihoods Hackathon 2026 (Women's Economic Empowerment)",
+      "org": "IIMA Ventures (IIM Ahmedabad) with SEWA Bharat, PRADAN and Hand in Hand India, supported by the Gates Foundation",
+      "type": "Challenge",
+      "amount": "₹5 lakh pilot grant; follow-on up to ₹50 lakh",
+      "amountMax": 5000000,
+      "deadline": "2026-11-19",
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "AI",
+        "Livelihoods",
+        "Women Empowerment",
+        "FinTech",
+        "Social Impact"
+      ],
+      "equity": "Varies",
+      "summary": "IIMA Ventures is looking for AI-led products that measurably raise the incomes of low-income women in India, with problem statements set by three large grassroots organisations. Winners get money and a real field partner to pilot with, which is often harder to find than the cash.",
+      "eligibility": [
+        "Teams building a technology (AI-enabled) solution that increases earnings or economic agency for low-income women in India",
+        "Idea, product and revenue-stage teams can apply — you do not need a registered company to submit",
+        "Must incorporate as an Indian entity before your selection is confirmed",
+        "Solution should fit one of the challenge problems posed by SEWA Bharat, PRADAN or Hand in Hand India",
+        "Teams that have been through other incubators or programmes are not excluded"
+      ],
+      "benefits": [
+        "₹5 lakh grant to pilot the solution with the challenge partner's community network",
+        "Shortlisted solutions can be considered for follow-on funding of up to ₹50 lakh to scale",
+        "Field access to SEWA Bharat, PRADAN or Hand in Hand India users for testing",
+        "Mentoring and investor exposure through IIMA Ventures' women's economic empowerment programme",
+        "No relocation required"
+      ],
+      "link": "https://iimaventures.com/programs/womens-economic-empowerment/",
+      "note": "Applications close 19 November 2026 via the Typeform linked on the IIMA Ventures page (exact closing time not published — submit by the evening of the 18th to be safe). The hackathon grant is presented as equity-free, but startups that are later onboarded as full IIMA Ventures incubatees are normally asked for 2–5% mentoring equity — clarify before signing anything. Have a short pitch deck, a description of the women-income problem you solve and any pilot data ready."
+    },
+    {
+      "id": "pi-rahi-sparks-2",
+      "title": "SPARKS 2.0 Grant for Deep-Tech Startups",
+      "org": "PI-RAHI (PU–IIT Ropar Regional Accelerator for Holistic Innovations), Northern Region S&T Cluster under the Office of the Principal Scientific Adviser",
+      "type": "Grant",
+      "amount": "Up to ₹10 lakh",
+      "amountMax": 1000000,
+      "deadline": "2026-11-23",
+      "region": "National",
+      "stages": [
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "AgriTech",
+        "Food Processing",
+        "CleanTech",
+        "EV & Mobility",
+        "HealthTech",
+        "MedTech",
+        "Pharma",
+        "Waste Management",
+        "Deep Tech"
+      ],
+      "equity": "Not stated",
+      "summary": "SPARKS 2.0 gives research-driven startups with a working MVP (TRL 4+) a grant of up to ₹10 lakh plus mentoring, IP and commercialisation help from the PU–IIT Ropar science-and-technology cluster. It is pitched at north Indian founders but is not restricted to them.",
+      "eligibility": [
+        "Startup or innovator with a product or service at MVP stage, technology at TRL 4 or higher",
+        "Registered as a Private Limited Company, or willing to incorporate as one within three months of selection",
+        "Innovation must fit at least one theme: agriculture & food processing; sustainable mobility & green energy; pharma, medical devices & healthcare; waste management & waste-to-wealth; indigenous technology development; or a cross-theme idea",
+        "Preference for entities registered in Punjab, Haryana, Chandigarh, Himachal Pradesh or Jammu & Kashmir, or targeting markets there — others may still apply"
+      ],
+      "benefits": [
+        "Grant support of up to ₹10 lakh, subject to selection and programme terms",
+        "Expert mentorship from the Panjab University–IIT Ropar ecosystem",
+        "Help with IP protection and commercialisation strategy",
+        "Introductions to investors and further funding sources",
+        "Acceleration support after selection"
+      ],
+      "link": "https://pi-rahi.com/sparks-2.0",
+      "note": "Last date 23 November 2026; apply through the Google Form linked on the PI-RAHI SPARKS 2.0 page. Process: online application → screening → shortlisted teams pitch to an evaluation panel. PI-RAHI has not published equity terms or a required-documents list, so email coo@pi-rahi.com if that matters to you. Keep TRL evidence, incorporation details (or a plan to incorporate within 3 months) and a short technical deck handy."
+    },
+    {
+      "id": "rockefeller-cities-deliver-ai-2026",
+      "title": "Cities Deliver: AI Solutions for Public Services",
+      "org": "The Rockefeller Foundation with the OpenAI Foundation",
+      "type": "Grant",
+      "amount": "$500K–$2M (≈₹4.4–17.6 Cr) over 24 months",
+      "amountMax": 176000000,
+      "deadline": "2026-11-29",
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "AI",
+        "GovTech",
+        "HealthTech",
+        "Climate",
+        "Civic Tech",
+        "Social Impact"
+      ],
+      "equity": "No equity",
+      "summary": "A $50 million global grant programme for teams that partner with a city to deploy AI that improves public services for underserved residents — in health, economic mobility, environmental resilience or civic services. Indian non-profits, public benefit companies and, in limited cases, for-profit startups can apply if they have a city government on board.",
+      "eligibility": [
+        "Lead applicant must be a non-profit (including university labs and fiscally sponsored groups), a public benefit corporation, or a for-profit company whose project is charitable and benefits the business only incidentally",
+        "Must have a city partner — a city of 50,000+ residents with its own municipal government — that provides a letter of intent; governments cannot apply directly",
+        "Project must use AI to improve access to or quality of public services for poor, vulnerable or underserved communities in public health, economic mobility, environmental resilience or civic engagement (election/voting projects excluded)",
+        "Open globally including India; organisations in countries under comprehensive US OFAC sanctions are excluded",
+        "For-profits must disclose their business model, show an open-source approach for lasting public benefit, and ring-fence grant funds"
+      ],
+      "benefits": [
+        "Seed track: $500,000 to under $1 million for early concepts ready for a first city pilot",
+        "Scale track: $1–2 million for solutions already piloted in a city with early results",
+        "24-month grant, half paid upfront and half after a mid-term milestone",
+        "No equity taken",
+        "Visibility within a global cohort backed by the Rockefeller and OpenAI foundations"
+      ],
+      "link": "https://www.rockefellerfoundation.org/cities-deliver-ai-solutions-for-public-services/",
+      "note": "Round 1 closes 29 November 2026 at 11:59 pm US Eastern (about 10:29 am IST on 30 November) on the citiesdeliver.rockefellerfoundation.org portal. Round 1 needs an eligibility screen, a short video demo of the AI solution, a certificate of incorporation (or 501(c)(3)-equivalency/fiscal-sponsor proof) and a city partner's letter of intent — getting the city letter is the real bottleneck, so start now. Shortlisted teams interview in January 2027 and submit full proposals by 1 March 2027. For-profit applicants cannot claim indirect costs."
     }
   ]
 }
