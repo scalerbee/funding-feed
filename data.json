@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "items": [
     {
       "id": "elevate-nxt-2026-27",
@@ -2209,6 +2209,85 @@
       ],
       "link": "https://www.rockefellerfoundation.org/cities-deliver-ai-solutions-for-public-services/",
       "note": "Round 1 closes 29 November 2026 at 11:59 pm US Eastern (about 10:29 am IST on 30 November) on the citiesdeliver.rockefellerfoundation.org portal. Round 1 needs an eligibility screen, a short video demo of the AI solution, a certificate of incorporation (or 501(c)(3)-equivalency/fiscal-sponsor proof) and a city partner's letter of intent — getting the city letter is the real bottleneck, so start now. Shortlisted teams interview in January 2027 and submit full proposals by 1 March 2027. For-profit applicants cannot claim indirect costs."
+    },
+    {
+      "id": "start-up-chile-big13",
+      "title": "Start-Up Chile BIG 13 (Build, Ignite & Growth)",
+      "org": "Start-Up Chile (CORFO, Government of Chile)",
+      "type": "Accelerator",
+      "amount": "Up to CLP 75 million (~₹69 lakh), equity-free",
+      "amountMax": 6900000,
+      "deadline": "2026-11-24",
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Sector-agnostic",
+        "Technology"
+      ],
+      "equity": "No equity",
+      "summary": "Chile's government-backed accelerator is taking applications for its 13th generation, with three tracks: Build (4 months, for teams moving from validated idea to first prototype), Ignite (4 months, for startups with an MVP chasing product-market fit) and Growth (6 months, for companies scaling and raising capital). Founders from any country can apply, and selected foreign teams get help with a work visa and setting up in Chile.",
+      "eligibility": [
+        "Technology-based, innovative and scalable startups from any country and any industry",
+        "Build: idea validated, working towards an initial prototype",
+        "Ignite: functional product (MVP) with early validation and under about three years of development",
+        "Growth: companies already expanding and looking to raise capital",
+        "Applicants must clear an eligibility check against the BIG 13 terms and conditions before evaluation"
+      ],
+      "benefits": [
+        "Equity-free funding: about CLP 15 million (Build, co-financed), CLP 30 million (Ignite) or CLP 75 million (Growth)",
+        "Free co-working space in Chile and discounts on partner services",
+        "Board sessions, training and access to Start-Up Chile's corporate and investor networks",
+        "Support to obtain a work visa and set up operations in Chile",
+        "Higher funding share (up to 90%) for teams with women leaders under the Female Founder Factor"
+      ],
+      "link": "https://startupchile.org/en/apply/",
+      "note": "Applications close 24 Nov 2026 at 1:00 PM Chile time (GMT-3), which is 9:30 PM IST. Programmes start in the first half of 2027. Funding is in Chilean pesos and Build requires co-financing from the startup. Expect to run your business from Chile during the programme — read the BIG 13 terms on the site before applying."
+    },
+    {
+      "id": "nvidia-inception",
+      "title": "NVIDIA Inception Program for AI Startups",
+      "org": "NVIDIA",
+      "type": "Accelerator",
+      "amount": "Free membership: cloud credits, hardware discounts, training and investor intros",
+      "amountMax": 0,
+      "deadline": null,
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "AI",
+        "Deep tech",
+        "Data science",
+        "Robotics",
+        "Computer vision"
+      ],
+      "equity": "No equity",
+      "summary": "NVIDIA's free, always-open programme for startups building with AI, accelerated computing or data science. Members get preferred pricing on NVIDIA hardware and software, partner cloud credits, free technical training and a route to NVIDIA's network of venture investors — with no cohorts, fees or equity.",
+      "eligibility": [
+        "Company is officially incorporated (you must give the incorporation date)",
+        "Less than 10 years old",
+        "Has at least one developer on the team",
+        "Has a working company website",
+        "Not a consultancy or outsourced dev shop, crypto-related company, cloud provider, reseller/distributor or listed public company"
+      ],
+      "benefits": [
+        "Preferred pricing on selected NVIDIA hardware and software",
+        "Free cloud credits and offers from NVIDIA and its partners",
+        "Free self-paced NVIDIA Deep Learning Institute courses and discounted instructor-led workshops",
+        "Possible introductions to venture investors through Inception Capital Connect",
+        "Member badge, co-marketing opportunities and access to NVIDIA events"
+      ],
+      "link": "https://www.nvidia.com/en-in/startups/",
+      "note": "Rolling — apply any time through the Inception portal; there are no deadlines or cohorts. A pitch deck is required with the application, and revenue or funding is not required. Benefits are mainly in-kind (no cash grant); keep your company profile updated in the portal to stay eligible."
     }
   ]
 }
