@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "items": [
     {
       "id": "elevate-nxt-2026-27",
@@ -2048,44 +2048,6 @@
       "note": "Final registration closes 31 Mar 2027; an early-bird round closes 31 Jan 2027, so registering early is wise. No closing time zone is published — treat it as Singapore time (IST+2:30). The university link is a hard requirement: a founder without a current enrolment or a degree from the last five years makes the team ineligible."
     },
     {
-      "id": "birac-pcp-fund",
-      "title": "BIRAC Product Commercialization Program (PCP) Fund",
-      "org": "BIRAC (Dept of Biotechnology, Govt of India)",
-      "type": "Debt",
-      "amount": "Co-funding for commercialisation; BIRAC share set by committee",
-      "amountMax": 0,
-      "deadline": "2026-12-31",
-      "region": "National",
-      "stages": [
-        "Revenue",
-        "Growth"
-      ],
-      "sectors": [
-        "Biotech",
-        "HealthTech",
-        "MedTech",
-        "AgriTech",
-        "Life Sciences"
-      ],
-      "equity": "No equity",
-      "summary": "BIRAC's PCP Fund helps Indian biotech startups with a market-ready product (TRL 7+) pay for the final push to launch — market testing, scale-up and commercial roll-out. It is soft funding repaid through a royalty, not a free grant, so it suits teams expecting revenue within 6–18 months.",
-      "eligibility": [
-        "Indian startup incorporated within the last 10 years (as per the incorporation certificate)",
-        "At least 51% Indian shareholding held by Indian citizens, certified by a CA/CS with a valid UDIN",
-        "Product or technology at TRL 7 or above on BIRAC's scale and of national relevance — it need not have been developed with BIRAC money",
-        "Applicant must put in at least 30% of the total project cost",
-        "A product that has already received PCP funding cannot apply again"
-      ],
-      "benefits": [
-        "BIRAC co-funds the cost of taking a validated product to market (launch, market testing, scale-up)",
-        "No equity taken — repayment is via royalty",
-        "Milestone-linked fund releases with committee guidance on commercial readiness",
-        "Route for products from BIRAC's BIG/SBIRI/BioNEST pipeline as well as externally funded biotech startups"
-      ],
-      "link": "https://birac.nic.in/webcontent/1767868002_PCP_07_01_2026.pdf",
-      "note": "The India Science & Technology portal lists the last date as 31 Dec 2026, while BIRAC's January 2026 call text describes rolling, year-round intake with periodic evaluation — confirm on the BIRAC proposal portal before investing time. The catch: BIRAC's contribution is repaid as a royalty within 5 years of project completion — 1.5x if the product is commercialised, 1x if not, with at least 20% paid each year. Keep ready the incorporation certificate, CA/CS shareholding certificate with UDIN and passports of the 51% Indian shareholders."
-    },
-    {
       "id": "iima-ventures-ai-for-livelihoods-hackathon-2026",
       "title": "AI for Livelihoods Hackathon 2026 (Women's Economic Empowerment)",
       "org": "IIMA Ventures (IIM Ahmedabad) with SEWA Bharat, PRADAN and Hand in Hand India, supported by the Gates Foundation",
@@ -2288,6 +2250,88 @@
       ],
       "link": "https://www.nvidia.com/en-in/startups/",
       "note": "Rolling — apply any time through the Inception portal; there are no deadlines or cohorts. A pitch deck is required with the application, and revenue or funding is not required. Benefits are mainly in-kind (no cash grant); keep your company profile updated in the portal to stay eligible."
+    },
+    {
+      "id": "amrut-ipps-startup-challenge-2026",
+      "title": "India Pitch-Pilot-Scale Startup Challenge (AMRUT 2.0) – Reopened",
+      "org": "Ministry of Housing and Urban Affairs (MoHUA) with MyGov",
+      "type": "Challenge",
+      "amount": "Up to ₹20 lakh grant per startup",
+      "amountMax": 2000000,
+      "deadline": "2026-12-15",
+      "region": "National",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Water",
+        "Urban Infrastructure",
+        "Climate",
+        "Cleantech",
+        "Smart Cities",
+        "Energy Efficiency"
+      ],
+      "equity": "No equity",
+      "summary": "MoHUA has reopened its AMRUT 2.0 startup challenge, which pays DPIIT-recognised startups up to ₹20 lakh to pilot their technology with an Indian city body and then scale it. Problem areas span urban water supply, sewage and used-water reuse, flooding, air quality, street lighting, municipal energy use and heat resilience.",
+      "eligibility": [
+        "Must be a DPIIT-recognised startup",
+        "Solution must fit one of the 12 listed themes, e.g. fresh-water systems, hydro-informatics, non-revenue water, sewerage, used-water management, urban flooding, water governance, air quality, municipal energy efficiency, smart street lighting or urban heat resilience",
+        "Should be able to run a field pilot with an urban local body (ULB) and show measurable results",
+        "Applications are submitted online through the MyGov Innovate India portal"
+      ],
+      "benefits": [
+        "Grant of up to ₹20 lakh, released in three milestone-linked tranches of ₹5 lakh, ₹7 lakh and ₹8 lakh",
+        "Pilot deployment with a city/ULB, which serves as a government reference customer",
+        "Mentoring, plus MoHUA support to scale through industry and ULB partnerships",
+        "Ministry citation and national visibility for successful startups"
+      ],
+      "link": "https://innovateindia.mygov.in/ipps-startup/",
+      "note": "Submission window reopened 10 Nov 2026 and closes 15 Dec 2026; the portal does not state a closing hour, so submit by the evening of 14 Dec to be safe. Keep your DPIIT certificate, a short pitch describing the problem statement you are solving and a pilot plan with measurable outcomes ready. The catch: the money is not upfront — tranches are released only as pilot milestones are met with the partner city."
+    },
+    {
+      "id": "entrepreneurship-world-cup-2027",
+      "title": "Entrepreneurship World Cup 2027 (Riyadh Global Finals)",
+      "org": "Global Entrepreneurship Network (GEN) with Saudi partners",
+      "type": "Challenge",
+      "amount": "US$1 million cash prize pool (top prize US$200,000)",
+      "amountMax": 17600000,
+      "deadline": "2027-05-31",
+      "region": "Global",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Sector-agnostic",
+        "AI",
+        "Manufacturing",
+        "Mobility",
+        "Energy",
+        "Water",
+        "Gaming"
+      ],
+      "equity": "No equity",
+      "summary": "One of the world's largest free pitch competitions, open to founders in 160+ countries including India, with separate tracks for idea, early and growth-stage ventures plus four AI sub-tracks. The top 100 are flown to Riyadh for the Global Finals in November 2027 to compete for US$1 million in cash.",
+      "eligibility": [
+        "Individuals or legally registered entities in good standing in their home country (not in liquidation or bankruptcy)",
+        "Founder or authorised representative must be 18 or older",
+        "Idea track: validated concept, no revenue needed; Early track: registered entity with a working product or prototype and under US$1M annual revenue",
+        "Growth track: over US$1M annual revenue or significant traction such as a Series A round",
+        "AI sub-tracks are open to companies at any stage; applicants must not be under international sanctions"
+      ],
+      "benefits": [
+        "Cash prizes: Early Stage US$200k/150k/90k/50k, Growth Stage US$160k/100k, Idea Stage US$30k/20k, and US$50k for each of four AI sub-tracks",
+        "All-expenses-paid trip to Riyadh for the Global Finals",
+        "Mentoring and a virtual bootcamp for all top-100 finalists, plus investor introductions",
+        "Optional Saudi soft-landing support, pilot access with large projects and residency pathways"
+      ],
+      "link": "https://entrepreneurshipworldcup.com/",
+      "note": "Registration has been extended to 31 May 2027; there is no entry fee. After registration come venture refinement, global selection and a virtual bootcamp before the top 100 are named. Finalists must attend in person in Riyadh (Nov 2027), must submit supporting documents within five business days when asked, and pay their own local taxes and bank charges on prize money. Organisers may move you to a different track if your traction does not match the one you picked."
     }
   ]
 }
