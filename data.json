@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "items": [
     {
       "id": "elevate-nxt-2026-27",
@@ -2332,6 +2332,86 @@
       ],
       "link": "https://entrepreneurshipworldcup.com/",
       "note": "Registration has been extended to 31 May 2027; there is no entry fee. After registration come venture refinement, global selection and a virtual bootcamp before the top 100 are named. Finalists must attend in person in Riyadh (Nov 2027), must submit supporting documents within five business days when asked, and pay their own local taxes and bank charges on prize money. Organisers may move you to a different track if your traction does not match the one you picked."
+    },
+    {
+      "id": "tih-iitb-aarohan-7",
+      "title": "Aarohan 7.0 — TIH IIT Bombay Seed Support Programme",
+      "org": "TIH Foundation for IoT & IoE, IIT Bombay (under DST's NM-ICPS mission)",
+      "type": "Equity",
+      "amount": "Up to ₹1 crore seed investment",
+      "amountMax": 10000000,
+      "deadline": "2026-11-22",
+      "region": "National",
+      "stages": [
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "IoT",
+        "Robotics & Autonomous Systems",
+        "Manufacturing & Logistics",
+        "Agritech",
+        "Healthtech",
+        "Dairy & Livestock"
+      ],
+      "equity": "Takes equity",
+      "summary": "IIT Bombay's IoT Technology Innovation Hub is investing up to ₹1 crore in startups whose IoT or AI-powered autonomous products are already proven in the field (TRL 6+). This edition targets four areas: autonomous systems for factories, warehouses and logistics; field and inspection systems for farms and infrastructure; assistive and autonomous systems for hospitals; and tech for dairy, livestock and animal husbandry.",
+      "eligibility": [
+        "DPIIT-recognised startup, or able to give an undertaking that it qualifies for DPIIT recognition",
+        "Indian promoters must hold at least 51% of shares on the date of application",
+        "Technology must be core to the product or business model and sit within the IoT domain",
+        "Product at Technology Readiness Level 6 or higher, i.e. demonstrated in a real environment and moving to deployment or sales — idea-stage teams are not eligible",
+        "Must not have taken investment from any other NM-ICPS Technology Innovation Hub (earlier grants from a TIH are fine)"
+      ],
+      "benefits": [
+        "Up to ₹1 crore invested as equity or CCPS, released in tranches against milestones you propose",
+        "Business and technical mentoring from TIH IIT Bombay",
+        "Access to the hub's labs, facilities and technical resources as per hub policy",
+        "Visibility through TIH events and connections across the national NM-ICPS hub network"
+      ],
+      "link": "https://tihiitb.org/programs/innovation-entrepreneurship-development/aarohan-7/",
+      "note": "Apply online by 22 November 2026 (no closing time is published, so don't leave it to the last evening). Keep ready: certificate of incorporation, MoA/AoA, company PAN, DPIIT certificate or eligibility undertaking, up to three years of financial statements, a fully diluted cap table on letterhead, and the budget/milestone sheet and pitch deck in TIH's own templates (downloadable from the programme page). This is an investment, not a grant — expect equity or CCPS terms and an investment committee review after a possible pitch round. Queries: entredevelopment@tihiitb.org."
+    },
+    {
+      "id": "imagine-h2o-2027",
+      "title": "Imagine H2O Accelerator & Imagine H2O Asia — 2027 Cohorts",
+      "org": "Imagine H2O (global non-profit water innovation accelerator)",
+      "type": "Accelerator",
+      "amount": "Mentoring, investor access + pilot co-funding (up to US$125K in recent cohorts)",
+      "amountMax": 11000000,
+      "deadline": "2026-11-20",
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Water",
+        "Climate",
+        "Cleantech",
+        "Agritech",
+        "Industrial"
+      ],
+      "equity": "Not stated",
+      "summary": "Imagine H2O has opened applications for its 2027 global Water Accelerator and its Asia programme, aimed at early-stage water technology companies that have finished a proof of concept. Selected startups get mentors, introductions to water-focused investors and utilities, and a route to funded pilot projects; the cohort is announced in April 2027.",
+      "eligibility": [
+        "For-profit startup that is less than 10 years old",
+        "Annual revenue below US$5 million",
+        "Proof of concept already completed",
+        "Equity raised below US$10 million for the global Accelerator, or below US$20 million for Imagine H2O Asia",
+        "Solution must address water — e.g. utilities, industrial water, agriculture water use, water quality or resilience"
+      ],
+      "benefits": [
+        "Year-long mentoring from water-industry experts, investors and founders",
+        "Introductions to water-focused venture capital and potential customers such as utilities and industrial users",
+        "Pilot support: recent cohorts could access co-funding of up to US$25K (Asia, with ADB and Singapore partners) and up to US$125K from Imagine H2O's Water Innovation Pilot Fund",
+        "Global visibility through Imagine H2O's network and events; the Asia track adds in-country advisors and customer meetings across South and Southeast Asia"
+      ],
+      "link": "https://www.imagineh2o.org/apply/",
+      "note": "Applications close Friday 20 November 2026 (US time — submit by 19 November in India to be safe). The 2027 cohort is announced in April 2027. Pilot-fund amounts above are from the 2026 programme and are competitive, not guaranteed. The organiser has not published fee or equity terms in its announcement; read the terms on the application page before applying."
     }
   ]
 }
