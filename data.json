@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "items": [
     {
       "id": "elevate-nxt-2026-27",
@@ -2412,6 +2412,84 @@
       ],
       "link": "https://www.imagineh2o.org/apply/",
       "note": "Applications close Friday 20 November 2026 (US time — submit by 19 November in India to be safe). The 2027 cohort is announced in April 2027. Pilot-fund amounts above are from the 2026 programme and are competitive, not guaranteed. The organiser has not published fee or equity terms in its announcement; read the terms on the application page before applying."
+    },
+    {
+      "id": "inc42-devx-reframe-proptech-2027",
+      "title": "RE:FRAME PropTech Accelerator — Cohort 01",
+      "org": "Inc42 with DevX",
+      "type": "Accelerator",
+      "amount": "Pitch for a ₹15 Cr investment pool + 7 coworking seats",
+      "amountMax": 150000000,
+      "deadline": "2026-12-20",
+      "region": "National",
+      "stages": [
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "PropTech",
+        "Real Estate",
+        "Construction Tech",
+        "SaaS"
+      ],
+      "equity": "Varies",
+      "summary": "A four-week accelerator for Indian PropTech startups run by media house Inc42 and listed workspace operator DevX: three weeks online, then a residential bootcamp and Demo Day in Delhi NCR in March 2027. Only 10 startups get in, and the shortlisted few pitch for a shared ₹15 crore investment pool.",
+      "eligibility": [
+        "Startup registered and headquartered in India, incorporated on or after 1 January 2020",
+        "Working product with early customers — annual revenue roughly ₹1 Cr to ₹8 Cr",
+        "Bootstrapped, seed or pre-Series A funding stage",
+        "Solution anywhere in the real-estate value chain (construction, leasing, property management, financing, facilities, etc.)",
+        "Founders able to attend every virtual session and the full Delhi NCR bootcamp",
+        "Startups missing one criterion may still apply and are judged on traction, problem, market, team and scalability"
+      ],
+      "benefits": [
+        "Mentor-led curriculum on enterprise sales and GTM, unit economics, product/AI and fundraising readiness",
+        "Demo Day pitch to investors for a share of a ₹15 Cr investment pool (subject to due diligence and agreed terms)",
+        "7 DevX coworking seats for each shortlisted startup, with additional seats at 10% off",
+        "Introductions to enterprise buyers in real estate, plus visibility across Inc42 and DevX channels",
+        "No programme fee and no equity taken just for participating"
+      ],
+      "link": "https://inc42.com/reframe/",
+      "note": "Applications close 20 December 2026; selections in January 2027, online phase in February and the Delhi NCR bootcamp plus Demo Day in March 2027. Founders pay their own travel and stay for the bootcamp. Any investment from the pool is a separate deal on mutually agreed terms (so it may involve equity) and you can decline it without losing your place."
+    },
+    {
+      "id": "gsma-innovation-fund-ai-financial-health-2026",
+      "title": "GSMA Innovation Fund for AI-Enabled Financial Health",
+      "org": "GSMA Mobile for Development",
+      "type": "Grant",
+      "amount": "£100,000–£250,000 equity-free grant",
+      "amountMax": 29000000,
+      "deadline": "2026-12-17",
+      "region": "Global",
+      "stages": [
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Fintech",
+        "AI",
+        "Financial Inclusion",
+        "Mobile"
+      ],
+      "equity": "No equity",
+      "summary": "GSMA's new grant round backs for-profit companies in low- and middle-income countries that use AI and mobile technology to improve the financial health of underserved people — for example credit, savings, insurance or money-management tools. Grants of £100K–£250K fund a 15–18 month project to scale a solution that already has users and revenue.",
+      "eligibility": [
+        "For-profit private company with up to 250 employees (governments, NGOs, universities, mobile operators, incubators and UN agencies cannot be lead applicants)",
+        "Registered and operating in the ODA-eligible country where the project will run — the project can cover one or at most two countries (India is on the OECD DAC list)",
+        "Already has active users and commercial revenue in an eligible country, with most income from commercial activity",
+        "Solution uses digital — especially mobile — technology and AI to serve low-income or underserved users",
+        "Must bring matching funds of at least 25% of the grant requested",
+        "Not eligible: research-only work, new hardware development, or already-proven solutions with nothing innovative"
+      ],
+      "benefits": [
+        "Non-dilutive grant of £100,000–£250,000 over 15–18 months",
+        "Up to 10% of the grant can cover eligible direct overheads",
+        "Technical assistance and visibility through GSMA's Mobile for Development network",
+        "Connections to mobile operators and the wider GSMA ecosystem for scaling"
+      ],
+      "link": "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/gsma-innovation-fund/the-gsma-innovation-fund-for-ai-enabled-financial-health/",
+      "note": "Stage 1 (eligibility check and application form, in English) closes 17 December 2026 at 23:59 UTC — that is 5:29 AM IST on 18 December, so submit on the 17th. Before contracting you need at least one year of audited financial statements, evidence of the 25% match, sound financial systems and a bank account that can receive GBP. The grant pays costs only (no profit margin). Confirm your country on the FAQ page's eligible list before applying."
     }
   ]
 }
