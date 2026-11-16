@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "items": [
     {
       "id": "elevate-nxt-2026-27",
@@ -215,36 +215,6 @@
       ],
       "link": "https://sahyadristartups.com/news/be-hub-udaan-opens-applications-for-first-startup-accelerator-cohort-on-october-27/",
       "note": "Deadline 18 Nov 2026."
-    },
-    {
-      "id": "hitachi-startup-challenge-fy26",
-      "title": "Hitachi Startup Challenge FY26",
-      "org": "Hitachi",
-      "type": "Challenge",
-      "amount": "Paid pilot opportunity",
-      "amountMax": 0,
-      "deadline": "2026-11-08",
-      "region": "Global",
-      "stages": [
-        "MVP",
-        "Revenue"
-      ],
-      "sectors": [
-        "Mobility",
-        "Manufacturing",
-        "Industrial"
-      ],
-      "equity": "No equity",
-      "summary": "8-week programme to build a proof-of-concept plan with Hitachi business units in mobility and manufacturing; winners progress to a potential pilot.",
-      "eligibility": [
-        "Companies worldwide with tech for transport or industrial operations"
-      ],
-      "benefits": [
-        "PoC co-development with Hitachi BUs",
-        "Potential pilot deal"
-      ],
-      "link": "https://www.hitachi.com/en-eu/about/events/hitachi-startup-challenge-2026/",
-      "note": "Closes 8 Nov 2026, 11:59 PM GMT."
     },
     {
       "id": "techstars-2027-anywhere",
@@ -1296,7 +1266,7 @@
       "type": "Grant",
       "amount": "Up to US$20,000 seed grant",
       "amountMax": 1760000,
-      "deadline": "2026-11-15",
+      "deadline": "2026-12-06",
       "region": "Global",
       "stages": [
         "Idea",
@@ -1326,7 +1296,7 @@
         "Light first round — only a two-page concept note and CVs"
       ],
       "link": "https://d-prize.org/",
-      "note": "Regular round closes 15 Nov 2026 at midnight Pacific Time (about 1:30 PM IST on 16 Nov). A final extension deadline of 6 Dec 2026 is available only if you register for it on D-Prize's extension page. Round 1 needs a two-page concept note plus resumes; the top ~5% get two weeks to answer written questions, then interviews. Only around the top 1% of applicants are funded."
+      "note": "The regular round closed on 15 Nov 2026; the final extension round runs to 6 Dec 2026 at midnight Pacific Time (about 1:30 PM IST on 7 Dec), but you must first register for it on D-Prize's extension page. Round 1 needs a two-page concept note plus founder resumes; the top ~5% get two weeks to answer written questions, then interviews. Only around the top 1% of applicants are funded."
     },
     {
       "id": "liveability-challenge-2027",
@@ -2490,6 +2460,162 @@
       ],
       "link": "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/gsma-innovation-fund/the-gsma-innovation-fund-for-ai-enabled-financial-health/",
       "note": "Stage 1 (eligibility check and application form, in English) closes 17 December 2026 at 23:59 UTC — that is 5:29 AM IST on 18 December, so submit on the 17th. Before contracting you need at least one year of audited financial statements, evidence of the 25% match, sound financial systems and a bank account that can receive GBP. The grant pays costs only (no profit margin). Confirm your country on the FAQ page's eligible list before applying."
+    },
+    {
+      "id": "t-challenge-2027",
+      "title": "T Challenge 2027 — Shaping a World of Connected Intelligence",
+      "org": "Deutsche Telekom with T-Mobile US",
+      "type": "Challenge",
+      "amount": "Cash prizes (top award reported at €150K)",
+      "amountMax": 0,
+      "deadline": "2027-01-09",
+      "region": "Global",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Telecom",
+        "AI",
+        "6G",
+        "Quantum",
+        "DeepTech",
+        "Networks"
+      ],
+      "equity": "No equity",
+      "summary": "Deutsche Telekom and T-Mobile US are looking for ideas that make future networks smarter, greener and more trustworthy — from autonomous self-running networks to 6G products, sensing and quantum tech. Shortlisted teams build their concept with a Telekom mentor and pitch for prize money in Bonn.",
+      "eligibility": [
+        "Open worldwide to startups, developers, researchers, university teams and companies — Indian applicants can apply",
+        "Applicants must be 18 or older (or have guardian consent)",
+        "Current Deutsche Telekom / T-Mobile employees and government bodies cannot enter; team leads must not have worked for the group in the past 36 months",
+        "Idea must fit one of the 2027 themes: trusted autonomous networks, energy-adaptable infrastructure, 6G products and experiences, sensing and physical intelligence, or quantum technologies",
+        "Teams should be able to turn the idea into at least a working MVP during the build phase"
+      ],
+      "benefits": [
+        "Cash prizes for the top three teams plus a possible special award, paid without taking equity",
+        "One-to-one mentoring from a Telekom expert during the build phase (Feb–May 2027)",
+        "Finalist teams flown to the final pitch and awards in Bonn in May 2027, with travel and hotel covered by Telekom",
+        "Direct exposure to Telekom and T-Mobile executives and possible pilots or partnerships"
+      ],
+      "link": "https://apply.t-challenge.com/",
+      "note": "Idea submissions close 9 Jan 2027 (reported cut-off 23:59 CET, i.e. about 4:29 AM IST on 10 Jan). The first round is a written idea submission; finalists then build an MVP and pitch in Bonn on 11–12 May 2027. Visa costs are not covered. Prize amounts above come from the published rules — re-check the official portal before relying on them."
+    },
+    {
+      "id": "south-summit-madrid-2027-startup-competition",
+      "title": "South Summit Madrid 2027 — Startup Competition",
+      "org": "South Summit (with IE University)",
+      "type": "Challenge",
+      "amount": "No cash prize; free stage pitch, investor matchmaking and tickets",
+      "amountMax": 0,
+      "deadline": "2027-01-31",
+      "region": "Global",
+      "stages": [
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "AI",
+        "Climate",
+        "Energy",
+        "Mobility",
+        "DeepTech",
+        "Defence",
+        "HealthTech",
+        "FinTech",
+        "Cybersecurity",
+        "EdTech"
+      ],
+      "equity": "No equity",
+      "summary": "One of Europe's biggest startup competitions picks 100 finalists from around the world to pitch on the main stage in Madrid in front of investors and corporates. It is free to enter and a strong route into European investor and customer networks.",
+      "eligibility": [
+        "Startups from any country, sector and stage — Indian startups are eligible",
+        "The startup must be legally incorporated in its home country",
+        "Must fit one of ten verticals, from Applied AI and AI agents to energy and climate, health, fintech, cybersecurity, defence/space and education",
+        "Finalists must pitch in person, in English, in Madrid (2–4 June 2027)",
+        "Past applicants may reapply and are judged on progress since their last entry"
+      ],
+      "benefits": [
+        "3-minute pitch on the main stage, with a chance at one of five competition awards",
+        "Two free event passes for the team and one-to-one investor and corporate matchmaking",
+        "Listing in the event's Investor Book and Corporate Book, plus a training programme in May",
+        "Discounted demo booth; even non-finalists who complete 100% of the profile receive a free entry ticket"
+      ],
+      "link": "https://www.southsummit.io/startup-competition/",
+      "note": "Applications close 31 Jan 2027; you can save a draft and edit until then. Around 400 startups are pre-selected in February and the 100 finalists are told in the second week of April. Entry and participation are free, but travel and accommodation to Madrid are at your own cost."
+    },
+    {
+      "id": "south-summit-brazil-2027-startup-competition",
+      "title": "South Summit Brazil 2027 — Startup Competition (Porto Alegre)",
+      "org": "South Summit",
+      "type": "Challenge",
+      "amount": "No cash prize; stage pitch, mentoring and investor access",
+      "amountMax": 0,
+      "deadline": "2026-12-14",
+      "region": "Global",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "All sectors"
+      ],
+      "equity": "No equity",
+      "summary": "South Summit's Latin American edition selects 50 startups from anywhere in the world to pitch to international investors, corporates and media in Porto Alegre in April 2027. A useful, free entry point for Indian startups eyeing Brazil and the wider LatAm market.",
+      "eligibility": [
+        "Startups from any country — Indian startups can apply",
+        "Any sector and any stage of development",
+        "Finalists must be able to travel to Porto Alegre, Brazil, for the event on 14–16 April 2027",
+        "Selection is by an expert committee that includes potential investors"
+      ],
+      "benefits": [
+        "3-minute stage pitch in front of international investors, corporates and press",
+        "Competition awards for Best Team, Most Scalable, Most Disruptive, Most Sustainable and Global Winner",
+        "Mentoring and training sessions in March 2027 and networking with other finalists and investors",
+        "50% off event tickets and special rates for a marketplace exhibition stand"
+      ],
+      "link": "https://www.southsummit.io/e/brazil/content/startup-competition-2027",
+      "note": "Registration is free and closes 14 Dec 2026. The jury picks 50 finalists in January and announces them in February 2027. There is no cash prize, and travel to Brazil is at your own cost — budget for it before applying."
+    },
+    {
+      "id": "goldman-sachs-10000-women-india-2026",
+      "title": "Goldman Sachs 10,000 Women India — 2026 Cohort",
+      "org": "Goldman Sachs with IIM Ahmedabad, IIM Bangalore and IIM Lucknow",
+      "type": "Fellowship",
+      "amount": "Fully funded tuition (no cash grant)",
+      "amountMax": 0,
+      "deadline": "2026-11-30",
+      "region": "National",
+      "stages": [
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "All sectors",
+        "Women Entrepreneurs"
+      ],
+      "equity": "No equity",
+      "summary": "A free, IIM-taught growth programme for established women business owners, covering finance, marketing, negotiation and leadership over three residential modules. It suits founders who already have a running business and want to scale it, not idea-stage startups.",
+      "eligibility": [
+        "Woman owner or co-owner who is the primary decision-maker of the business",
+        "Business operating for at least one year",
+        "Annual turnover of about ₹30 lakh or more",
+        "At least three employees",
+        "Open to all industries; previous 10,000 Women graduates cannot reapply"
+      ],
+      "benefits": [
+        "Tuition fully paid by Goldman Sachs for a 100+ hour executive-education programme",
+        "Three in-person residential modules taught by IIM faculty",
+        "Business mentoring from industry experts",
+        "Entry into an alumnae network of 4,000+ Indian women business owners and the global 10,000 Women community"
+      ],
+      "link": "https://www.goldmansachs.com/worldwide/india/10000-women/apply",
+      "note": "The official page says applications close in November 2026, with interviews and decisions also in November and the cohort starting in December; aggregators list 30 Nov as the last date, so submit as early as you can. Applying starts with a 2-minute expression-of-interest form. Travel and lodging for the residential weeks are not covered. A free online version via Coursera exists for those who cannot attend in person."
     }
   ]
 }
