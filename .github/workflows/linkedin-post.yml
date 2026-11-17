@@ -21,18 +21,18 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install requests pillow
+      - run: pip install requests pillow playwright && python -m playwright install --with-deps chromium
       - name: Publish post
         env:
           LINKEDIN_TOKEN: ${{ secrets.LINKEDIN_TOKEN }}
         run: python linkedin/post_to_linkedin.py
       - name: Save record of published post
         run: |
-          if [ -n "$(git status --porcelain linkedin/posted.json)" ]; then
+          if [ -n "$(git status --porcelain linkedin/posted.json linkedin/images)" ]; then
             git config user.name "scalerbee"
             git config user.email "scalerbee@users.noreply.github.com"
-            git add linkedin/posted.json
-            git commit -m "LinkedIn: record published post"
+            git add linkedin/posted.json linkedin/images
+            git commit -m "LinkedIn: save post record/image"
             git pull --rebase origin main
             git push origin HEAD:main
           fi

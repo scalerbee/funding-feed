@@ -4,6 +4,7 @@ post.json format:
 {
   "id": "2026-11-18-some-grant-id",      # unique; a post with an id already in posted.json is skipped
   "text": "Post text with hashtags and the grant page link",
+  "screenshot_url": "official apply page — its screenshot is used as the image (preferred)",
   "image_sources": ["official opportunity page or image URL", "fallback free-licence photo page"],
   "image_title": "Short alt/title for the image (optional)"
 Each source may be a direct image URL or a web page; for a page, its og:image share image is used.
@@ -114,9 +115,47 @@ def image_from(url):
     return img
 
 
-def fetch_image(urls):
+def screenshot(url):
+    """Screenshot the top of the official apply page (1200x675, 2x for sharpness)."""
+    from playwright.sync_api import sync_playwright
+    with sync_playwright() as p:
+        b = p.chromium.launch()
+        pg = b.new_page(viewport={"width": 1200, "height": 675}, device_scale_factor=2,
+                        user_agent=UA, locale="en-IN")
+        pg.goto(url, wait_until="domcontentloaded", timeout=60000)
+        try:
+            pg.wait_for_load_state("networkidle", timeout=15000)
+        except Exception:  # noqa: BLE001
+            pass
+        # close common cookie / popup banners if present
+        for label in ["Accept", "Accept all", "Accept All", "I agree", "Got it", "OK", "Close"]:
+            try:
+                btn = pg.get_by_role("button", name=label, exact=True)
+                if btn.count() and btn.first.is_visible():
+                    btn.first.click(timeout=2000)
+                    pg.wait_for_timeout(800)
+            except Exception:  # noqa: BLE001
+                pass
+        pg.wait_for_timeout(2500)
+        data = pg.screenshot(type="png")
+        b.close()
+    img = Image.open(io.BytesIO(data))
+    img.load()
+    return img
+
+
+def fetch_image(urls, shot_url=None):
     img = None
-    for u in urls:
+    if shot_url:
+        try:
+            img = screenshot(shot_url)
+            print("Using screenshot of", shot_url)
+            os.makedirs(os.path.join(HERE, "images"), exist_ok=True)
+            img.save(os.path.join(HERE, "images", post["id"] + ".png"))
+        except Exception as e:  # noqa: BLE001
+            print(f"Screenshot failed for {shot_url}: {e}")
+            img = None
+    for u in ([] if img is not None else urls):
         try:
             img = image_from(u)
             print("Using image from", u)
@@ -138,6 +177,7 @@ def fetch_image(urls):
 if not TOKEN:
     fail("LINKEDIN_TOKEN secret is missing.")
 post = json.load(open(POST_FILE, encoding="utf-8"))
+PREVIEW = bool(post.get("preview")) or os.environ.get("PREVIEW_ONLY") == "1"
 log = json.load(open(LOG_FILE, encoding="utf-8")) if os.path.exists(LOG_FILE) else []
 if any(e.get("id") == post["id"] for e in log):
     print(f"Post {post['id']} already published; nothing to do.")
@@ -149,6 +189,12 @@ if who.status_code == 401:
          "LINKEDIN_TOKEN secret in GitHub.")
 who.raise_for_status()
 OWNER = "urn:li:person:" + who.json()["sub"]
+print("Token OK for", who.json().get("name", "member"))
+
+img_bytes = fetch_image(post.get("image_sources", []), post.get("screenshot_url"))
+if PREVIEW:
+    print("Preview only: image saved in linkedin/images, nothing posted.")
+    sys.exit(0)
 
 version, upload = pick_version()
 body = {
@@ -160,8 +206,6 @@ body = {
     "lifecycleState": "PUBLISHED",
     "isReshareDisabledByAuthor": False,
 }
-
-img_bytes = fetch_image(post.get("image_sources", []))
 if img_bytes:
     put = requests.put(upload["uploadUrl"], data=img_bytes,
                        headers={"Authorization": f"Bearer {TOKEN}"}, timeout=120)
