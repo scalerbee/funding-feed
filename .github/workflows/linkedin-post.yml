@@ -1,9 +1,11 @@
 name: Post to LinkedIn
 
 on:
-  push:
-    branches: [main]
-    paths: ["linkedin/post.json"]
+  schedule:
+    # 3 posts a day, IST: ~9:07 am, ~1:37 pm, ~6:37 pm (GitHub may start a few minutes late)
+    - cron: "37 3 * * *"
+    - cron: "7 8 * * *"
+    - cron: "7 13 * * *"
   workflow_dispatch:
 
 permissions:

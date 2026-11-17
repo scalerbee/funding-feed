@@ -1,7 +1,9 @@
-"""Publish linkedin/post.json to Abhishek's LinkedIn profile (runs inside GitHub Actions).
+"""Publish the next due post from linkedin/queue.json to Abhishek's LinkedIn profile (runs inside GitHub Actions).
 
-post.json format:
+queue.json is a list of posts; each run publishes ONE: the earliest item whose post_after time
+has passed and whose id is not yet in posted.json. Item format:
 {
+  "post_after": "2026-11-18T03:30:00Z",   # UTC; don't publish before this time
   "id": "2026-11-18-some-grant-id",      # unique; a post with an id already in posted.json is skipped
   "text": "Post text with hashtags and the grant page link",
   "screenshot_url": "official apply page — its screenshot is used as the image (preferred)",
@@ -23,7 +25,7 @@ import requests
 from PIL import Image
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-POST_FILE = os.path.join(HERE, "post.json")
+QUEUE_FILE = os.path.join(HERE, "queue.json")
 LOG_FILE = os.path.join(HERE, "posted.json")
 TOKEN = os.environ.get("LINKEDIN_TOKEN", "").strip()
 API = "https://api.linkedin.com"
@@ -182,12 +184,26 @@ def fetch_image(urls, shot_url=None):
 # ---------------------------------------------------------------- main
 if not TOKEN:
     fail("LINKEDIN_TOKEN secret is missing.")
-post = json.load(open(POST_FILE, encoding="utf-8"))
-PREVIEW = bool(post.get("preview")) or os.environ.get("PREVIEW_ONLY") == "1"
 log = json.load(open(LOG_FILE, encoding="utf-8")) if os.path.exists(LOG_FILE) else []
-if any(e.get("id") == post["id"] for e in log):
-    print(f"Post {post['id']} already published; nothing to do.")
+done = {e.get("id") for e in log}
+queue = json.load(open(QUEUE_FILE, encoding="utf-8")) if os.path.exists(QUEUE_FILE) else []
+now = dt.datetime.now(dt.timezone.utc)
+
+
+def due(item):
+    t = item.get("post_after")
+    if not t:
+        return True
+    return dt.datetime.fromisoformat(t.replace("Z", "+00:00")) <= now
+
+
+pending = [q for q in queue if q.get("id") not in done and due(q)]
+if not pending:
+    print("Nothing due in linkedin/queue.json; nothing to do.")
     sys.exit(0)
+post = sorted(pending, key=lambda q: q.get("post_after") or "")[0]
+print("Publishing", post["id"])
+PREVIEW = bool(post.get("preview")) or os.environ.get("PREVIEW_ONLY") == "1"
 
 who = requests.get(API + "/v2/userinfo", headers={"Authorization": f"Bearer {TOKEN}"}, timeout=60)
 if who.status_code == 401:
@@ -229,5 +245,5 @@ url = f"https://www.linkedin.com/feed/update/{urn}/"
 print("Posted:", url)
 
 log.append({"id": post["id"], "urn": urn, "url": url, "image": bool(body.get("content")),
-            "posted_at": dt.datetime.utcnow().isoformat() + "Z"})
+            "posted_at": now.isoformat()})
 json.dump(log, open(LOG_FILE, "w", encoding="utf-8"), indent=1)
