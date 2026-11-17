@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "items": [
     {
       "id": "elevate-nxt-2026-27",
@@ -990,45 +990,6 @@
       ],
       "link": "https://tisc.telangana.gov.in",
       "note": "Deadline 30 Nov 2026. The seven challenges: solar irrigation pumps/retrofit kits for deep borewells (~30% cheaper, theft-resistant panels, tamper-proof metering); rapid food-adulteration testing for hostels; satellite monitoring of lake and land encroachment; automated pothole mapping and repair; needle-free anaemia screening; AI-based Telugu reading assessment; satellite/app-based crop mapping. No cash prize announced — the value is the pilot and contract pathway."
-    },
-    {
-      "id": "masschallenge-challenge-programs-2027",
-      "title": "MassChallenge Challenge Programs 2026–27",
-      "org": "MassChallenge (with corporate partners)",
-      "type": "Accelerator",
-      "amount": "Corporate pilots + mentoring (no cash stated)",
-      "amountMax": 0,
-      "deadline": "2026-11-09",
-      "region": "Global",
-      "stages": [
-        "MVP",
-        "Revenue",
-        "Growth"
-      ],
-      "sectors": [
-        "Climate",
-        "Healthcare",
-        "FinTech",
-        "Insurance",
-        "Security",
-        "Food systems"
-      ],
-      "equity": "Not stated",
-      "summary": "A five-month, partner-matched accelerator in which pre-seed to Series A startups work directly with a large corporate on that company's published problem statement, aiming for a pilot or commercial deal. Tracks this cycle cover climate, security and resiliency, fintech, healthcare and sustainable food systems.",
-      "eligibility": [
-        "Pre-seed to Series A startups based anywhere in the world (Boston residency not required)",
-        "Your solution must answer at least one partner's published challenge statement",
-        "At least one founder or C-suite member must attend the in-person Boston sessions",
-        "Able to commit roughly 3–5 hours a week from February to June 2027"
-      ],
-      "benefits": [
-        "Matched collaboration with a corporate partner (past partners include Deloitte, Eli Lilly, Sanofi, Verizon, MassMutual, SharkNinja)",
-        "Regular partner meetings aimed at a pilot or commercial agreement",
-        "Mentors across marketing, legal, investment, compliance and technology",
-        "Entry into the MassChallenge alumni and investor network"
-      ],
-      "link": "https://masschallenge.org/2026-2027-challenge-cycle/",
-      "note": "Applications close 9 Nov 2026 (no closing time given, so assume US Eastern and submit early). Finalists hear in December; matchmaking is 6–8 Jan 2027 and kickoff 9–10 Feb 2027 in Boston. Indian founders should budget for travel and US visas for the mandatory in-person events; equity and fee terms are not stated on the official page."
     },
     {
       "id": "microsoft-imagine-cup-2027",
@@ -2616,6 +2577,210 @@
       ],
       "link": "https://www.goldmansachs.com/worldwide/india/10000-women/apply",
       "note": "The official page says applications close in November 2026, with interviews and decisions also in November and the cohort starting in December; aggregators list 30 Nov as the last date, so submit as early as you can. Applying starts with a 2-minute expression-of-interest form. Travel and lodging for the residential weeks are not covered. A free online version via Coursera exists for those who cannot attend in person."
+    },
+    {
+      "id": "iima-ventures-jaivel-aerospace-defence-fund",
+      "title": "Aerospace & Defence Acceleration Fund",
+      "org": "IIMA Ventures (IIM Ahmedabad) with Jaivel Aerospace",
+      "type": "Equity",
+      "amount": "Up to US$400,000 (≈ ₹3.5 crore) per startup",
+      "amountMax": 35200000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "Aerospace",
+        "Defence",
+        "SpaceTech",
+        "DeepTech",
+        "Advanced Manufacturing"
+      ],
+      "equity": "Takes equity",
+      "summary": "A balance-sheet fund from IIMA Ventures and Jaivel Aerospace that writes pre-seed and seed cheques of up to US$400K into Indian aerospace, defence and space-tech startups, paired with hands-on engineering mentorship and access to Jaivel's manufacturing network. It aims to back roughly 8–10 companies, so it suits founders seeking a first institutional round rather than a grant.",
+      "eligibility": [
+        "Pre-seed or seed-stage startup, typically raising its first institutional cheque",
+        "Registered in India, or actively incorporating an Indian entity",
+        "Working on aerospace, defence or space-tech with dual-use potential — e.g. autonomy, propulsion, AI, high-performance materials, advanced manufacturing or secure communications",
+        "Credible plan for export scale and measurable national impact",
+        "Founding team willing to engage closely with mentors and industry partners"
+      ],
+      "benefits": [
+        "Pre-seed/seed investment of up to US$400,000 per selected startup",
+        "Technical and product mentorship from aerospace engineering, design and manufacturing leaders",
+        "Access to development facilities and Jaivel Aerospace's global manufacturing network",
+        "Industry partnerships and pilot opportunities with defence and aerospace players"
+      ],
+      "link": "https://iimaventures.com/programs/aerospace-defence-acceleration-fund/",
+      "note": "No closing date is published — the fund accepts applications on an ongoing basis through the Typeform linked on the IIMA Ventures page. This is investment, not a grant: expect equity or an equity-linked instrument on early-stage terms, with the stake fixed after due diligence. Keep a technical deck, IP/patent status, prototype test data and cap table ready."
+    },
+    {
+      "id": "iima-ventures-womens-economic-empowerment",
+      "title": "Women's Economic Empowerment Programme",
+      "org": "IIMA Ventures (IIM Ahmedabad), supported by the Gates Foundation",
+      "type": "Accelerator",
+      "amount": "US$50,000+ per startup, plus up to US$250K cloud credits",
+      "amountMax": 4400000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Women Empowerment",
+        "Livelihoods",
+        "AI",
+        "AgriTech",
+        "Gig Economy",
+        "Social Impact"
+      ],
+      "equity": "Takes equity",
+      "summary": "A year-long, Gates Foundation-backed IIMA Ventures programme for technology startups that raise the incomes of low-income Indian women — SHG members, women farmers, informal workers, gig and care-economy workers. Selected startups get milestone-linked funding of US$50K or more, pilots with partner organisations and fundraising support.",
+      "eligibility": [
+        "Building a technology solution that measurably increases income for low-income women in India",
+        "Focus on rural SHG women and women farmers, informal workers and micro-entrepreneurs, gig/service-sector women, or care and domestic work",
+        "You can apply before incorporating, but must be a registered Indian entity before selection is confirmed",
+        "Startups from other accelerators may apply but must disclose prior support",
+        "Must take part in programme activities and an external impact-measurement study",
+        "No need to be based in Ahmedabad"
+      ],
+      "benefits": [
+        "Financial support of US$50,000 or more, released in milestone-linked tranches",
+        "Pilot and scale-up opportunities with market partners",
+        "Up to US$250,000 in cloud credits plus payment-gateway support",
+        "Access to customer, technology, policy and industry experts",
+        "Showcases, demo days, investor introductions and fundraising help through to deal closure",
+        "Training, mentoring and check-ins for up to a year"
+      ],
+      "link": "https://iimaventures.com/programs/womens-economic-empowerment/",
+      "note": "Rolling intake via IIMA Ventures' general application form (go.iimaventures.com/WebsiteForm). Catch: startups onboarded as incubatees are expected to give IIMA Ventures 2–5% mentoring equity. This is separate from the AI for Livelihoods Hackathon, which closes on 19 November 2026."
+    },
+    {
+      "id": "iima-ventures-bharat-inclusion-initiative",
+      "title": "Bharat Inclusion Initiative",
+      "org": "IIMA Ventures (IIM Ahmedabad), supported by the Gates Foundation and Michael & Susan Dell Foundation",
+      "type": "Accelerator",
+      "amount": "US$50,000+ per startup",
+      "amountMax": 4400000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "FinTech",
+        "Skilling",
+        "Livelihoods",
+        "Financial Inclusion",
+        "Digital Public Infrastructure"
+      ],
+      "equity": "Takes equity",
+      "summary": "IIMA Ventures' long-running programme for fintech, skilling and livelihood startups whose customers include lower-income Indians (roughly under ₹50,000 a month). Selected startups receive US$50K or more in milestone-based support, plus pilots, mentoring and investor access for up to a year.",
+      "eligibility": [
+        "Technology startup in fintech, skilling or livelihoods",
+        "At least part of your customers or beneficiaries must be lower-income households (typically earning under ₹50,000/month)",
+        "Idea to post-MVP stage — prototype, MVP and early-traction teams are preferred",
+        "Must be a registered Indian entity before selection is confirmed (not needed to apply)",
+        "Willing to participate in programme activities and an impact-measurement study",
+        "Alumni of other accelerators may apply; no need to be in Ahmedabad"
+      ],
+      "benefits": [
+        "US$50,000 or more per startup, disbursed in tranches against milestones",
+        "Possible additional grant or convertible-debt funding (not guaranteed)",
+        "Market access for pilots and scale-up, including DPI rails like ONDC, Account Aggregator, OCEN and ULI",
+        "Expert access on customers, regulation and industry",
+        "Demo days, corporate showcases and fundraising support",
+        "Cloud credits, partner offers and up to a year of mentoring"
+      ],
+      "link": "https://iimaventures.com/bharat-inclusion-initiative/",
+      "note": "Applications are reviewed on a rolling basis via go.iimaventures.com/WebsiteForm; IIMA Ventures says to expect an update within about a month. Catch: selected startups are onboarded as incubatees with 3–5% mentoring equity expected, and funds flow under a milestone-linked service agreement."
+    },
+    {
+      "id": "iima-ventures-bharat-climatetech-initiative",
+      "title": "Bharat ClimateTech Initiative",
+      "org": "IIMA Ventures (IIM Ahmedabad) with MUFG",
+      "type": "Accelerator",
+      "amount": "Up to ₹40 lakh per startup",
+      "amountMax": 4000000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "ClimateTech",
+        "Sustainability",
+        "CleanTech",
+        "Waste Management",
+        "Climate Finance"
+      ],
+      "equity": "Not stated",
+      "summary": "A two-year IIMA Ventures and MUFG programme that backs up to eight early-stage Indian climate-tech startups with up to ₹40 lakh each, plus mentoring and investor connections. It targets pre-seed to seed teams building or validating tech-enabled climate mitigation or resilience solutions.",
+      "eligibility": [
+        "Startup registered and operating in India",
+        "Pre-seed to seed stage, developing or validating a tech-enabled solution",
+        "Working on climate, sustainability or related impact areas — e.g. decarbonisation, waste-to-value, climate tracking, climate finance or alternative fuels"
+      ],
+      "benefits": [
+        "Financial support of up to ₹40 lakh per startup",
+        "Mentoring from climate and sector experts",
+        "Market and investor connections",
+        "Cloud credits and service-provider offers",
+        "Support over a two-year programme for a small cohort (up to eight startups)"
+      ],
+      "link": "https://iimaventures.com/programs/bharat-climatetech-initiative/",
+      "note": "The official page shows an open 'Apply Now' form (go.iimaventures.com/WebsiteForm) but no closing date; listings describe it as rolling. Equity terms are not published — IIMA Ventures' other incubation programmes ask for 2–5% mentoring equity, so confirm before accepting. With only about eight slots, apply with pilot or emissions-impact data if you have it."
+    },
+    {
+      "id": "keeling-curve-prize-2027",
+      "title": "Keeling Curve Prize 2027",
+      "org": "Climate Curve (US non-profit, formerly Global Warming Mitigation Project)",
+      "type": "Grant",
+      "amount": "US$50,000 each to 10 winners",
+      "amountMax": 4400000,
+      "deadline": "2027-01-15",
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "ClimateTech",
+        "Energy",
+        "Carbon Removal",
+        "Climate Finance",
+        "Mobility"
+      ],
+      "equity": "No equity",
+      "summary": "An annual global climate prize that awards US$50,000 to each of ten projects already cutting, removing or replacing greenhouse-gas emissions, across five categories: Carbon Sinks, Energy, Finance, Social & Cultural Pathways, and Transport & Mobility. Startups, non-profits, research groups and intrapreneurs from India can apply.",
+      "eligibility": [
+        "Open worldwide (except US-sanctioned jurisdictions) — Indian applicants are eligible",
+        "Startups, non-profits, university research groups, community leaders and intrapreneurs inside larger organisations can apply",
+        "Project must already be active and producing measurable emissions reductions or removals — pure ideas are not accepted",
+        "Must quantify the climate impact and explain how the project scales",
+        "Application in English with every question answered; past winners may re-enter only with a new project"
+      ],
+      "benefits": [
+        "US$50,000 unrestricted prize for each of the ten winners",
+        "Global visibility and networking with climate funders",
+        "Possible follow-on funding interest",
+        "Access to Climate Curve's fellowship programme (up to three interns per semester)"
+      ],
+      "link": "https://www.climatecurve.org/kcp",
+      "note": "Closes 15 January 2027 at 11:59 PM UTC-12 (5:29 PM IST on 16 January) — or earlier once 500 eligible applications arrive, so apply early. Apply on kcp-conduit.org; upload all supporting documents before submitting, as nothing is accepted afterwards. No application fee."
     }
   ]
 }
