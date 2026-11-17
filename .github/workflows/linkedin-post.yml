@@ -1,0 +1,38 @@
+name: Post to LinkedIn
+
+on:
+  push:
+    branches: [main]
+    paths: ["linkedin/post.json"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: linkedin-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests pillow
+      - name: Publish post
+        env:
+          LINKEDIN_TOKEN: ${{ secrets.LINKEDIN_TOKEN }}
+        run: python linkedin/post_to_linkedin.py
+      - name: Save record of published post
+        run: |
+          if [ -n "$(git status --porcelain linkedin/posted.json)" ]; then
+            git config user.name "scalerbee"
+            git config user.email "scalerbee@users.noreply.github.com"
+            git add linkedin/posted.json
+            git commit -m "LinkedIn: record published post"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
