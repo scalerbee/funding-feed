@@ -137,6 +137,12 @@ def screenshot(url):
             except Exception:  # noqa: BLE001
                 pass
         pg.wait_for_timeout(2500)
+        # hide small floating widgets (WhatsApp/chat bubbles, notification bells)
+        pg.evaluate("""() => document.querySelectorAll('body *').forEach(e => {
+            const s = getComputedStyle(e);
+            if ((s.position === 'fixed' || s.position === 'sticky') && e.offsetWidth < 450
+                && e.offsetHeight < 300) e.style.visibility = 'hidden';
+        })""")
         data = pg.screenshot(type="png")
         b.close()
     img = Image.open(io.BytesIO(data))
