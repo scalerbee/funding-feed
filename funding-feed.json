@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "items": [
   {
    "id": "auto-elevate-nxt-2026-27",
@@ -20,7 +20,7 @@
    "applyLink": "https://eitbt.karnataka.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "elevate-nxt-2026-27"
   },
   {
@@ -42,30 +42,8 @@
    "applyLink": "https://eitbt.karnataka.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "elevate-minorities-2026"
-  },
-  {
-   "id": "auto-grand-startup-challenge-2027",
-   "title": "Grand Startup Challenge",
-   "type": "Competition",
-   "stages": "Prototype, MVP, Early Traction",
-   "sectors": "Mobility, Technology",
-   "shortDesc": "National challenge putting early-stage startups on real problem statements across four tracks, with mentorship, deployment opportunities and a finale in New Delhi in January 2027.",
-   "fundingAmount": "₹1 crore prize pool (12 winners) + deployment",
-   "provider": "CARS24 with Startup India & Startup Policy Forum",
-   "geography": "India",
-   "deadline": "2026-11-10",
-   "about": "National challenge putting early-stage startups on real problem statements across four tracks, with mentorship, deployment opportunities and a finale in New Delhi in January 2027. Hard deadline 10 Nov 2026, 11:59 PM IST — organisers say it will not be extended.",
-   "eligibility": "Early-stage Indian startups\nSolution must fit one of the published track problem statements",
-   "benefits": "Share of ₹1 Cr prize pool\nMonth of mentorship (Dec 2026)\nReal deployment and investor visibility",
-   "fundingType": "Non-dilutive",
-   "fundingSource": "Private",
-   "applyLink": "https://gsc.cars24.com/",
-   "active": true,
-   "source": "auto",
-   "addedOn": "2026-11-17",
-   "slug": "grand-startup-challenge-2027"
   },
   {
    "id": "auto-undp-generali-msme-insurance-2026",
@@ -86,7 +64,7 @@
    "applyLink": "https://www.undp.org/india/press-releases/undp-and-generali-central-launch-insurance-innovation-challenge-strengthen-msme-resilience-india",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "undp-generali-msme-insurance-2026"
   },
   {
@@ -108,7 +86,7 @@
    "applyLink": "https://www.undp.org/press-releases/innovators-wanted-undp-launches-usd-1-million-global-challenge-healthier-ocean",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "undp-ocean-innovation-2026"
   },
   {
@@ -130,7 +108,7 @@
    "applyLink": "https://www2.fundsforngos.org/innovation/grassroot-innovation-programme-2026-grant-opportunity-for-innovators-in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "kits-grassroot-innovation-2026"
   },
   {
@@ -152,7 +130,7 @@
    "applyLink": "https://sahyadristartups.com/news/be-hub-udaan-opens-applications-for-first-startup-accelerator-cohort-on-october-27/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "be-hub-udaan-cohort-1"
   },
   {
@@ -174,7 +152,7 @@
    "applyLink": "https://www.techstars.com/accelerators",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "techstars-2027-anywhere"
   },
   {
@@ -196,7 +174,7 @@
    "applyLink": "https://www.opportunitiesforafricans.com/the-ye-youth-ecopreneurs-programme-yeco-2026-2027/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "yeco-2026-27"
   },
   {
@@ -218,7 +196,7 @@
    "applyLink": "https://nidhi.dst.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "nidhi-prayas"
   },
   {
@@ -240,7 +218,7 @@
    "applyLink": "https://nidhi.dst.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "nidhi-sss"
   },
   {
@@ -262,7 +240,7 @@
    "applyLink": "https://birac.nic.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "birac-big"
   },
   {
@@ -284,7 +262,7 @@
    "applyLink": "https://rkvy.nic.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "rkvy-raftaar"
   },
   {
@@ -306,7 +284,7 @@
    "applyLink": "https://idex.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "idex"
   },
   {
@@ -328,7 +306,7 @@
    "applyLink": "https://innovative.msme.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "msme-innovative-incubation"
   },
   {
@@ -350,7 +328,7 @@
    "applyLink": "https://startupmission.kerala.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "ksum-grants"
   },
   {
@@ -372,7 +350,7 @@
    "applyLink": "https://startupmission.up.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "startinup-up"
   },
   {
@@ -394,7 +372,7 @@
    "applyLink": "https://startupmission.up.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "up-matching-grant"
   },
   {
@@ -416,7 +394,7 @@
    "applyLink": "https://startupmission.up.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "up-grand-challenges"
   },
   {
@@ -438,7 +416,7 @@
    "applyLink": "https://www.ssipgujarat.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "gujarat-ssip"
   },
   {
@@ -460,7 +438,7 @@
    "applyLink": "https://www.ssipgujarat.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "ihub-srujan"
   },
   {
@@ -482,7 +460,7 @@
    "applyLink": "https://www.ncgtc.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "cgss"
   },
   {
@@ -504,7 +482,7 @@
    "applyLink": "https://tdb.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "tdb-funding"
   },
   {
@@ -526,7 +504,7 @@
    "applyLink": "https://100unicorns.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "100unicorns"
   },
   {
@@ -548,7 +526,7 @@
    "applyLink": "https://sabapplier.com/fundingAlerts/zero-shot-fund",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "zero-shot-fund"
   },
   {
@@ -570,7 +548,7 @@
    "applyLink": "https://www.icmr.gov.in/post/call-for-investigator-initiated-research-proposals-for-first-in-world-challenge-grants-2026-last-date-november-30-2026-17-30-hrs",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "icmr-first-in-the-world-2026"
   },
   {
@@ -592,7 +570,7 @@
    "applyLink": "https://hello-tomorrow.org/faq-global-challenge/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "hello-tomorrow-challenge-2027"
   },
   {
@@ -614,7 +592,7 @@
    "applyLink": "https://tribal.nic.in/downloads/Livelihood/Guidelines/VCF-STGuidelines1123.pdf",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "vcf-st-tribal-startups"
   },
   {
@@ -636,7 +614,7 @@
    "applyLink": "https://www.startupindia.gov.in/content/sih/en/nsa-landing.html",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "national-startup-awards-6"
   },
   {
@@ -658,7 +636,7 @@
    "applyLink": "https://www.startup-energy-transition.com/set-award/set-award-2027/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "set-award-2027"
   },
   {
@@ -680,7 +658,7 @@
    "applyLink": "https://tisc.telangana.gov.in",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "telangana-innovation-startup-challenge-2026"
   },
   {
@@ -702,7 +680,7 @@
    "applyLink": "https://imaginecup.microsoft.com/support/faq",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "microsoft-imagine-cup-2027"
   },
   {
@@ -724,7 +702,7 @@
    "applyLink": "https://medtechinnovator.org/apply/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "medtech-innovator-2027"
   },
   {
@@ -746,7 +724,7 @@
    "applyLink": "https://biotoolsinnovator.org/apply/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "biotools-innovator-2027"
   },
   {
@@ -768,7 +746,7 @@
    "applyLink": "https://sushi-tech-tokyo.agorize.com/en/challenges/sushi-tech-challenge-2027",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "sushi-tech-challenge-2027"
   },
   {
@@ -790,7 +768,7 @@
    "applyLink": "https://azimpremjifoundation.org/who-we-are/how-we-are-organised/grants/social-startups-programme/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "azim-premji-social-startups-2027"
   },
   {
@@ -812,7 +790,7 @@
    "applyLink": "https://www.unicef.org/innovation/FemTechCall",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "unicef-femtech-ventures-2026"
   },
   {
@@ -834,7 +812,7 @@
    "applyLink": "https://d-prize.org/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "d-prize-global-competition-2026"
   },
   {
@@ -856,7 +834,7 @@
    "applyLink": "https://www.theliveabilitychallenge.org/participate",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "liveability-challenge-2027"
   },
   {
@@ -878,7 +856,7 @@
    "applyLink": "https://prip.pharma-dept.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "prip-call-2-pharma-medtech"
   },
   {
@@ -900,7 +878,7 @@
    "applyLink": "https://startupbuildathon.com/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "startup-buildathon-india-2026"
   },
   {
@@ -922,7 +900,7 @@
    "applyLink": "https://digitwingrandchallenge.nldsl.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "nldsl-digitwin-grand-challenge-2026"
   },
   {
@@ -944,7 +922,7 @@
    "applyLink": "https://aiforgood.itu.int/about-us/innovation-factory/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "itu-ai-for-good-innovation-factory-2026-27"
   },
   {
@@ -966,7 +944,7 @@
    "applyLink": "https://www.achema.de/en/the-achema/achema-start-up-award",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "achema-startup-award-2027"
   },
   {
@@ -988,7 +966,7 @@
    "applyLink": "https://grandchallenges.ca/programs/nexa/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "nexa-lighthouse-asia-pacific-2026"
   },
   {
@@ -1010,7 +988,7 @@
    "applyLink": "https://uplink.weforum.org/systems-industries-ai-supply-chains-ai-for-plastics-value-chains-transformation",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "uplink-ai-plastics-value-chain-2026"
   },
   {
@@ -1032,7 +1010,7 @@
    "applyLink": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Bihar-state-policy.html",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "bihar-startup-seed-fund"
   },
   {
@@ -1054,7 +1032,7 @@
    "applyLink": "https://haryanaindustries.gov.in/themes/backend/uploads/Startup%20Seed%20Funding%20Scheme.pdf",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "haryana-startup-seed-grant"
   },
   {
@@ -1076,7 +1054,7 @@
    "applyLink": "https://startupodisha.gov.in/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "startup-odisha-allowance-product-assistance"
   },
   {
@@ -1098,7 +1076,7 @@
    "applyLink": "https://antler.co/location/india",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "antler-india-residency"
   },
   {
@@ -1120,7 +1098,7 @@
    "applyLink": "https://apply.joinef.com/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "entrepreneur-first-bangalore-winter-2027"
   },
   {
@@ -1142,7 +1120,7 @@
    "applyLink": "https://cloud.google.com/startup/ai",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "google-for-startups-cloud-ai"
   },
   {
@@ -1164,7 +1142,7 @@
    "applyLink": "https://aws.amazon.com/startups/credits",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "aws-activate-credits"
   },
   {
@@ -1186,7 +1164,7 @@
    "applyLink": "https://initiatives.weforum.org/technology-pioneers/criteria",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "wef-technology-pioneers-2027"
   },
   {
@@ -1208,7 +1186,7 @@
    "applyLink": "https://www.socialshifters.co/allianz-movenow-social-innovation-challenge/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "allianz-movenow-challenge-2026"
   },
   {
@@ -1230,7 +1208,7 @@
    "applyLink": "https://fchampalimaud.org/vision-award",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "champalimaud-vision-award-2027"
   },
   {
@@ -1252,7 +1230,7 @@
    "applyLink": "https://iie.smu.edu.sg/lkygbpc",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "lee-kuan-yew-global-business-plan-competition-2027"
   },
   {
@@ -1274,7 +1252,7 @@
    "applyLink": "https://iimaventures.com/programs/womens-economic-empowerment/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "iima-ventures-ai-for-livelihoods-hackathon-2026"
   },
   {
@@ -1296,7 +1274,7 @@
    "applyLink": "https://pi-rahi.com/sparks-2.0",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "pi-rahi-sparks-2"
   },
   {
@@ -1318,7 +1296,7 @@
    "applyLink": "https://www.rockefellerfoundation.org/cities-deliver-ai-solutions-for-public-services/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "rockefeller-cities-deliver-ai-2026"
   },
   {
@@ -1340,7 +1318,7 @@
    "applyLink": "https://startupchile.org/en/apply/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "start-up-chile-big13"
   },
   {
@@ -1362,7 +1340,7 @@
    "applyLink": "https://www.nvidia.com/en-in/startups/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "nvidia-inception"
   },
   {
@@ -1384,7 +1362,7 @@
    "applyLink": "https://innovateindia.mygov.in/ipps-startup/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "amrut-ipps-startup-challenge-2026"
   },
   {
@@ -1406,7 +1384,7 @@
    "applyLink": "https://entrepreneurshipworldcup.com/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "entrepreneurship-world-cup-2027"
   },
   {
@@ -1428,7 +1406,7 @@
    "applyLink": "https://tihiitb.org/programs/innovation-entrepreneurship-development/aarohan-7/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "tih-iitb-aarohan-7"
   },
   {
@@ -1450,7 +1428,7 @@
    "applyLink": "https://www.imagineh2o.org/apply/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "imagine-h2o-2027"
   },
   {
@@ -1472,7 +1450,7 @@
    "applyLink": "https://inc42.com/reframe/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "inc42-devx-reframe-proptech-2027"
   },
   {
@@ -1494,7 +1472,7 @@
    "applyLink": "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/gsma-innovation-fund/the-gsma-innovation-fund-for-ai-enabled-financial-health/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "gsma-innovation-fund-ai-financial-health-2026"
   },
   {
@@ -1516,7 +1494,7 @@
    "applyLink": "https://apply.t-challenge.com/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "t-challenge-2027"
   },
   {
@@ -1538,7 +1516,7 @@
    "applyLink": "https://www.southsummit.io/startup-competition/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "south-summit-madrid-2027-startup-competition"
   },
   {
@@ -1560,7 +1538,7 @@
    "applyLink": "https://www.southsummit.io/e/brazil/content/startup-competition-2027",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "south-summit-brazil-2027-startup-competition"
   },
   {
@@ -1582,7 +1560,7 @@
    "applyLink": "https://www.goldmansachs.com/worldwide/india/10000-women/apply",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "goldman-sachs-10000-women-india-2026"
   },
   {
@@ -1604,7 +1582,7 @@
    "applyLink": "https://iimaventures.com/programs/aerospace-defence-acceleration-fund/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "iima-ventures-jaivel-aerospace-defence-fund"
   },
   {
@@ -1626,7 +1604,7 @@
    "applyLink": "https://iimaventures.com/programs/womens-economic-empowerment/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "iima-ventures-womens-economic-empowerment"
   },
   {
@@ -1648,7 +1626,7 @@
    "applyLink": "https://iimaventures.com/bharat-inclusion-initiative/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "iima-ventures-bharat-inclusion-initiative"
   },
   {
@@ -1670,7 +1648,7 @@
    "applyLink": "https://iimaventures.com/programs/bharat-climatetech-initiative/",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "iima-ventures-bharat-climatetech-initiative"
   },
   {
@@ -1692,8 +1670,96 @@
    "applyLink": "https://www.climatecurve.org/kcp",
    "active": true,
    "source": "auto",
-   "addedOn": "2026-11-17",
+   "addedOn": "2026-11-18",
    "slug": "keeling-curve-prize-2027"
+  },
+  {
+   "id": "auto-neatehub-rkvy-raftaar-saranya-cohort-13",
+   "title": "RKVY-RAFTAAR Saranya Grant — Cohort 13",
+   "type": "Grant",
+   "stages": "MVP, Early Traction",
+   "sectors": "Agritech, Food & Agri, Allied Sectors",
+   "shortDesc": "A non-dilutive government grant of up to ₹25 lakh for agri and allied-sector startups that already have a working product with real users, paid in three milestone-linked tranches over 12–18 months. Run by NEATEHUB in Assam but open to DPIIT startups from anywhere in India, and you don't have to relocate.",
+   "fundingAmount": "Up to ₹25 lakh grant-in-aid",
+   "provider": "NEATEHUB (North East Agriculture Technology Entrepreneurs Hub), Jorhat, under the Ministry of Agriculture & Farmers Welfare's RKVY-RAFTAAR scheme",
+   "geography": "India",
+   "deadline": "2026-11-30",
+   "about": "A non-dilutive government grant of up to ₹25 lakh for agri and allied-sector startups that already have a working product with real users, paid in three milestone-linked tranches over 12–18 months. Run by NEATEHUB in Assam but open to DPIIT startups from anywhere in India, and you don't have to relocate. Applications opened 9 Nov 2026 and close 30 Nov 2026; they are reviewed on a rolling basis, so earlier is better. Apply via NEATEHUB's Accubate form linked on the programme page. Budget for travel to Jorhat for the committee pitch.",
+   "eligibility": "DPIIT-recognised startup incorporated less than 7 years ago\nWorking MVP or pilot with real users and data — idea-stage ventures are not the target\nMust operate in agriculture or an allied sector; pure trading, distribution or service businesses without an innovation core are excluded\nMajority of equity held by Indian citizens (OCI founders are allowed)\nRevenue-generating, ideally ₹10 lakh+ ARR; applicants should meet at least four of the five quick-check criteria\nOperations or pilots in North-East India score extra but are not mandatory",
+   "benefits": "Grant-in-aid of up to ₹25 lakh with no equity taken\nFunds released in three tranches tied to a milestone plan agreed in the first week\nDedicated go-to-market mentorship and technical guidance\nAccess to NEATEHUB's institutional and follow-on investor networks\nNon-residential programme — only committee pitches and the valedictory session are in Jorhat",
+   "fundingType": "Non-dilutive",
+   "fundingSource": "Government",
+   "applyLink": "https://neatehub.org/programs/rkvy-raftaar",
+   "active": true,
+   "source": "auto",
+   "addedOn": "2026-11-18",
+   "slug": "neatehub-rkvy-raftaar-saranya-cohort-13"
+  },
+  {
+   "id": "auto-fintech-innovation-lab-new-york-2027",
+   "title": "FinTech Innovation Lab New York — 2027 Class",
+   "type": "Accelerator",
+   "stages": "MVP, Early Traction, Growth",
+   "sectors": "Fintech, Insurtech, Cybersecurity, Enterprise SaaS, AI",
+   "shortDesc": "A free, 12-week hybrid programme in New York (March–June 2027) that pairs B2B fintech startups with senior executives at three to six of the 40+ participating banks, insurers and asset managers to work towards paid pilots. No equity, no fees, and non-US startups — including Indian ones — can apply.",
+   "fundingAmount": "Non-dilutive; pairing with 3–6 global financial institutions",
+   "provider": "FinTech Innovation Lab (Partnership Fund for New York City with Accenture)",
+   "geography": "Global",
+   "deadline": "2026-11-25",
+   "about": "A free, 12-week hybrid programme in New York (March–June 2027) that pairs B2B fintech startups with senior executives at three to six of the 40+ participating banks, insurers and asset managers to work towards paid pilots. No equity, no fees, and non-US startups — including Indian ones — can apply. Applications close 25 Nov 2026 (US time — submit by 24 Nov evening IST to be safe) via portal.fintechinnovationlab.com. Notifications mid-January; Shark Tank Day 2 Feb and Finalist Demo Fair 4 Feb 2027. Catch: the Lab does not sponsor visas or reimburse travel, and core team members must be in New York for in-person sessions during the programme.",
+   "eligibility": "Early- or growth-stage company with at least a beta product; typically pre-seed to Series B\nBuilding technology relevant to financial-services institutions (B2B fintech, insurtech, cyber, data/AI for banks)\nOpen to companies from any country, but the core team must be able to attend in-person sessions in New York and arrange its own US visas\nPilot Track applicants must be growth-stage with a production-ready product",
+   "benefits": "Mentorship and pairing with 3–6 financial institutions, each with an executive sponsor and a day-to-day contact\nAccess to the Lab's network of 40+ banks, insurers and asset managers\nPilot Track: proof-of-concept support with Accenture's Innovation Garage\nCohorts of about 10 companies typically start 20–40 proofs of concept\nNo equity taken and no application or participation fee",
+   "fundingType": "Non-dilutive",
+   "fundingSource": "Private",
+   "applyLink": "https://fintechinnovationlab.com/apply/new-york/",
+   "active": true,
+   "source": "auto",
+   "addedOn": "2026-11-18",
+   "slug": "fintech-innovation-lab-new-york-2027"
+  },
+  {
+   "id": "auto-appworks-accelerator-aw34",
+   "title": "AppWorks Accelerator #34 (AW#34)",
+   "type": "Accelerator",
+   "stages": "Prototype, MVP, Early Traction, Growth",
+   "sectors": "AI, Web3, IoT, SaaS, Deeptech, Sector-agnostic",
+   "shortDesc": "A free three-month accelerator run by AppWorks, one of Asia's largest founder networks, that takes no equity, tokens, revenue share or fees. Founders from anywhere can apply to join a community of 650+ startups across nine Asian markets, with Taipei as the main base.",
+   "fundingAmount": "Free programme; no equity or fees",
+   "provider": "AppWorks (Taipei-based venture capital and accelerator)",
+   "geography": "Global",
+   "deadline": "2026-12-27",
+   "about": "A free three-month accelerator run by AppWorks, one of Asia's largest founder networks, that takes no equity, tokens, revenue share or fees. Founders from anywhere can apply to join a community of 650+ startups across nine Asian markets, with Taipei as the main base. Two rounds: first round closes 29 Nov 2026, final round closes 27 Dec 2026 — earlier applicants have a better admission chance. AppWorks does not commit to investing; fundraising is discussed separately. Expect travel to Taipei for in-person sessions.",
+   "eligibility": "Founders operating from anywhere in the world can apply (contact the team to confirm fit for India-based startups)\nEarly-stage startups with a team and product direction; AppWorks focuses on AI, Web3, IoT and tech businesses targeting Asian markets\nWillingness to take part in a hybrid online/offline programme, with in-person participation in Taipei encouraged\nApply through the AW#34 Typeform application",
+   "benefits": "Three-month programme with mentorship and a founder community that continues afterwards\nAccess to 650+ startups and mentors across Asia\nConnections to 25+ venture funds and corporate partners\nHelp with Taiwan Gold Card / Entrepreneur Visa and company setup\nNo equity, tokens, options, revenue share, rent or service fees",
+   "fundingType": "Non-dilutive",
+   "fundingSource": "Private",
+   "applyLink": "https://appworks.tw/accelerator-faq/",
+   "active": true,
+   "source": "auto",
+   "addedOn": "2026-11-18",
+   "slug": "appworks-accelerator-aw34"
+  },
+  {
+   "id": "auto-magic-aimm-2026",
+   "title": "AIMM 2026 — AI for Manufacturing and Mankind Challenge",
+   "type": "Competition",
+   "stages": "Prototype, MVP, Early Traction",
+   "sectors": "AI, Manufacturing, Industry 4.0, Social Impact",
+   "shortDesc": "The eighth edition of MAGIC's national AI innovation contest, with ₹7 lakh in cash prizes for AI solutions to industrial and social problems. It has two tracks — MVP/proof-of-concept ideas and revenue-generating products — and winners can also get seed-funding support and incubation at MAGIC.",
+   "fundingAmount": "₹7 lakh total cash prizes",
+   "provider": "MAGIC (Marathwada Accelerator for Growth and Incubation Council), Chhatrapati Sambhajinagar",
+   "geography": "India",
+   "deadline": "2026-12-07",
+   "about": "The eighth edition of MAGIC's national AI innovation contest, with ₹7 lakh in cash prizes for AI solutions to industrial and social problems. It has two tracks — MVP/proof-of-concept ideas and revenue-generating products — and winners can also get seed-funding support and incubation at MAGIC. Applications close 7 Dec 2026 (closing time not published — submit a day early). The organiser's application link is the short link above; prize split per category and the finale date had not been published at launch, so check the form for details. Pick the right category: idea-stage entries must already show a proof of concept.",
+   "eligibility": "Open nationally to startups, new entrepreneurs, MSMEs, students and research teams\nSolution must use AI to solve a manufacturing, industrial or societal problem\nCategory 1: concepts at MVP stage with a working proof of concept\nCategory 2: AI products already in the market and generating revenue",
+   "benefits": "Share of ₹7 lakh total cash prizes\nSeed-funding support for eligible winning innovations\nIncubation opportunity with MAGIC, Chhatrapati Sambhajinagar\nExposure to MAGIC's industry network in the Marathwada manufacturing cluster",
+   "fundingType": "Non-dilutive",
+   "fundingSource": "Private",
+   "applyLink": "https://tinyurl.com/AIMM2026",
+   "active": true,
+   "source": "auto",
+   "addedOn": "2026-11-18",
+   "slug": "magic-aimm-2026"
   }
  ]
 }

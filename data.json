@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "items": [
     {
       "id": "elevate-nxt-2026-27",
@@ -62,38 +62,6 @@
       ],
       "link": "https://eitbt.karnataka.gov.in/",
       "note": "Closes 5:00 PM IST on 13 Nov 2026. Applicants need at least 60 marks to reach the final pitch."
-    },
-    {
-      "id": "grand-startup-challenge-2027",
-      "title": "Grand Startup Challenge",
-      "org": "CARS24 with Startup India & Startup Policy Forum",
-      "type": "Challenge",
-      "amount": "₹1 crore prize pool (12 winners) + deployment",
-      "amountMax": 10000000,
-      "deadline": "2026-11-10",
-      "region": "National",
-      "stages": [
-        "Prototype",
-        "MVP",
-        "Revenue"
-      ],
-      "sectors": [
-        "Mobility",
-        "Technology"
-      ],
-      "equity": "No equity",
-      "summary": "National challenge putting early-stage startups on real problem statements across four tracks, with mentorship, deployment opportunities and a finale in New Delhi in January 2027.",
-      "eligibility": [
-        "Early-stage Indian startups",
-        "Solution must fit one of the published track problem statements"
-      ],
-      "benefits": [
-        "Share of ₹1 Cr prize pool",
-        "Month of mentorship (Dec 2026)",
-        "Real deployment and investor visibility"
-      ],
-      "link": "https://gsc.cars24.com/",
-      "note": "Hard deadline 10 Nov 2026, 11:59 PM IST — organisers say it will not be extended."
     },
     {
       "id": "undp-generali-msme-insurance-2026",
@@ -2781,6 +2749,161 @@
       ],
       "link": "https://www.climatecurve.org/kcp",
       "note": "Closes 15 January 2027 at 11:59 PM UTC-12 (5:29 PM IST on 16 January) — or earlier once 500 eligible applications arrive, so apply early. Apply on kcp-conduit.org; upload all supporting documents before submitting, as nothing is accepted afterwards. No application fee."
+    },
+    {
+      "id": "neatehub-rkvy-raftaar-saranya-cohort-13",
+      "title": "RKVY-RAFTAAR Saranya Grant — Cohort 13",
+      "org": "NEATEHUB (North East Agriculture Technology Entrepreneurs Hub), Jorhat, under the Ministry of Agriculture & Farmers Welfare's RKVY-RAFTAAR scheme",
+      "type": "Grant",
+      "amount": "Up to ₹25 lakh grant-in-aid",
+      "amountMax": 2500000,
+      "deadline": "2026-11-30",
+      "region": "National",
+      "stages": [
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Agritech",
+        "Food & Agri",
+        "Allied Sectors"
+      ],
+      "equity": "No equity",
+      "summary": "A non-dilutive government grant of up to ₹25 lakh for agri and allied-sector startups that already have a working product with real users, paid in three milestone-linked tranches over 12–18 months. Run by NEATEHUB in Assam but open to DPIIT startups from anywhere in India, and you don't have to relocate.",
+      "eligibility": [
+        "DPIIT-recognised startup incorporated less than 7 years ago",
+        "Working MVP or pilot with real users and data — idea-stage ventures are not the target",
+        "Must operate in agriculture or an allied sector; pure trading, distribution or service businesses without an innovation core are excluded",
+        "Majority of equity held by Indian citizens (OCI founders are allowed)",
+        "Revenue-generating, ideally ₹10 lakh+ ARR; applicants should meet at least four of the five quick-check criteria",
+        "Operations or pilots in North-East India score extra but are not mandatory"
+      ],
+      "benefits": [
+        "Grant-in-aid of up to ₹25 lakh with no equity taken",
+        "Funds released in three tranches tied to a milestone plan agreed in the first week",
+        "Dedicated go-to-market mentorship and technical guidance",
+        "Access to NEATEHUB's institutional and follow-on investor networks",
+        "Non-residential programme — only committee pitches and the valedictory session are in Jorhat"
+      ],
+      "link": "https://neatehub.org/programs/rkvy-raftaar",
+      "note": "Applications opened 9 Nov 2026 and close 30 Nov 2026; they are reviewed on a rolling basis, so earlier is better. Apply via NEATEHUB's Accubate form linked on the programme page. Budget for travel to Jorhat for the committee pitch."
+    },
+    {
+      "id": "fintech-innovation-lab-new-york-2027",
+      "title": "FinTech Innovation Lab New York — 2027 Class",
+      "org": "FinTech Innovation Lab (Partnership Fund for New York City with Accenture)",
+      "type": "Accelerator",
+      "amount": "Non-dilutive; pairing with 3–6 global financial institutions",
+      "amountMax": 0,
+      "deadline": "2026-11-25",
+      "region": "Global",
+      "stages": [
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Fintech",
+        "Insurtech",
+        "Cybersecurity",
+        "Enterprise SaaS",
+        "AI"
+      ],
+      "equity": "No equity",
+      "summary": "A free, 12-week hybrid programme in New York (March–June 2027) that pairs B2B fintech startups with senior executives at three to six of the 40+ participating banks, insurers and asset managers to work towards paid pilots. No equity, no fees, and non-US startups — including Indian ones — can apply.",
+      "eligibility": [
+        "Early- or growth-stage company with at least a beta product; typically pre-seed to Series B",
+        "Building technology relevant to financial-services institutions (B2B fintech, insurtech, cyber, data/AI for banks)",
+        "Open to companies from any country, but the core team must be able to attend in-person sessions in New York and arrange its own US visas",
+        "Pilot Track applicants must be growth-stage with a production-ready product"
+      ],
+      "benefits": [
+        "Mentorship and pairing with 3–6 financial institutions, each with an executive sponsor and a day-to-day contact",
+        "Access to the Lab's network of 40+ banks, insurers and asset managers",
+        "Pilot Track: proof-of-concept support with Accenture's Innovation Garage",
+        "Cohorts of about 10 companies typically start 20–40 proofs of concept",
+        "No equity taken and no application or participation fee"
+      ],
+      "link": "https://fintechinnovationlab.com/apply/new-york/",
+      "note": "Applications close 25 Nov 2026 (US time — submit by 24 Nov evening IST to be safe) via portal.fintechinnovationlab.com. Notifications mid-January; Shark Tank Day 2 Feb and Finalist Demo Fair 4 Feb 2027. Catch: the Lab does not sponsor visas or reimburse travel, and core team members must be in New York for in-person sessions during the programme."
+    },
+    {
+      "id": "appworks-accelerator-aw34",
+      "title": "AppWorks Accelerator #34 (AW#34)",
+      "org": "AppWorks (Taipei-based venture capital and accelerator)",
+      "type": "Accelerator",
+      "amount": "Free programme; no equity or fees",
+      "amountMax": 0,
+      "deadline": "2026-12-27",
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "AI",
+        "Web3",
+        "IoT",
+        "SaaS",
+        "Deeptech",
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "A free three-month accelerator run by AppWorks, one of Asia's largest founder networks, that takes no equity, tokens, revenue share or fees. Founders from anywhere can apply to join a community of 650+ startups across nine Asian markets, with Taipei as the main base.",
+      "eligibility": [
+        "Founders operating from anywhere in the world can apply (contact the team to confirm fit for India-based startups)",
+        "Early-stage startups with a team and product direction; AppWorks focuses on AI, Web3, IoT and tech businesses targeting Asian markets",
+        "Willingness to take part in a hybrid online/offline programme, with in-person participation in Taipei encouraged",
+        "Apply through the AW#34 Typeform application"
+      ],
+      "benefits": [
+        "Three-month programme with mentorship and a founder community that continues afterwards",
+        "Access to 650+ startups and mentors across Asia",
+        "Connections to 25+ venture funds and corporate partners",
+        "Help with Taiwan Gold Card / Entrepreneur Visa and company setup",
+        "No equity, tokens, options, revenue share, rent or service fees"
+      ],
+      "link": "https://appworks.tw/accelerator-faq/",
+      "note": "Two rounds: first round closes 29 Nov 2026, final round closes 27 Dec 2026 — earlier applicants have a better admission chance. AppWorks does not commit to investing; fundraising is discussed separately. Expect travel to Taipei for in-person sessions."
+    },
+    {
+      "id": "magic-aimm-2026",
+      "title": "AIMM 2026 — AI for Manufacturing and Mankind Challenge",
+      "org": "MAGIC (Marathwada Accelerator for Growth and Incubation Council), Chhatrapati Sambhajinagar",
+      "type": "Challenge",
+      "amount": "₹7 lakh total cash prizes",
+      "amountMax": 700000,
+      "deadline": "2026-12-07",
+      "region": "National",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "AI",
+        "Manufacturing",
+        "Industry 4.0",
+        "Social Impact"
+      ],
+      "equity": "No equity",
+      "summary": "The eighth edition of MAGIC's national AI innovation contest, with ₹7 lakh in cash prizes for AI solutions to industrial and social problems. It has two tracks — MVP/proof-of-concept ideas and revenue-generating products — and winners can also get seed-funding support and incubation at MAGIC.",
+      "eligibility": [
+        "Open nationally to startups, new entrepreneurs, MSMEs, students and research teams",
+        "Solution must use AI to solve a manufacturing, industrial or societal problem",
+        "Category 1: concepts at MVP stage with a working proof of concept",
+        "Category 2: AI products already in the market and generating revenue"
+      ],
+      "benefits": [
+        "Share of ₹7 lakh total cash prizes",
+        "Seed-funding support for eligible winning innovations",
+        "Incubation opportunity with MAGIC, Chhatrapati Sambhajinagar",
+        "Exposure to MAGIC's industry network in the Marathwada manufacturing cluster"
+      ],
+      "link": "https://tinyurl.com/AIMM2026",
+      "note": "Applications close 7 Dec 2026 (closing time not published — submit a day early). The organiser's application link is the short link above; prize split per category and the finale date had not been published at launch, so check the form for details. Pick the right category: idea-stage entries must already show a proof of concept."
     }
   ]
 }
