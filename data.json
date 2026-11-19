@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "items": [
     {
       "id": "elevate-nxt-2026-27",
@@ -1149,44 +1149,6 @@
       ],
       "link": "https://azimpremjifoundation.org/who-we-are/how-we-are-organised/grants/social-startups-programme/",
       "note": "Applications close 31 Dec 2026. This is for founding a non-profit, not a for-profit startup. Selection: screening, document review, statement of purpose, online interview and in-person panel; results expected by Feb 2027. Focus themes include rural livelihoods, health, youth, disability, child welfare, Adivasi well-being and urban informal settlements."
-    },
-    {
-      "id": "unicef-femtech-ventures-2026",
-      "title": "UNICEF Femtech Ventures – Call 2.0",
-      "org": "UNICEF Venture Fund (Office of Innovation)",
-      "type": "Grant",
-      "amount": "Up to US$100,000 equity-free + 12 months mentoring",
-      "amountMax": 8800000,
-      "deadline": "2026-11-11",
-      "region": "Global",
-      "stages": [
-        "Prototype",
-        "MVP",
-        "Revenue"
-      ],
-      "sectors": [
-        "HealthTech",
-        "FemTech",
-        "AI",
-        "Open Source"
-      ],
-      "equity": "No equity",
-      "summary": "UNICEF's Venture Fund is backing early-stage for-profit companies that use frontier technology to improve the health of women and girls. Selected startups receive equity-free funding plus a year of technical support, in exchange for making their solution open source.",
-      "eligibility": [
-        "Registered private for-profit company (NGOs, universities and individuals cannot apply)",
-        "Registered in a UNICEF programme country — check UNICEF's country list",
-        "Working prototype that has already produced some initial data",
-        "Frontier-tech solution (e.g. AI, data science, blockchain) benefiting vulnerable girls and women",
-        "Willing to release the solution under an open-source licence"
-      ],
-      "benefits": [
-        "Up to US$100,000 in equity-free funding",
-        "12 months of technical mentorship",
-        "Access to UNICEF's global network and country offices",
-        "Founders keep all other IP — the open-source code is UNICEF's only 'return'"
-      ],
-      "link": "https://www.unicef.org/innovation/FemTechCall",
-      "note": "Closes 11 Nov 2026. Funded companies must have an OSI-approved (or equivalent) open-source licence in place by month six. Women-led teams and founders under 35 are strongly encouraged."
     },
     {
       "id": "d-prize-global-competition-2026",
@@ -2904,6 +2866,44 @@
       ],
       "link": "https://tinyurl.com/AIMM2026",
       "note": "Applications close 7 Dec 2026 (closing time not published — submit a day early). The organiser's application link is the short link above; prize split per category and the finale date had not been published at launch, so check the form for details. Pick the right category: idea-stage entries must already show a proof of concept."
+    },
+    {
+      "id": "cars24-grand-startup-challenge-2026",
+      "title": "Grand Startup Challenge 2026",
+      "org": "CARS24, with Startup India, MeitY Startup Hub and the Startup Policy Forum",
+      "type": "Challenge",
+      "amount": "₹1 Cr prize pool across 4 tracks",
+      "amountMax": 0,
+      "deadline": "2026-11-20",
+      "region": "National",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Fintech",
+        "Mobility",
+        "Logistics",
+        "AI/ML"
+      ],
+      "equity": "Not stated",
+      "summary": "A national challenge for early-stage Indian startups working on fintech and lending, mobility and road safety, logistics and supply chains, or sovereign AI. Shortlisted teams get a month of mentoring in December before pitching at a finale in New Delhi in January 2027, where winners share a ₹1 crore prize pool.",
+      "eligibility": [
+        "Startup incorporated in India as a Private Limited Company or LLP",
+        "At least one founder working on the company full time",
+        "Early-stage: startups that have already raised more than ₹50 crore are excluded",
+        "Product must fit one of the four tracks: fintech/lending, mobility & road safety, logistics & supply chain, or sovereign AI",
+        "Must pass eight yes/no screening questions at the start of the form"
+      ],
+      "benefits": [
+        "Share of a ₹1 crore prize pool split across winners in all four tracks",
+        "Mentorship month in December 2026 for shortlisted startups",
+        "Pitch and demo slot at the January 2027 finale in New Delhi",
+        "Visibility to investors and the partner organisations"
+      ],
+      "link": "https://gsc.cars24.com/",
+      "note": "Applications close 20 Nov 2026 at 11:59 PM IST (already extended once). The form takes about 30 minutes and needs a pitch deck PDF (max 50 MB) plus a 2–5 minute founder video link (YouTube, Drive or Loom). Two reviewers score track fit, product evidence, team and traction equally. Per-winner prize split and any equity terms are not published."
     }
   ]
 }
