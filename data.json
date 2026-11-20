@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "items": [
     {
       "id": "elevate-nxt-2026-27",
@@ -2904,6 +2904,43 @@
       ],
       "link": "https://gsc.cars24.com/",
       "note": "Applications close 20 Nov 2026 at 11:59 PM IST (already extended once). The form takes about 30 minutes and needs a pitch deck PDF (max 50 MB) plus a 2–5 minute founder video link (YouTube, Drive or Loom). Two reviewers score track fit, product evidence, team and traction equally. Per-winner prize split and any equity terms are not published."
+    },
+    {
+      "id": "create-ai-agents-championship-2026",
+      "title": "Create AI Agents Championship (Dubai)",
+      "org": "Dubai Chamber of Digital Economy (Create Apps in Dubai initiative)",
+      "type": "Challenge",
+      "amount": "AED 550,000 grant per category winner; AED 1M 'AI Agent of the Year'",
+      "amountMax": 23900000,
+      "deadline": "2026-12-31",
+      "region": "Global",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "AI",
+        "AI Agents",
+        "Technology"
+      ],
+      "equity": "Not stated",
+      "summary": "A Dubai government-backed global contest for AI agents, with four categories (societal, personal, business and youth). Each category winner gets an AED 550,000 development grant and one is named 'AI Agent of the Year' with AED 1 million; the total pool is over AED 2.5 million.",
+      "eligibility": [
+        "Open to innovators worldwide, technical or non-technical, as individuals or teams",
+        "Entries can be at idea, prototype or early-MVP stage; fully commercialised products are not eligible",
+        "Startups and existing companies may enter a new AI-agent solution or capability",
+        "Youth category: lead applicant must be under 21 at registration",
+        "Entry needs an AI-agent prototype, a pitch deck and a demo video"
+      ],
+      "benefits": [
+        "AED 550,000 grant for each of the Societal, Personal, Business and Youth category winners",
+        "AED 1 million and the 'AI Agent of the Year' title for one overall winner",
+        "Introductory agentic-AI workshops plus a Digital Academy with advanced courses, practical workshops and mentoring",
+        "Visibility through a championship launched by Dubai's Crown Prince"
+      ],
+      "link": "https://www.dubaichamberdigital.com/en/create-ai-agents",
+      "note": "Launched 7 Oct 2026; organisers say registration closes in December 2026 but have not published the exact day, so 31 Dec is a placeholder — submit early and check the site. The announcements do not mention entry fees or equity, and how the AED 1M award combines with the category grant is not spelled out. Sources: WAM announcement as carried by Khaleej Times and Gulf Today."
     }
   ]
 }
