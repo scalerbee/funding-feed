@@ -1,68 +1,6 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "items": [
-    {
-      "id": "elevate-nxt-2026-27",
-      "title": "ELEVATE NxT 2026–27 (DeepTech)",
-      "org": "Govt of Karnataka (KITS / Startup Karnataka)",
-      "type": "Grant",
-      "amount": "Up to ₹1 crore, equity-free",
-      "amountMax": 10000000,
-      "deadline": "2026-11-13",
-      "region": "National",
-      "stages": [
-        "Prototype",
-        "MVP",
-        "Revenue"
-      ],
-      "sectors": [
-        "DeepTech"
-      ],
-      "equity": "No equity",
-      "summary": "Karnataka's milestone-based grant-in-aid for deep-tech startups. Open to eligible startups from anywhere in India; winners are expected to move their registered office to Karnataka.",
-      "eligibility": [
-        "Deep-tech startup as per DPIIT definition (up to 20 years old, turnover up to ₹300 Cr)",
-        "No ELEVATE grant received in the 3 years before 13 Oct 2026",
-        "Must relocate registered office to Karnataka if selected"
-      ],
-      "benefits": [
-        "One-time equity-free grant up to ₹1 Cr in milestones",
-        "Mentoring and incubation support"
-      ],
-      "link": "https://eitbt.karnataka.gov.in/",
-      "note": "Closes 5:00 PM IST on 13 Nov 2026."
-    },
-    {
-      "id": "elevate-minorities-2026",
-      "title": "ELEVATE Minorities 2026",
-      "org": "Govt of Karnataka (KITS / Startup Karnataka)",
-      "type": "Grant",
-      "amount": "Up to ₹50 lakh, equity-free",
-      "amountMax": 5000000,
-      "deadline": "2026-11-13",
-      "region": "Karnataka",
-      "stages": [
-        "Prototype",
-        "MVP",
-        "Revenue"
-      ],
-      "sectors": [
-        "All sectors"
-      ],
-      "equity": "No equity",
-      "summary": "Grant-in-aid for Karnataka-registered startups where a founder from a minority community holds at least 51% equity.",
-      "eligibility": [
-        "Startup registered in Karnataka",
-        "At least 51% equity held by a minority-community founder",
-        "DPIIT recognition not required per the 2026 call"
-      ],
-      "benefits": [
-        "One-time grant up to ₹50 lakh",
-        "Mentoring support"
-      ],
-      "link": "https://eitbt.karnataka.gov.in/",
-      "note": "Closes 5:00 PM IST on 13 Nov 2026. Applicants need at least 60 marks to reach the final pitch."
-    },
     {
       "id": "undp-generali-msme-insurance-2026",
       "title": "UNDP–Generali MSME Insurance Innovation Challenge (India)",
@@ -1270,43 +1208,6 @@
       ],
       "link": "https://prip.pharma-dept.gov.in/",
       "note": "Submission window opened on the PRIP portal from mid-September 2026; no closing date has been announced, so apply early and check the portal. Later-stage awards need the applicant to co-fund at least 65% of the project. Novel device categories include AI/ML devices and SaMD/SiMD, genetic diagnostics, surgical robotics, telemedicine-enabled devices and novel IVDs/biomarkers."
-    },
-    {
-      "id": "startup-buildathon-india-2026",
-      "title": "Startup Buildathon India 2026 (Google AI)",
-      "org": "Hack2skill with nasscom and HeadStart, alongside Google DeepMind and Google Cloud",
-      "type": "Challenge",
-      "amount": "$10,000 per winning team (top 10)",
-      "amountMax": 880000,
-      "deadline": "2026-11-13",
-      "region": "National",
-      "stages": [
-        "Idea",
-        "Prototype",
-        "MVP"
-      ],
-      "sectors": [
-        "AI/ML",
-        "SaaS",
-        "Consumer Tech",
-        "Any"
-      ],
-      "equity": "No equity",
-      "summary": "A multi-city build sprint for early AI startups and would-be founders, ending in a Grand Finale at Google in Bengaluru. Ten winning teams each take home $5,000 in cash plus $5,000 in Google AI and Cloud credits.",
-      "eligibility": [
-        "Early-stage startups working on a new product idea, or aspiring founders with a startup idea",
-        "Solo founders and teams of two or more can apply",
-        "The product must be AI-powered",
-        "Shortlisted teams must attend an in-person city buildathon in one of ten Indian cities on 20–21 November"
-      ],
-      "benefits": [
-        "$10,000 per top-10 team: $5,000 cash and $5,000 in Google AI/Cloud credits (subject to taxes and terms)",
-        "Access to Google experts and mentors during the build",
-        "Route into Google startup support programmes",
-        "Pitch slots at regional showcases (Gurugram, Mumbai, Hyderabad) and the Bengaluru finale on 2 December"
-      ],
-      "link": "https://startupbuildathon.com/",
-      "note": "Applications close 13 November 2026 (no closing time published — submit by the evening before to be safe). Selected teams are told by 18 November. City buildathons run 20–21 November in Ahmedabad, Bengaluru, Chennai, Delhi, Hyderabad, Jaipur, Kochi, Kolkata, Mumbai and Pune; you must travel to your city round at your own cost. Judging weighs founder profile, product potential, market viability, technical architecture and how well you use Google AI."
     },
     {
       "id": "nldsl-digitwin-grand-challenge-2026",
@@ -2941,6 +2842,44 @@
       ],
       "link": "https://www.dubaichamberdigital.com/en/create-ai-agents",
       "note": "Launched 7 Oct 2026; organisers say registration closes in December 2026 but have not published the exact day, so 31 Dec is a placeholder — submit early and check the site. The announcements do not mention entry fees or equity, and how the AED 1M award combines with the category grant is not spelled out. Sources: WAM announcement as carried by Khaleej Times and Gulf Today."
+    },
+    {
+      "id": "birac-femtech-call-2026",
+      "title": "BIRAC Call for Proposals under Femtech (2026)",
+      "org": "BIRAC (Biotechnology Industry Research Assistance Council), Department of Biotechnology",
+      "type": "Equity",
+      "amount": "Investment support — amount not disclosed",
+      "amountMax": 0,
+      "deadline": "2026-11-23",
+      "region": "National",
+      "stages": [
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Femtech",
+        "Healthcare",
+        "Biotech",
+        "Diagnostics",
+        "Digital health"
+      ],
+      "equity": "Varies",
+      "summary": "BIRAC has opened a dedicated call for women-led Indian startups building products for women's health — from menstrual and reproductive care to maternal health, gynaecological cancer diagnostics and menopause. Selected startups are offered investment support along with technology and market linkages through BIRAC's network.",
+      "eligibility": [
+        "DPIIT-recognised Indian startup registered as a private limited company or LLP",
+        "At least 51% of shares held by resident Indian citizens",
+        "A woman founder, co-founder or CXO must hold a key role in the company",
+        "Product must address women's health: reproductive, sexual or menstrual health; maternal and prenatal care; diagnostics and breast/gynaecological cancer; digital health, AI or mental health for women; or menopause and hormonal health",
+        "Early-stage through scale-up companies can apply"
+      ],
+      "benefits": [
+        "Investment support from BIRAC (instrument and size decided per proposal)",
+        "Technology and market linkages through BIRAC's ecosystem",
+        "Committee-led evaluation with feedback on technical merit"
+      ],
+      "link": "https://www.birac.nic.in/",
+      "note": "Last date 23 Nov 2026 (BIRAC homepage notice; no closing time given, so submit by the evening of 22 Nov). Apply through the BIRAC portal and download the Femtech guidelines and flyer from the BIRAC homepage first. The amount and investment terms are not stated publicly — read the guidelines carefully for any equity conditions before applying. Keep your DPIIT certificate, incorporation documents and cap table ready."
     }
   ]
 }
