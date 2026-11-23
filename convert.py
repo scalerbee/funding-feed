@@ -15,6 +15,17 @@ def fsource(it):
     if "csr" in o: return "CSR"
     if any(k in o for k in ["undp","itc &","unccd"]): return "International"
     return "Private"
+def fmtdate(s):
+    import datetime
+    x=datetime.date.fromisoformat(s); return f"{x.day} {x.strftime('%b %Y')}"
+def seo_title(it):
+    when = ("Apply by " + fmtdate(it["deadline"])) if it["deadline"] else "Open now"
+    t = f'{it["title"]}: {when}'
+    return t if len(t) <= 65 else it["title"][:62].rstrip() + "…"
+def meta_desc(it):
+    lead = ("Last date " + fmtdate(it["deadline"]) + ". ") if it["deadline"] else "Rolling applications. "
+    s = lead + it["amount"] + ". " + it["summary"]
+    return s if len(s) <= 158 else s[:155].rsplit(" ",1)[0] + "…"
 feed=[]
 for it in d["items"]:
     stages=[]
@@ -45,6 +56,8 @@ for it in d["items"]:
         "source": "auto",
         "addedOn": it.get("added") or d["updated"],
         "slug": it["id"],
+        "seoTitle": seo_title(it),
+        "metaDescription": meta_desc(it),
         **({"take": it["take"]} if it.get("take") else {})
     })
 json.dump({"updated": d["updated"], "items": feed}, open(out,"w",encoding="utf-8"), ensure_ascii=False, indent=1)
