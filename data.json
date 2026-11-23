@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "items": [
     {
       "id": "undp-generali-msme-insurance-2026",
@@ -34,38 +34,6 @@
       ],
       "link": "https://www.undp.org/india/news/call-applications-undp-generali-msme-insurance-innovation-challenge-india",
       "note": "Applications close 10 December 2026 via the online form linked as 'Apply here' on the UNDP call page (closing time not stated). Read the FAQ for formal eligibility before applying; the applicant webinar (27 Oct) has already happened. Earlier reports cited 20 Nov — the official page now shows 10 Dec."
-    },
-    {
-      "id": "undp-ocean-innovation-2026",
-      "title": "UNDP Ocean Innovation Challenge — 5th Call",
-      "org": "UNDP with Sida",
-      "type": "Challenge",
-      "amount": "Up to USD 100,000 + 17 months incubation",
-      "amountMax": 8800000,
-      "deadline": "2026-11-15",
-      "region": "Global",
-      "stages": [
-        "MVP",
-        "Revenue"
-      ],
-      "sectors": [
-        "Climate",
-        "Blue economy",
-        "Waste / plastics"
-      ],
-      "equity": "No equity",
-      "summary": "Implementation-ready solutions for marine pollution, coastal ecosystem restoration and a sustainable blue economy. Up to 10 winners.",
-      "eligibility": [
-        "Legally registered private-sector organisations",
-        "Implementation-ready innovation",
-        "Preference for women-led and youth-led ventures; priority countries are Bangladesh, Indonesia, Philippines, Thailand and Viet Nam — check India eligibility in the call"
-      ],
-      "benefits": [
-        "Up to USD 100,000 via deliverable-based contract",
-        "Up to 17 months of incubation and mentoring"
-      ],
-      "link": "https://www.undp.org/press-releases/innovators-wanted-undp-launches-usd-1-million-global-challenge-healthier-ocean",
-      "note": "Closes 15 Nov 2026, 23:59 New York time."
     },
     {
       "id": "kits-grassroot-innovation-2026",
@@ -2884,6 +2852,43 @@
       ],
       "link": "https://www.birac.nic.in/",
       "note": "Last date 23 Nov 2026 (BIRAC homepage notice; no closing time given, so submit by the evening of 22 Nov). Apply through the BIRAC portal and download the Femtech guidelines and flyer from the BIRAC homepage first. The amount and investment terms are not stated publicly — read the guidelines carefully for any equity conditions before applying. Keep your DPIIT certificate, incorporation documents and cap table ready."
+    },
+    {
+      "id": "ksum-bcdd-startup-grant",
+      "title": "KSUM BCDD Startup Grant (Idea + Productisation)",
+      "org": "Kerala Startup Mission (KSUM) with the Backward Classes Development Department, Government of Kerala",
+      "type": "Grant",
+      "amount": "Up to ₹10 lakh total (Idea grant up to ₹3 lakh + Productisation grant)",
+      "amountMax": 1000000,
+      "deadline": null,
+      "region": "Kerala",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "Technology",
+        "All tech sectors"
+      ],
+      "equity": "No equity",
+      "summary": "A Kerala government grant, run through KSUM, that backs technology startups founded by graduates from the OBC/OEC communities. Founders can draw an Idea grant of up to ₹3 lakh and then a Productisation grant to turn a prototype into a market-ready product, with total support capped at ₹10 lakh and released in milestone-linked tranches.",
+      "eligibility": [
+        "Founder must be a graduate (any stream) from the OBC/OEC category, aged 23 to 40",
+        "Founder/innovator's annual income must be below ₹5 lakh",
+        "OBC/OEC founders must together hold at least 80% of the company's shares",
+        "Must be building an innovative technology-driven product (service projects, asset purchases and CSR activities are not funded)",
+        "Idea grant: innovators based in or outside Kerala may apply",
+        "Productisation grant: company must already be incorporated and hold a KSUM Unique ID"
+      ],
+      "benefits": [
+        "Idea grant of up to ₹3 lakh for prototyping and validation",
+        "Productisation grant towards making the product market-ready, within the ₹10 lakh overall cap",
+        "Milestone-based funding with KSUM monitoring and mentoring",
+        "Entry into the Kerala Startup Mission ecosystem and its programmes"
+      ],
+      "link": "https://grants.startupmission.in/bcdd",
+      "note": "Rolling — the official KSUM grants portal shows the call as open with no closing date. Apply online on grants.startupmission.in; shortlisted founders pitch to an expert committee and incomplete forms are rejected. Company incorporation (Pvt Ltd, LLP or OPC) and a KSUM Unique ID are mandatory before any money is released. You cannot outsource the whole product build or a major milestone. Read the BCDD guidelines PDF on the portal for the exact Productisation cap and the document list before applying."
     }
   ]
 }
