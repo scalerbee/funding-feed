@@ -1,1 +1,167 @@
-[]
+[
+ {
+  "post_after": "2026-11-23T14:30:00Z",
+  "id": "2026-11-23-investors-singapore",
+  "preview": false,
+  "text": "Livspace, Licious, Moglix, Country Delight. All backed by investors sitting in Singapore.\n\nMost Indian founders only pitch Indian VCs. But Singapore-based funds have been writing cheques into Indian startups for years, from ₹4 Cr pre-seed bets to growth-stage debt.\n\nIn this carousel: 8 Singapore investors that back Indian founders, with their stage, cheque size, Indian portfolio and how to reach each one.\n\nQuick tip: match the investor to your stage before you pitch. Antler and BEENEXT write early cheques, Jungle and Vertex lead seed to Series A rounds, while Venturi, EvolutionX and Temasek come in much later.\n\nSave this for your next raise.\n\nIf you are looking to raise funds and need an expert, reach out to us below:\nhttps://scalerbee.com/TheFundGuy/contact.html\n\n#StartupFunding #Investors #IndianStartups #VentureCapital #TheFundGuy #Singapore",
+  "document_title": "8 Singapore investors that back Indian founders",
+  "carousel": {
+   "kicker": "Investor list · Singapore",
+   "title": "8 Singapore investors that back Indian founders",
+   "subtitle": "From pre-seed cheques to growth debt: stage, cheque size, Indian portfolio and how to reach each one.",
+   "investors": [
+    {
+     "name": "Antler",
+     "hq": "Singapore HQ · Bengaluru",
+     "type": "Pre-seed VC + residency",
+     "stage": "Idea & pre-seed",
+     "cheque": "₹4 Cr for 11% (AI Residency)",
+     "sectors": [
+      "AI",
+      "Deep tech",
+      "Tech-enabled startups"
+     ],
+     "india_portfolio": [
+      "Namma Yatri (Moving Tech)",
+      "Cautio"
+     ],
+     "reach": "antler.co/india — pitch directly via Antler Direct",
+     "note": "Backs founders at day zero, even before a product exists."
+    },
+    {
+     "name": "BEENEXT",
+     "hq": "Singapore",
+     "type": "Early-stage VC",
+     "stage": "Pre-seed to Series A",
+     "cheque": "~US$0.2M–2.5M (est.)",
+     "sectors": [
+      "Industry-agnostic",
+      "Recent interest in manufacturing"
+     ],
+     "india_portfolio": [
+      "BharatPe",
+      "Rozana"
+     ],
+     "reach": "beenext.com — contact form for founders",
+     "note": "India is its biggest market by number of portfolio companies."
+    },
+    {
+     "name": "Jungle Ventures",
+     "hq": "Singapore",
+     "type": "Multi-stage VC",
+     "stage": "Seed to growth",
+     "cheque": "US$0.5M–20M (First Cheque: US$2M)",
+     "sectors": [
+      "Sector-agnostic",
+      "AI",
+      "Advanced manufacturing"
+     ],
+     "india_portfolio": [
+      "Livspace",
+      "Moglix",
+      "Atomberg",
+      "Citymall"
+     ],
+     "reach": "jungle.vc",
+     "note": "India is now its largest market, at nearly 70% of capital deployed."
+    },
+    {
+     "name": "Vertex Ventures SEA & India",
+     "hq": "Singapore · Bengaluru · Gurugram",
+     "type": "Early-stage VC",
+     "stage": "Seed to Series B (mostly Series A)",
+     "cheque": "Not fixed; leads early rounds",
+     "sectors": [
+      "Sector-agnostic"
+     ],
+     "india_portfolio": [
+      "Licious",
+      "Kuku FM",
+      "Kissht",
+      "BeepKart"
+     ],
+     "reach": "vertexventures.sg — 'Pitch to Us' form",
+     "note": "Backs 6–9 startups a year, so come with clear Series A metrics."
+    },
+    {
+     "name": "Qualgro",
+     "hq": "Singapore",
+     "type": "B2B tech VC",
+     "stage": "Series A & B",
+     "cheque": "Not disclosed",
+     "sectors": [
+      "B2B",
+      "Data / AI",
+      "SaaS"
+     ],
+     "india_portfolio": [
+      "Hevo (led Series A)",
+      "Convosight (led Series A)",
+      "NoBroker"
+     ],
+     "reach": "qualgro.com",
+     "note": "Mainly a Southeast Asia investor; India deals are selective, so a global or SEA angle helps."
+    },
+    {
+     "name": "Venturi Partners",
+     "hq": "Singapore",
+     "type": "Consumer growth equity",
+     "stage": "Series B to D",
+     "cheque": "US$15M–40M",
+     "sectors": [
+      "Retail",
+      "Education",
+      "Healthcare",
+      "FMCG"
+     ],
+     "india_portfolio": [
+      "Livspace",
+      "Country Delight",
+      "K-12 Techno Services"
+     ],
+     "reach": "Via its website or a warm intro",
+     "note": "Growth stage only; bookmark it for after your Series A."
+    },
+    {
+     "name": "EvolutionX Debt Capital",
+     "hq": "Singapore · Mumbai team",
+     "type": "Growth debt (DBS + Temasek)",
+     "stage": "Growth stage",
+     "cheque": "Large debt deals (e.g. ₹287.5 Cr to upGrad)",
+     "sectors": [
+      "Tech-enabled companies"
+     ],
+     "india_portfolio": [
+      "PharmEasy (API Holdings)",
+      "udaan",
+      "upGrad"
+     ],
+     "reach": "evolutionx.com.sg",
+     "note": "Non-dilutive capital for scaled companies, not for early stage."
+    },
+    {
+     "name": "Temasek",
+     "hq": "Singapore",
+     "type": "State investment company",
+     "stage": "Mostly growth & late stage",
+     "cheque": "Large; early stage is ~5% of portfolio",
+     "sectors": [
+      "Consumer",
+      "Financial services",
+      "Healthcare",
+      "Tech"
+     ],
+     "india_portfolio": [
+      "Zomato (Eternal)",
+      "Lenskart",
+      "Rebel Foods",
+      "Atomberg"
+     ],
+     "reach": "temasek.com.sg",
+     "note": "Also backs Indian VC funds, so it can reach you indirectly earlier."
+    }
+   ],
+   "cta_url": "scalerbee.com/TheFundGuy/contact.html"
+  }
+ }
+]
