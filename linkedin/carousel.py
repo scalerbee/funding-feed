@@ -39,39 +39,39 @@ def css():
 * {{ box-sizing: border-box; margin: 0; padding: 0 }}
 body {{ font-family: P, sans-serif; }}
 .slide {{ width:1080px; height:1350px; position:relative; overflow:hidden; page-break-after:always;
-  background: radial-gradient(1200px 900px at 85% -10%, {NAVY2} 0%, {NAVY} 60%); color:#fff; padding:90px 84px; }}
+  background: radial-gradient(1200px 900px at 85% -10%, {NAVY2} 0%, {NAVY} 60%); color:#fff; padding:80px 72px; }}
 .ring {{ position:absolute; border:2px solid rgba(212,168,58,.22); border-radius:50%; }}
 .r1 {{ width:520px; height:520px; right:-170px; top:-170px }}
 .r2 {{ width:360px; height:360px; right:-90px; top:-90px }}
-.kicker {{ color:{GOLD}; font-weight:600; letter-spacing:6px; font-size:26px; text-transform:uppercase }}
-.cover h1 {{ font-size:92px; line-height:1.08; font-weight:700; margin-top:60px }}
+.kicker {{ color:{GOLD}; font-weight:600; letter-spacing:5px; font-size:32px; text-transform:uppercase }}
+.cover h1 {{ font-size:112px; line-height:1.08; font-weight:700; margin-top:60px }}
 .cover h1 b {{ color:{GOLD} }}
-.cover .sub {{ font-size:36px; font-weight:300; color:#dfe6f2; margin-top:44px; line-height:1.4; max-width:860px }}
-.swipe {{ position:absolute; bottom:200px; left:84px; font-size:30px; color:{GOLD}; font-weight:500 }}
-.foot {{ position:absolute; left:84px; right:84px; bottom:70px; display:flex; justify-content:space-between;
-  font-size:22px; letter-spacing:3px; color:#9fb0cc; border-top:1px solid rgba(255,255,255,.15); padding-top:26px }}
+.cover .sub {{ font-size:46px; font-weight:400; color:#dfe6f2; margin-top:44px; line-height:1.4; max-width:860px }}
+.swipe {{ position:absolute; bottom:190px; left:72px; font-size:40px; color:{GOLD}; font-weight:500 }}
+.foot {{ position:absolute; left:72px; right:72px; bottom:60px; display:flex; justify-content:space-between;
+  font-size:28px; letter-spacing:3px; color:#9fb0cc; border-top:1px solid rgba(255,255,255,.15); padding-top:26px }}
 .foot b {{ color:{GOLD}; font-weight:600 }}
-.num {{ font-size:28px; color:{GOLD}; font-weight:600; letter-spacing:4px }}
-.inv h2 {{ font-size:66px; line-height:1.1; font-weight:700; margin-top:22px }}
-.tags {{ margin-top:26px; display:flex; gap:14px; flex-wrap:wrap }}
-.tag {{ border:1.5px solid {GOLD}; color:{GOLD}; border-radius:40px; padding:8px 24px; font-size:24px; font-weight:500 }}
-.grid {{ margin-top:54px; display:grid; grid-template-columns:1fr 1fr; gap:26px }}
-.cell {{ background:rgba(255,255,255,.06); border-radius:22px; padding:28px 32px }}
+.num {{ font-size:34px; color:{GOLD}; font-weight:600; letter-spacing:4px }}
+.inv h2 {{ font-size:84px; line-height:1.05; font-weight:700; margin-top:18px }}
+.tags {{ margin-top:22px; display:flex; gap:14px; flex-wrap:wrap }}
+.tag {{ border:1.5px solid {GOLD}; color:{GOLD}; border-radius:40px; padding:8px 26px; font-size:32px; font-weight:500 }}
+.grid {{ margin-top:40px; display:grid; grid-template-columns:1fr 1fr; gap:20px }}
+.cell {{ background:rgba(255,255,255,.06); border-radius:22px; padding:22px 28px }}
 .cell.full {{ grid-column:1 / span 2 }}
-.lab {{ font-size:21px; letter-spacing:3px; color:#9fb0cc; text-transform:uppercase; font-weight:500 }}
-.val {{ font-size:33px; margin-top:10px; line-height:1.35; font-weight:500 }}
-.val.small {{ font-size:28px; font-weight:400 }}
+.lab {{ font-size:26px; letter-spacing:3px; color:#9fb0cc; text-transform:uppercase; font-weight:500 }}
+.val {{ font-size:44px; margin-top:6px; line-height:1.2; font-weight:600 }}
+.val.small {{ font-size:38px; font-weight:500 }}
 .reach {{ color:{GOLD}; word-break:break-all }}
-.note {{ margin-top:30px; font-size:27px; color:#dfe6f2; font-weight:300; line-height:1.45;
+.note {{ margin-top:26px; font-size:34px; color:#dfe6f2; font-weight:400; line-height:1.45;
   border-left:5px solid {GOLD}; padding-left:24px }}
 .cta {{ background:{CREAM}; color:{NAVY} }}
 .cta .kicker {{ color:#a07c1f }}
-.cta h1 {{ font-size:78px; line-height:1.12; font-weight:700; margin-top:70px }}
+.cta h1 {{ font-size:96px; line-height:1.12; font-weight:700; margin-top:70px }}
 .cta h1 b {{ color:#a07c1f }}
-.cta p {{ font-size:34px; margin-top:44px; line-height:1.45; color:#2b3b55; max-width:880px }}
-.btn {{ display:inline-block; margin-top:60px; background:{NAVY}; color:#fff; font-size:30px; font-weight:600;
-  border-radius:60px; padding:26px 46px }}
-.url {{ margin-top:26px; font-size:30px; color:#a07c1f; font-weight:600 }}
+.cta p {{ font-size:44px; margin-top:44px; line-height:1.45; color:#2b3b55; max-width:880px }}
+.btn {{ display:inline-block; margin-top:60px; background:{NAVY}; color:#fff; font-size:40px; font-weight:600;
+  border-radius:60px; padding:28px 52px }}
+.url {{ margin-top:30px; font-size:38px; color:#a07c1f; font-weight:600 }}
 .cta .foot {{ color:#6b7a93; border-top-color:rgba(11,31,58,.15) }}
 """
 
@@ -96,14 +96,14 @@ def build_html(spec):
         sectors = ", ".join(v.get("sectors") or []) or "Sector-agnostic"
         note = f'<div class="note">{e(v["note"])}</div>' if v.get("note") else ""
         out.append(f"""<section class="slide inv"><div class="ring r2"></div>
-<div class="num">{k:02d} / {len(inv):02d}</div><h2>{e(v['name'])}</h2><div class="tags">{tags}</div>
+<div class="fit"><div class="num">{k:02d} / {len(inv):02d}</div><h2>{e(v['name'])}</h2><div class="tags">{tags}</div>
 <div class="grid">
  <div class="cell"><div class="lab">Stage</div><div class="val">{e(v.get('stage'))}</div></div>
  <div class="cell"><div class="lab">Cheque size</div><div class="val">{e(v.get('cheque') or 'Not disclosed')}</div></div>
  <div class="cell full"><div class="lab">Sectors</div><div class="val small">{e(sectors)}</div></div>
  <div class="cell full"><div class="lab">Backed in India</div><div class="val small">{e(port)}</div></div>
  <div class="cell full"><div class="lab">How to reach</div><div class="val small reach">{e(v.get('reach'))}</div></div>
-</div>{note}{foot(k + 1, n)}</section>""")
+</div>{note}</div>{foot(k + 1, n)}</section>""")
     url = e(spec.get("cta_url", "scalerbee.com/TheFundGuy/contact.html"))
     out.append(f"""<section class="slide cta"><div class="kicker">THE FUND GUY · SCALER BEE</div>
 <h1>Raising funds?<br><b>Get an expert</b> in your corner.</h1>
@@ -124,6 +124,15 @@ def render(spec, pdf_path, png_dir=None):
         pg.goto("file://" + tmp)
         pg.evaluate("document.fonts.ready")
         pg.wait_for_timeout(500)
+        # shrink a slide's content slightly if it would run into the footer
+        pg.evaluate("""() => document.querySelectorAll('section.slide').forEach(sl => {
+            const fit = sl.querySelector('.fit'), foot = sl.querySelector('.foot');
+            if (!fit || !foot) return;
+            let k = 1;
+            while (k > 0.7 && fit.getBoundingClientRect().bottom > foot.getBoundingClientRect().top - 24) {
+                k -= 0.02; fit.style.zoom = k;
+            }
+        })""")
         pg.pdf(path=pdf_path, width="1080px", height="1350px", print_background=True)
         if png_dir:
             os.makedirs(png_dir, exist_ok=True)
