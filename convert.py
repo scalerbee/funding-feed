@@ -18,11 +18,32 @@ def fsource(it):
 def fmtdate(s):
     import datetime
     x=datetime.date.fromisoformat(s); return f"{x.day} {x.strftime('%b %Y')}"
+STATES = ["Andhra Pradesh","Arunachal","Assam","Bihar","Chhattisgarh","Delhi","Goa","Gujarat","Haryana","Himachal","Jharkhand",
+          "Karnataka","Kerala","Madhya Pradesh","Maharashtra","Manipur","Meghalaya","Mizoram","Nagaland","Odisha","Punjab",
+          "Rajasthan","Sikkim","Tamil Nadu","Telangana","Tripura","Uttar Pradesh","Uttarakhand","West Bengal","Jammu"]
+def org_short(it):
+    """A short organiser name people actually type into Google (ICMR, BIRAC, Karnataka…), or '' if the title already has it."""
+    import re
+    t = it["title"].lower()
+    m = re.search(r"\(([A-Z][A-Za-z&\-]{1,9})\)", it["org"])
+    if m and m.group(1).lower() not in t:
+        return m.group(1)
+    for s in STATES:
+        if s.lower() in it["org"].lower() and s.lower() not in t and it.get("region") not in ("National", "Global"):
+            return s
+    return ""
 def seo_title(it):
-    # People search "<scheme> last date", so put that phrase in the title when there is one.
+    # People search "<organiser> <scheme> last date", so put both in the title.
+    import re
     when = (" — Last Date " + fmtdate(it["deadline"])) if it["deadline"] else " — Apply Now (Rolling)"
-    t = it["title"] + when
-    return t if len(t) <= 70 else it["title"][:67].rstrip() + "…"
+    pre = org_short(it)
+    core = (pre + " " if pre else "") + it["title"]
+    if len(core + when) > 70:
+        core = re.sub(r"\s*\([^)]*\)", "", core).strip()          # drop bracketed extras first
+    if len(core + when) > 70 and it["deadline"]:
+        when = " — Last Date " + fmtdate(it["deadline"]).rsplit(" ", 1)[0]  # "30 Nov"
+    t = core + when
+    return t if len(t) <= 75 else core[:72].rstrip() + "…"
 def meta_desc(it):
     lead = ("Last date " + fmtdate(it["deadline"]) + ". ") if it["deadline"] else "Rolling applications. "
     s = lead + it["amount"] + ". " + it["summary"]
@@ -64,6 +85,7 @@ for it in d["items"] + _archived:
         "addedOn": it.get("added") or d["updated"],
         "slug": it["id"],
         "seoTitle": seo_title(it),
+        "seoTitleClosed": ((org_short(it) + " ") if org_short(it) else "") + it["title"] + (" — Closed " + fmtdate(it["deadline"]) if it["deadline"] else ""),
         "metaDescription": meta_desc(it),
         **({"take": it["take"]} if it.get("take") else {})
     })

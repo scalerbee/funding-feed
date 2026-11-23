@@ -34,7 +34,7 @@ $faq = sb_auto_faq($it);
 $title = !empty($it['seoTitle'])
     ? $it['seoTitle'] . ' | Scaler Bee'
     : $it['title'] . ' — ' . $it['fundingAmount'] . ($it['deadline'] ? ', last date ' . sb_fmt_date($it['deadline']) : '') . ' | Scaler Bee';
-if (!$open) $title = $it['title'] . ' — Closed (' . sb_fmt_date($it['deadline']) . ') | Scaler Bee';
+if (!$open) $title = (!empty($it['seoTitleClosed']) ? $it['seoTitleClosed'] : $it['title'] . ' — Closed ' . sb_fmt_date($it['deadline'])) . ' | Scaler Bee';
 $desc = !empty($it['metaDescription'])
     ? $it['metaDescription']
     : $it['title'] . ' by ' . $it['provider'] . ': ' . $it['fundingAmount'] . '. ' . sb_deadline_text($it) . '. Eligibility, benefits and how to apply.';
