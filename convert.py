@@ -10,10 +10,13 @@ def ftype(it):
     if it["equity"]=="No equity": return "Non-dilutive"
     return it["equity"]
 def fsource(it):
-    o=(it["org"]+" "+it["title"]).lower()
-    if any(k in o for k in ["govt","government","ministry","dst","birac","dpiit","tdb","kits","kerala startup","i-hub","nidhi","ssip","startinup","uttar pradesh"]): return "Government"
+    import re
+    o = (it["org"] + " " + it["title"]).lower()
+    if re.search(r"\b(govt|government|ministry|department|dept\.?|council|icmr|icar|dst|dbt|birac|dpiit|tdb|drdo|isro|in-space|meity|niti aayog|atal innovation|nidhi|sidbi|nabard|ncgtc|kits|startup mission|startup karnataka|startup odisha|energy agency|startinup|i-hub|ssip|ksum|msins|stpi|psu|public sector|municipal|state of|union)\b", o): return "Government"
     if "csr" in o: return "CSR"
-    if any(k in o for k in ["undp","itc &","unccd"]): return "International"
+    if re.search(r"\b(undp|unicef|unccd|un |united nations|world bank|adb|asian development bank|itu|wef|world economic forum|gsma|g20|oecd)\b", o): return "International"
+    if re.search(r"\b(foundation|non-profit|nonprofit|grand challenges)\b", o): return "Foundation / Non-profit"
+    if re.search(r"\b(iit|iim|iiit|iisc|university|institute|incubat|tbi|aic|nsrcel|sine|fitt|c-camp|venture center)\b", o): return "Incubator / Academic"
     return "Private"
 def fmtdate(s):
     import datetime
