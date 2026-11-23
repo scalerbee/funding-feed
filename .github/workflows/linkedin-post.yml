@@ -2,9 +2,12 @@ name: Post to LinkedIn
 
 on:
   schedule:
-    # 3 posts a day, IST: ~9:07 am, ~1:37 pm, ~6:37 pm (GitHub may start a few minutes late)
+    # IST: ~9:07 am, ~11:07 am, ~1:37 pm, ~4:07 pm, ~6:37 pm (GitHub may start a few minutes late)
+    # opportunity posts ~9, ~1:30, ~6:30; investor-list carousels ~11, ~4
     - cron: "37 3 * * *"
+    - cron: "37 5 * * *"
     - cron: "7 8 * * *"
+    - cron: "37 10 * * *"
     - cron: "7 13 * * *"
   workflow_dispatch:
 
@@ -30,10 +33,10 @@ jobs:
         run: python linkedin/post_to_linkedin.py
       - name: Save record of published post
         run: |
-          if [ -n "$(git status --porcelain linkedin/posted.json linkedin/images)" ]; then
+          if [ -n "$(git status --porcelain linkedin/)" ]; then
             git config user.name "scalerbee"
             git config user.email "scalerbee@users.noreply.github.com"
-            git add linkedin/posted.json linkedin/images
+            git add -A linkedin/
             git commit -m "LinkedIn: save post record/image"
             git pull --rebase origin main
             git push origin HEAD:main

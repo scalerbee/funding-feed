@@ -15,6 +15,7 @@ The first source that yields a usable image (min side 200px) wins; if none does,
 Needs the LINKEDIN_TOKEN secret (scopes: openid profile w_member_social).
 """
 import datetime as dt
+import glob
 import io
 import json
 import os
@@ -186,7 +187,9 @@ if not TOKEN:
     fail("LINKEDIN_TOKEN secret is missing.")
 log = json.load(open(LOG_FILE, encoding="utf-8")) if os.path.exists(LOG_FILE) else []
 done = {e.get("id") for e in log}
-queue = json.load(open(QUEUE_FILE, encoding="utf-8")) if os.path.exists(QUEUE_FILE) else []
+queue = []
+for qf in sorted(glob.glob(os.path.join(HERE, "queue*.json"))):  # queue.json, queue_investors.json, ...
+    queue += json.load(open(qf, encoding="utf-8"))
 now = dt.datetime.now(dt.timezone.utc)
 
 
@@ -213,7 +216,18 @@ who.raise_for_status()
 OWNER = "urn:li:person:" + who.json()["sub"]
 print("Token OK for", who.json().get("name", "member"))
 
-img_bytes = fetch_image(post.get("image_sources", []), post.get("screenshot_url"))
+pdf_bytes = img_bytes = None
+if post.get("carousel"):
+    # PDF carousel (document post) built from the investor-list spec
+    sys.path.insert(0, HERE)
+    from carousel import render
+    os.makedirs(os.path.join(HERE, "docs"), exist_ok=True)
+    pdf_path = os.path.join(HERE, "docs", post["id"] + ".pdf")
+    render(post["carousel"], pdf_path)
+    pdf_bytes = open(pdf_path, "rb").read()
+    print(f"Built carousel PDF ({len(pdf_bytes)//1024} KB):", pdf_path)
+else:
+    img_bytes = fetch_image(post.get("image_sources", []), post.get("screenshot_url"))
 if PREVIEW:
     print("Preview only: image saved in linkedin/images, nothing posted.")
     sys.exit(0)
@@ -228,7 +242,21 @@ body = {
     "lifecycleState": "PUBLISHED",
     "isReshareDisabledByAuthor": False,
 }
-if img_bytes:
+if pdf_bytes:
+    d = rest("POST", "/rest/documents?action=initializeUpload", version,
+             json={"initializeUploadRequest": {"owner": OWNER}})
+    if d.status_code not in (200, 201):
+        fail(f"Document upload init failed {d.status_code}: {d.text[:300]}")
+    dv = d.json()["value"]
+    put = requests.put(dv["uploadUrl"], data=pdf_bytes,
+                       headers={"Authorization": f"Bearer {TOKEN}"}, timeout=180)
+    if put.status_code not in (200, 201):
+        fail(f"Document upload failed {put.status_code}: {put.text[:300]}")
+    body["content"] = {"media": {"id": dv["document"],
+                                 "title": (post.get("document_title") or post["carousel"]["title"])[:200]}}
+    import time
+    time.sleep(10)  # give LinkedIn a moment to process the PDF
+elif img_bytes:
     put = requests.put(upload["uploadUrl"], data=img_bytes,
                        headers={"Authorization": f"Bearer {TOKEN}"}, timeout=120)
     if put.status_code in (200, 201):
