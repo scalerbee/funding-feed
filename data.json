@@ -2970,7 +2970,7 @@
       "added": "2026-11-23"
     },
     {
-      "id": "karnataka-elevate-nxt-2026-27",
+      "id": "elevate-nxt-2026-27",
       "title": "ELEVATE NxT 2026–27 (DeepTech)",
       "org": "Startup Karnataka, Dept. of Electronics, IT, BT & S&T, Government of Karnataka",
       "type": "Grant",
@@ -3009,10 +3009,10 @@
       ],
       "link": "https://elevate.startupkarnataka.in/",
       "note": "Window opened 13 Oct 2026; the official portal now shows the last date as 14 Dec 2026, 5:00 PM IST (launch-day press coverage said 13 Nov, so the window appears extended). Apply only on the ELEVATE portal; you may also apply to ELEVATE Minorities if eligible. Helpline: startupcell@karnataka.gov.in / 080-22231007.",
-      "added": "2026-11-23"
+      "added": "2026-10-30"
     },
     {
-      "id": "karnataka-elevate-minorities-2026",
+      "id": "elevate-minorities-2026",
       "title": "ELEVATE Minorities 2026",
       "org": "Startup Karnataka, Government of Karnataka",
       "type": "Grant",
@@ -3044,7 +3044,7 @@
       ],
       "link": "https://elevate.startupkarnataka.in/",
       "note": "Last date per the official portal: 14 Dec 2026, 5:00 PM IST (originally announced as 13 Nov). Selection includes an in-person pitch where the majority-holding minority director/partner must attend. Keep a CA-certified shareholding pattern and the digital RD-numbered certificate ready.",
-      "added": "2026-11-23"
+      "added": "2026-10-30"
     },
     {
       "id": "maharashtra-msins-ipr-support-scheme",
@@ -3911,6 +3911,322 @@
       "link": "https://thielfellowship.org/faq",
       "note": "Applications are reviewed year-round through the portal at thielfellowship.my.site.com/apply/s/. Questions go to the fellowship team by email. The catch: you must leave formal education to take the award.",
       "added": "2026-11-23"
+    }
+  ],
+  "archive": [
+    {
+      "id": "undp-ocean-innovation-2026",
+      "title": "UNDP Ocean Innovation Challenge — 5th Call",
+      "org": "UNDP with Sida",
+      "type": "Challenge",
+      "amount": "Up to USD 100,000 + 17 months incubation",
+      "amountMax": 8800000,
+      "deadline": "2026-11-15",
+      "region": "Global",
+      "stages": [
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Climate",
+        "Blue economy",
+        "Waste / plastics"
+      ],
+      "equity": "No equity",
+      "summary": "Implementation-ready solutions for marine pollution, coastal ecosystem restoration and a sustainable blue economy. Up to 10 winners.",
+      "eligibility": [
+        "Legally registered private-sector organisations",
+        "Implementation-ready innovation",
+        "Preference for women-led and youth-led ventures; priority countries are Bangladesh, Indonesia, Philippines, Thailand and Viet Nam — check India eligibility in the call"
+      ],
+      "benefits": [
+        "Up to USD 100,000 via deliverable-based contract",
+        "Up to 17 months of incubation and mentoring"
+      ],
+      "link": "https://www.undp.org/press-releases/innovators-wanted-undp-launches-usd-1-million-global-challenge-healthier-ocean",
+      "note": "Closes 15 Nov 2026, 23:59 New York time.",
+      "added": "2026-10-30"
+    },
+    {
+      "id": "startup-buildathon-india-2026",
+      "title": "Startup Buildathon India 2026 (Google AI)",
+      "org": "Hack2skill with nasscom and HeadStart, alongside Google DeepMind and Google Cloud",
+      "type": "Challenge",
+      "amount": "$10,000 per winning team (top 10)",
+      "amountMax": 880000,
+      "deadline": "2026-11-13",
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "AI/ML",
+        "SaaS",
+        "Consumer Tech",
+        "Any"
+      ],
+      "equity": "No equity",
+      "summary": "A multi-city build sprint for early AI startups and would-be founders, ending in a Grand Finale at Google in Bengaluru. Ten winning teams each take home $5,000 in cash plus $5,000 in Google AI and Cloud credits.",
+      "eligibility": [
+        "Early-stage startups working on a new product idea, or aspiring founders with a startup idea",
+        "Solo founders and teams of two or more can apply",
+        "The product must be AI-powered",
+        "Shortlisted teams must attend an in-person city buildathon in one of ten Indian cities on 20–21 November"
+      ],
+      "benefits": [
+        "$10,000 per top-10 team: $5,000 cash and $5,000 in Google AI/Cloud credits (subject to taxes and terms)",
+        "Access to Google experts and mentors during the build",
+        "Route into Google startup support programmes",
+        "Pitch slots at regional showcases (Gurugram, Mumbai, Hyderabad) and the Bengaluru finale on 2 December"
+      ],
+      "link": "https://startupbuildathon.com/",
+      "note": "Applications close 13 November 2026 (no closing time published — submit by the evening before to be safe). Selected teams are told by 18 November. City buildathons run 20–21 November in Ahmedabad, Bengaluru, Chennai, Delhi, Hyderabad, Jaipur, Kochi, Kolkata, Mumbai and Pune; you must travel to your city round at your own cost. Judging weighs founder profile, product potential, market viability, technical architecture and how well you use Google AI.",
+      "added": "2026-11-06"
+    },
+    {
+      "id": "unicef-femtech-ventures-2026",
+      "title": "UNICEF Femtech Ventures – Call 2.0",
+      "org": "UNICEF Venture Fund (Office of Innovation)",
+      "type": "Grant",
+      "amount": "Up to US$100,000 equity-free + 12 months mentoring",
+      "amountMax": 8800000,
+      "deadline": "2026-11-11",
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "HealthTech",
+        "FemTech",
+        "AI",
+        "Open Source"
+      ],
+      "equity": "No equity",
+      "summary": "UNICEF's Venture Fund is backing early-stage for-profit companies that use frontier technology to improve the health of women and girls. Selected startups receive equity-free funding plus a year of technical support, in exchange for making their solution open source.",
+      "eligibility": [
+        "Registered private for-profit company (NGOs, universities and individuals cannot apply)",
+        "Registered in a UNICEF programme country — check UNICEF's country list",
+        "Working prototype that has already produced some initial data",
+        "Frontier-tech solution (e.g. AI, data science, blockchain) benefiting vulnerable girls and women",
+        "Willing to release the solution under an open-source licence"
+      ],
+      "benefits": [
+        "Up to US$100,000 in equity-free funding",
+        "12 months of technical mentorship",
+        "Access to UNICEF's global network and country offices",
+        "Founders keep all other IP — the open-source code is UNICEF's only 'return'"
+      ],
+      "link": "https://www.unicef.org/innovation/FemTechCall",
+      "note": "Closes 11 Nov 2026. Funded companies must have an OSI-approved (or equivalent) open-source licence in place by month six. Women-led teams and founders under 35 are strongly encouraged.",
+      "added": "2026-11-04"
+    },
+    {
+      "id": "grand-startup-challenge-2027",
+      "title": "Grand Startup Challenge",
+      "org": "CARS24 with Startup India & Startup Policy Forum",
+      "type": "Challenge",
+      "amount": "₹1 crore prize pool (12 winners) + deployment",
+      "amountMax": 10000000,
+      "deadline": "2026-11-10",
+      "region": "National",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Mobility",
+        "Technology"
+      ],
+      "equity": "No equity",
+      "summary": "National challenge putting early-stage startups on real problem statements across four tracks, with mentorship, deployment opportunities and a finale in New Delhi in January 2027.",
+      "eligibility": [
+        "Early-stage Indian startups",
+        "Solution must fit one of the published track problem statements"
+      ],
+      "benefits": [
+        "Share of ₹1 Cr prize pool",
+        "Month of mentorship (Dec 2026)",
+        "Real deployment and investor visibility"
+      ],
+      "link": "https://gsc.cars24.com/",
+      "note": "Hard deadline 10 Nov 2026, 11:59 PM IST — organisers say it will not be extended.",
+      "added": "2026-10-30"
+    },
+    {
+      "id": "masschallenge-challenge-programs-2027",
+      "title": "MassChallenge Challenge Programs 2026–27",
+      "org": "MassChallenge (with corporate partners)",
+      "type": "Accelerator",
+      "amount": "Corporate pilots + mentoring (no cash stated)",
+      "amountMax": 0,
+      "deadline": "2026-11-09",
+      "region": "Global",
+      "stages": [
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Climate",
+        "Healthcare",
+        "FinTech",
+        "Insurance",
+        "Security",
+        "Food systems"
+      ],
+      "equity": "Not stated",
+      "summary": "A five-month, partner-matched accelerator in which pre-seed to Series A startups work directly with a large corporate on that company's published problem statement, aiming for a pilot or commercial deal. Tracks this cycle cover climate, security and resiliency, fintech, healthcare and sustainable food systems.",
+      "eligibility": [
+        "Pre-seed to Series A startups based anywhere in the world (Boston residency not required)",
+        "Your solution must answer at least one partner's published challenge statement",
+        "At least one founder or C-suite member must attend the in-person Boston sessions",
+        "Able to commit roughly 3–5 hours a week from February to June 2027"
+      ],
+      "benefits": [
+        "Matched collaboration with a corporate partner (past partners include Deloitte, Eli Lilly, Sanofi, Verizon, MassMutual, SharkNinja)",
+        "Regular partner meetings aimed at a pilot or commercial agreement",
+        "Mentors across marketing, legal, investment, compliance and technology",
+        "Entry into the MassChallenge alumni and investor network"
+      ],
+      "link": "https://masschallenge.org/2026-2027-challenge-cycle/",
+      "note": "Applications close 9 Nov 2026 (no closing time given, so assume US Eastern and submit early). Finalists hear in December; matchmaking is 6–8 Jan 2027 and kickoff 9–10 Feb 2027 in Boston. Indian founders should budget for travel and US visas for the mandatory in-person events; equity and fee terms are not stated on the official page.",
+      "added": "2026-11-02"
+    },
+    {
+      "id": "hitachi-startup-challenge-fy26",
+      "title": "Hitachi Startup Challenge FY26",
+      "org": "Hitachi",
+      "type": "Challenge",
+      "amount": "Paid pilot opportunity",
+      "amountMax": 0,
+      "deadline": "2026-11-08",
+      "region": "Global",
+      "stages": [
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Mobility",
+        "Manufacturing",
+        "Industrial"
+      ],
+      "equity": "No equity",
+      "summary": "8-week programme to build a proof-of-concept plan with Hitachi business units in mobility and manufacturing; winners progress to a potential pilot.",
+      "eligibility": [
+        "Companies worldwide with tech for transport or industrial operations"
+      ],
+      "benefits": [
+        "PoC co-development with Hitachi BUs",
+        "Potential pilot deal"
+      ],
+      "link": "https://www.hitachi.com/en-eu/about/events/hitachi-startup-challenge-2026/",
+      "note": "Closes 8 Nov 2026, 11:59 PM GMT.",
+      "added": "2026-10-30"
+    },
+    {
+      "id": "yc-winter-2027",
+      "title": "Y Combinator Winter 2027 Batch",
+      "org": "Y Combinator",
+      "type": "Accelerator",
+      "amount": "US$500,000 investment (~₹4.4 Cr)",
+      "amountMax": 44000000,
+      "deadline": "2026-11-02",
+      "region": "Global",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Technology",
+        "Any sector"
+      ],
+      "equity": "Takes equity",
+      "summary": "YC's three-month Winter 2027 batch (January–March) in San Francisco, open to founders anywhere in the world, with a US$500K investment in every accepted company.",
+      "eligibility": [
+        "Startups from any country, including India — no US incorporation, visa or business licence needed to apply",
+        "Any stage, from idea to early revenue",
+        "Founders must be able to attend in person in San Francisco for the batch",
+        "One application per company; co-founders apply together"
+      ],
+      "benefits": [
+        "US$500,000 invested on acceptance",
+        "Three months of partner office hours and weekly in-person events",
+        "Demo Day access to a large investor audience",
+        "YC help with US incorporation and visas after acceptance",
+        "Lifetime access to the YC alumni network"
+      ],
+      "link": "https://www.ycombinator.com/apply/",
+      "note": "On-time deadline is 2 Nov 2026 at 8:00 PM Pacific — about 9:30 AM IST on 3 Nov. YC still reviews late applications but gives no fixed response date. Expect to relocate to San Francisco for the batch; no application fee.",
+      "added": "2026-10-31"
+    },
+    {
+      "id": "kotak-bizlabs-iimcip-2026",
+      "title": "Kotak BizLabs Accelerator — IIM Calcutta Innovation Park",
+      "org": "Kotak Mahindra Bank (CSR) × IIMCIP",
+      "type": "Accelerator",
+      "amount": "Up to ₹30 lakh grant",
+      "amountMax": 3000000,
+      "deadline": "2026-10-31",
+      "region": "National",
+      "stages": [
+        "Revenue"
+      ],
+      "sectors": [
+        "Social impact",
+        "Sustainability"
+      ],
+      "equity": "No equity",
+      "summary": "CSR accelerator for 20 early-revenue startups with social impact and a sustainability focus.",
+      "eligibility": [
+        "DPIIT-recognised startup",
+        "Early-revenue stage",
+        "Social impact / sustainability focus"
+      ],
+      "benefits": [
+        "Grant up to ₹30 lakh (milestone-based)",
+        "One-on-one mentoring from the IIMCIP network"
+      ],
+      "link": "https://iimcip.org/kotak-bizlabs/",
+      "note": "Closes 31 Oct 2026.",
+      "added": "2026-10-30"
+    },
+    {
+      "id": "birac-e-yuva-2026",
+      "title": "BIRAC E-YUVA & Innovation Fellowships — 4th call 2026",
+      "org": "BIRAC (Dept of Biotechnology)",
+      "type": "Fellowship",
+      "amount": "PG: ₹30K/month + ₹3L/yr; Postdoc: ₹50K/month + ₹5L/yr",
+      "amountMax": 1100000,
+      "deadline": "2026-10-31",
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype"
+      ],
+      "sectors": [
+        "Biotech",
+        "Healthtech"
+      ],
+      "equity": "No equity",
+      "summary": "Fellowships at E-YUVA centres for students, postgraduates and PhDs turning biotech research into products and startups.",
+      "eligibility": [
+        "UG teams, PG and PhD/postdoc innovators",
+        "Must work at a BIRAC E-YUVA centre"
+      ],
+      "benefits": [
+        "Monthly stipend + annual research grant",
+        "Incubation and venture-creation support"
+      ],
+      "link": "https://birac.nic.in/",
+      "note": "Closes 31 Oct 2026.",
+      "added": "2026-10-30"
     }
   ]
 }

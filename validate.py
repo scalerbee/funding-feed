@@ -28,6 +28,12 @@ for i, it in enumerate(d["items"]):
         for f in t.get("faq", []):
             if not (isinstance(f, dict) and f.get("q") and f.get("a")): errs.append(f"{it.get('id')}: bad faq entry")
     if not re.match(r"^[a-z0-9-]+$", it.get("id","")): errs.append(f"{it.get('id')}: id must be lowercase letters, digits, hyphens")
+for it in d.get("archive", []):
+    for k in req:
+        if k not in it: errs.append(f"archive {it.get('id')}: missing {k}")
+    if it.get("id") in ids: errs.append(f"archive id {it['id']} duplicates a live item")
+    ids.add(it.get("id"))
+    if not it.get("deadline"): errs.append(f"archive {it.get('id')}: archived items need the date they closed in 'deadline'")
 datetime.date.fromisoformat(d["updated"])
 if errs: print("\n".join(errs)); sys.exit(1)
 print(f"OK: {len(d['items'])} items, updated {d['updated']}")

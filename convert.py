@@ -19,15 +19,22 @@ def fmtdate(s):
     import datetime
     x=datetime.date.fromisoformat(s); return f"{x.day} {x.strftime('%b %Y')}"
 def seo_title(it):
-    when = ("Apply by " + fmtdate(it["deadline"])) if it["deadline"] else "Open now"
-    t = f'{it["title"]}: {when}'
-    return t if len(t) <= 65 else it["title"][:62].rstrip() + "…"
+    # People search "<scheme> last date", so put that phrase in the title when there is one.
+    when = (" — Last Date " + fmtdate(it["deadline"])) if it["deadline"] else " — Apply Now (Rolling)"
+    t = it["title"] + when
+    return t if len(t) <= 70 else it["title"][:67].rstrip() + "…"
 def meta_desc(it):
     lead = ("Last date " + fmtdate(it["deadline"]) + ". ") if it["deadline"] else "Rolling applications. "
     s = lead + it["amount"] + ". " + it["summary"]
     return s if len(s) <= 158 else s[:155].rsplit(" ",1)[0] + "…"
+import datetime as _dt
+_today = _dt.date.fromisoformat(d["updated"])
+# Closed calls stay in the feed (active: false) for 180 days so their pages keep working
+# and keep their Google ranking until the next edition. The site hides them from open lists.
+_archived = [dict(a, _closed=True) for a in d.get("archive", [])
+             if a.get("deadline") and (_today - _dt.date.fromisoformat(a["deadline"])).days <= 180]
 feed=[]
-for it in d["items"]:
+for it in d["items"] + _archived:
     stages=[]
     for s in it["stages"]:
         s=STAGE.get(s,s)
@@ -52,7 +59,7 @@ for it in d["items"]:
         "fundingType": ftype(it),
         "fundingSource": fsource(it),
         "applyLink": it["link"],
-        "active": True,
+        "active": not it.get("_closed", False),
         "source": "auto",
         "addedOn": it.get("added") or d["updated"],
         "slug": it["id"],
