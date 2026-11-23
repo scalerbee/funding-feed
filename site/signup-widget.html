@@ -1,0 +1,50 @@
+<!-- The Fund Guy — email alerts sign-up box.
+     Paste this block wherever the box should appear (resources.html, grants.php, bottom of grant.php).
+     It posts to subscribe.php in the same folder. Colours inherit from the page where possible. -->
+<section class="fg-alerts" aria-labelledby="fg-alerts-title">
+  <h2 id="fg-alerts-title">Get funding that fits your startup, every week</h2>
+  <p>Tell us your stage, sector and state. Once a week we email only the grants, challenges and accelerators you can actually apply for. Free, no spam, unsubscribe in one click.</p>
+  <form class="fg-alerts-form" action="subscribe.php" method="post" novalidate>
+    <input type="email" name="email" placeholder="you@startup.com" required aria-label="Email address">
+    <select name="stage" aria-label="Stage">
+      <option value="any">Any stage</option><option>Idea</option><option>Prototype</option><option>MVP</option><option value="Revenue">Early revenue</option><option>Growth</option>
+    </select>
+    <select name="sector" aria-label="Sector">
+      <option value="any">Any sector</option><option value="ai">AI / deep-tech</option><option value="climate">Climate &amp; energy</option><option value="health">Health / medtech / biotech</option><option value="agri">Agri &amp; food</option><option value="fintech">Fintech</option><option value="social-impact">Social impact</option><option value="mobility">Mobility / EV</option><option value="defence">Defence &amp; space</option>
+    </select>
+    <select name="state" aria-label="State">
+      <option value="any">All India</option>
+      <option>Andhra Pradesh</option><option>Arunachal Pradesh</option><option>Assam</option><option>Bihar</option><option>Chhattisgarh</option><option>Delhi</option><option>Goa</option><option>Gujarat</option><option>Haryana</option><option>Himachal Pradesh</option><option>Jammu and Kashmir</option><option>Jharkhand</option><option>Karnataka</option><option>Kerala</option><option>Madhya Pradesh</option><option>Maharashtra</option><option>Manipur</option><option>Meghalaya</option><option>Mizoram</option><option>Nagaland</option><option>Odisha</option><option>Punjab</option><option>Rajasthan</option><option>Sikkim</option><option>Tamil Nadu</option><option>Telangana</option><option>Tripura</option><option>Uttar Pradesh</option><option>Uttarakhand</option><option>West Bengal</option>
+    </select>
+    <input type="text" name="website" tabindex="-1" autocomplete="off" class="fg-hp" aria-hidden="true">
+    <button type="submit">Send me matches</button>
+  </form>
+  <p class="fg-alerts-msg" role="status" aria-live="polite"></p>
+</section>
+<style>
+  .fg-alerts{border:1px solid rgba(127,127,127,.25);border-radius:12px;padding:20px;margin:32px 0;background:rgba(127,127,127,.06)}
+  .fg-alerts h2{margin:0 0 6px;font-size:1.25rem}
+  .fg-alerts p{margin:0 0 14px;opacity:.85}
+  .fg-alerts-form{display:grid;grid-template-columns:2fr 1fr 1fr 1fr auto;gap:8px}
+  .fg-alerts-form input,.fg-alerts-form select,.fg-alerts-form button{font:inherit;padding:10px 12px;border-radius:8px;border:1px solid rgba(127,127,127,.4);background:#fff;color:#111;min-width:0}
+  .fg-alerts-form button{background:#1a56db;color:#fff;border-color:#1a56db;font-weight:600;cursor:pointer}
+  .fg-alerts-form button[disabled]{opacity:.6;cursor:wait}
+  .fg-hp{position:absolute!important;left:-9999px!important;width:1px;height:1px}
+  .fg-alerts-msg{margin:10px 0 0!important;font-weight:600}
+  @media (max-width:760px){.fg-alerts-form{grid-template-columns:1fr 1fr}.fg-alerts-form input[type=email],.fg-alerts-form button{grid-column:1/-1}}
+</style>
+<script>
+  document.querySelectorAll('.fg-alerts-form').forEach(function (f) {
+    f.addEventListener('submit', function (e) {
+      e.preventDefault();
+      var msg = f.parentNode.querySelector('.fg-alerts-msg'), btn = f.querySelector('button');
+      if (!f.email.value || !/^\S+@\S+\.\S+$/.test(f.email.value)) { msg.textContent = 'Please enter a valid email address.'; return; }
+      btn.disabled = true; msg.textContent = 'Signing you up…';
+      fetch(f.action, { method: 'POST', body: new FormData(f) })
+        .then(function (r) { return r.json(); })
+        .then(function (d) { msg.textContent = d.message; if (d.ok) f.reset(); })
+        .catch(function () { msg.textContent = 'Network problem. Please try again.'; })
+        .finally(function () { btn.disabled = false; });
+    });
+  });
+</script>

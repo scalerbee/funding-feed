@@ -14,3 +14,7 @@ Shown on https://scalerbee.com/TheFundGuy/resources.html
 
 - `sitemap.xml` — every opportunity page (generated: `python3 sitemap.py data.json sitemap.xml`). Serve it at scalerbee.com/TheFundGuy/sitemap.xml and submit it in Google Search Console.
 - Each feed item also carries `seoTitle` and `metaDescription` — use them for the page `<title>` and `<meta name="description">` on grant.php.
+
+## Email alerts (Brevo)
+- `site/` — files to upload to `public_html/TheFundGuy/` on scalerbee.com: `subscribe.php`, `unsubscribe.php`, `sitemap.php`, `_config.php`, and `signup-widget.html` (paste into pages). Fill `fundguy-config.sample.php`, rename it to `fundguy-config.php` and put it in the cPanel home folder (above public_html). Never commit the filled-in config.
+- `alerts/send_digest.py` + `.github/workflows/email-digest.yml` — daily run; each subscriber gets one matched email a week. Needs GitHub secrets `BREVO_API_KEY`, `BREVO_LIST_ID`, `SENDER_EMAIL` (a Brevo-verified sender) and `UNSUB_SECRET` (same value as in the PHP config).

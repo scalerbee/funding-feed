@@ -1,0 +1,2 @@
+# Add this line to public_html/robots.txt (create the file if it doesn't exist):
+Sitemap: https://scalerbee.com/TheFundGuy/sitemap.php

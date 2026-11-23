@@ -1,0 +1,35 @@
+name: Weekly matched email alerts
+
+on:
+  schedule:
+    # Daily at ~10:13 am IST; each subscriber is in one weekday bucket, so everyone gets one email a week.
+    - cron: "43 4 * * *"
+  workflow_dispatch:
+    inputs:
+      force_all:
+        description: "Send to ALL subscribers now (ignores weekday buckets) — use once for a test"
+        type: boolean
+        default: false
+
+concurrency:
+  group: email-digest
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Send matched alerts
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          BREVO_LIST_ID: ${{ secrets.BREVO_LIST_ID }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          UNSUB_SECRET: ${{ secrets.UNSUB_SECRET }}
+          FORCE_ALL: ${{ inputs.force_all && '1' || '0' }}
+        run: |
+          if [ -z "$BREVO_API_KEY" ]; then echo "Brevo secrets not set yet — skipping."; exit 0; fi
+          python alerts/send_digest.py
