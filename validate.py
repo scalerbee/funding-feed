@@ -16,6 +16,9 @@ for i, it in enumerate(d["items"]):
     if it.get("deadline") is not None:
         try: datetime.date.fromisoformat(it["deadline"])
         except Exception: errs.append(f"{it.get('id')}: bad deadline")
+    if it.get("added") is not None:
+        try: datetime.date.fromisoformat(it["added"])
+        except Exception: errs.append(f"{it.get('id')}: bad added date (use YYYY-MM-DD)")
     if not re.match(r"^https?://", it.get("link", "")): errs.append(f"{it.get('id')}: bad link")
     t = it.get("take")
     if t is not None:

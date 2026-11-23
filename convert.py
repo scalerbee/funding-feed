@@ -43,7 +43,7 @@ for it in d["items"]:
         "applyLink": it["link"],
         "active": True,
         "source": "auto",
-        "addedOn": d["updated"],
+        "addedOn": it.get("added") or d["updated"],
         "slug": it["id"],
         **({"take": it["take"]} if it.get("take") else {})
     })
