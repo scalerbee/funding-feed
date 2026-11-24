@@ -12,5 +12,33 @@
    "EvolutionX Debt Capital",
    "Temasek"
   ]
+ },
+ {
+  "date": "2026-11-24",
+  "theme": "Japanese investors",
+  "investors": [
+   "Incubate Fund India",
+   "Beyond Next Ventures India",
+   "Enrission India Capital",
+   "UNLEASH Capital Partners",
+   "GMO VenturePartners",
+   "Sony Innovation Fund",
+   "SMBC Asia Rising Fund",
+   "SoftBank Vision Fund"
+  ]
+ },
+ {
+  "date": "2026-11-24",
+  "theme": "US seed funds, accelerators and VCs",
+  "investors": [
+   "Emergent Ventures India",
+   "South Park Commons",
+   "Y Combinator",
+   "Pioneer Fund",
+   "Soma Capital",
+   "Lightspeed",
+   "General Catalyst",
+   "Goodwater Capital"
+  ]
  }
 ]

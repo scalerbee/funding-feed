@@ -1,164 +1,347 @@
 [
  {
-  "post_after": "2026-11-23T14:55:00Z",
-  "id": "2026-11-23-investors-singapore-v2",
+  "post_after": "2026-11-24T05:00:00Z",
+  "id": "2026-11-24-investors-japan",
   "preview": false,
-  "text": "Livspace, Licious, Moglix, Country Delight. All backed by investors sitting in Singapore.\n\nMost Indian founders only pitch Indian VCs. But Singapore-based funds have been writing cheques into Indian startups for years, from ₹4 Cr pre-seed bets to growth-stage debt.\n\nIn this carousel: 8 Singapore investors that back Indian founders, with their stage, cheque size, Indian portfolio and how to reach each one.\n\nQuick tip: match the investor to your stage before you pitch. Antler and BEENEXT write early cheques, Jungle and Vertex lead seed to Series A rounds, while Venturi, EvolutionX and Temasek come in much later.\n\nSave this for your next raise.\n\nIf you are looking to raise funds and need an expert, reach out to us below:\nhttps://scalerbee.com/TheFundGuy/contact.html\n\n#StartupFunding #Investors #IndianStartups #VentureCapital #TheFundGuy #Singapore",
-  "document_title": "8 Singapore investors that back Indian founders",
+  "text": "SoftBank alone has taken $7.4 billion out of India through exits like Flipkart, Paytm and Policybazaar. Japan's money in Indian startups goes far beyond one big fund.\n\nJapanese investors now write cheques at every stage here, from deep-tech seed funds in Bengaluru to bank-backed funds and corporate VCs like Sony's. Razorpay, Meesho and Lenskart all have Japanese backers.\n\nIn this carousel: 8 Japanese investors that back Indian founders, with their stage, cheque size, Indian portfolio and how to reach each one.\n\nQuick tip: Japanese investors usually take longer to decide and value long-term relationships. Start the conversation early, share regular updates before you ask for money, and show why Japan matters for your business if you want strategic help, not just capital.\n\nSave this for your next raise.\n\nIf you are looking to raise funds and need an expert, reach out to us below:\nhttps://scalerbee.com/TheFundGuy/contact.html\n\n#StartupFunding #Investors #IndianStartups #VentureCapital #TheFundGuy #Japan",
+  "document_title": "8 Japanese investors that back Indian founders",
   "carousel": {
-   "kicker": "Investor list · Singapore",
-   "title": "8 Singapore investors that back Indian founders",
-   "subtitle": "From pre-seed cheques to growth debt: stage, cheque size, Indian portfolio and how to reach each one.",
+   "kicker": "Investor list · Japan",
+   "title": "8 Japanese investors that back Indian founders",
+   "subtitle": "Seed VCs, corporate funds and growth capital from Japan: stage, cheque, Indian portfolio and how to reach.",
    "investors": [
     {
-     "name": "Antler",
-     "hq": "Singapore HQ · Bengaluru",
-     "type": "Pre-seed VC + residency",
-     "stage": "Idea & pre-seed",
-     "cheque": "₹4 Cr for 11% (AI Residency)",
-     "sectors": [
-      "AI",
-      "Deep tech",
-      "Tech-enabled startups"
-     ],
-     "india_portfolio": [
-      "Namma Yatri (Moving Tech)",
-      "Cautio"
-     ],
-     "reach": "antler.co/india — pitch directly via Antler Direct",
-     "note": "Backs founders at day zero, even before a product exists."
-    },
-    {
-     "name": "BEENEXT",
-     "hq": "Singapore",
-     "type": "Early-stage VC",
-     "stage": "Pre-seed to Series A",
-     "cheque": "~US$0.2M–2.5M (est.)",
-     "sectors": [
-      "Industry-agnostic",
-      "Recent interest in manufacturing"
-     ],
-     "india_portfolio": [
-      "BharatPe",
-      "Rozana"
-     ],
-     "reach": "beenext.com — contact form for founders",
-     "note": "India is its biggest market by number of portfolio companies."
-    },
-    {
-     "name": "Jungle Ventures",
-     "hq": "Singapore",
-     "type": "Multi-stage VC",
-     "stage": "Seed to growth",
-     "cheque": "US$0.5M–20M (First Cheque: US$2M)",
-     "sectors": [
-      "Sector-agnostic",
-      "AI",
-      "Advanced manufacturing"
-     ],
-     "india_portfolio": [
-      "Livspace",
-      "Moglix",
-      "Atomberg",
-      "Citymall"
-     ],
-     "reach": "jungle.vc",
-     "note": "India is now its largest market, at nearly 70% of capital deployed."
-    },
-    {
-     "name": "Vertex Ventures SEA & India",
-     "hq": "Singapore · Bengaluru · Gurugram",
-     "type": "Early-stage VC",
-     "stage": "Seed to Series B (mostly Series A)",
-     "cheque": "Not fixed; leads early rounds",
-     "sectors": [
-      "Sector-agnostic"
-     ],
-     "india_portfolio": [
-      "Licious",
-      "Kuku FM",
-      "Kissht",
-      "BeepKart"
-     ],
-     "reach": "vertexventures.sg — 'Pitch to Us' form",
-     "note": "Backs 6–9 startups a year, so come with clear Series A metrics."
-    },
-    {
-     "name": "Qualgro",
-     "hq": "Singapore",
-     "type": "B2B tech VC",
-     "stage": "Series A & B",
+     "name": "Incubate Fund India",
+     "hq": "Tokyo · India team",
+     "type": "Seed VC",
+     "stage": "Pre-seed & seed",
      "cheque": "Not disclosed",
      "sectors": [
-      "B2B",
-      "Data / AI",
+      "Fintech",
+      "SaaS",
+      "Mobility",
+      "Consumer tech"
+     ],
+     "india_portfolio": [
+      "Yulu",
+      "Captain Fresh",
+      "Plum",
+      "M2P"
+     ],
+     "reach": "incubatefund.com/en",
+     "note": "Nearly 30 Indian startups backed; about 80% of its last fund went to India."
+    },
+    {
+     "name": "Beyond Next Ventures India",
+     "hq": "Tokyo · Bengaluru",
+     "type": "Deep-tech seed VC",
+     "stage": "Pre-seed to Series A",
+     "cheque": "Not disclosed",
+     "sectors": [
+      "AI",
+      "Climate & energy",
+      "Health & biotech",
+      "Space & robotics"
+     ],
+     "india_portfolio": [
+      "FinalLayer",
+      "Volt14",
+      "Myelin Foundry",
+      "BigHaat"
+     ],
+     "reach": "beyondnextventures.com/india",
+     "note": "Runs a dedicated India fund for deep-tech founders."
+    },
+    {
+     "name": "Enrission India Capital",
+     "hq": "Kyoto · India team",
+     "type": "Early-stage VC",
+     "stage": "Seed to Series B",
+     "cheque": "Not disclosed",
+     "sectors": [
+      "Logistics",
+      "Climate",
+      "Deep tech & robotics"
+     ],
+     "india_portfolio": [
+      "Stackbox",
+      "Hexalog",
+      "Bambrew",
+      "Uravu Labs"
+     ],
+     "reach": "eic.capital-enrissionindia.jp",
+     "note": "Began as an angel network in 2018; helps portfolio firms enter Japan."
+    },
+    {
+     "name": "UNLEASH Capital Partners",
+     "hq": "Tokyo · Mumbai",
+     "type": "Fintech VC",
+     "stage": "Seed & Series A",
+     "cheque": "₹5–18 Cr",
+     "sectors": [
+      "Fintech",
+      "Financial inclusion",
+      "Lending infra"
+     ],
+     "india_portfolio": [
+      "Zype",
+      "Pelocal",
+      "CredRight",
+      "Ayekart"
+     ],
+     "reach": "unleashcp.com",
+     "note": "Closed a ₹300 Cr maiden fund in 2025, backed by about 35 Japanese LPs."
+    },
+    {
+     "name": "GMO VenturePartners",
+     "hq": "Tokyo · Singapore",
+     "type": "Fintech VC",
+     "stage": "Seed to growth, mostly Series A",
+     "cheque": "Not disclosed",
+     "sectors": [
+      "Payments",
+      "Lending",
+      "Regtech"
+     ],
+     "india_portfolio": [
+      "DPDzero",
+      "Razorpay",
+      "Slice",
+      "Jai Kisan"
+     ],
+     "reach": "gmo-vp.com/en",
+     "note": "Led DPDzero's $7M Series A in 2025; an early Razorpay backer."
+    },
+    {
+     "name": "Sony Innovation Fund",
+     "hq": "Tokyo",
+     "type": "Corporate VC (Sony)",
+     "stage": "Early stage to Series A",
+     "cheque": "Not disclosed",
+     "sectors": [
+      "Gaming & media",
+      "Fintech",
+      "Healthtech"
+     ],
+     "india_portfolio": [
+      "Stan",
+      "WeRize",
+      "Toonsutra",
+      "Tricog"
+     ],
+     "reach": "sonyinnovationfund.com",
+     "note": "Keeps backing its winners: led WeRize's ₹64 Cr debt round in 2026."
+    },
+    {
+     "name": "SMBC Asia Rising Fund",
+     "hq": "Singapore (SMBC, Japan)",
+     "type": "Bank-backed CVC",
+     "stage": "Series A and later",
+     "cheque": "Not disclosed",
+     "sectors": [
+      "Lending tech",
+      "Payments",
+      "Supply-chain finance",
+      "Wealthtech"
+     ],
+     "india_portfolio": [
+      "Centricity",
+      "Vayana",
+      "M2P",
+      "DPDzero"
+     ],
+     "reach": "smbc-asiarising.vc",
+     "note": "About 75% of its $200M fund is planned for Indian companies."
+    },
+    {
+     "name": "SoftBank Vision Fund",
+     "hq": "Tokyo · London",
+     "type": "Growth fund",
+     "stage": "Series B to growth",
+     "cheque": "Not disclosed",
+     "sectors": [
+      "AI",
+      "Consumer internet",
+      "Fintech",
       "SaaS"
      ],
      "india_portfolio": [
-      "Hevo (led Series A)",
-      "Convosight (led Series A)",
-      "NoBroker"
+      "Meesho",
+      "Lenskart",
+      "Zeta",
+      "Emergent"
      ],
-     "reach": "qualgro.com",
-     "note": "Mainly a Southeast Asia investor; India deals are selective, so a global or SEA angle helps."
-    },
+     "reach": "visionfund.com",
+     "note": "Back in India with an AI focus; co-led Emergent's $70M Series B in Jan 2026."
+    }
+   ],
+   "cta_url": "scalerbee.com/TheFundGuy/contact.html"
+  }
+ },
+ {
+  "post_after": "2026-11-24T10:00:00Z",
+  "id": "2026-11-24-investors-us-seed-accelerators",
+  "preview": false,
+  "text": "Y Combinator lists 177 companies headquartered in India, including Razorpay, Meesho, Groww and Zepto. US money has been backing Indian founders from day zero for over a decade.\n\nAnd it is not only YC. US grant programmes, founder fellowships and seed funds now run India cohorts, and big US VCs have Bengaluru teams writing seed cheques.\n\nIn this carousel: 8 US investors that back Indian founders, with their deal terms, stage, Indian portfolio and how to apply.\n\nQuick tip: check the entity rule before you apply. YC and many US funds can only invest in a US or similar parent company, so a \"flip\" may be needed. Talk to a lawyer early and ask about the tax cost. Grants like Emergent Ventures need no flip at all.\n\nSave this for your next raise.\n\nIf you are looking to raise funds and need an expert, reach out to us below:\nhttps://scalerbee.com/TheFundGuy/contact.html\n\n#StartupFunding #Investors #IndianStartups #VentureCapital #TheFundGuy #YCombinator",
+  "document_title": "8 US investors that back Indian founders",
+  "carousel": {
+   "kicker": "Investor list · United States",
+   "title": "8 US investors that back Indian founders",
+   "subtitle": "Grants, accelerators, seed funds and US VCs with India teams: deal terms, Indian portfolio and how to apply.",
+   "investors": [
     {
-     "name": "Venturi Partners",
-     "hq": "Singapore",
-     "type": "Consumer growth equity",
-     "stage": "Series B to D",
-     "cheque": "US$15M–40M",
+     "name": "Emergent Ventures India",
+     "hq": "Mercatus Center, USA",
+     "type": "Grant programme",
+     "stage": "Idea / individual",
+     "cheque": "Grant · size not disclosed",
      "sectors": [
-      "Retail",
-      "Education",
-      "Healthcare",
-      "FMCG"
+      "Deep tech",
+      "Health",
+      "AI",
+      "Open to all"
      ],
      "india_portfolio": [
-      "Livspace",
-      "Country Delight",
-      "K-12 Techno Services"
+      "Zyogen",
+      "OncoVault",
+      "Oru'el"
      ],
-     "reach": "Via its website or a warm intro",
-     "note": "Growth stage only; bookmark it for after your Series A."
+     "reach": "mercatus.org/emergent-ventures",
+     "note": "Non-dilutive, no US flip needed. Now on its 20th India cohort."
     },
     {
-     "name": "EvolutionX Debt Capital",
-     "hq": "Singapore · Mumbai team",
-     "type": "Growth debt (DBS + Temasek)",
-     "stage": "Growth stage",
-     "cheque": "Large debt deals (e.g. ₹287.5 Cr to upGrad)",
+     "name": "South Park Commons",
+     "hq": "San Francisco · Bengaluru",
+     "type": "Founder fellowship + fund",
+     "stage": "Pre-idea to pre-seed",
+     "cheque": "$400K for 7% + $600K next round",
      "sectors": [
-      "Tech-enabled companies"
+      "AI",
+      "Fintech",
+      "Deep tech",
+      "Semiconductors"
      ],
      "india_portfolio": [
-      "PharmEasy (API Holdings)",
-      "udaan",
-      "upGrad"
+      "Bharat Semi",
+      "Riverline AI"
      ],
-     "reach": "evolutionx.com.sg",
-     "note": "Non-dilutive capital for scaled companies, not for early stage."
+     "reach": "southparkcommons.com/apply",
+     "note": "Has a Bengaluru hub, so fellows can do the programme from India."
     },
     {
-     "name": "Temasek",
-     "hq": "Singapore",
-     "type": "State investment company",
-     "stage": "Mostly growth & late stage",
-     "cheque": "Large; early stage is ~5% of portfolio",
+     "name": "Y Combinator",
+     "hq": "San Francisco",
+     "type": "Accelerator",
+     "stage": "Pre-seed & seed",
+     "cheque": "$500K ($125K for 7% + $375K MFN SAFE)",
+     "sectors": [
+      "AI & infra",
+      "Fintech",
+      "SaaS",
+      "Consumer"
+     ],
+     "india_portfolio": [
+      "Bolna AI",
+      "Pipeshift",
+      "Emergent",
+      "Groww"
+     ],
+     "reach": "ycombinator.com/apply",
+     "note": "Invests only in US, Canada, Cayman or Singapore entities, so plan a flip."
+    },
+    {
+     "name": "Pioneer Fund",
+     "hq": "USA",
+     "type": "YC-alumni seed fund",
+     "stage": "Pre-seed & seed",
+     "cheque": "Not disclosed",
+     "sectors": [
+      "Generalist"
+     ],
+     "india_portfolio": [
+      "Bolna",
+      "SaveIN"
+     ],
+     "reach": "pioneerfund.vc",
+     "note": "Backs YC companies, so getting into YC is the way in."
+    },
+    {
+     "name": "Soma Capital",
+     "hq": "San Francisco · New York",
+     "type": "Seed fund + fellowship",
+     "stage": "Pre-seed to Series A",
+     "cheque": "Up to $2M uncapped (Build track)",
      "sectors": [
       "Consumer",
-      "Financial services",
-      "Healthcare",
-      "Tech"
+      "Fintech",
+      "SaaS"
      ],
      "india_portfolio": [
-      "Zomato (Eternal)",
-      "Lenskart",
-      "Rebel Foods",
-      "Atomberg"
+      "Material Depot",
+      "SaveIN"
      ],
-     "reach": "temasek.com.sg",
-     "note": "Also backs Indian VC funds, so it can reach you indirectly earlier."
+     "reach": "somacap.com/fellows",
+     "note": "Rolling applications; often co-invests alongside Indian VCs."
+    },
+    {
+     "name": "Lightspeed",
+     "hq": "Menlo Park · Bengaluru",
+     "type": "Multi-stage VC, India team",
+     "stage": "Seed to growth",
+     "cheque": "Not disclosed",
+     "sectors": [
+      "AI",
+      "Consumer",
+      "Fintech",
+      "Deep tech"
+     ],
+     "india_portfolio": [
+      "Trackk",
+      "Officebanao",
+      "ShareChat",
+      "Udaan"
+     ],
+     "reach": "lsvp.com",
+     "note": "Raising a ~$250M India fund for early-stage AI; runs India Ascends for deep tech."
+    },
+    {
+     "name": "General Catalyst",
+     "hq": "USA · India team",
+     "type": "Multi-stage VC",
+     "stage": "Seed to growth",
+     "cheque": "Not disclosed",
+     "sectors": [
+      "AI",
+      "Healthcare",
+      "Fintech",
+      "Consumer"
+     ],
+     "india_portfolio": [
+      "Bolna",
+      "STAN",
+      "Orange Health",
+      "FarMart"
+     ],
+     "reach": "generalcatalyst.com",
+     "note": "Committed $5B to India over five years (Feb 2026), seed to growth."
+    },
+    {
+     "name": "Goodwater Capital",
+     "hq": "Burlingame, California",
+     "type": "Consumer-tech VC",
+     "stage": "Seed to growth",
+     "cheque": "Not disclosed",
+     "sectors": [
+      "Consumer",
+      "Edtech",
+      "Fintech"
+     ],
+     "india_portfolio": [
+      "Seekho",
+      "SaveIN"
+     ],
+     "reach": "goodwatercap.com",
+     "note": "Consumer specialist; joined Seekho's $28M Series B in 2025."
     }
    ],
    "cta_url": "scalerbee.com/TheFundGuy/contact.html"
