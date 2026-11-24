@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "items": [
     {
       "id": "undp-generali-msme-insurance-2026",
@@ -164,8 +164,8 @@
       "title": "NIDHI-PRAYAS",
       "org": "DST (NIDHI) via PRAYAS centres",
       "type": "Grant",
-      "amount": "Up to ₹10 lakh (prototype)",
-      "amountMax": 1000000,
+      "amount": "Up to ₹20 lakh (₹40 lakh at Advance PRAYAS centres)",
+      "amountMax": 4000000,
       "deadline": null,
       "region": "National",
       "stages": [
@@ -187,8 +187,8 @@
         "Up to ₹10 lakh for prototyping",
         "Incubator lab and mentoring access"
       ],
-      "link": "https://nidhi.dst.gov.in/",
-      "note": "Rolling/periodic calls via individual PRAYAS centres.",
+      "link": "https://nidhi.dst.gov.in/prayas2-0/",
+      "note": "Now run as PRAYAS 2.0: apply through an individual PRAYAS centre (or an Advance PRAYAS centre for deep tech), each of which runs its own call window. Check the host centre page for current dates.",
       "added": "2026-10-30"
     },
     {
@@ -217,8 +217,8 @@
       "benefits": [
         "Seed funding up to ₹1 Cr"
       ],
-      "link": "https://nidhi.dst.gov.in/",
-      "note": "Apply through your incubator; each TBI runs its own window.",
+      "link": "https://nidhi.dst.gov.in/nidhissp/",
+      "note": "DST now calls this the NIDHI Seed Support Program (NIDHI-SSP). Apply through your DST-backed incubator; each TBI runs its own window.",
       "added": "2026-10-30"
     },
     {
@@ -250,7 +250,7 @@
         "Mentoring by BIG partners"
       ],
       "link": "https://birac.nic.in/",
-      "note": "Two calls a year; watch BIRAC's call-for-proposals page.",
+      "note": "BIG runs as dated calls, usually two a year; no call is open as of 24 Nov 2026 and the next one is awaited. Watch BIRAC's call-for-proposals page and prepare your proposal in advance.",
       "added": "2026-10-30"
     },
     {
@@ -314,8 +314,8 @@
         "Grant up to ₹1.5 Cr",
         "Path to procurement by the armed forces"
       ],
-      "link": "https://idex.gov.in/",
-      "note": "New DISC rounds are released periodically.",
+      "link": "https://www.ddpmod.gov.in/offerings/innovations",
+      "note": "The iDEX Open Challenge takes applications through the year (current listing shows a last date of 31 Dec 2026); themed DISC and ADITI rounds open periodically, and the latest ones closed in mid-2026.",
       "added": "2026-10-30"
     },
     {
@@ -3911,6 +3911,446 @@
       "link": "https://thielfellowship.org/faq",
       "note": "Applications are reviewed year-round through the portal at thielfellowship.my.site.com/apply/s/. Questions go to the fellowship team by email. The catch: you must leave formal education to take the award.",
       "added": "2026-11-23"
+    },
+    {
+      "id": "colosseum-eternal-award-2027",
+      "title": "Colosseum Eternal — Winter 2026–27 Sprint Award",
+      "org": "Colosseum (Solana-focused hackathon organiser and accelerator)",
+      "type": "Challenge",
+      "amount": "US$25,000 award (USDC) + shot at $250K pre-seed",
+      "amountMax": 2200000,
+      "deadline": "2027-03-20",
+      "region": "Global",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "Crypto / Web3",
+        "Blockchain",
+        "Fintech",
+        "Developer tools"
+      ],
+      "equity": "Varies",
+      "summary": "An always-on online hackathon where teams anywhere, India included, launch their own four-week build sprint during the November–March window. The strongest product of the round wins a non-dilutive $25,000 award, and standout teams can be considered for Colosseum's accelerator and pre-seed cheque.",
+      "eligibility": [
+        "Open to crypto developers and startup founders worldwide; no country restriction is stated on the official page",
+        "To win the Eternal Award, the startup must not have raised venture capital for the product submitted",
+        "Any blockchain can be used for the award, but the accelerator/pre-seed track requires building on Solana",
+        "One sprint per team per round; the sprint must be started from the Colosseum dashboard by 20 March 2027"
+      ],
+      "benefits": [
+        "US$25,000 non-dilutive award paid in USDC stablecoin to the top submission of the round",
+        "Possible consideration for US$250,000 pre-seed investment and a place in Colosseum's next accelerator cohort",
+        "Written response on every submission within 14 days; shortlisted teams get a short interview with the judges",
+        "Fully remote, free to enter"
+      ],
+      "link": "https://www.colosseum.com/eternal",
+      "note": "The last day to START a sprint is Sat 20 March 2027; each sprint then runs four weeks, with optional weekly one-minute progress videos and a final submission (product description, team background, GitHub repo, pitch video, technical demo). Winners are picked around May 2027. Submissions are public by default (can be changed). The award itself is equity-free, but the $250K pre-seed route is an investment and is Solana-only. Payout is in crypto (USDC), so check your bank/FEMA and tax position before accepting.",
+      "added": "2026-11-24"
+    },
+    {
+      "id": "tripura-tri-seed-grant",
+      "title": "Tripura Start-Up Policy 2024 – Tri-Seed Funding (₹2 Lakh)",
+      "org": "Directorate of Information Technology, Government of Tripura (Startup Tripura)",
+      "type": "Grant",
+      "amount": "₹2 lakh one-time",
+      "amountMax": 200000,
+      "deadline": null,
+      "region": "Tripura",
+      "stages": [
+        "Idea"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "A one-time ₹2 lakh seed grant that Tripura pays to idea-stage startups once they hold a recognition certificate under the Tripura Start-Up Policy 2024. You claim it on the state startup portal; there's no competition round.",
+      "eligibility": [
+        "Must be a Private Limited Company, LLP or registered partnership firm incorporated within the last 10 years",
+        "Annual turnover must not have exceeded ₹25 crore in any previous financial year",
+        "Registered address and a fully working office must be in Tripura",
+        "At least 50% of salaried skilled staff must be from Tripura",
+        "Must hold a 'Recognized Start-Up' certificate issued through the Startup Tripura portal",
+        "Entities formed by demerger or restructuring of an existing business, and franchisees, are excluded"
+      ],
+      "benefits": [
+        "₹2 lakh one-time grant released after recognition",
+        "Can be combined with the policy's monthly operational-cost reimbursement and later prototype, marketing and patent support",
+        "State aims to pay claims within 30 days of a complete submission"
+      ],
+      "link": "https://startup.tripura.gov.in",
+      "note": "Rolling: the policy took effect on 1 April 2024 and stays in force until it is replaced. Get recognition first (the portal says this takes about 45 days): the Executive Committee screens your application and the State Level Start-Up Council approves it. Then claim the grant on the same portal. Benefits stop once turnover exceeds ₹25 crore.",
+      "added": "2026-11-24"
+    },
+    {
+      "id": "tripura-operational-cost-reimbursement",
+      "title": "Tripura Start-Up Policy 2024 – Monthly Operational Cost Reimbursement (₹20,000/month)",
+      "org": "Directorate of Information Technology, Government of Tripura (Startup Tripura)",
+      "type": "Grant",
+      "amount": "₹20,000/month for up to 12 months (+10% women-led, +20% PwD-led)",
+      "amountMax": 288000,
+      "deadline": null,
+      "region": "Tripura",
+      "stages": [
+        "Idea",
+        "Prototype"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Tripura's version of a sustenance allowance: recognised early-stage startups get back up to ₹20,000 a month of running costs, such as rent, electricity and internet, for their first year after recognition. Women-led and disability-led startups get a top-up.",
+      "eligibility": [
+        "Must be a startup recognised under the Tripura Start-Up Policy 2024 (Pvt Ltd, LLP or partnership, under 10 years old, turnover up to ₹25 crore)",
+        "Must have a registered and working office in Tripura, with at least half of its skilled staff from the state",
+        "Must declare on the portal that it is operating and working on prototype design or development",
+        "Women-led startups qualify for 10% extra; startups led by a person with at least 40% disability qualify for 20% extra (certificate needed at recognition)"
+      ],
+      "benefits": [
+        "Reimbursement of up to ₹20,000 per month toward operating costs such as rent, power and internet",
+        "Paid for up to one year, counted from the date of the recognition certificate",
+        "10% extra for women-led startups and 20% extra for PwD-led startups"
+      ],
+      "link": "https://startup.tripura.gov.in",
+      "note": "Rolling; claims are filed on the Startup Tripura portal only. The 12-month clock starts on the recognition date, not the claim date, so apply soon after you are recognised. This is a reimbursement, so keep bills and rent receipts. The policy has been in force since 1 April 2024 with no end date.",
+      "added": "2026-11-24"
+    },
+    {
+      "id": "tripura-prototype-reimbursement",
+      "title": "Tripura Start-Up Policy 2024 – Prototype Stage Reimbursement (up to ₹10 Lakh)",
+      "org": "Directorate of Information Technology, Government of Tripura (Startup Tripura)",
+      "type": "Grant",
+      "amount": "Up to ₹10 lakh (+10% women-led, +20% PwD-led)",
+      "amountMax": 1200000,
+      "deadline": null,
+      "region": "Tripura",
+      "stages": [
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Once the State Level Start-Up Council accepts its proof of concept, a recognised Tripura startup can claim up to ₹10 lakh back on what it spent building the prototype. Most of the claim must go on materials and equipment.",
+      "eligibility": [
+        "Must be recognised under the Tripura Start-Up Policy 2024",
+        "The proof of concept must be approved by the State Level Start-Up Council (SLSC)",
+        "At least 75% of the claim must be raw materials, components or capital equipment",
+        "Manpower costs may make up no more than 25% of the claim"
+      ],
+      "benefits": [
+        "Need-based reimbursement of up to ₹10 lakh for manpower, raw materials, components and equipment",
+        "10% extra for women-led startups and 20% extra for PwD-led startups",
+        "Payment targeted within 30 days of a verified claim"
+      ],
+      "link": "https://startup.tripura.gov.in",
+      "note": "Rolling; claim through the portal after SLSC approves your proof of concept. You spend first and are reimbursed afterwards, so plan cash flow. Respect the 75:25 split between materials/capex and manpower or the claim will be cut.",
+      "added": "2026-11-24"
+    },
+    {
+      "id": "tripura-marketing-assistance",
+      "title": "Tripura Start-Up Policy 2024 – Marketing & Publicity Assistance (up to ₹5 Lakh)",
+      "org": "Directorate of Information Technology, Government of Tripura (Startup Tripura)",
+      "type": "Grant",
+      "amount": "Up to ₹5 lakh",
+      "amountMax": 500000,
+      "deadline": null,
+      "region": "Tripura",
+      "stages": [
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Recognised Tripura startups that are bringing a product or service to market can claim up to ₹5 lakh of launch marketing back from the state, with fixed caps on each type of spend.",
+      "eligibility": [
+        "Must be recognised under the Tripura Start-Up Policy 2024",
+        "Must be at commercialisation stage and launching a product or service",
+        "Spending must fall within the policy's caps for each marketing channel"
+      ],
+      "benefits": [
+        "Up to ₹5 lakh reimbursement for launch marketing",
+        "Digital and social media can be up to 50% of the claim; trade shows and print/TV/radio ads up to 15% each; contests and free samples up to 10% each",
+        "GST paid in Tripura can also be reimbursed under the state's TIIPIS 2022 scheme"
+      ],
+      "link": "https://startup.tripura.gov.in",
+      "note": "Rolling; claim on the Startup Tripura portal with invoices. The caps for each channel apply to the claimed amount, so spending everything on one channel, such as paid social, means you can't claim the full ₹5 lakh. The policy has been in force since 1 April 2024.",
+      "added": "2026-11-24"
+    },
+    {
+      "id": "tripura-patent-reimbursement",
+      "title": "Tripura Start-Up Policy 2024 – Patent Filing Reimbursement (₹2 Lakh India / ₹10 Lakh Foreign)",
+      "org": "Directorate of Information Technology, Government of Tripura (Startup Tripura)",
+      "type": "Grant",
+      "amount": "Up to ₹2 lakh per Indian patent; up to ₹10 lakh for foreign patents",
+      "amountMax": 1000000,
+      "deadline": null,
+      "region": "Tripura",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Sector-agnostic",
+        "Deeptech"
+      ],
+      "equity": "No equity",
+      "summary": "Tripura pays back patent costs for incubated, recognised startups: up to ₹2 lakh for each Indian patent and up to ₹10 lakh for foreign filings on one invention, in two instalments.",
+      "eligibility": [
+        "Must be recognised under the Tripura Start-Up Policy 2024",
+        "Must be an incubated startup, as the policy requires",
+        "Foreign-patent support is capped for each subject matter (one invention)"
+      ],
+      "benefits": [
+        "Up to ₹2 lakh for each Indian patent awarded",
+        "Up to ₹10 lakh for foreign patents on a single subject matter",
+        "Paid 50% after filing and 50% after the patent is granted"
+      ],
+      "link": "https://startup.tripura.gov.in",
+      "note": "Rolling; claim on the Startup Tripura portal. The second half is paid only once the patent is granted, which can take years. Keep the filing receipts and attorney invoices.",
+      "added": "2026-11-24"
+    },
+    {
+      "id": "dpiit-sipp-startup-ip-protection",
+      "title": "Startups Intellectual Property Protection (SIPP) — Free Facilitators & Fee Rebates",
+      "org": "DPIIT, Ministry of Commerce & Industry (Startup India) with the Office of the CGPDTM (IP India)",
+      "type": "Grant",
+      "amount": "Facilitator fees fully paid by the government + 80% patent-fee and 50% trademark-fee rebate",
+      "amountMax": 0,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Sector-agnostic",
+        "Deep Tech",
+        "IP & Patents"
+      ],
+      "equity": "No equity",
+      "summary": "A standing central scheme that lets recognised startups file patents, trademarks and designs through empanelled IP attorneys whose professional fees are borne by the Government of India, while the startup pays only reduced statutory fees. Patent applications from startups can also be put on a faster examination track.",
+      "eligibility": [
+        "Must be a startup recognised under the Startup India (DPIIT) framework",
+        "Filing must be for a patent, trademark or industrial design in India",
+        "The application has to be routed through one of the facilitators listed on the Startup India / IP India portal to get the fee-free professional help",
+        "Only official (statutory) filing fees remain payable by the startup, at the reduced startup rate"
+      ],
+      "benefits": [
+        "Government covers the facilitator's professional charges for any number of patent, trademark or design filings",
+        "Startups pay 80% less than other companies on patent filing fees",
+        "50% rebate on trademark filing fees under the amended Trademark Rules",
+        "Option of expedited examination so a startup's patent can be granted sooner"
+      ],
+      "link": "https://www.startupindia.gov.in/content/sih/en/intellectual-property-rights.html",
+      "note": "No application window — it is an always-on benefit. Pick a facilitator from the list on the Startup India IPR page and contact them directly; keep your DPIIT recognition certificate handy as proof of startup status. The facilitator's fee is reimbursed to them by the government, so you should not be billed for professional charges — but statutory government fees (and any extra services like prior-art searches the facilitator may quote separately) are still on you.",
+      "added": "2026-11-24"
+    },
+    {
+      "id": "birac-seed-fund-venture-center",
+      "title": "BIRAC SEED Fund — Equity up to ₹30 Lakh via BioNEST Incubators (e.g. Venture Center, Pune)",
+      "org": "BIRAC (Department of Biotechnology), implemented through BioNEST incubators such as Venture Center, Pune",
+      "type": "Equity",
+      "amount": "Up to ₹30 lakh (equity)",
+      "amountMax": 3000000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Biotech",
+        "MedTech",
+        "Life Sciences",
+        "Healthcare"
+      ],
+      "equity": "Takes equity",
+      "summary": "BIRAC's SEED Fund puts up to ₹30 lakh of equity into post-proof-of-concept biotech and medtech startups through selected BioNEST incubators. Venture Center in Pune runs an always-available application form for its tranche of the fund.",
+      "eligibility": [
+        "Private limited company (or in the process of incorporating) that is at least 51% owned by Indian citizens — OCI/PIO holdings don't count towards this",
+        "Incorporated within the last 5 years, with annual turnover never above ₹25 crore",
+        "Technology- or IP-led product venture, chiefly in biotech or biomedical areas, past proof of concept",
+        "At least one full-time founder, a written business plan and credible potential to raise follow-on funding",
+        "Must be (or become) a resident incubatee of the implementing incubator when the money is invested, and meet its EHS norms"
+      ],
+      "benefits": [
+        "Equity investment of up to ₹30 lakh per startup from a government-backed fund",
+        "Board seat/observer support and periodic review by the incubator's SEED Fund committee",
+        "Access to the host BioNEST incubator's labs, mentors and investor network",
+        "Positions the startup for BIRAC's larger LEAP Fund and AcE Fund-backed rounds"
+      ],
+      "link": "https://www.venturecenter.co.in/funding/seed-investments/birac-seed-fund",
+      "note": "Rolling — no closing date shown; confirm your fit with the Seed Fund Team (funding@venturecenter.co.in) before applying. Catches: the incubator takes up to 10% equity, places a nominee director/observer on your board, and requires half-yearly presentations plus annual financial reporting. You must be physically incubated at the implementing incubator (Venture Center is in Pune), so non-local founders may need to relocate — other BioNEST incubators run their own SEED Fund tranches with similar terms.",
+      "added": "2026-11-24"
+    },
+    {
+      "id": "ccamp-win-coe-non-dilutive-funding",
+      "title": "C-CAMP Wadhwani Innovation Network (WIN) Centre of Excellence — Non-Dilutive Funding",
+      "org": "C-CAMP (Centre for Cellular and Molecular Platforms), Bengaluru, with the Wadhwani Foundation",
+      "type": "Grant",
+      "amount": "Up to ₹1 Cr (non-dilutive)",
+      "amountMax": 10000000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "Healthcare",
+        "Drugs & Pharma",
+        "Medical Devices",
+        "Diagnostics",
+        "Industrial Biotech",
+        "Agriculture"
+      ],
+      "equity": "No equity",
+      "summary": "A standing C-CAMP call that gives Indian life-science startups and academic innovators up to ₹1 crore of non-dilutive money to push a technology past TRL 4 through pilots, validation and scale-up. Proposals are reviewed on a monthly cycle.",
+      "eligibility": [
+        "Indian startups or academic innovators (faculty/researchers) can apply",
+        "Technology must already be beyond TRL 4 and be translation-oriented with clear commercial potential",
+        "Must be a product or process innovation (not a service) that is novel and has IP potential",
+        "Domains: healthcare, drugs, medical devices, diagnostics, industrial biotechnology or agriculture",
+        "Team should show both technical and business capability, with a business model, commercialisation roadmap and understanding of end users and market size"
+      ],
+      "benefits": [
+        "Up to ₹1 crore per selected awardee, described by C-CAMP as non-dilutive",
+        "Can be used for pilot and validation studies, prototype refinement and scale-up work",
+        "Funds the data and validation evidence needed to raise the next round of funding",
+        "Association with C-CAMP's bio-innovation ecosystem in Bengaluru"
+      ],
+      "link": "https://www.ccamp.res.in/seed-funding-win-coe",
+      "note": "Rolling call: proposals should reach C-CAMP before the 20th of each month to be taken up in that month's cycle (next cut-off 20 December 2026). Applications and queries go by email to win_coe@ccamp.res.in. The page does not spell out project duration, document format, IP or royalty terms — ask before applying. Pure services or tech below TRL 4 won't qualify.",
+      "added": "2026-11-24"
+    },
+    {
+      "id": "madeit-iiitdm-nidhi-prayas",
+      "title": "NIDHI-PRAYAS Prototype Grant at MaDeIT (IIITDM Kancheepuram)",
+      "org": "MaDeIT Innovation Foundation, IIITDM Kancheepuram (DST NIDHI-PRAYAS centre)",
+      "type": "Grant",
+      "amount": "Up to ₹10 lakh",
+      "amountMax": 1000000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype"
+      ],
+      "sectors": [
+        "Manufacturing",
+        "Agriculture",
+        "Healthcare",
+        "Cleantech",
+        "Energy",
+        "Water",
+        "IoT"
+      ],
+      "equity": "No equity",
+      "summary": "MaDeIT, the incubator at IIITDM Kancheepuram in Chennai, is accepting applications for DST's PRAYAS grant, which pays individual innovators and young startups up to ₹10 lakh to turn an idea into a working physical prototype.",
+      "eligibility": [
+        "Indian citizens aged 18 or above with government-approved proof of nationality, or Indian startups",
+        "Startups must be no older than 7 years from incorporation, with annual turnover never above ₹25 lakh in any financial year",
+        "Applicant must own the know-how and IP; employees or students of academic/R&D institutions need an NOC",
+        "Must register for pre-incubation or incubation at the MaDeIT TBI for the whole project period after selection",
+        "PRAYAS support can be taken only once for the same concept"
+      ],
+      "benefits": [
+        "Grant of up to ₹10 lakh per innovator/incubatee to build a prototype",
+        "IP created under the project stays with the innovator or startup",
+        "Incubation support at MaDeIT, IIITDM Kancheepuram",
+        "Preference for women, young innovators, bootstrapped teams and projects with a clear path to market"
+      ],
+      "link": "https://www.madeit.iiitdm.ac.in/home/prayas",
+      "note": "The official page states the call is open now but gives no closing date, so treat it as rolling and apply early. Apply through the Google Form on the page; a programme brochure and business-plan template are provided there. Grantees must remain incubated at MaDeIT (Chennai) for the project duration — check whether physical presence is required.",
+      "added": "2026-11-24"
+    },
+    {
+      "id": "bits-pieds-mookerji-innovation-fund",
+      "title": "Mookerji Innovation Fund (MIF) for BITSian Founders",
+      "org": "PIEDS, BITS Pilani (endowed by alumnus Sid Mookerji / Silicon Road Ventures)",
+      "type": "Equity",
+      "amount": "₹5 lakh – ₹50 lakh",
+      "amountMax": 5000000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "Sector-agnostic",
+        "DeepTech",
+        "Women-led",
+        "Student-led"
+      ],
+      "equity": "Takes equity",
+      "summary": "An alumni-endowed fund at BITS Pilani's incubator that writes equity cheques of ₹5–50 lakh into startups founded by current BITS students or recent graduates, with a mentorship track and a possible route to follow-on money from Silicon Road Ventures.",
+      "eligibility": [
+        "At least one founder must be a BITSian",
+        "Open to current students of the Pilani, Goa, Hyderabad and Dubai campuses, and alumni who graduated within the last 5 years",
+        "Idea-stage teams can apply; incorporation is not needed to apply but may be required before investment",
+        "Sector-agnostic, with stated interest in deep tech, women-led, student-led and high-risk moonshot ideas"
+      ],
+      "benefits": [
+        "Equity investment of ₹5 lakh to ₹50 lakh per startup",
+        "3-month mentorship programme with global mentors and bootcamps (Campus Engagement Track)",
+        "Coaching from Silicon Road Ventures, PIEDS and partner teams, plus a playbook of operating routines",
+        "Selected startups may get follow-on funding from Silicon Road Ventures and a bridge to the US market"
+      ],
+      "link": "https://www.bits-pilani.ac.in/mifund/",
+      "note": "No deadline is published — the page shows a standing Apply Now form, so applications appear to be accepted on a rolling basis. Investment is made against equity; stake and valuation terms are not disclosed. Only for BITS students and alumni of the last five years. Queries: mi.fund@pieds-bitspilani.org.",
+      "added": "2026-11-24"
+    },
+    {
+      "id": "venture-center-nidhi-sss-seed-fund",
+      "title": "NIDHI Seed Support at Venture Center, Pune",
+      "org": "Venture Center (Entrepreneurship Development Center), Pune — DST NIDHI-SSS host incubator",
+      "type": "Equity",
+      "amount": "Up to ₹1 Cr",
+      "amountMax": 10000000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Deeptech",
+        "Life Sciences",
+        "Materials & Chemicals",
+        "Engineering"
+      ],
+      "equity": "Takes equity",
+      "summary": "Venture Center, the CSIR-NCL-linked science incubator in Pune, invests up to ₹1 crore of DST NIDHI seed money in technology startups to carry them from idea to the point where they can raise angel/VC money or bank loans.",
+      "eligibility": [
+        "Must be a registered Indian startup incorporated as a private limited company",
+        "Indian promoters must hold at least 51% (OCI/PIO count as Indian); subsidiaries of MNCs or foreign firms are excluded",
+        "Needs at least one dedicated full-time entrepreneur, a formal business plan and a technically sound idea with a strong technology/knowledge component",
+        "Must be, or agree to become, a resident incubatee of Venture Center and complete three months of residency before the investment is made",
+        "Founders must be willing to give equity in return"
+      ],
+      "benefits": [
+        "Seed investment of up to ₹1 crore (request must be below ₹100 lakh)",
+        "Residency and incubation support at Venture Center's labs and facilities in Pune",
+        "Board-level guidance through a Venture Center nominee director/observer",
+        "Positioning for follow-on angel, VC or debt funding"
+      ],
+      "link": "https://www.venturecenter.co.in/funding/seed-investments/nidhi-sss",
+      "note": "Standing seed fund with an application form on the official page; no deadline or cohort window is published. This is equity, not a grant: Venture Center takes a stake and a board nominee/observer seat, and expects bi-annual presentations to its seed fund committee plus annual financials. Requires physical residency in Pune for at least 3 months before investment. Contact: funding@venturecenter.co.in, +91-9156465104.",
+      "added": "2026-11-24"
     }
   ],
   "archive": [
