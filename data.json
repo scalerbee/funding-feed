@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "items": [
     {
       "id": "undp-generali-msme-insurance-2026",
@@ -315,7 +315,7 @@
         "Path to procurement by the armed forces"
       ],
       "link": "https://www.ddpmod.gov.in/offerings/innovations",
-      "note": "The iDEX Open Challenge takes applications through the year (current listing shows a last date of 31 Dec 2026); themed DISC and ADITI rounds open periodically, and the latest ones closed in mid-2026.",
+      "note": "The iDEX Open Challenge is run in periodic windows and recent listings have shown differing closing dates, so confirm the current window on idex.gov.in before preparing an application; themed DISC and ADITI rounds open periodically, and the latest ones closed in mid-2026.",
       "added": "2026-10-30"
     },
     {
@@ -1340,43 +1340,6 @@
       ],
       "link": "https://www.achema.de/en/the-achema/achema-start-up-award",
       "note": "Full business plans must be submitted by 30 November 2026, along with a signed copy of the terms and conditions. Finalists are picked in January 2027 and must present in person in Frankfurt (February jury pitch and June fair) — budget for travel. File patents before submitting, as plans are shared with jurors and mentors under NDA.",
-      "added": "2026-11-06"
-    },
-    {
-      "id": "nexa-lighthouse-asia-pacific-2026",
-      "title": "Nexa Lighthouse — Climate & Health Innovation Call (Asia-Pacific)",
-      "org": "Grand Challenges Canada and AVPN, funded by the Novo Nordisk Foundation",
-      "type": "Grant",
-      "amount": "$250K – $2M (Transition to Scale)",
-      "amountMax": 176000000,
-      "deadline": "2026-11-17",
-      "region": "Global",
-      "stages": [
-        "Revenue",
-        "Growth"
-      ],
-      "sectors": [
-        "HealthTech",
-        "Climate",
-        "Public Health",
-        "MedTech",
-        "Social Impact"
-      ],
-      "equity": "Varies",
-      "summary": "Nexa Lighthouse funds proven, locally led innovations in Asia and the Pacific that help health systems act on climate risks such as extreme heat, air pollution and shifting malaria/dengue patterns. A linked South Asia call focuses on protecting people with diabetes and heart disease from extreme heat.",
-      "eligibility": [
-        "Incorporated organisations based in Asia-Pacific (India included): companies, social enterprises, NGOs, non-profits, research institutions or government bodies",
-        "Individuals, sole proprietorships, unincorporated trusts and partnerships cannot apply",
-        "Innovation must already be proven and ready to scale — this is not early-idea money",
-        "Solution must be locally led and address a climate-linked health threat (heat, air quality, vector-borne disease)"
-      ],
-      "benefits": [
-        "Transition to Scale investment of roughly $250,000 to $2 million per innovation, sized by maturity",
-        "Backing from Grand Challenges Canada and AVPN's network of Asian funders",
-        "Support to embed the solution with local health actors and systems"
-      ],
-      "link": "https://grandchallenges.ca/programs/nexa/",
-      "note": "Proposals are due 17 November 2026 at 2:00 pm ET (12:30 am IST on 18 November) via Grand Challenges Canada's Fluxx portal — apply through that portal, not the Novo Nordisk Foundation, or you risk disqualification. Funding instrument (grant vs. repayable/equity-linked) is set at the partners' discretion. The South Asia cardiometabolic-heat strand must be framed around heat protection for patients, not general climate adaptation.",
       "added": "2026-11-06"
     },
     {
@@ -4351,6 +4314,720 @@
       "link": "https://www.venturecenter.co.in/funding/seed-investments/nidhi-sss",
       "note": "Standing seed fund with an application form on the official page; no deadline or cohort window is published. This is equity, not a grant: Venture Center takes a stake and a board nominee/observer seat, and expects bi-annual presentations to its seed fund committee plus annual financials. Requires physical residency in Pune for at least 3 months before investment. Contact: funding@venturecenter.co.in, +91-9156465104.",
       "added": "2026-11-24"
+    },
+    {
+      "id": "yourstory-build-with-gemini-voice-ai-hackathon-2026",
+      "title": "Build with Gemini – Shape What's Next (Voice AI Hackathon 2026)",
+      "org": "YourStory with Google Cloud India and Hack2skill",
+      "type": "Challenge",
+      "amount": "₹8 lakh prize pool (top prize ₹3 lakh)",
+      "amountMax": 300000,
+      "deadline": "2026-12-03",
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype"
+      ],
+      "sectors": [
+        "AI",
+        "Voice AI",
+        "Developer Tools"
+      ],
+      "equity": "No equity",
+      "summary": "A national voice-AI hackathon run by YourStory on Google Cloud, where builders pitch and then prototype voice-first products using Gemini. Eight teams share an ₹8 lakh cash pool, and shortlisted teams also get Google Cloud credits.",
+      "eligibility": [
+        "Open to working professionals such as developers, AI/ML engineers, data scientists and technical founders",
+        "Enter alone or as a team of up to four people",
+        "Students and non-professionals cannot enter this edition",
+        "Register and submit an idea before the deadline to be considered for shortlisting"
+      ],
+      "benefits": [
+        "Winner receives ₹3 lakh; first runner-up ₹2 lakh; second runner-up ₹1.25 lakh",
+        "Five consolation awards of ₹35,000 each",
+        "US$100 in Google Cloud credits for each shortlisted team",
+        "Visibility through YourStory's coverage of the hackathon"
+      ],
+      "link": "https://yourstory.com/2026/11/hack2skill-yourstory-launches-voice-ai-hackathon-with-rs-8-lakh-prize-pool-in-collaboration-with-google-cloud-india",
+      "note": "Registration and idea submission close on 3 December 2026; the announcement gives no closing time, so submit by the end of 2 December IST to be safe. Registration runs through Hack2skill (the announcement does not print the direct link). It is a prize for individuals or teams, not company funding, and student teams are excluded.",
+      "added": "2026-11-25"
+    },
+    {
+      "id": "xprize-accelerate-learning-core-track-2027",
+      "title": "XPRIZE Accelerate Learning — Core Track (India region)",
+      "org": "XPRIZE Foundation, supported in India by the British Asian Trust",
+      "type": "Challenge",
+      "amount": "US$5M track purse (of US$6M total)",
+      "amountMax": 440000000,
+      "deadline": "2027-03-15",
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "EdTech",
+        "Education",
+        "Social Impact"
+      ],
+      "equity": "No equity",
+      "summary": "A multi-year global prize that rewards teams able to prove, through independent randomised trials, that their approach lifts foundational literacy and numeracy among first-grade children at very low cost. India is one of only two competition regions, making this a rare large-purse prize aimed squarely at Indian classrooms.",
+      "eligibility": [
+        "Open to startups, nonprofits, universities, student teams and independent innovators from any discipline; individuals can join or form a team",
+        "Each team picks one region per track at registration — India or Sub-Saharan Africa",
+        "Solutions must target at least a 25% improvement in mastery across roughly 150,000 Grade 1 learners at under US$10 per child per year",
+        "Impact must be validated through an independent randomised controlled trial run as part of the competition"
+      ],
+      "benefits": [
+        "Share of a US$5 million Core Track purse, with winners named in 2029",
+        "Staged recognition: qualified teams announced in 2027 and finalists in 2028",
+        "Global visibility through XPRIZE and access to its partner and funder network",
+        "Rigorous third-party evidence of learning impact that can support later fundraising and government partnerships"
+      ],
+      "link": "https://www.xprize.org/prizes/accelerate-learning",
+      "note": "Core Track registration closes 15 March 2027 (XPRIZE marks these dates as preliminary and has not published a cut-off time, so register well ahead). A registration fee applies per track but the amount is not shown on the public page; check the team portal before committing. This is a long competition (2026–2029) requiring sustained field implementation and trial participation, not a quick pitch contest.",
+      "added": "2026-11-25"
+    },
+    {
+      "id": "xprize-accelerate-learning-last-mile-moonshot-2027",
+      "title": "XPRIZE Accelerate Learning — Last Mile Moonshot Track",
+      "org": "XPRIZE Foundation with ShikshaNext",
+      "type": "Challenge",
+      "amount": "US$1M track purse",
+      "amountMax": 88000000,
+      "deadline": "2027-02-15",
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "EdTech",
+        "Education",
+        "Social Impact"
+      ],
+      "equity": "No equity",
+      "summary": "The ambitious sister track of XPRIZE Accelerate Learning, seeking teacher-co-designed technology that doubles down on hard-to-reach learners with a 50% jump in foundational learning mastery. Indian edtech teams can register for the India region.",
+      "eligibility": [
+        "Open to startups, nonprofits, academic groups, student teams and individual innovators (as part of a team)",
+        "Teams choose India or Sub-Saharan Africa as their region at registration",
+        "Solutions must aim for at least a 50% gain in mastery at under US$40 per child per year",
+        "Technology must be developed together with teachers, and results must hold up in an independent randomised trial"
+      ],
+      "benefits": [
+        "Share of a US$1 million prize purse",
+        "Qualified teams and semi-finalists announced in 2027, finalists in 2028, winners in 2029",
+        "Exposure to XPRIZE, ShikshaNext and education funders working on foundational learning",
+        "Independent impact evidence usable with state education departments and investors"
+      ],
+      "link": "https://www.xprize.org/prizes/accelerate-learning",
+      "note": "Registration for this track closes 15 February 2027 — a month earlier than the Core Track; XPRIZE lists the dates as preliminary and gives no time of day. A per-track registration fee applies (amount not published on the main page). Teams may enter both tracks but must register separately.",
+      "added": "2026-11-25"
+    },
+    {
+      "id": "mozilla-foundation-fellowship-2027",
+      "title": "Mozilla Foundation Fellowship 2027–28",
+      "org": "Mozilla Foundation",
+      "type": "Fellowship",
+      "amount": "US$100K–125K (stipend + project budget)",
+      "amountMax": 11000000,
+      "deadline": "2026-12-17",
+      "region": "Global",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "AI",
+        "Open Source",
+        "Tech Policy",
+        "Civic Tech",
+        "Digital Rights"
+      ],
+      "equity": "No equity",
+      "summary": "A 12-month paid fellowship for technologists, builders and advocates working on a more trustworthy, open technology future. Independent fellows receive a large personal stipend plus a project budget to pursue their own idea, which suits founders building public-interest or open-source tech.",
+      "eligibility": [
+        "Anyone can apply directly — the call is open internationally, with no nomination needed",
+        "Work must align with one of Mozilla's published focus areas, or be submitted as a 'Wildcard' idea",
+        "Track I fellows are embedded with a host civil-society organisation; Track II fellows pursue their own independent project",
+        "Applicants must be available for a 12-month fellowship starting 1 June 2027"
+      ],
+      "benefits": [
+        "Track II (Independent): US$100,000 stipend plus US$25,000 project budget (US$125,000 total)",
+        "Track I (Embedded): US$75,000 stipend plus US$25,000 project budget (US$100,000 total)",
+        "One Independent slot reserved for creative advocacy work",
+        "Access to Mozilla's global fellows community and visibility for the project"
+      ],
+      "link": "https://www.mozillafoundation.org/en/what-we-do/grantmaking/fellowship/2027-call-for-applications/",
+      "note": "Two-stage process: the Letter of Intent is due 17 December 2026 at 11:59 PM Pacific (UTC-8), i.e. about 1:29 PM IST on 18 December. Only a small shortlist is invited to submit a full application, due 12 March 2027 at 11:59 PM Pacific. This is a fellowship for an individual's work, not company investment — read the full RFP and FAQ for any restrictions on running a for-profit venture alongside it.",
+      "added": "2026-11-25"
+    },
+    {
+      "id": "ksum-women-soft-loan-scheme",
+      "title": "KSUM Soft Loan Scheme for Women Entrepreneurs",
+      "org": "Kerala Startup Mission (KSUM), Government of Kerala",
+      "type": "Debt",
+      "amount": "Up to ₹15 lakh at 6% simple interest",
+      "amountMax": 1500000,
+      "deadline": null,
+      "region": "Kerala",
+      "stages": [
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Sector-agnostic",
+        "Technology",
+        "GovTech"
+      ],
+      "equity": "No equity",
+      "summary": "A purchase-order-backed working-capital loan from KSUM for women-led Kerala startups that have won work from Kerala government departments or PSUs. It funds up to 80% of the order value at a concessional 6% simple interest.",
+      "eligibility": [
+        "Women-led startup registered in Kerala as a Private Limited company or LLP, holding an active KSUM Unique ID",
+        "DPIIT recognition and an 'Active' MCA status (Form INC-22A must be filed before money is released)",
+        "Must be building an innovative product or technology; pure service firms and trading SMEs are generally excluded",
+        "Must hold a confirmed purchase/work order from a Kerala government department or public sector undertaking",
+        "No outstanding dues to KSUM, state incubators or any government agency, and not blacklisted; a director CIBIL score above 750 is preferred"
+      ],
+      "benefits": [
+        "Working capital of up to 80% of the government purchase order, with a maximum outstanding of ₹15 lakh",
+        "Concessional 6% simple interest",
+        "Released in step with client-certified project milestones",
+        "No equity dilution"
+      ],
+      "link": "https://startupmission.kerala.gov.in/schemes/women-soft-loan",
+      "note": "Rolling: KSUM's funding page lists this loan with an active 'Apply Now' button (Zoho form) and no closing date. Repayment falls due within one year or on project completion, whichever is earlier. Only orders from Kerala government bodies/PSUs qualify. Scheme manager contact is listed on the page (shahil@startupmission.in).",
+      "added": "2026-11-25"
+    },
+    {
+      "id": "ksum-scaleup-seed-fund",
+      "title": "KSUM Scaleup Seed Fund (Soft Loan up to ₹25 Lakh)",
+      "org": "Kerala Startup Mission (KSUM), Government of Kerala",
+      "type": "Debt",
+      "amount": "Up to ₹25 lakh soft loan at 6%",
+      "amountMax": 2500000,
+      "deadline": null,
+      "region": "Kerala",
+      "stages": [
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Sector-agnostic",
+        "Technology",
+        "Deep Tech"
+      ],
+      "equity": "No equity",
+      "summary": "A collateral-free growth loan from Kerala Startup Mission for product startups that already have meaningful revenue or angel/VC backing. It carries 6% simple interest with a one-year moratorium and three-year repayment.",
+      "eligibility": [
+        "Private Limited company registered in Kerala with active MCA status, DPIIT recognition and a KSUM Unique ID",
+        "Building and commercialising an indigenous product or technology; service and trading businesses generally do not qualify",
+        "At least ₹25 lakh revenue from the product in the last four quarters, OR at least ₹25 lakh raised from an angel network or VC",
+        "At least ₹5 lakh revenue in the quarter before applying (month-on-month growth is preferred)",
+        "No pending government dues and not blacklisted by any Indian government agency"
+      ],
+      "benefits": [
+        "Up to ₹25 lakh per startup (the page's headline badge shows ₹15 lakh, while the overview and FAQ state ₹25 lakh)",
+        "6% simple interest, 12-month moratorium, then 36 monthly instalments; prepayment without penalty",
+        "Can be used for product enhancement, expansion, marketing and licences/certifications",
+        "Startups already holding a KSUM seed loan may be considered for a higher limit"
+      ],
+      "link": "https://startupmission.kerala.gov.in/schemes/scaleup-seed-fund",
+      "note": "Rolling: shown with 'Apply Now' on KSUM's Early Stage Funding page, no close date. Two-part online application (Business Profile + Seed Proposal); incomplete forms are rejected. Selection runs through a KSUM call, then a final pitch to the Seed Expert Committee; funds are released in instalments. Some funding may be structured as convertible instruments (CCD/CCPS), so check the guidelines.",
+      "added": "2026-11-25"
+    },
+    {
+      "id": "ksum-international-national-exposure-programme",
+      "title": "KSUM International & National Exposure Programme (Event Reimbursement)",
+      "org": "Kerala Startup Mission (KSUM), Government of Kerala",
+      "type": "Grant",
+      "amount": "Up to ₹2 lakh per event; ₹5 lakh over 3 years",
+      "amountMax": 500000,
+      "deadline": null,
+      "region": "Kerala",
+      "stages": [
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "KSUM reimburses Kerala startups for showcasing at national and international trade shows and startup events, covering stall, registration, travel and exhibition costs. Each request is approved event by event.",
+      "eligibility": [
+        "DPIIT-recognised startup with a valid KSUM Unique ID",
+        "Must have a Minimum Viable Product; scale-up stage startups get priority",
+        "Up to two event trips per financial year",
+        "Event choice must be justified by business, investment or market opportunity"
+      ],
+      "benefits": [
+        "Up to ₹2 lakh reimbursed per event (stall, registration, travel, exhibition space)",
+        "Up to ₹5 lakh in total across three years from the first approved event",
+        "Support may be raised for strong products, high revenue growth or major events",
+        "Decision from KSUM within 7 days of the request"
+      ],
+      "link": "https://startupmission.kerala.gov.in/schemes/exposure-program",
+      "note": "Rolling, apply per event: email the event details, budget, attendees and expected outcomes to the KSUM address given on the scheme page BEFORE attending. Capped at 50 startups and ₹1.5 crore per year, so budget can run out. A rejected request can be appealed within 2 working days.",
+      "added": "2026-11-25"
+    },
+    {
+      "id": "tamil-nadu-sc-st-startup-fund",
+      "title": "Tamil Nadu SC/ST Startup Fund",
+      "org": "StartupTN (Tamil Nadu Startup and Innovation Mission), MSME Department, Government of Tamil Nadu",
+      "type": "Equity",
+      "amount": "Equity/debt investment (≈₹1.4 Cr average so far)",
+      "amountMax": 0,
+      "deadline": null,
+      "region": "Tamil Nadu",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Sector-agnostic",
+        "Indigenous Traditional Knowledge"
+      ],
+      "equity": "Takes equity",
+      "summary": "A state-run fund that invests equity (or debt) in startups controlled by Scheduled Caste and Scheduled Tribe founders from Tamil Nadu. By end-2025-26 it had backed 43 startups with about ₹60.8 crore.",
+      "eligibility": [
+        "SC/ST founders must together hold more than 50% of the equity and control the company",
+        "Company domiciled in Tamil Nadu with its main operations in the state",
+        "Applying SC/ST founders must be natives of Tamil Nadu or of Tamil origin",
+        "Scalable business models and ventures based on indigenous traditional knowledge are encouraged"
+      ],
+      "benefits": [
+        "Direct equity (or debt) investment from the Government of Tamil Nadu; portfolio investments have averaged roughly ₹1.4 crore per startup",
+        "Mentorship, market-access and investor-connect programmes for portfolio startups",
+        "Government shareholding has helped portfolio companies raise ₹21.66 crore in follow-on funding"
+      ],
+      "link": "https://startuptn.in/",
+      "note": "Rolling under the Tamil Nadu Startup & Innovation Policy 2023 (valid five years). Applications are processed in batches, first-in first-out, and intake may pause once a threshold is reached; evaluation can take 4–6 months and includes business, legal and financial due diligence. The state becomes a shareholder. Apply via the StartupTN portal (registration required).",
+      "added": "2026-11-25"
+    },
+    {
+      "id": "tamil-nadu-startup-ipr-reimbursement",
+      "title": "StartupTN Patent & Trademark (IPR) Cost Reimbursement",
+      "org": "StartupTN, Government of Tamil Nadu",
+      "type": "Grant",
+      "amount": "75% of patent costs, up to ₹3 lakh per patent",
+      "amountMax": 300000,
+      "deadline": null,
+      "region": "Tamil Nadu",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Under the Tamil Nadu Startup and Innovation Policy 2023, startups can recover a large share of what they spend registering patents, trademarks and geographical indications. Patents get 75% back up to ₹3 lakh each.",
+      "eligibility": [
+        "Startup registered with StartupTN and operating in Tamil Nadu",
+        "DPIIT-recognised startup as defined by the Government of India",
+        "Claim relates to intellectual property (patent, trademark or GI) registered by the startup",
+        "Expenses must be actually incurred and documented"
+      ],
+      "benefits": [
+        "75% of patent registration costs, capped at ₹3 lakh per registration",
+        "50% of trademark and geographical-indication costs, capped at ₹25,000",
+        "Non-dilutive reimbursement"
+      ],
+      "link": "https://startuptn.in/pdf/Tamil-Nadu-Startup-and-Innovation-Policy-2023.pdf",
+      "note": "Rolling reimbursement claimed through the StartupTN portal after costs are incurred; the policy is valid five years from 2023 notification or until replaced. The policy annex is internally inconsistent on the patent figure (it also cites ₹1 lakh), so confirm the current cap with StartupTN before filing.",
+      "added": "2026-11-25"
+    },
+    {
+      "id": "startuptn-gramam-thorum-puthozhil",
+      "title": "Gramam Thorum Puthozhil (GTP) – Village Startup Seed Grant",
+      "org": "StartupTN (TANSIM) with the MSME Department, Government of Tamil Nadu",
+      "type": "Grant",
+      "amount": "₹1 lakh seed grant + incubation",
+      "amountMax": 100000,
+      "deadline": null,
+      "region": "Tamil Nadu",
+      "stages": [
+        "Idea",
+        "Prototype"
+      ],
+      "sectors": [
+        "Rural Innovation",
+        "Agriculture",
+        "Social Impact",
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "A Tamil Nadu programme aiming to seed 100 startups in 100 selected villages, giving rural founders a ₹1 lakh equity-free grant plus incubation and mentoring through regional hubs and incubators.",
+      "eligibility": [
+        "Rural founders/startups from the villages covered by the programme in Tamil Nadu",
+        "Shortlisting on innovation potential, social relevance and feasibility, following the TANSEED SOP",
+        "Selected teams must attend the capacity-building and incubation sessions",
+        "Outreach prioritises women, SC/ST communities, persons with disabilities and youth"
+      ],
+      "benefits": [
+        "₹1 lakh equity-free seed grant (subject to Evaluation Committee approval)",
+        "Incubation help with business model, market validation, legal, branding and pitch readiness",
+        "Mentorship and orientation, with CSR partners offering infrastructure, networks and market access"
+      ],
+      "link": "https://gtp.startuptn.in/",
+      "note": "Applications are taken via an 'Apply Now' Google Form on the official GTP page; no closing date is published, so apply early as intake is limited to about 100 startups. Grant release depends on committee approval under TANSEED criteria.",
+      "added": "2026-11-25"
+    },
+    {
+      "id": "andhra-pradesh-startup-grant-apisp-2024-29",
+      "title": "AP Innovation & Startup Policy 4.0 – Startup Grant (up to ₹20 Lakh for Women/SC/ST/BC-led)",
+      "org": "Andhra Pradesh Innovation Society (APIS), ITE&C Department, Government of Andhra Pradesh",
+      "type": "Grant",
+      "amount": "Up to ₹15 lakh (₹20 lakh for women/SC/ST/BC/minority-led)",
+      "amountMax": 2000000,
+      "deadline": null,
+      "region": "Andhra Pradesh",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Andhra Pradesh's 2024-29 startup policy offers phased, non-repayable grants to AP-registered startups, with a higher ₹20 lakh ceiling for startups led by women, SC/ST, BC, minority or differently-abled founders.",
+      "eligibility": [
+        "Incorporated in Andhra Pradesh as a Private Limited company, registered partnership or LLP",
+        "Within 10 years of incorporation and turnover never above ₹100 crore in any year",
+        "Working on innovation, new products/processes or a scalable business model; Section 8 companies, trusts, societies, franchisees and group-sponsored entities are excluded",
+        "Must have a project proposal approved by APIS and register on the AP Startup One portal",
+        "Can take a grant/seed from only one AP government department (limited exceptions)"
+      ],
+      "benefits": [
+        "Up-front grant of up to ₹2 lakh, rising to a total of ₹15 lakh released in phases",
+        "Higher cap of ₹20 lakh for startups led by women, BC, SC/ST, minority or differently-abled founders",
+        "Applications decided within 60 days and money usually disbursed within 60 days of approval"
+      ],
+      "link": "https://apit.ap.gov.in/assets/files/2025ITC_36424_MS9_E.pdf",
+      "note": "Rolling: the policy runs from its 24 March 2025 notification until amended (operating guidelines G.O.Ms.No.9, 28 April 2025). Apply on the AP Startup One portal's incentive section, directly or through RTIH hubs/registered incubators. Grants are released in phases tied to milestones and are approved by APIS's Monitoring & Evaluation Committee.",
+      "added": "2026-11-25"
+    },
+    {
+      "id": "andhra-pradesh-startup-patent-reimbursement",
+      "title": "AP Startup Patent Filing Reimbursement (₹2 Lakh India / ₹10 Lakh Foreign)",
+      "org": "Andhra Pradesh Innovation Society (APIS), Government of Andhra Pradesh",
+      "type": "Grant",
+      "amount": "50% of costs: ₹2 lakh (India) / ₹10 lakh (foreign)",
+      "amountMax": 1000000,
+      "deadline": null,
+      "region": "Andhra Pradesh",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Sector-agnostic",
+        "Deep Tech"
+      ],
+      "equity": "No equity",
+      "summary": "Andhra Pradesh refunds half of what eligible startups spend on patent filing, up to ₹2 lakh for an Indian patent and ₹10 lakh for a foreign one, under the Innovation & Startup Policy 4.0.",
+      "eligibility": [
+        "Startup incorporated in Andhra Pradesh (Pvt Ltd, partnership or LLP) and registered on the AP Startup One portal",
+        "Within 10 years of incorporation with turnover not exceeding ₹100 crore in any year",
+        "Patent expenses must be actually incurred and documented",
+        "Not a Section 8 company, trust, society, franchisee or group-sponsored entity"
+      ],
+      "benefits": [
+        "Reimbursement of 50% of patent filing expenses",
+        "Cap of ₹2 lakh per Indian patent",
+        "Cap of ₹10 lakh per foreign patent",
+        "Decision targeted within 60 days of the claim"
+      ],
+      "link": "https://apit.ap.gov.in/assets/files/2025ITC_36424_MS9_E.pdf",
+      "note": "Rolling claim under the AP Innovation & Startup Policy 2024-29 (in force since 24 March 2025 until amended). Claims go through the Incentive Application section of the AP Startup One portal and are vetted by APIS; RTIH hubs and registered incubators can help file and verify. Keep invoices and filing receipts.",
+      "added": "2026-11-25"
+    },
+    {
+      "id": "andhra-pradesh-startup-event-accelerator-support",
+      "title": "AP Startup Event Participation & Accelerator Fee Reimbursement",
+      "org": "Andhra Pradesh Innovation Society (APIS), Government of Andhra Pradesh",
+      "type": "Grant",
+      "amount": "Up to ₹3 lakh/event + ₹2 lakh/accelerator",
+      "amountMax": 700000,
+      "deadline": null,
+      "region": "Andhra Pradesh",
+      "stages": [
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Two market-access incentives in Andhra Pradesh's startup policy: the state repays most of the cost of exhibiting at one trade fair a year, and half the fee for joining up to two accelerator programmes.",
+      "eligibility": [
+        "Startup incorporated in Andhra Pradesh and registered on the AP Startup One portal",
+        "Within 10 years of incorporation; turnover never above ₹100 crore",
+        "Event support is limited to one event per year",
+        "Accelerator support covers a maximum of two programmes"
+      ],
+      "benefits": [
+        "75% of registration, travel and lodging for an event or fair, up to ₹3 lakh, once a year",
+        "50% of accelerator programme fees, up to ₹2 lakh per programme (max two programmes)",
+        "Non-dilutive reimbursement"
+      ],
+      "link": "https://apit.ap.gov.in/assets/files/2025ITC_36424_MS9_E.pdf",
+      "note": "Rolling reimbursement under AP Innovation & Startup Policy 4.0 (2024-29); claim via the AP Startup One incentive portal after spending, with bills and proof of participation. Approval rests with APIS's Monitoring & Evaluation Committee (decision within ~60 days). The ₹7 lakh figure assumes one event plus two accelerators.",
+      "added": "2026-11-25"
+    },
+    {
+      "id": "karnataka-startup-patent-subsidy-2025-30",
+      "title": "Karnataka Startup Patent Subsidy (Startup Policy 2025-30)",
+      "org": "Startup Karnataka / Karnataka Innovation & Technology Society (KITS), Dept. of Electronics, IT, BT and S&T, Government of Karnataka",
+      "type": "Grant",
+      "amount": "75% of patent costs, up to ₹15 lakh/year",
+      "amountMax": 1500000,
+      "deadline": null,
+      "region": "Karnataka",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Sector-agnostic",
+        "Deep Tech"
+      ],
+      "equity": "No equity",
+      "summary": "Karnataka-registered startups can claim back most of what they spend on Indian and foreign patents under the state's 2025-30 Startup Policy, for up to five patent applications a year.",
+      "eligibility": [
+        "Registered with KITS / Startup Karnataka and operating in Karnataka",
+        "Meets the central startup definition: within 10 years of incorporation (20 for recognised deep tech) and turnover under ₹200 crore (₹300 crore for deep tech)",
+        "Patent fees already paid; patents with a change of assignee are excluded",
+        "Not already reimbursed for the same patent under another Karnataka or Government of India scheme",
+        "Claim filed within one year of the patent filing date"
+      ],
+      "benefits": [
+        "75% of actual patent expenses, capped at ₹15 lakh per year (Indian and foreign filings both count; provisional applications excluded)",
+        "Up to five patent applications claimed per year",
+        "Two routes: part-payment soon after filing, or full claim (including attorney fees) after grant"
+      ],
+      "link": "https://startup.karnataka.gov.in/incentives/",
+      "note": "Rolling claim via the Startup Karnataka portal; needs bank statements, invoices/receipts, an expenditure statement and a notarised affidavit (Annexure 10.2). Sanction depends on the Approval Committee and available budget. CAUTION: the official incentives page still shows the older ₹2 lakh (India)/₹10 lakh (foreign) caps; the 75%/₹15 lakh terms come from the 2025-30 policy (GO dated 14 Nov 2025) as reported by independent sources. For patents filed before 14 Nov 2025, ask the Startup Cell which policy applies.",
+      "added": "2026-11-25"
+    },
+    {
+      "id": "rajasthan-istart-pre-seed-ideation-grant",
+      "title": "Rajasthan iStart Pre-Seed (Ideation) Grant — ₹2.4 Lakh",
+      "org": "iStart Rajasthan, Department of Information Technology & Communication (DoIT&C), Government of Rajasthan",
+      "type": "Grant",
+      "amount": "₹2.4 lakh (+₹60,000 for women-led startups)",
+      "amountMax": 300000,
+      "deadline": null,
+      "region": "Rajasthan",
+      "stages": [
+        "Idea",
+        "Prototype"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Under the Rajasthan Startup Policy 2022, iStart gives pre-seed startups a one-time grant of ₹2.4 lakh to test and shape an idea, with an extra ₹60,000 when women founders hold the majority of equity.",
+      "eligibility": [
+        "Startup must first be registered on the iStart Rajasthan portal",
+        "Must be at pre-seed stage, with the idea cleared by the state's Evaluation Committee",
+        "Entity must be registered in Rajasthan or run an operating office in the state (proprietorship, partnership, LLP, OPC or private limited company)",
+        "The ₹60,000 top-up applies only where women founders hold more than 50% of the equity"
+      ],
+      "benefits": [
+        "Non-dilutive grant of ₹2,40,000 per eligible startup",
+        "Additional ₹60,000 for majority women-owned startups",
+        "Access to the wider iStart pipeline, including QRate rating and the larger viability grants that follow"
+      ],
+      "link": "https://istart.rajasthan.gov.in/funding-incentives",
+      "note": "Rolling — policy-based support, no published closing date; apply after iStart registration via istart.rajasthan.gov.in/startup-apply. Detailed eligibility is notified by the state from time to time and approval rests with the Evaluation Committee. Policy was notified in 2022, so confirm it is still in force before applying.",
+      "added": "2026-11-25"
+    },
+    {
+      "id": "rajasthan-istart-seed-viability-grant",
+      "title": "Rajasthan iStart Seed-Stage Viability Grant — up to ₹60 Lakh (QRate-linked)",
+      "org": "iStart Rajasthan, Department of Information Technology & Communication (DoIT&C), Government of Rajasthan",
+      "type": "Grant",
+      "amount": "₹10 lakh – ₹60 lakh",
+      "amountMax": 6000000,
+      "deadline": null,
+      "region": "Rajasthan",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Seed-stage Rajasthan startups can receive a viability grant whose size is tied to their iStart QRate score — ₹10 lakh for non-rated registered startups, rising through ₹20/30/40 lakh in the Bronze bands to ₹60 lakh for Silver and above.",
+      "eligibility": [
+        "Must be registered under iStart Rajasthan",
+        "Seed-stage startup registered in, or operating from, Rajasthan",
+        "Grant slab depends on QRate category (non-rated, Bronze 1–20, 20–40, 40–50, or Silver and above); non-rated startups are subject to committee evaluation",
+        "Must meet any further criteria the state notifies from time to time"
+      ],
+      "benefits": [
+        "₹10 lakh (non-rated) to ₹60 lakh (Silver and above) non-dilutive grant",
+        "Upgrade bonus: improving your QRate score within the window (3 months for Bronze, 18 months for Silver+) unlocks the difference for the higher slab",
+        "Part of the single-window iStart platform covering incubation and further funding"
+      ],
+      "link": "https://istart.rajasthan.gov.in/funding-incentives",
+      "note": "Rolling — no fixed deadline; register on iStart, obtain a QRate assessment, then apply via istart.rajasthan.gov.in/startup-apply. Upgrade windows are counted from the date of the latest QRate upgrade. Confirm the 2022 policy remains in force before applying.",
+      "added": "2026-11-25"
+    },
+    {
+      "id": "rajasthan-istart-scale-up-fund",
+      "title": "Rajasthan iStart Scale-Up Fund — up to ₹2 Crore (Debt Convertible to Grant)",
+      "org": "iStart Rajasthan, Department of Information Technology & Communication (DoIT&C), Government of Rajasthan",
+      "type": "Debt",
+      "amount": "Up to ₹2 crore (max 50% of funds raised)",
+      "amountMax": 20000000,
+      "deadline": null,
+      "region": "Rajasthan",
+      "stages": [
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Growth-stage Rajasthan startups that have raised outside capital can get state support worth up to half of what they raised, given as debt that converts to a grant, capped at ₹1 crore (Bronze), ₹1.5 crore (Silver) or ₹2 crore (Gold and above).",
+      "eligibility": [
+        "Growth-stage startup registered on iStart Rajasthan with a QRate rating",
+        "Must have raised external funds — support is limited to 50% of the total raised",
+        "Must satisfy the committee's notified qualifying criteria",
+        "Cannot be combined with the Startup Equity Fund — growth-stage startups pick one"
+      ],
+      "benefits": [
+        "Ceiling of ₹1 crore (Bronze), ₹1.5 crore (Silver) or ₹2 crore (Gold and above)",
+        "Instrument is debt that converts to grant, so no equity is given up",
+        "Upgrade bonus if QRate improves within 18 months (Silver) or 30 months (Gold+), still capped at 50% of funds raised"
+      ],
+      "link": "https://istart.rajasthan.gov.in/funding-incentives",
+      "note": "Rolling — no closing date published. The conversion-to-grant conditions are set by the state and are not detailed on the portal page, so read the notified guidelines first. Mutually exclusive with the Startup Equity Fund.",
+      "added": "2026-11-25"
+    },
+    {
+      "id": "rajasthan-istart-startup-equity-fund",
+      "title": "Rajasthan Startup Equity Fund — Matching Investment up to ₹5 Crore",
+      "org": "iStart Rajasthan, Government of Rajasthan (via the State Alternative Investment Fund)",
+      "type": "Equity",
+      "amount": "Matching investment up to ₹5 crore",
+      "amountMax": 50000000,
+      "deadline": null,
+      "region": "Rajasthan",
+      "stages": [
+        "Growth"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "Takes equity",
+      "summary": "Through a state-backed Alternative Investment Fund, Rajasthan matches the capital an eligible growth-stage startup raises, up to ₹5 crore per company, as an alternative to the Scale-Up Fund.",
+      "eligibility": [
+        "Growth-stage startup registered with iStart Rajasthan",
+        "Must have raised funds that the state can match",
+        "Must opt for this route instead of the Scale-Up Fund (only one is allowed)",
+        "Subject to criteria and diligence by the state AIF"
+      ],
+      "benefits": [
+        "Government co-investment matching funds raised, up to ₹5 crore per startup",
+        "Leverages your existing investor round",
+        "Linked into iStart's investor and ecosystem network"
+      ],
+      "link": "https://istart.rajasthan.gov.in/funding-incentives",
+      "note": "Rolling — no deadline published. This is equity via a state AIF, so expect dilution and standard investor terms; the portal does not publish valuation or instrument details. Cannot be combined with the Scale-Up Fund.",
+      "added": "2026-11-25"
+    },
+    {
+      "id": "gujarat-startup-scheme-venturestudio-ahmedabad-university",
+      "title": "Gujarat Startup Scheme via VentureStudio (Ahmedabad University) — up to ₹30 Lakh + Monthly Allowance",
+      "org": "Industries Commissionerate, Government of Gujarat, through VentureStudio, Ahmedabad University (nodal institute)",
+      "type": "Grant",
+      "amount": "Up to ₹30 lakh (+₹10 lakh social-impact top-up) + ₹20,000–25,000/month",
+      "amountMax": 4000000,
+      "deadline": null,
+      "region": "Gujarat",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Gujarat's state startup scheme funds innovators recommended by an approved nodal institute; VentureStudio at Ahmedabad University runs an open application route offering up to ₹30 lakh for product development and marketing, plus a one-year living allowance.",
+      "eligibility": [
+        "Individuals or teams based in Gujarat with a novel product, process or service, recommended by a recognised nodal institute",
+        "Entity (LLP, partnership or private limited) incorporated within the last 10 years, with turnover below ₹100 crore in every year",
+        "Applicant must have spent at least 2 months in the nodal institute's pre-incubation/incubation and stay incubated full time during support",
+        "Not eligible: businesses formed by splitting or reconstructing an existing one, or startups already funded for the same purpose under another Gujarat startup scheme (SSIP excepted)"
+      ],
+      "benefits": [
+        "Grant of up to ₹30 lakh for prototyping, professional services and marketing",
+        "Extra up to ₹10 lakh for projects with strong social benefit",
+        "Sustenance allowance of ₹20,000/month for a year (₹25,000 with a woman co-founder)",
+        "Further state support listed for approved startups: up to ₹1 lakh soft-skill training, up to ₹3 lakh to join an accelerator, and a 1% extra interest subsidy on term loans (capped at 9%)"
+      ],
+      "link": "https://ahduni.edu.in/academics/schools-centres/venturestudio/programmes/funding-programmes/gujarat-startup-scheme/",
+      "note": "Rolling — VentureStudio's page carries an Apply Now form with no closing date. Final sanction rests with the Government of Gujarat committee and fund availability. You must incubate at the nodal institute (other approved nodal institutes, e.g. PDEU IIC, run the same scheme). Queries: vs@ahduni.edu.in.",
+      "added": "2026-11-25"
+    },
+    {
+      "id": "abif-iit-kharagpur-agri-business-incubation",
+      "title": "ABIF IIT Kharagpur — Agri-Business Incubation Programme",
+      "org": "Agri Business Incubation Foundation (ABIF), IIT Kharagpur",
+      "type": "Accelerator",
+      "amount": "Incubation support; scheme-linked funding (varies)",
+      "amountMax": 0,
+      "deadline": null,
+      "region": "West Bengal",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "Agritech",
+        "Food processing",
+        "Agribusiness"
+      ],
+      "equity": "Not stated",
+      "summary": "IIT Kharagpur's agri-business incubator is accepting applications for a milestone-based, up-to-12-month incubation programme that gives early agri and food ventures mentoring, lab access and help to secure grants.",
+      "eligibility": [
+        "Open to individuals, proprietary concerns, FPOs/OFPOs, partnerships and LLPs",
+        "At least 51% Indian ownership; registered entities must be incorporated in India within the last 10 years",
+        "Must be willing to incubate at ABIF for the programme period",
+        "Startups incubated elsewhere can apply only after that incubation ends"
+      ],
+      "benefits": [
+        "Up to 12 months of milestone-based incubation",
+        "Technical and product-development mentoring, testing and laboratory access",
+        "IP support and business mentoring",
+        "Guidance on government grants and investment, with funding depending on the scheme and selection"
+      ],
+      "link": "https://abif.iitkgp.ac.in/programs/incubation",
+      "note": "Rolling — the programme page shows 'Applications open' with no deadline; apply at abif.iitkgp.ac.in/apply/incubation or email office@abif.iitkgp.ac.in. Selection does NOT guarantee a cash award. Fees and equity terms are not published — ask before signing. (ABIF's MeitY SAMRIDH accelerator is currently closed.)",
+      "added": "2026-11-25"
     }
   ],
   "archive": [
@@ -4667,6 +5344,43 @@
       "link": "https://birac.nic.in/",
       "note": "Closes 31 Oct 2026.",
       "added": "2026-10-30"
+    },
+    {
+      "id": "nexa-lighthouse-asia-pacific-2026",
+      "title": "Nexa Lighthouse — Climate & Health Innovation Call (Asia-Pacific)",
+      "org": "Grand Challenges Canada and AVPN, funded by the Novo Nordisk Foundation",
+      "type": "Grant",
+      "amount": "$250K – $2M (Transition to Scale)",
+      "amountMax": 176000000,
+      "deadline": "2026-11-17",
+      "region": "Global",
+      "stages": [
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "HealthTech",
+        "Climate",
+        "Public Health",
+        "MedTech",
+        "Social Impact"
+      ],
+      "equity": "Varies",
+      "summary": "Nexa Lighthouse funds proven, locally led innovations in Asia and the Pacific that help health systems act on climate risks such as extreme heat, air pollution and shifting malaria/dengue patterns. A linked South Asia call focuses on protecting people with diabetes and heart disease from extreme heat.",
+      "eligibility": [
+        "Incorporated organisations based in Asia-Pacific (India included): companies, social enterprises, NGOs, non-profits, research institutions or government bodies",
+        "Individuals, sole proprietorships, unincorporated trusts and partnerships cannot apply",
+        "Innovation must already be proven and ready to scale — this is not early-idea money",
+        "Solution must be locally led and address a climate-linked health threat (heat, air quality, vector-borne disease)"
+      ],
+      "benefits": [
+        "Transition to Scale investment of roughly $250,000 to $2 million per innovation, sized by maturity",
+        "Backing from Grand Challenges Canada and AVPN's network of Asian funders",
+        "Support to embed the solution with local health actors and systems"
+      ],
+      "link": "https://grandchallenges.ca/programs/nexa/",
+      "note": "Proposals are due 17 November 2026 at 2:00 pm ET (12:30 am IST on 18 November) via Grand Challenges Canada's Fluxx portal — apply through that portal, not the Novo Nordisk Foundation, or you risk disqualification. Funding instrument (grant vs. repayable/equity-linked) is set at the partners' discretion. The South Asia cardiometabolic-heat strand must be framed around heat protection for patients, not general climate adaptation.",
+      "added": "2026-11-06"
     }
   ]
 }
