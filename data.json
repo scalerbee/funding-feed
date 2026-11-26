@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "items": [
     {
       "id": "undp-generali-msme-insurance-2026",
@@ -63,67 +63,6 @@
       ],
       "link": "https://www2.fundsforngos.org/innovation/grassroot-innovation-programme-2026-grant-opportunity-for-innovators-in/",
       "note": "Deadline 23 Nov 2026, 5 PM. Link is a listing page — confirm on the KITS portal.",
-      "added": "2026-10-30"
-    },
-    {
-      "id": "be-hub-udaan-cohort-1",
-      "title": "BE Hub Udaan — Accelerator Cohort 1",
-      "org": "BE Hub (Saturo Technologies founders), Pune",
-      "type": "Accelerator",
-      "amount": "Not disclosed",
-      "amountMax": 0,
-      "deadline": "2026-11-18",
-      "region": "Maharashtra",
-      "stages": [
-        "Idea",
-        "Prototype",
-        "MVP"
-      ],
-      "sectors": [
-        "DeepTech",
-        "Technology"
-      ],
-      "equity": "Not stated",
-      "summary": "12-week acceleration programme for early-stage deep-tech and tech-led startups. Only 5–6 startups selected; starts 23 Nov 2026.",
-      "eligibility": [
-        "Early-stage founders building deep-tech or tech-led startups"
-      ],
-      "benefits": [
-        "Idea and business-model validation",
-        "Industry network access",
-        "Growth preparation"
-      ],
-      "link": "https://sahyadristartups.com/news/be-hub-udaan-opens-applications-for-first-startup-accelerator-cohort-on-october-27/",
-      "note": "Deadline 18 Nov 2026.",
-      "added": "2026-10-30"
-    },
-    {
-      "id": "techstars-2027-anywhere",
-      "title": "Techstars Accelerators 2027 (incl. Anywhere / London)",
-      "org": "Techstars",
-      "type": "Accelerator",
-      "amount": "USD 220K for 5% equity",
-      "amountMax": 19360000,
-      "deadline": "2026-11-18",
-      "region": "Global",
-      "stages": [
-        "MVP",
-        "Revenue"
-      ],
-      "sectors": [
-        "All sectors"
-      ],
-      "equity": "Takes equity",
-      "summary": "3-month accelerator; the remote 'Anywhere' and London programmes accept global founders, including from India. Programme starts 8 Mar 2027.",
-      "eligibility": [
-        "Early-stage startups, any sector"
-      ],
-      "benefits": [
-        "USD 220K investment",
-        "Mentor network and demo day"
-      ],
-      "link": "https://www.techstars.com/accelerators",
-      "note": "Applications close 18 Nov 2026.",
       "added": "2026-10-30"
     },
     {
@@ -293,7 +232,7 @@
       "type": "Challenge",
       "amount": "Up to ₹1.5 crore (SPARK grant)",
       "amountMax": 15000000,
-      "deadline": null,
+      "deadline": "2026-12-31",
       "region": "National",
       "stages": [
         "Prototype",
@@ -315,7 +254,7 @@
         "Path to procurement by the armed forces"
       ],
       "link": "https://www.ddpmod.gov.in/offerings/innovations",
-      "note": "The iDEX Open Challenge is run in periodic windows and recent listings have shown differing closing dates, so confirm the current window on idex.gov.in before preparing an application; themed DISC and ADITI rounds open periodically, and the latest ones closed in mid-2026.",
+      "note": "The iDEX Open Challenge is run in periodic windows and recent listings have shown differing closing dates, so confirm the current window on idex.gov.in before preparing an application; themed DISC and ADITI rounds open periodically, and the latest ones closed in mid-2026. Update 26 Nov 2026: the official iDEX page lists the current Open Challenge as open with a last date of 31 Dec 2026; apply via idex.gov.in/challenges.",
       "added": "2026-10-30"
     },
     {
@@ -5028,6 +4967,740 @@
       "link": "https://abif.iitkgp.ac.in/programs/incubation",
       "note": "Rolling — the programme page shows 'Applications open' with no deadline; apply at abif.iitkgp.ac.in/apply/incubation or email office@abif.iitkgp.ac.in. Selection does NOT guarantee a cash award. Fees and equity terms are not published — ask before signing. (ABIF's MeitY SAMRIDH accelerator is currently closed.)",
       "added": "2026-11-25"
+    },
+    {
+      "id": "digi-sapne-3-aic-smutbi-2026",
+      "title": "Digi-SAPNE 3.0 — North East Startup Acceleration Programme",
+      "org": "AIC-SMU Technology Business Incubation Foundation (AIC-SMUTBI), Sikkim Manipal University, with MeitY funding support",
+      "type": "Accelerator",
+      "amount": "Grants (official page says up to ₹80 lakh; the previous cohort paid ₹10 lakh per startup)",
+      "amountMax": 1000000,
+      "deadline": "2026-12-05",
+      "region": "National",
+      "stages": [
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Tourism",
+        "Agritech",
+        "AI",
+        "Sector-agnostic tech"
+      ],
+      "equity": "Not stated",
+      "summary": "The third cohort of a MeitY-backed acceleration programme run by AIC-SMUTBI for early-stage tech startups from India's eight North Eastern states. Selected startups get grant support plus growth, market-access and investor-connect tracks that end in a demo day.",
+      "eligibility": [
+        "Early-stage startups from the eight North Eastern states (Assam, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",
+        "Tech-enabled, scalable ventures; this edition gives priority to tourism, agritech and AI",
+        "Ventures with some early traction are preferred (the previous edition targeted startups whose growth had stalled)",
+        "Registration as a Private Limited company is advised"
+      ],
+      "benefits": [
+        "Grant funding (the 2.0 cohort received ₹10 lakh per startup)",
+        "Growth-hack programme to refine strategy",
+        "Market-access programme",
+        "Mentorship, workshops and networking",
+        "Investors' meet and demo day"
+      ],
+      "link": "https://smutbi.com/digi-sapne/",
+      "note": "Applications open 1 Oct 2026 and close 5 Dec 2026. No closing time is stated, so submit by 23:59 IST on 4 Dec to be safe. Apply through the form on smutbi.accubate.app (linked from the official page); questions go to sapne@smutbi.com. The official page does not list detailed eligibility, required documents or equity terms. The '₹80 lakh' looks like the programme-wide pool: the 2.0 cohort gave 8 startups ₹10 lakh each (₹80 lakh in total), so amountMax is set conservatively at ₹10 lakh.",
+      "added": "2026-11-26"
+    },
+    {
+      "id": "uttarakhand-startup-sustenance-allowance",
+      "title": "Uttarakhand Startup Policy 2023 – Monthly Sustenance Allowance (up to ₹20,000/month)",
+      "org": "Startup Cell, Department of Industries, Government of Uttarakhand (Startup Uttarakhand)",
+      "type": "Grant",
+      "amount": "₹15,000/month (₹20,000 for priority groups) for 12 months",
+      "amountMax": 240000,
+      "deadline": null,
+      "region": "Uttarakhand",
+      "stages": [
+        "Idea",
+        "Prototype"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Recognised Uttarakhand startups can draw a monthly living allowance of up to ₹15,000 for a year while they build their product. Startups founded by women, SC/ST, differently-abled or transgender founders, or working on rural-impact or disruptive tech, qualify for up to ₹20,000 a month.",
+      "eligibility": [
+        "Private limited company, LLP or registered partnership incorporated in or operating from Uttarakhand",
+        "Recognised by the Uttarakhand Startup Council via the state startup portal",
+        "Under 10 years from incorporation with turnover below ₹100 crore",
+        "Not formed by splitting or reconstructing an existing business"
+      ],
+      "benefits": [
+        "₹15,000 per month for up to 12 months (general)",
+        "Up to ₹20,000 per month for women, SC/ST, divyang, transgender-led, rural-impact or disruptive-tech startups"
+      ],
+      "link": "https://startuputtarakhand.uk.gov.in/faq",
+      "note": "Sign up on the Startup Uttarakhand portal (Startup India login works), obtain the state Certificate of Recognition, then use 'Apply for Incentives' on the dashboard. Approval is by the Startup Council and is one-time. The 2023 policy replaced the 2018 policy (approved Feb 2023); confirm current cut-offs with the Startup Cell (startupcelluk@gmail.com).",
+      "added": "2026-11-26"
+    },
+    {
+      "id": "uttarakhand-startup-seed-fund",
+      "title": "Uttarakhand Startup Policy 2023 – Seed Fund (up to ₹12.5 Lakh)",
+      "org": "Startup Cell, Department of Industries, Government of Uttarakhand (Startup Uttarakhand)",
+      "type": "Grant",
+      "amount": "Up to ₹10 lakh (₹12.5 lakh for priority groups; +₹2.5 lakh for disruptive tech)",
+      "amountMax": 1500000,
+      "deadline": null,
+      "region": "Uttarakhand",
+      "stages": [
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "Sector-agnostic",
+        "Deep tech"
+      ],
+      "equity": "No equity",
+      "summary": "One-time seed support of up to ₹10 lakh for state-recognised startups to take a product to market. Women, SC/ST, divyang and rural startups can get up to ₹12.5 lakh, and disruptive-technology ventures an extra ₹2.5 lakh.",
+      "eligibility": [
+        "Recognised startup under the Uttarakhand Startup Policy",
+        "Company, LLP or registered partnership registered in or operating from Uttarakhand",
+        "Within 10 years of incorporation and below ₹100 crore turnover",
+        "Selection by the Startup Council on merit of the innovation"
+      ],
+      "benefits": [
+        "Seed grant up to ₹10 lakh",
+        "Up to ₹12.5 lakh for women, SC/ST, divyang or rural-area founders",
+        "Additional ₹2.5 lakh for disruptive-tech startups"
+      ],
+      "link": "https://startuputtarakhand.uk.gov.in/faq",
+      "note": "Apply via 'Apply for Incentives' on the Startup Uttarakhand portal after recognition; keep the pitch deck/business plan and incorporation certificate ready. Released on Startup Council approval and typically in tranches. Amounts confirmed in DPIIT's State Startup Ranking 2026 report for Uttarakhand.",
+      "added": "2026-11-26"
+    },
+    {
+      "id": "uttarakhand-startup-patent-reimbursement",
+      "title": "Uttarakhand Startup Patent Reimbursement (₹1 Lakh India / ₹5 Lakh Foreign)",
+      "org": "Startup Cell, Department of Industries, Government of Uttarakhand (Startup Uttarakhand)",
+      "type": "Grant",
+      "amount": "100% of cost, up to ₹1 lakh (Indian) / ₹5 lakh (international) per patent",
+      "amountMax": 500000,
+      "deadline": null,
+      "region": "Uttarakhand",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Uttarakhand reimburses the full cost of patenting for recognised startups, capped at ₹1 lakh for an Indian patent and ₹5 lakh for an international one. Payment is split between filing and prosecution stages.",
+      "eligibility": [
+        "Startup recognised under the Uttarakhand Startup Policy",
+        "Entity registered in or operating from Uttarakhand",
+        "Patent filed in the startup's name",
+        "Not already reimbursed under another government scheme"
+      ],
+      "benefits": [
+        "Up to ₹1 lakh per Indian patent",
+        "Up to ₹5 lakh per international patent",
+        "Historically 75% released on filing and 25% on prosecution"
+      ],
+      "link": "https://startuputtarakhand.uk.gov.in/faq",
+      "note": "Claim through 'Apply for Incentives' on the state startup portal with filing receipts and attorney invoices. Recognition by the Startup Council is required first. Tranche split is from the earlier policy; confirm current procedure with the Startup Cell.",
+      "added": "2026-11-26"
+    },
+    {
+      "id": "jk-startup-policy-seed-funding",
+      "title": "J&K Startup Policy 2024–27 – Seed Funding up to ₹20 Lakh",
+      "org": "Jammu & Kashmir Entrepreneurship Development Institute (JKEDI), Department of Industries & Commerce, Govt of J&K",
+      "type": "Grant",
+      "amount": "Up to ₹20 lakh in four instalments",
+      "amountMax": 2000000,
+      "deadline": null,
+      "region": "Jammu & Kashmir",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Startups recognised under the J&K Startup Policy 2024–27 can receive one-time seed funding of up to ₹20 lakh, released in four equal tranches, for prototyping, product launch, market entry or scaling. Roughly 25 startups are supported each year.",
+      "eligibility": [
+        "Startup recognised by JKEDI under the J&K Startup Policy 2024–27",
+        "Operating in the UT of Jammu & Kashmir",
+        "Proposal for a prototype, new product/service, market entry or expansion",
+        "Shortlisted by the JKEDI Screening Committee and approved by the Startup Task Force"
+      ],
+      "benefits": [
+        "Seed grant up to ₹20 lakh",
+        "Paid in four equal instalments tied to progress",
+        "Pitch feedback from the screening committee"
+      ],
+      "link": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Jammu_and_Kashmir_State_Report.pdf",
+      "note": "Register on the J&K startup portal and obtain JKEDI recognition, then apply when JKEDI invites seed-fund proposals (screening rounds held division-wise, e.g. Kashmir and Jammu in Sept–Oct 2025). Two-tier approval: Screening Committee then Startup Task Force. Policy period runs to 2027 and the annual slots are budget-limited.",
+      "added": "2026-11-26"
+    },
+    {
+      "id": "haryana-startup-patent-cost-reimbursement",
+      "title": "Haryana Startup Patent Cost Reimbursement (up to ₹10 Lakh per Foreign Patent)",
+      "org": "Department of Industries & Commerce, Government of Haryana (Startup Haryana)",
+      "type": "Grant",
+      "amount": "100% of costs; ₹3 lakh (national) / ₹10 lakh (international) per patent; ₹25 lakh cumulative",
+      "amountMax": 2500000,
+      "deadline": null,
+      "region": "Haryana",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Haryana pays back the full cost of granted patents for registered Category 1 startups, up to ₹3 lakh per Indian and ₹10 lakh per international patent, with a lifetime ceiling of ₹25 lakh. Filing, search, attorney, maintenance and renewal fees are covered.",
+      "eligibility": [
+        "Category 1 startup: DPIIT-recognised, registered office in Haryana, registered with Startup Haryana",
+        "Holds a Haryana Udyam Memorandum (HUM)",
+        "Patent granted between 7 July 2022 and 6 July 2027 (Indian patents via a registered agent)",
+        "No similar reimbursement claimed under another state or central scheme"
+      ],
+      "benefits": [
+        "Up to ₹3 lakh per national patent",
+        "Up to ₹10 lakh per international patent (conventional or PCT)",
+        "Cumulative cap of ₹25 lakh"
+      ],
+      "link": "https://haryanaindustries.gov.in/themes/backend/uploads/Startup%20Patent%20Scheme.pdf",
+      "note": "Apply online on the Industries & Commerce portal (Annexure I) within 6 months of the patent grant. Documents: grant certificate, HUM, CA-certified expense statement with invoices, notarised undertaking, authorisation letter, audited accounts, cancelled cheque. Trademarks/copyrights excluded. Scheme ends 6 July 2027.",
+      "added": "2026-11-26"
+    },
+    {
+      "id": "haryana-startup-lease-rental-subsidy",
+      "title": "Haryana Startup Lease Rental Subsidy (45% for Women-Founded Startups)",
+      "org": "Department of Industries & Commerce, Government of Haryana (Startup Haryana)",
+      "type": "Grant",
+      "amount": "30% of rent (45% women-only founders), up to ₹5 lakh for one year",
+      "amountMax": 500000,
+      "deadline": null,
+      "region": "Haryana",
+      "stages": [
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Haryana refunds 30% of a year's office rent for startups based in a registered incubator, IT park, approved industrial estate or SEZ in the state, rising to 45% where all founders are women. The refund is capped at ₹5 lakh.",
+      "eligibility": [
+        "Category 1 startup registered with Startup Haryana (DPIIT-recognised, registered office in Haryana)",
+        "Holds a Haryana Udyam Memorandum (HUM)",
+        "Space in a Startup Haryana-registered incubator, notified IT park, approved industrial estate or SEZ in Haryana",
+        "Lease in the startup's or founder's name, rent paid from the startup's bank account"
+      ],
+      "benefits": [
+        "30% lease rent reimbursement for general startups",
+        "45% for startups with only women founders",
+        "Maximum ₹5 lakh, covering one year of rent"
+      ],
+      "link": "https://haryanaindustries.gov.in/themes/backend/uploads/Startup%20Lease%20Rental%20Scheme.pdf",
+      "note": "File online within six months after the close of the financial year claimed. Attach lease deed, rent payment proof, photos of the space, CA certificate (Annexure IV), HUM, notarised undertaking and cancelled cheque. Cash or personal-account payments are not reimbursed. Covers rent incurred up to 6 July 2027.",
+      "added": "2026-11-26"
+    },
+    {
+      "id": "mp-startup-lease-rental-assistance",
+      "title": "MP Startup Lease Rental Assistance (₹5,000/month for 3 Years)",
+      "org": "MP Start-up Centre / MSME Department, Government of Madhya Pradesh",
+      "type": "Grant",
+      "amount": "50% of rent, up to ₹5,000/month for 3 years",
+      "amountMax": 180000,
+      "deadline": null,
+      "region": "Madhya Pradesh",
+      "stages": [
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Under the MP Startup Policy 2025, startups renting workspace in Madhya Pradesh get half their rent reimbursed, capped at ₹5,000 a month, for three years. Product startups in state-owned or aided industrial areas can claim against lease rent and maintenance charges.",
+      "eligibility": [
+        "DPIIT-recognised startup registered on the MP Startup Portal",
+        "Workspace located in Madhya Pradesh",
+        "Rent paid for an incubator, co-working, office or industrial-area premises",
+        "Reimbursement cannot exceed 50% of the amount actually paid"
+      ],
+      "benefits": [
+        "50% rent reimbursement",
+        "Up to ₹5,000 per month",
+        "Available for up to 36 months"
+      ],
+      "link": "https://startup.mp.gov.in/support",
+      "note": "Register on startup.mp.gov.in and apply with the startup application form plus lease agreement and rent receipts. Claims are approved by the State Level Assistance Committee on MP Start-up Centre recommendation. MP GST registration is generally expected for state incentives.",
+      "added": "2026-11-26"
+    },
+    {
+      "id": "mp-startup-event-participation-reimbursement",
+      "title": "MP Startup Event Participation Reimbursement (up to ₹1.5 Lakh International)",
+      "org": "MP Start-up Centre / MPLUN, Government of Madhya Pradesh",
+      "type": "Grant",
+      "amount": "75% of cost; up to ₹50,000 (domestic) / ₹1.5 lakh (international)",
+      "amountMax": 150000,
+      "deadline": null,
+      "region": "Madhya Pradesh",
+      "stages": [
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Madhya Pradesh reimburses three-quarters of the cost of exhibiting at or attending a startup event, up to ₹50,000 for an event in India and ₹1.5 lakh abroad. A startup can use it once per financial year and twice in total.",
+      "eligibility": [
+        "Startup registered on the MP Startup Portal (DPIIT-recognised, operating in MP)",
+        "Participation in a national or international startup/industry event",
+        "One claim per financial year, maximum two in the startup's lifetime",
+        "Approval by the Managing Director, MPLUN"
+      ],
+      "benefits": [
+        "75% reimbursement of event costs",
+        "Cap of ₹50,000 for domestic events",
+        "Cap of ₹1,50,000 for international events"
+      ],
+      "link": "https://startup.mp.gov.in/support",
+      "note": "Apply via the MP Startup Portal using the startup application form; keep registration, travel and stall invoices and proof of participation. Seek approval in advance where possible since sanction rests with MPLUN.",
+      "added": "2026-11-26"
+    },
+    {
+      "id": "chandigarh-startup-seed-mvp-grant",
+      "title": "Chandigarh Startup Policy 2025 – Seed/MVP Grant (up to ₹9 Lakh for Women-Led)",
+      "org": "Startup Cell, Department of Industries, Chandigarh Administration",
+      "type": "Grant",
+      "amount": "Up to ₹7 lakh (+₹2 lakh women/transgender-led)",
+      "amountMax": 900000,
+      "deadline": null,
+      "region": "Chandigarh",
+      "stages": [
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Chandigarh funds up to 20 startups a year with grants of up to ₹7 lakh to build and validate an MVP, paid in three tranches through their parent incubator. Women-led and transgender-led startups get an extra ₹2 lakh.",
+      "eligibility": [
+        "DPIIT-recognised private limited company, LLP or registered partnership incorporated in Chandigarh or registered with Chandigarh GST",
+        "Registered on the Start-In-Chandigarh portal and linked to a recognised parent incubator",
+        "Within 10 years of incorporation and under ₹100 crore turnover",
+        "Women-led bonus requires a woman founder serving as Chair, MD or CEO until all tranches are paid"
+      ],
+      "benefits": [
+        "Grant up to ₹7 lakh in three tranches",
+        "Additional ₹2 lakh for women-led or transgender-led startups",
+        "Disbursed via the parent incubator"
+      ],
+      "link": "https://static.investindia.gov.in/s3fs-public/2025-09/chandigarh-start-up-policy-2025-april302025.pdf",
+      "note": "Apply on the Start-In-Chandigarh portal through your parent incubator; applications are reviewed quarterly by the PMIC per the Operational Guidelines notified 1 Jan 2026. Only 20 grants a year, first-come first-served subject to funds. Policy valid five years from April 2025.",
+      "added": "2026-11-26"
+    },
+    {
+      "id": "chandigarh-startup-early-growth-grant",
+      "title": "Chandigarh Startup Policy 2025 – Early Growth/Commercialisation Grant (up to ₹14 Lakh)",
+      "org": "Startup Cell, Department of Industries, Chandigarh Administration",
+      "type": "Grant",
+      "amount": "Up to ₹12 lakh (+₹2 lakh women/transgender-led)",
+      "amountMax": 1400000,
+      "deadline": null,
+      "region": "Chandigarh",
+      "stages": [
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "A second-stage grant of up to ₹12 lakh helps up to 20 Chandigarh startups a year commercialise and scale a validated product, released in three tranches. Women-led and transgender-led startups receive ₹2 lakh more.",
+      "eligibility": [
+        "DPIIT-recognised startup incorporated in Chandigarh or registered with Chandigarh GST",
+        "Registered on the Start-In-Chandigarh portal with a recognised parent incubator",
+        "Product past MVP and moving to commercialisation",
+        "Within 10 years of incorporation and under ₹100 crore turnover"
+      ],
+      "benefits": [
+        "Grant up to ₹12 lakh in three tranches",
+        "Additional ₹2 lakh for women-led or transgender-led startups",
+        "Routed through the parent incubator"
+      ],
+      "link": "https://static.investindia.gov.in/s3fs-public/2025-09/chandigarh-start-up-policy-2025-april302025.pdf",
+      "note": "Apply via the Start-In-Chandigarh portal through the parent incubator; PMIC evaluates quarterly and fixes deficiencies within 15 days or the file lapses. Capped at 20 startups a year from a ₹4.6 crore combined corpus. Policy runs to about April 2030.",
+      "added": "2026-11-26"
+    },
+    {
+      "id": "birac-pcp-fund-rolling-2026",
+      "title": "BIRAC Product Commercialization Program (PCP) Fund — Rolling Call",
+      "org": "BIRAC (Biotechnology Industry Research Assistance Council), Department of Biotechnology",
+      "type": "Debt",
+      "amount": "Set by committee; royalty-repayable support",
+      "amountMax": 0,
+      "deadline": "2026-12-31",
+      "region": "National",
+      "stages": [
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Biotech",
+        "Healthcare",
+        "MedTech",
+        "Agritech",
+        "Climate",
+        "Industrial Biotech"
+      ],
+      "equity": "No equity",
+      "summary": "BIRAC co-funds the market launch and scale-up of biotech products that are already validated (TRL 7 or higher), covering things like target-market validation and large-scale commercialisation. Proposals are reviewed in batches through the year, and the current listing gives 31 December 2026 as the closing date.",
+      "eligibility": [
+        "Indian startup incorporated no more than 10 years before the call ends",
+        "At least 51% Indian shareholding held by Indian citizens, certified by a CA/CS with UDIN",
+        "Nationally relevant product at TRL 7 or above, whether or not BIRAC funded earlier development",
+        "Product in a listed focus area such as drugs, vaccines, biosimilars, devices and diagnostics, agri/aqua/veterinary, industrial biotech, bio-based chemicals, smart proteins or synthetic biology",
+        "A product that has already received PCP support cannot apply again"
+      ],
+      "benefits": [
+        "Project support for up to 24 months, released by milestone",
+        "Covers market launch, validation in target markets and commercial scale-up",
+        "No equity is taken. Support is repaid as a royalty instead"
+      ],
+      "link": "https://www.indiascienceandtechnology.gov.in/announcementsopportunity/birac-call-proposal-under-product-commercialization-program-fund",
+      "note": "Apply through the online application form on the BIRAC website. Have your incorporation certificate, a CA/CS shareholding certificate with UDIN and evidence of TRL 7+ and regulatory status ready. Shortlisted applicants present and then go through technical and financial due diligence. Catches: you must fund at least 30% of the project cost yourself, and you repay BIRAC as a royalty within five years of completion (1.5x BIRAC's contribution if the product is commercialised, 1x if not). R&D, product modification and patent costs are not covered.",
+      "added": "2026-11-26"
+    },
+    {
+      "id": "nabventures-agrisure-direct-equity",
+      "title": "AgriSURE Direct Scheme — Equity up to ₹25 Crore for Agri & Rural Startups",
+      "org": "NABVENTURES Ltd (NABARD subsidiary), investment manager of the Agri Fund for Start-ups & Rural Enterprises (AgriSURE)",
+      "type": "Equity",
+      "amount": "Up to ₹25 crore",
+      "amountMax": 250000000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Agritech",
+        "Food Processing",
+        "Animal Husbandry",
+        "Fisheries",
+        "Rural",
+        "Renewable Energy",
+        "Climate"
+      ],
+      "equity": "Takes equity",
+      "summary": "AgriSURE is a ₹750 crore SEBI-registered Category II AIF, backed by the Government of India and NABARD, with a direct scheme that invests equity in agri and rural startups. Proposals are taken on a rolling basis by email, and investments go up to ₹25 crore per company.",
+      "eligibility": [
+        "Startup incorporated in India and recognised by DPIIT",
+        "Working in agriculture, allied or rural sectors such as agritech, food processing, animal husbandry, fisheries, supply chain, farm mechanisation or renewable energy",
+        "Past the idea and prototype stage, with a steady revenue stream and a differentiated business model",
+        "Meeting the criteria does not guarantee investment. NABVENTURES' decision is final"
+      ],
+      "benefits": [
+        "Direct equity or equity-linked investment (e.g. CCPS) of up to ₹25 crore, subject to AIF rules",
+        "Investment released in tranches, with possible follow-on in later rounds",
+        "No repayment obligation"
+      ],
+      "link": "https://www.nabard.org/agrisure.aspx",
+      "note": "Email your pitch deck or company profile to agrisure@nabard.org (address given on NABARD's AgriSURE FAQ page). There is no application fee, and NABARD warns against agents who ask for money. This is a VC-style investment, so expect equity dilution and full due diligence. Very early (pre-revenue) ventures are better served by AgriSURE-backed sector AIFs or RKVY-RAFTAAR incubators.",
+      "added": "2026-11-26"
+    },
+    {
+      "id": "startup-odisha-incubation-rent-subsidy",
+      "title": "Startup Odisha — Incubation Rent Subsidy (50%, up to ₹5,000/month)",
+      "org": "Startup Odisha, MSME Department, Government of Odisha",
+      "type": "Grant",
+      "amount": "50% of rent, up to ₹5,000/month for 1 year",
+      "amountMax": 60000,
+      "deadline": null,
+      "region": "Odisha",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Odisha refunds half the monthly rent a recognised startup pays for space at a state-recognised incubator, up to ₹5,000 a month for a year. Startup Odisha lists subsidised incubation among its current startup services, and claims go through its portal.",
+      "eligibility": [
+        "Recognised as a startup by Startup Odisha",
+        "Incubated at an incubator recognised by Startup Odisha",
+        "Paying monthly rent for incubation space",
+        "Support lasts at most one year per startup"
+      ],
+      "benefits": [
+        "Reimbursement of 50% of the monthly incubation-space rent",
+        "Capped at ₹5,000 per month for up to 12 months (about ₹60,000 in total)"
+      ],
+      "link": "https://msme.odisha.gov.in/en/msmeservices/services-rendered-startup-odisha",
+      "note": "Get Startup Odisha recognition first, then claim through www.startupodisha.gov.in with your incubator agreement and rent receipts. Helpline: 1800 345 7100. The amounts come from the Odisha Startup Policy as amended (2nd Amendment). The official services page lists the benefit but not the amounts, so confirm the current cap on the portal.",
+      "added": "2026-11-26"
+    },
+    {
+      "id": "startup-odisha-event-participation-support",
+      "title": "Startup Odisha — Travel & Stall Support for National/International Events",
+      "org": "Startup Odisha, MSME Department, Government of Odisha",
+      "type": "Grant",
+      "amount": "Economy airfare / 3AC rail fare + free stall",
+      "amountMax": 0,
+      "deadline": null,
+      "region": "Odisha",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Recognised Odisha startups that represent the state at well-known national or international events can have their travel paid (economy air or 3-tier AC rail). When the state government sets up a pavilion, they also get free stall space.",
+      "eligibility": [
+        "Recognised as a startup by Startup Odisha",
+        "Representing Odisha at a reputed national or international event, such as a trade fair, expo or summit",
+        "Prior approval from Startup Odisha before travelling",
+        "Free stall space applies only where the State Government has set up the stall or pavilion"
+      ],
+      "benefits": [
+        "Economy-class airfare or 3-tier AC train fare to the event",
+        "Free stall space in state-organised pavilions"
+      ],
+      "link": "https://msme.odisha.gov.in/en/msmeservices/services-rendered-startup-odisha",
+      "note": "Apply through www.startupodisha.gov.in before the event, with the event invitation or registration and your travel plan. No fixed rupee cap is published. Support is decided case by case, so get approval before you book. Helpline: 1800 345 7100.",
+      "added": "2026-11-26"
+    },
+    {
+      "id": "aic-nifie-iim-mumbai-incubation-seed",
+      "title": "AIC-NIFIE Incubation with Seed Funding up to ₹5 Lakh",
+      "org": "AIC-NIFIE (Atal Incubation Centre – NITIE Incubation Foundation for Innovation & Entrepreneurship), IIM Mumbai",
+      "type": "Accelerator",
+      "amount": "Up to ₹5 lakh seed + incubation",
+      "amountMax": 500000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "Not stated",
+      "summary": "A sector-agnostic Atal Incubation Centre at IIM Mumbai. It takes early tech ventures into physical incubation for 1–2 years, and the strongest can get merit-based seed funding of up to ₹5 lakh.",
+      "eligibility": [
+        "Registered as a private limited company or LLP",
+        "Product at proof-of-concept, lab-demo or prototype stage",
+        "Has raised no more than ₹1 crore in prior funding",
+        "Startups holding patents or copyrights are preferred"
+      ],
+      "benefits": [
+        "Merit-based seed funding of up to ₹5 lakh",
+        "Office space at IIM Mumbai (Powai) for one year, extendable by another year",
+        "Business mentoring, networking events, and help finding grants and funding schemes"
+      ],
+      "link": "https://iimmumbai.ac.in/aic-nifie/announcements/2",
+      "note": "Apply through the Google Form linked on the announcement page with your startup details and pitch deck. Shortlisted teams pitch to a selection committee, and selected startups sign an incubation agreement and submit documents. No closing date is published, so it appears to be ongoing. Seed funding is not guaranteed: unfunded startups may be incubated self-financed. Fees and equity terms are not published, so ask aic-nifie@iimmumbai.ac.in.",
+      "added": "2026-11-26"
+    },
+    {
+      "id": "sine-iit-bombay-incubation",
+      "title": "SINE IIT Bombay Startup Incubation",
+      "org": "SINE (Society for Innovation & Entrepreneurship), IIT Bombay",
+      "type": "Accelerator",
+      "amount": "Up to 3 years' incubation + seed-fund access (amount not stated)",
+      "amountMax": 0,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "Deep tech",
+        "Hardware",
+        "Sector-agnostic"
+      ],
+      "equity": "Not stated",
+      "summary": "IIT Bombay's main business incubator. It takes IP-led, product-focused tech startups into up to three years of physical or virtual incubation and channels them to its seed funds and to government grants.",
+      "eligibility": [
+        "Technology startups built on a product or IP with a scalable model",
+        "Open to founders from outside IIT Bombay, including recent graduates and academic spin-offs",
+        "Must clear an internal pitch and then a pitch to external domain experts"
+      ],
+      "benefits": [
+        "Up to 3 years of physical or virtual incubation",
+        "Access to SINE-managed seed funds and help applying for government grants",
+        "Mentors, IIT Bombay labs and SINE's investor network"
+      ],
+      "link": "https://sineiitb.org/incubation",
+      "note": "Fill in the online application, then go through the two-stage pitch (SINE team, then external experts). Equity, fee and seed-amount terms are in SINE's 'Policy & Procedure for Incubation' document, not on the main page. Contact sine@sineiitb.org.",
+      "added": "2026-11-26"
+    },
+    {
+      "id": "a16z-speedrun-next-residency",
+      "title": "a16z speedrun — Next Residency (rolling applications)",
+      "org": "Andreessen Horowitz (a16z)",
+      "type": "Accelerator",
+      "amount": "Up to $1M (~₹8.8 Cr) + $10M+ partner credits",
+      "amountMax": 88000000,
+      "deadline": null,
+      "region": "Global",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "AI",
+        "Consumer",
+        "Gaming",
+        "Software",
+        "Sector-agnostic"
+      ],
+      "equity": "Takes equity",
+      "summary": "a16z's 12-week in-person accelerator in San Francisco. It invests $500K for 10% upfront through a SAFE and can add up to $500K more in the next round. Applications are reviewed year-round.",
+      "eligibility": [
+        "Very early-stage founders building a new startup",
+        "Founders must attend the 12-week residency in San Francisco in person",
+        "Applications arriving after a cohort's cut-off roll into the next residency"
+      ],
+      "benefits": [
+        "$500K on a SAFE for 10%, plus up to $500K more in the next round within 18 months",
+        "$10M+ in cloud, AI and software credits from 200+ partners",
+        "Founder retreat, Demo Day and a16z network; no board seat"
+      ],
+      "link": "https://speedrun.a16z.com/apply",
+      "note": "The SR008 window (residency 1 Feb – mid-Apr 2027) closed on 1 Nov 2026. The apply page says applications are reviewed year-round, and later ones count toward the following residency, whose dates aren't announced yet. Indian founders need to relocate to San Francisco for 12 weeks and sort out a US visa. The 10% equity is substantial for a pre-seed cheque.",
+      "added": "2026-11-26"
+    },
+    {
+      "id": "zoho-for-startups-credits",
+      "title": "Zoho for Startups — Up to ₹3 Lakh in Zoho Credits",
+      "org": "Zoho Corporation",
+      "type": "Grant",
+      "amount": "Up to ₹3 lakh in software credits",
+      "amountMax": 300000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Zoho gives eligible Indian startups up to ₹3 lakh in wallet credits for its 55+ business apps (CRM, Books, Zoho One, etc.). Credits come in a 360-day first stage and a conditional 90-day top-up.",
+      "eligibility": [
+        "Must count as a startup under Startup India guidelines",
+        "Must have DPIIT recognition or a link to a Zoho-listed incubator, accelerator or co-working enabler",
+        "New or free Zoho user with no paid subscription history",
+        "Has not received Zoho for Startups credits before"
+      ],
+      "benefits": [
+        "Stage 1: about ₹2 lakh in Zoho wallet credits valid for 360 days (usable on bundles such as Zoho One, CRM Plus)",
+        "Stage 2: about ₹1 lakh more in promotional credits for 90 days, depending on first-year usage",
+        "Access to 55+ Zoho products"
+      ],
+      "link": "https://www.zoho.com/en-in/startups/founders-registration.html",
+      "note": "Create a Zoho account first, using your primary admin email. Then fill in the four-part form with your DPIIT number or chosen enabler, vertical and location, and reply to the eligibility email that arrives about 10 minutes later. The page also shows an older 'up to ₹1.86 lakh' figure, so the final amount may vary. Credits only cover Zoho products, and some stage-2 credits exclude Mail/Workplace.",
+      "added": "2026-11-26"
+    },
+    {
+      "id": "mongodb-for-startups-atlas-credits",
+      "title": "MongoDB for Startups — Up to $15,000 Atlas Credits",
+      "org": "MongoDB",
+      "type": "Grant",
+      "amount": "Up to $15,000 (~₹13 lakh) in Atlas credits",
+      "amountMax": 1320000,
+      "deadline": null,
+      "region": "Global",
+      "stages": [
+        "Idea",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Software",
+        "AI",
+        "SaaS"
+      ],
+      "equity": "No equity",
+      "summary": "MongoDB's rolling startup programme gives up to $15,000 in Atlas database credits plus Voyage AI embedding tokens and technical advice. The credit size depends on stage and on whether a partner VC or accelerator refers you.",
+      "eligibility": [
+        "Company is 7 years old or younger",
+        "Raised Series B or less (bootstrapped startups can apply)",
+        "Builds a single software product; agencies and dev shops are excluded",
+        "Has an active website and LinkedIn page"
+      ],
+      "benefits": [
+        "Up to $15,000 in MongoDB Atlas credits (12-month validity for credits above $500)",
+        "Voyage AI tokens for embedding and reranking models",
+        "Free Atlas developer support for 30 days, one-to-one technical advice, co-marketing"
+      ],
+      "link": "https://www.mongodb.com/solutions/startups",
+      "note": "Apply with the online form using your company email, URL, LinkedIn, HQ country and funding stage. A decision usually arrives within five business days. Redeem the promo code under Billing > Apply Code within 30 days or it expires. Bootstrapped startups get baseline credits, and the full $15K usually needs a partner referral.",
+      "added": "2026-11-26"
+    },
+    {
+      "id": "elevenlabs-startup-grants",
+      "title": "ElevenLabs Startup Grants — 12 Months Free Voice AI",
+      "org": "ElevenLabs",
+      "type": "Grant",
+      "amount": "12 months' access + 33M characters (valued >$5,500)",
+      "amountMax": 484000,
+      "deadline": null,
+      "region": "Global",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "AI",
+        "Voice",
+        "Conversational AI",
+        "Media"
+      ],
+      "equity": "No equity",
+      "summary": "ElevenLabs gives early startups building with voice AI a year of free platform access and 33 million characters, which it says covers more than 680 hours of voice-agent usage.",
+      "eligibility": [
+        "Early-stage startup building a product that uses ElevenLabs voice or agent technology",
+        "Must describe the startup, team and expected growth in the application",
+        "Grant is applied to the account used to apply"
+      ],
+      "benefits": [
+        "12 months of free access to the full ElevenLabs platform",
+        "33,000,000 characters (~680+ hours of Agents usage), valued above $5,500",
+        "Founder community events and startup support"
+      ],
+      "link": "https://elevenlabs.io/startup-grants",
+      "note": "Apply with the short online grant form, and expect a decision within about a week. The page doesn't publish detailed eligibility caps such as funding or team size. The grant covers usage credits only, with no cash.",
+      "added": "2026-11-26"
     }
   ],
   "archive": [
@@ -5381,6 +6054,67 @@
       "link": "https://grandchallenges.ca/programs/nexa/",
       "note": "Proposals are due 17 November 2026 at 2:00 pm ET (12:30 am IST on 18 November) via Grand Challenges Canada's Fluxx portal — apply through that portal, not the Novo Nordisk Foundation, or you risk disqualification. Funding instrument (grant vs. repayable/equity-linked) is set at the partners' discretion. The South Asia cardiometabolic-heat strand must be framed around heat protection for patients, not general climate adaptation.",
       "added": "2026-11-06"
+    },
+    {
+      "id": "be-hub-udaan-cohort-1",
+      "title": "BE Hub Udaan — Accelerator Cohort 1",
+      "org": "BE Hub (Saturo Technologies founders), Pune",
+      "type": "Accelerator",
+      "amount": "Not disclosed",
+      "amountMax": 0,
+      "deadline": "2026-11-18",
+      "region": "Maharashtra",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "DeepTech",
+        "Technology"
+      ],
+      "equity": "Not stated",
+      "summary": "12-week acceleration programme for early-stage deep-tech and tech-led startups. Only 5–6 startups selected; starts 23 Nov 2026.",
+      "eligibility": [
+        "Early-stage founders building deep-tech or tech-led startups"
+      ],
+      "benefits": [
+        "Idea and business-model validation",
+        "Industry network access",
+        "Growth preparation"
+      ],
+      "link": "https://sahyadristartups.com/news/be-hub-udaan-opens-applications-for-first-startup-accelerator-cohort-on-october-27/",
+      "note": "Deadline 18 Nov 2026.",
+      "added": "2026-10-30"
+    },
+    {
+      "id": "techstars-2027-anywhere",
+      "title": "Techstars Accelerators 2027 (incl. Anywhere / London)",
+      "org": "Techstars",
+      "type": "Accelerator",
+      "amount": "USD 220K for 5% equity",
+      "amountMax": 19360000,
+      "deadline": "2026-11-18",
+      "region": "Global",
+      "stages": [
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "All sectors"
+      ],
+      "equity": "Takes equity",
+      "summary": "3-month accelerator; the remote 'Anywhere' and London programmes accept global founders, including from India. Programme starts 8 Mar 2027.",
+      "eligibility": [
+        "Early-stage startups, any sector"
+      ],
+      "benefits": [
+        "USD 220K investment",
+        "Mentor network and demo day"
+      ],
+      "link": "https://www.techstars.com/accelerators",
+      "note": "Applications close 18 Nov 2026.",
+      "added": "2026-10-30"
     }
   ]
 }
