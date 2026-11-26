@@ -1,72 +1,100 @@
 [
-  {
-    "date": "2026-11-23",
-    "theme": "Singapore investors",
-    "investors": [
-      "Antler",
-      "BEENEXT",
-      "Jungle Ventures",
-      "Vertex Ventures SEA & India",
-      "Qualgro",
-      "Venturi Partners",
-      "EvolutionX Debt Capital",
-      "Temasek"
-    ]
-  },
-  {
-    "date": "2026-11-24",
-    "theme": "Japanese investors",
-    "investors": [
-      "Incubate Fund India",
-      "Beyond Next Ventures India",
-      "Enrission India Capital",
-      "UNLEASH Capital Partners",
-      "GMO VenturePartners",
-      "Sony Innovation Fund",
-      "SMBC Asia Rising Fund",
-      "SoftBank Vision Fund"
-    ]
-  },
-  {
-    "date": "2026-11-24",
-    "theme": "US seed funds, accelerators and VCs",
-    "investors": [
-      "Emergent Ventures India",
-      "South Park Commons",
-      "Y Combinator",
-      "Pioneer Fund",
-      "Soma Capital",
-      "Lightspeed",
-      "General Catalyst",
-      "Goodwater Capital"
-    ]
-  },
-  {
-    "date": "2026-11-25",
-    "theme": "Middle East investors",
-    "investors": [
-      "Hub71",
-      "BeyondSeed",
-      "AUM Ventures",
-      "Gulf Islamic Investments",
-      "Investcorp (India PE)",
-      "Mubadala",
-      "ADIA",
-      "Qatar Investment Authority"
-    ]
-  },
-  {
-    "date": "2026-11-25",
-    "theme": "European investors",
-    "investors": [
-      "Entrepreneur First",
-      "Picus Capital",
-      "Foundamental",
-      "RTP Global",
-      "Prosus Ventures",
-      "Sofina",
-      "Bertelsmann India Inv.",
-      "British Intl. Investment"
-    ]
-  }
+ {
+  "date": "2026-11-23",
+  "theme": "Singapore investors",
+  "investors": [
+   "Antler",
+   "BEENEXT",
+   "Jungle Ventures",
+   "Vertex Ventures SEA & India",
+   "Qualgro",
+   "Venturi Partners",
+   "EvolutionX Debt Capital",
+   "Temasek"
+  ]
+ },
+ {
+  "date": "2026-11-24",
+  "theme": "Japanese investors",
+  "investors": [
+   "Incubate Fund India",
+   "Beyond Next Ventures India",
+   "Enrission India Capital",
+   "UNLEASH Capital Partners",
+   "GMO VenturePartners",
+   "Sony Innovation Fund",
+   "SMBC Asia Rising Fund",
+   "SoftBank Vision Fund"
+  ]
+ },
+ {
+  "date": "2026-11-24",
+  "theme": "US seed funds, accelerators and VCs",
+  "investors": [
+   "Emergent Ventures India",
+   "South Park Commons",
+   "Y Combinator",
+   "Pioneer Fund",
+   "Soma Capital",
+   "Lightspeed",
+   "General Catalyst",
+   "Goodwater Capital"
+  ]
+ },
+ {
+  "date": "2026-11-25",
+  "theme": "Middle East investors",
+  "investors": [
+   "Hub71",
+   "BeyondSeed",
+   "AUM Ventures",
+   "Gulf Islamic Investments",
+   "Investcorp (India PE)",
+   "Mubadala",
+   "ADIA",
+   "Qatar Investment Authority"
+  ]
+ },
+ {
+  "date": "2026-11-25",
+  "theme": "European investors",
+  "investors": [
+   "Entrepreneur First",
+   "Picus Capital",
+   "Foundamental",
+   "RTP Global",
+   "Prosus Ventures",
+   "Sofina",
+   "Bertelsmann India Inv.",
+   "British Intl. Investment"
+  ]
+ },
+ {
+  "date": "2026-11-26",
+  "theme": "Global corporate VCs",
+  "investors": [
+   "Google for Startups Accel.",
+   "PayPal Ventures",
+   "Qualcomm Ventures",
+   "Amazon Smbhav Venture Fund",
+   "NVIDIA",
+   "Hitachi Ventures",
+   "Visa",
+   "MUFG"
+  ]
+ },
+ {
+  "date": "2026-11-26",
+  "theme": "Global impact & climate investors",
+  "investors": [
+   "Accion Ventures",
+   "Acumen",
+   "Elevar Equity",
+   "ABC Impact",
+   "Lightrock",
+   "Circulate Capital",
+   "LeapFrog Investments",
+   "GEF Capital Partners"
+  ]
+ }
 ]
