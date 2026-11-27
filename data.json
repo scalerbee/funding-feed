@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "items": [
     {
       "id": "undp-generali-msme-insurance-2026",
@@ -1733,48 +1733,6 @@
       "link": "https://iie.smu.edu.sg/lkygbpc",
       "note": "Final registration closes 31 Mar 2027; an early-bird round closes 31 Jan 2027, so registering early is wise. No closing time zone is published — treat it as Singapore time (IST+2:30). The university link is a hard requirement: a founder without a current enrolment or a degree from the last five years makes the team ineligible.",
       "added": "2026-11-10"
-    },
-    {
-      "id": "iima-ventures-ai-for-livelihoods-hackathon-2026",
-      "title": "AI for Livelihoods Hackathon 2026 (Women's Economic Empowerment)",
-      "org": "IIMA Ventures (IIM Ahmedabad) with SEWA Bharat, PRADAN and Hand in Hand India, supported by the Gates Foundation",
-      "type": "Challenge",
-      "amount": "₹5 lakh pilot grant; follow-on up to ₹50 lakh",
-      "amountMax": 5000000,
-      "deadline": "2026-11-19",
-      "region": "National",
-      "stages": [
-        "Idea",
-        "Prototype",
-        "MVP",
-        "Revenue"
-      ],
-      "sectors": [
-        "AI",
-        "Livelihoods",
-        "Women Empowerment",
-        "FinTech",
-        "Social Impact"
-      ],
-      "equity": "Varies",
-      "summary": "IIMA Ventures is looking for AI-led products that measurably raise the incomes of low-income women in India, with problem statements set by three large grassroots organisations. Winners get money and a real field partner to pilot with, which is often harder to find than the cash.",
-      "eligibility": [
-        "Teams building a technology (AI-enabled) solution that increases earnings or economic agency for low-income women in India",
-        "Idea, product and revenue-stage teams can apply — you do not need a registered company to submit",
-        "Must incorporate as an Indian entity before your selection is confirmed",
-        "Solution should fit one of the challenge problems posed by SEWA Bharat, PRADAN or Hand in Hand India",
-        "Teams that have been through other incubators or programmes are not excluded"
-      ],
-      "benefits": [
-        "₹5 lakh grant to pilot the solution with the challenge partner's community network",
-        "Shortlisted solutions can be considered for follow-on funding of up to ₹50 lakh to scale",
-        "Field access to SEWA Bharat, PRADAN or Hand in Hand India users for testing",
-        "Mentoring and investor exposure through IIMA Ventures' women's economic empowerment programme",
-        "No relocation required"
-      ],
-      "link": "https://iimaventures.com/programs/womens-economic-empowerment/",
-      "note": "Applications close 19 November 2026 via the Typeform linked on the IIMA Ventures page (exact closing time not published — submit by the evening of the 18th to be safe). The hackathon grant is presented as equity-free, but startups that are later onboarded as full IIMA Ventures incubatees are normally asked for 2–5% mentoring equity — clarify before signing anything. Have a short pitch deck, a description of the women-income problem you solve and any pilot data ready.",
-      "added": "2026-11-11"
     },
     {
       "id": "pi-rahi-sparks-2",
@@ -5701,9 +5659,511 @@
       "link": "https://elevenlabs.io/startup-grants",
       "note": "Apply with the short online grant form, and expect a decision within about a week. The page doesn't publish detailed eligibility caps such as funding or team size. The grant covers usage credits only, with no cash.",
       "added": "2026-11-26"
+    },
+    {
+      "id": "fitt-iit-delhi-incubation-grant-support",
+      "title": "FITT IIT Delhi Incubation — Grant Support from ₹4 Lakh to ₹1 Crore",
+      "org": "FITT (Foundation for Innovation and Technology Transfer), IIT Delhi",
+      "type": "Grant",
+      "amount": "₹4 lakh – ₹1 crore",
+      "amountMax": 10000000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "Deep Tech",
+        "Hardware",
+        "Healthcare",
+        "Cleantech",
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "FITT, the technology-transfer and incubation arm of IIT Delhi, gives grants of ₹4 lakh to ₹1 crore to early-stage startups it incubates, for refining an idea, building a prototype or testing the market. You reach the grant by applying for incubation through FITT's standing application, and FITT says it will look at startups from the idea stage onward.",
+      "eligibility": [
+        "Early-stage startups refining a business idea, building a prototype or validating market potential",
+        "Must be admitted to FITT incubation; the grant is not a standalone open call",
+        "Must submit a fund-utilisation plan tied to clear goals",
+        "Funds must be spent according to FITT's guidelines"
+      ],
+      "benefits": [
+        "Grant of ₹4 lakh up to ₹1 crore, depending on need and the funds available",
+        "Incubation and scale-up support, including access to IIT Delhi labs and infrastructure",
+        "Help raising capital from seed rounds onward through FITT's network"
+      ],
+      "link": "https://fitt-iitd.in/web/financial-support",
+      "note": "Rolling: FITT's funding page sends applicants to its 'Apply for Incubation' form and gives no closing date. FITT says the grant range may change with fund availability, and the amount depends on your utilisation plan. Grants are usually drawn from schemes FITT runs (e.g. TIDE 2.0, BIRAC BIG), so the terms of the matching scheme apply. Incubation fees are not stated, so ask FITT.",
+      "added": "2026-11-27"
+    },
+    {
+      "id": "fitt-iit-delhi-first-cheque-investment",
+      "title": "FITT IIT Delhi First-Cheque Investment — Debt or Equity, ₹10 Lakh to ₹1.5 Crore",
+      "org": "FITT (Foundation for Innovation and Technology Transfer), IIT Delhi",
+      "type": "Equity",
+      "amount": "₹10 lakh – ₹1.5 crore (debt or equity)",
+      "amountMax": 15000000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Deep Tech",
+        "Hardware",
+        "Healthcare",
+        "Cleantech"
+      ],
+      "equity": "Varies",
+      "summary": "FITT at IIT Delhi writes first-cheque debt or equity investments of ₹10 lakh to ₹1.5 crore in deep-tech startups that have reached the point where its network can help them scale. Most companies it has funded were somewhere between prototype and post-revenue when they got the money.",
+      "eligibility": [
+        "Startups building deep-tech or breakthrough technology",
+        "Usually past the prototype stage: pre-launch, launched or already earning revenue",
+        "Must apply through FITT's incubation process"
+      ],
+      "benefits": [
+        "First-cheque investment of ₹10 lakh to ₹1.5 crore, as debt or equity",
+        "Access to IIT Delhi labs, facilities and FITT's investor and industry network",
+        "Help with follow-on fundraising"
+      ],
+      "link": "https://fitt-iitd.in/web/financial-support",
+      "note": "Rolling: you apply through FITT's 'Apply for Incubation' form, and no closing date is published. FITT's page does not say which deals are debt and which are equity, or what valuation or interest terms apply, so expect to give up equity or take on repayment depending on the deal. Confirm the terms with FITT before applying.",
+      "added": "2026-11-27"
+    },
+    {
+      "id": "siic-iit-kanpur-seed-fund-loan",
+      "title": "SIIC IIT Kanpur Seed Fund — Seed Loan of ₹15–25 Lakh for Incubated Startups",
+      "org": "SIIC (Startup Incubation and Innovation Centre), IIT Kanpur",
+      "type": "Debt",
+      "amount": "₹15 lakh – ₹25 lakh seed loan",
+      "amountMax": 2500000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Deep Tech",
+        "Healthcare",
+        "Cleantech",
+        "Sector-agnostic"
+      ],
+      "equity": "Not stated",
+      "summary": "SIIC, IIT Kanpur's startup incubator, offers seed loans of ₹15–25 lakh to registered companies it has incubated for at least three months. Each case is decided on the startup's merits under SIIC's Seed Funding Guidelines, and depends on the funds and schemes SIIC has available.",
+      "eligibility": [
+        "Must be a registered company (private limited or similar)",
+        "Must have been incubated at SIIC, IIT Kanpur, for at least three months before applying",
+        "Approved case by case against SIIC's own criteria and the startup's merits",
+        "Depends on the funds, grants or schemes SIIC has at the time"
+      ],
+      "benefits": [
+        "Seed loan of ₹15 lakh to ₹25 lakh",
+        "Incubation at SIIC, IIT Kanpur, including access to the institute's labs and mentors",
+        "SIIC can also put incubatees forward for other schemes it handles, such as DSIR PRISM and Ministry of MSME support"
+      ],
+      "link": "https://iitk.ac.in/new/funding-options",
+      "note": "You must already be incubated: this is open only to SIIC incubatees after three months, so apply for incubation first (details on siicincubator.com). IIT Kanpur's page calls it a loan but does not publish the interest, repayment or conversion terms, which are set in SIIC's Seed Funding Guidelines, so ask for those. Rolling, with no closing date.",
+      "added": "2026-11-27"
+    },
+    {
+      "id": "tides-iit-roorkee-tide-2-eir",
+      "title": "TIDE 2.0 Entrepreneur-in-Residence Fellowship at TIDES, IIT Roorkee (₹4 Lakh)",
+      "org": "TIDES Business Incubator, IIT Roorkee (MeitY TIDE 2.0 scheme)",
+      "type": "Fellowship",
+      "amount": "₹4 lakh EiR fellowship (1 year)",
+      "amountMax": 400000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype"
+      ],
+      "sectors": [
+        "Healthcare",
+        "Education",
+        "Agriculture",
+        "Fintech",
+        "Mobility",
+        "Cleantech",
+        "Energy",
+        "AI",
+        "IoT",
+        "Blockchain",
+        "Cybersecurity",
+        "Drones"
+      ],
+      "equity": "Not stated",
+      "summary": "TIDES, the business incubator at IIT Roorkee, offers four one-year Entrepreneur-in-Residence fellowships of ₹4 lakh each under MeitY's TIDE 2.0 scheme. The fellowship is for young graduates with no other income who want to spend a year validating and building a technology idea.",
+      "eligibility": [
+        "Indian citizen under 35 years of age",
+        "Graduate in science or engineering (BTech, MTech, MSc, PhD, MBBS, MBA or equivalent), or a final-year student who is not taking up a placement",
+        "No other source of income during the fellowship",
+        "Must not be a promoter, shareholder or beneficiary of another company",
+        "Fellowship support stops if you raise outside funding or investment for the idea"
+      ],
+      "benefits": [
+        "₹4 lakh fellowship for one year (four fellowships available)",
+        "Incubation infrastructure and lab facilities at IIT Roorkee",
+        "Mentoring, business support and networking",
+        "Preference for women founders, founders under 35 and ideas likely to create manufacturing jobs"
+      ],
+      "link": "https://tides.iitr.ac.in/programs/tide-2.0---eir",
+      "note": "The official page has a live 'Click here to apply' link and no closing date, but it does not say when the next cohort will be chosen, so confirm the current intake at tides_meity@iitr.ac.in. Preferred technologies are AI/ML, blockchain, IoT, cybersecurity and drones. Fellows are expected to work from the TIDES incubator at IIT Roorkee. Equity and fees are not mentioned.",
+      "added": "2026-11-27"
+    },
+    {
+      "id": "ahmedabad-university-venturestudio-nidhi-prayas",
+      "title": "NIDHI-PRAYAS Prototype Grant at VentureStudio, Ahmedabad University (up to ₹10 Lakh)",
+      "org": "VentureStudio, Ahmedabad University (DST NIDHI-PRAYAS centre)",
+      "type": "Grant",
+      "amount": "Up to ₹10 lakh",
+      "amountMax": 1000000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype"
+      ],
+      "sectors": [
+        "Manufacturing",
+        "Agriculture",
+        "Healthcare",
+        "Cleantech",
+        "Energy",
+        "Water",
+        "IoT",
+        "Hardware"
+      ],
+      "equity": "No equity",
+      "summary": "VentureStudio at Ahmedabad University is a DST NIDHI-PRAYAS centre that gives individual innovators and very young startups up to ₹10 lakh to turn a hardware or physical-product idea into a working prototype. The grant pays for outsourced fabrication, raw materials and similar prototyping costs, with capped amounts for travel, patents and contingencies.",
+      "eligibility": [
+        "Indian citizen aged 18 or older; teams must name one lead applicant who applies and receives the funds",
+        "Existing PRAYAS incubatees qualify only if the company is under 2 years old, has no significant revenue and is building a new product",
+        "Must be a physical product; pure software and pure academic research are not funded",
+        "Must register for pre-incubation or incubation at VentureStudio for the whole programme",
+        "Applicants who study or work at an institution need a no-objection certificate (NOC); doctoral projects and teaching faculty are not eligible",
+        "Support is given only once for the same concept"
+      ],
+      "benefits": [
+        "Grant of up to ₹10 lakh for building a prototype",
+        "Covers outsourcing, raw materials and fabrication, plus capped travel, patent and contingency costs",
+        "Pre-incubation or incubation support at Ahmedabad University's VentureStudio"
+      ],
+      "link": "https://ahduni.edu.in/academics/schools-centres/venturestudio/funding/nidhi-prayas",
+      "note": "The official page lets you apply through an online portal or by emailing the form, and gives no closing date. PRAYAS centres often review applications in batches, so check with VentureStudio when the next review is. Priority areas are manufacturing, agriculture, healthcare, cleantech, energy, water and IoT. Preference goes to bootstrapped or co-invested projects, women innovators and young innovators. No fees or equity are mentioned.",
+      "added": "2026-11-27"
+    },
+    {
+      "id": "villgro-tvaran-3-maharashtra-tech-accelerator",
+      "title": "TVARAN 3.0 — Maharashtra Tech Accelerator Project (T-MAP)",
+      "org": "Villgro Innovations Foundation (part of Cisco's 40 Communities initiative)",
+      "type": "Accelerator",
+      "amount": "Share of a pilot pool of up to ₹3 crore",
+      "amountMax": 30000000,
+      "deadline": null,
+      "region": "Maharashtra",
+      "stages": [
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Climate",
+        "Water & Sanitation",
+        "Waste Management",
+        "Urban Infrastructure"
+      ],
+      "equity": "Not stated",
+      "summary": "Villgro's third TVARAN cohort funds and supports city pilots of water, wastewater and solid-waste solutions with urban local bodies in Mumbai, Thane and Mira Bhayandar, from a combined pilot pool of up to ₹3 crore.",
+      "eligibility": [
+        "Commercial enterprises with a solution ready to scale in Maharashtra",
+        "Solution must be deployable in Mumbai, Thane or Mira Bhayandar",
+        "Prior experience working with Urban Local Bodies (ULBs) is expected",
+        "Existing ULB partnerships/MoUs, or a credible path to securing one",
+        "Focus areas: digital operational intelligence, modular wastewater treatment and reuse, compact solid-waste processing, niche waste streams, waterway and drain protection"
+      ],
+      "benefits": [
+        "Pilot funding from a cumulative pool of up to ₹3 crore",
+        "Validation of the solution in live city environments",
+        "Hands-on implementation support to speed adoption by municipal bodies"
+      ],
+      "link": "https://villgro.org/programs/tvaran-3-0-maharashtra-tech-accelerator-project-t-map/",
+      "note": "Villgro's programmes page lists TVARAN 3.0 under 'Applications open' for 2026 with no closing date published; apply via Villgro's TVARAN portal (vitals.villgroapps.org/tvaran-accelerator). Per-startup grant size, cohort size, equity terms and fees are not stated on the official page — confirm with Villgro before applying.",
+      "added": "2026-11-27"
+    },
+    {
+      "id": "dsir-prism-phase-1-innovator-grant",
+      "title": "DSIR PRISM Phase I — Grants up to ₹20 Lakh for Individual Innovators",
+      "org": "Department of Scientific & Industrial Research (DSIR), Ministry of Science & Technology, via TOCIC host incubators such as Venture Center, Pune",
+      "type": "Grant",
+      "amount": "Up to ₹2 lakh (Cat. I) or ₹20 lakh (Cat. II), max 90% of project cost",
+      "amountMax": 2000000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype"
+      ],
+      "sectors": [
+        "Clean Energy",
+        "Green Technology",
+        "Healthcare",
+        "Water & Sanitation",
+        "Waste to Wealth",
+        "Materials",
+        "Deep Tech"
+      ],
+      "equity": "No equity",
+      "summary": "DSIR's PRISM scheme gives Indian individual innovators grants to turn an idea into a working prototype: up to ₹2 lakh for proof-of-concept projects costing up to ₹5 lakh, and up to ₹20 lakh for fabrication, testing, patenting and tech transfer on projects of ₹5–35 lakh.",
+      "eligibility": [
+        "Indian citizens with an innovative idea they want to develop into a working prototype, model or process",
+        "Individual students, innovators and researchers; also technology providers building solutions for MSME clusters",
+        "Category I: project cost up to ₹5 lakh (PoC, prototypes, models)",
+        "Category II: project cost ₹5–35 lakh (working models, process know-how, testing/trials, patenting, technology transfer)",
+        "Priority areas include green tech, clean energy, smart materials, waste to wealth, affordable healthcare, and water and sewage management"
+      ],
+      "benefits": [
+        "Category I grant: lesser of ₹2 lakh or 90% of project cost",
+        "Category II grant: lesser of ₹20 lakh or 90% of project cost",
+        "Non-dilutive government funding",
+        "Handholding through DSIR's Technology and Innovation Outreach Centres (TOCICs) such as Venture Center, Pune"
+      ],
+      "link": "https://www.indiascienceandtechnology.gov.in/programme-schemes/startup-support/promoting-innovations-individuals-start-ups-and-msmes-prism",
+      "note": "No closing date is published: the government S&T portal lists the scheme, and Venture Center (a DSIR TOCIC) marks it 'Active'. There's no online form on either page, so contact your nearest TOCIC (e.g. frontdesk@venturecenter.co.in, Pune) for the current proposal format and intake schedule. The innovator funds the 10% balance of project cost.",
+      "added": "2026-11-27"
+    },
+    {
+      "id": "atlassian-for-startups-free-premium",
+      "title": "Atlassian for Startups — 12 Months Free Premium (up to 50 Seats)",
+      "org": "Atlassian",
+      "type": "Grant",
+      "amount": "12 months free Jira, Confluence, Loom & Bitbucket Premium (up to 50 seats)",
+      "amountMax": 0,
+      "deadline": null,
+      "region": "Global",
+      "stages": [
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Software",
+        "SaaS",
+        "Any tech"
+      ],
+      "equity": "No equity",
+      "summary": "Atlassian gives qualifying startups one year of its Premium cloud tools at no cost, covering Jira, Confluence, Loom Business + AI and Bitbucket for up to 50 users, plus smaller seat allowances on its service-management and product-discovery tools.",
+      "eligibility": [
+        "Must not already be a paying Atlassian customer",
+        "Must be venture-funded or connected to one of Atlassian's partner accelerators or incubators",
+        "Total external funding raised must not exceed US$10 million",
+        "Each startup can enrol for only one 12-month period"
+      ],
+      "benefits": [
+        "Jira Premium, Confluence Premium and Bitbucket Premium for up to 50 seats each",
+        "Loom Business + AI for up to 50 seats",
+        "Jira Service Management / Customer Service Management for up to 10 seats",
+        "Jira Product Discovery Premium with 10 creator seats and unlimited contributors"
+      ],
+      "link": "https://www.atlassian.com/software/startups",
+      "note": "Rolling, apply via the request form on the page. Atlassian may ask for proof of funding (e.g. a Crunchbase or PitchBook profile). Marketplace apps are not covered; going above the seat caps means moving to a paid tier, and after 12 months you must renew on paid plans or cancel.",
+      "added": "2026-11-27"
+    },
+    {
+      "id": "notion-for-startups-business-plan-ai",
+      "title": "Notion for Startups — Up to 6 Months Free Business Plan with Notion AI",
+      "org": "Notion Labs",
+      "type": "Grant",
+      "amount": "Up to 6 months free Business plan + AI (worth up to $12,000)",
+      "amountMax": 1056000,
+      "deadline": null,
+      "region": "Global",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Any tech",
+        "Software",
+        "SaaS"
+      ],
+      "equity": "No equity",
+      "summary": "Notion offers early-stage companies free months on its Business plan with Notion AI built in; the length of the free period (1, 3 or 6 months) depends on whether the startup is referred by a Notion partner investor or accelerator.",
+      "eligibility": [
+        "Must not be a paying Notion customer and must not have used an earlier Notion promotion",
+        "Fewer than 100 employees",
+        "Must sign up with a company-domain work email (no Gmail/Outlook) and have a working business website",
+        "6-month tier requires affiliation with a listed Notion partner VC or accelerator; 3-month tier for unaffiliated teams under 100 staff with full business details"
+      ],
+      "benefits": [
+        "Business plan with Notion AI free for 1, 3 or 6 months depending on tier",
+        "Offer valued at up to US$12,000 for a 100-person team",
+        "Access to Notion Perks software discounts",
+        "One complimentary session with a Notion Certified Consultant (separate application)"
+      ],
+      "link": "https://www.notion.com/en-US/startups",
+      "note": "Rolling. Startups without a partner referral or with incomplete details may get only one free month. After the free period the workspace bills at standard Business plan rates unless downgraded.",
+      "added": "2026-11-27"
+    },
+    {
+      "id": "posthog-for-startups-credits",
+      "title": "PostHog for Startups — $50,000 Product Analytics Credits",
+      "org": "PostHog",
+      "type": "Grant",
+      "amount": "$50,000 PostHog credits (12 months) + ~$12,000 partner perks",
+      "amountMax": 4400000,
+      "deadline": null,
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Software",
+        "SaaS",
+        "Any tech"
+      ],
+      "equity": "No equity",
+      "summary": "PostHog, the open-source product analytics and session-replay platform, gives young, lightly funded startups $50,000 in usage credits valid for a year, along with a bundle of partner discounts.",
+      "eligibility": [
+        "Company must be less than 2 years old",
+        "Must have raised under US$5 million",
+        "PostHog account created on or after 1 January 2023, using a company email domain",
+        "Companies owned by an ineligible parent group do not qualify; credits granted once per founder/organisation"
+      ],
+      "benefits": [
+        "US$50,000 in PostHog credits valid for 12 months",
+        "US$5,000 Depot credit, US$1,500 off an Incident.io team plan and 50% off Speakeasy for 6 months",
+        "PostHog merchandise"
+      ],
+      "link": "https://posthog.com/startups",
+      "note": "Rolling. You must first move to a usage-based paid plan, then submit the startup form from a company-email account; credits apply automatically on acceptance. From 14 Sept 2026 credits cannot be spent on PostHog's AI features (PostHog AI, Replay Vision, Inbox, etc.). Support is community/standard only. YC companies have a separate, non-stackable deal.",
+      "added": "2026-11-27"
+    },
+    {
+      "id": "mixpanel-for-startups-free-year",
+      "title": "Mixpanel for Startups — First Year Free (Worth $145,000)",
+      "org": "Mixpanel",
+      "type": "Grant",
+      "amount": "12 months free Startup Plan (stated value $145,000)",
+      "amountMax": 0,
+      "deadline": null,
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Software",
+        "SaaS",
+        "Any tech"
+      ],
+      "equity": "No equity",
+      "summary": "Mixpanel's Startup Plan gives eligible early-stage companies a year of its full analytics suite free, covering up to 1 billion events and 1 million session replays with all add-ons.",
+      "eligibility": [
+        "Must meet Mixpanel's company-age and funding limits (confirmed on the application form)",
+        "Must never have been on a paid Mixpanel plan or used another Mixpanel offer",
+        "Must not have previously joined the startup program",
+        "Must start sending data to Mixpanel within 90 days of acceptance"
+      ],
+      "benefits": [
+        "All advanced reports, including Signal and Experiments with Feature Flags",
+        "Data Pipelines, Group Analytics, Warehouse Connectors and Session Replay",
+        "Up to 1 billion events and 1 million session replays in the year"
+      ],
+      "link": "https://mixpanel.com/startups/",
+      "note": "Rolling; apply at mixpanel.com/startups-apply (choose a referral partner or 'no referral partner'). The plan does not support BAAs or MSAs. No second free year: afterwards move to Free, Growth or Enterprise. Accounts that don't send data within 90 days are removed.",
+      "added": "2026-11-27"
+    },
+    {
+      "id": "500-global-flagship-accelerator",
+      "title": "500 Global Flagship Accelerator (San Francisco) — Rolling Applications",
+      "org": "500 Global",
+      "type": "Accelerator",
+      "amount": "Up to $50K upfront, with up to $1M more possible",
+      "amountMax": 4400000,
+      "deadline": null,
+      "region": "Global",
+      "stages": [
+        "Idea",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Any tech",
+        "AI"
+      ],
+      "equity": "Takes equity",
+      "summary": "500 Global's four-month, in-person Flagship Accelerator in San Francisco invests up to $50,000 in accepted companies at entry, with follow-on of up to $1 million possible as they hit milestones; applications are reviewed for the next batch.",
+      "eligibility": [
+        "Open from day zero through early users, revenue or pilots",
+        "Founders must be in the US or plan to be there within six months",
+        "Highly selective; aimed at exceptional founding teams",
+        "Acceptance does not guarantee investment"
+      ],
+      "benefits": [
+        "Up to US$50,000 initial investment",
+        "Potential follow-on of up to US$1 million",
+        "Four-month in-person programme in San Francisco with 500 Global's network"
+      ],
+      "link": "https://500.co/founders/flagship",
+      "note": "Rolling: the current batch runs 30 Nov 2026 – 9 Apr 2027, so new applications are considered for the following batch. Requires US relocation (Indian founders need suitable visas). Equity/SAFE terms are not published on the page; confirm before accepting.",
+      "added": "2026-11-27"
     }
   ],
   "archive": [
+    {
+      "id": "iima-ventures-ai-for-livelihoods-hackathon-2026",
+      "title": "AI for Livelihoods Hackathon 2026 (Women's Economic Empowerment)",
+      "org": "IIMA Ventures (IIM Ahmedabad) with SEWA Bharat, PRADAN and Hand in Hand India, supported by the Gates Foundation",
+      "type": "Challenge",
+      "amount": "₹5 lakh pilot grant; follow-on up to ₹50 lakh",
+      "amountMax": 5000000,
+      "deadline": "2026-11-19",
+      "region": "National",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "AI",
+        "Livelihoods",
+        "Women Empowerment",
+        "FinTech",
+        "Social Impact"
+      ],
+      "equity": "Varies",
+      "summary": "IIMA Ventures is looking for AI-led products that measurably raise the incomes of low-income women in India, with problem statements set by three large grassroots organisations. Winners get money and a real field partner to pilot with, which is often harder to find than the cash.",
+      "eligibility": [
+        "Teams building a technology (AI-enabled) solution that increases earnings or economic agency for low-income women in India",
+        "Idea, product and revenue-stage teams can apply — you do not need a registered company to submit",
+        "Must incorporate as an Indian entity before your selection is confirmed",
+        "Solution should fit one of the challenge problems posed by SEWA Bharat, PRADAN or Hand in Hand India",
+        "Teams that have been through other incubators or programmes are not excluded"
+      ],
+      "benefits": [
+        "₹5 lakh grant to pilot the solution with the challenge partner's community network",
+        "Shortlisted solutions can be considered for follow-on funding of up to ₹50 lakh to scale",
+        "Field access to SEWA Bharat, PRADAN or Hand in Hand India users for testing",
+        "Mentoring and investor exposure through IIMA Ventures' women's economic empowerment programme",
+        "No relocation required"
+      ],
+      "link": "https://iimaventures.com/programs/womens-economic-empowerment/",
+      "note": "Applications close 19 November 2026 via the Typeform linked on the IIMA Ventures page (exact closing time not published — submit by the evening of the 18th to be safe). The hackathon grant is presented as equity-free, but startups that are later onboarded as full IIMA Ventures incubatees are normally asked for 2–5% mentoring equity — clarify before signing anything. Have a short pitch deck, a description of the women-income problem you solve and any pilot data ready.",
+      "added": "2026-11-11"
+    },
     {
       "id": "undp-ocean-innovation-2026",
       "title": "UNDP Ocean Innovation Challenge — 5th Call",
