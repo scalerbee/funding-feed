@@ -96,5 +96,33 @@
    "LeapFrog Investments",
    "GEF Capital Partners"
   ]
+ },
+ {
+  "date": "2026-11-27",
+  "theme": "Global fintech investors",
+  "investors": [
+   "Tenity",
+   "Coinbase Ventures",
+   "Saison Capital",
+   "Flourish Ventures",
+   "QED Investors",
+   "Quona Capital",
+   "Ribbit Capital",
+   "FinSight Ventures"
+  ]
+ },
+ {
+  "date": "2026-11-27",
+  "theme": "Global accelerators",
+  "investors": [
+   "Founder Institute",
+   "Accel Atoms",
+   "Techstars",
+   "500 Global",
+   "Microsoft for Startups",
+   "UChicago India Deep Tech Accel.",
+   "Stanford Seed Spark",
+   "AWS Generative AI Accelerator"
+  ]
  }
 ]

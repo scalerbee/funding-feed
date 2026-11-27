@@ -1,336 +1,355 @@
 [
  {
-  "post_after": "2026-11-26T05:00:00Z",
-  "id": "2026-11-26-investors-global-corporate-vcs",
+  "post_after": "2026-11-27T05:00:00Z",
+  "id": "2026-11-27-investors-global-fintech",
   "preview": false,
-  "text": "Google led the Series B of Bengaluru space-tech startup Pixxel. NVIDIA is now on Sarvam AI's cap table. Big corporates are writing real cheques into Indian startups.\n\nCorporate VCs bring more than money: cloud credits, chips, distribution and a possible future acquirer. Qualcomm alone has backed 40+ Indian companies since 2007, and added a $150M India AI fund this year.\n\nIn this carousel: 8 global corporate investors that back Indian founders, from Google's equity-free accelerator and PayPal Ventures to Qualcomm, NVIDIA, Amazon, Hitachi, Visa and MUFG, with stage, cheque, Indian portfolio and how to reach each one.\n\nQuick tip: a corporate VC invests where its business is going. Before you pitch, show how your product grows their platform, chips or payment volume. Start with their startup programme or a business-unit partnership; the investment often follows.\n\nSave this for your next raise.\n\nIf you are looking to raise funds and need an expert, reach out to us below:\nhttps://scalerbee.com/TheFundGuy/contact.html\n\n#StartupFunding #Investors #IndianStartups #VentureCapital #TheFundGuy #CorporateVC",
-  "document_title": "8 global corporate VCs that back Indian founders",
+  "text": "PhonePe, CRED, Groww and Razorpay have one investor in common: Ribbit Capital, a Silicon Valley fund that invests only in fintech.\n\nRibbit isn't the only one. Fintech-only funds from the US, Europe and Asia keep writing cheques into Indian startups, from pre-seed cohorts to $20M growth rounds.\n\nIn this carousel: 8 global fintech investors that back Indian founders. It covers Tenity, Coinbase Ventures, Saison Capital, Flourish, QED, Quona, Ribbit and FinSight, with stage, cheque size, Indian portfolio and how to reach each one.\n\nQuick tip: specialist fintech investors already know your regulator, your unit economics and your competitors. Lead with the numbers they will ask for first: credit losses, take rate, CAC payback and your licence or partner-bank setup. And match the fund to your stage: Tenity and Coinbase Ventures write early cheques, while Ribbit and FinSight usually come in once traction is proven.\n\nSave this for your next raise.\n\nIf you are looking to raise funds and need an expert, reach out to us below:\nhttps://scalerbee.com/TheFundGuy/contact.html\n\n#StartupFunding #Investors #IndianStartups #VentureCapital #TheFundGuy #Fintech",
+  "document_title": "8 global fintech investors that back Indian founders",
   "carousel": {
-   "kicker": "Investor list · Global corporate VCs",
-   "title": "8 global corporate VCs that back Indian founders",
-   "subtitle": "Big Tech, chip, payments and bank investors with recent Indian deals: stage, cheque, portfolio, how to reach.",
+   "kicker": "Investor list · Global fintech investors",
+   "title": "8 global fintech investors that back Indian founders",
+   "subtitle": "Fintech-focused funds from the US, Europe and Asia with Indian deals: stage, cheque, portfolio, how to reach.",
    "investors": [
     {
-     "name": "Google for Startups Accel.",
-     "hq": "Bengaluru programme",
-     "type": "Big Tech accelerator",
+     "name": "Tenity",
+     "hq": "Zurich, Switzerland",
+     "type": "Fintech incubator & VC",
+     "stage": "Pre-seed (VC arm up to Series A)",
+     "cheque": "SGD 70K first, up to SGD 350K follow-on",
+     "sectors": [
+      "Fintech",
+      "Insurtech",
+      "Wealthtech",
+      "AI in finance"
+     ],
+     "india_portfolio": [
+      "MoneyPlanned",
+      "PayTring",
+      "Pype AI"
+     ],
+     "reach": "tenity.com/programs",
+     "note": "Cohort programme with a cheque attached. A first institutional option for very early fintechs."
+    },
+    {
+     "name": "Coinbase Ventures",
+     "hq": "USA (remote-first)",
+     "type": "Corporate VC (crypto)",
+     "stage": "Pre-seed to seed",
+     "cheque": "Not disclosed",
+     "sectors": [
+      "Stablecoins",
+      "Payments",
+      "Crypto infra",
+      "Trading"
+     ],
+     "india_portfolio": [
+      "Zynk",
+      "IppoPay",
+      "Flint"
+     ],
+     "reach": "coinbase.com/ventures",
+     "note": "Fits if your product runs on on-chain rails, like cross-border stablecoin payments."
+    },
+    {
+     "name": "Saison Capital",
+     "hq": "Singapore",
+     "type": "Corporate VC (Credit Saison)",
+     "stage": "Pre-seed to early stage",
+     "cheque": "Not disclosed",
+     "sectors": [
+      "Fintech",
+      "Lending",
+      "Informal economy",
+      "Web3"
+     ],
+     "india_portfolio": [
+      "Techfino",
+      "Zinc",
+      "Binocs"
+     ],
+     "reach": "saisoncapital.com",
+     "note": "Venture arm of a Japanese lender, so it understands credit and NBFC-style models."
+    },
+    {
+     "name": "Flourish Ventures",
+     "hq": "San Francisco, USA",
+     "type": "Fintech VC",
      "stage": "Seed to Series A",
-     "cheque": "Equity-free; Cloud credits (if eligible)",
+     "cheque": "First cheques ~$2M-$7M",
      "sectors": [
-      "Agentic AI",
-      "Multimodal AI",
-      "Physical AI",
-      "Sovereign AI"
+      "Embedded finance",
+      "Wealthtech",
+      "Fin infra",
+      "Financial health"
      ],
      "india_portfolio": [
-      "Dview (alumni)",
-      "Superjoin (alumni)",
-      "Pixxel (Google-led B)"
+      "SalarySe",
+      "PowerUp Money",
+      "M2P Fintech"
      ],
-     "reach": "startup.google.com/programs/accelerator/india",
-     "note": "3-month equity-free programme for AI-first startups. 2026 batch closed 19 Apr; watch for the next call."
+     "reach": "flourishventures.com",
+     "note": "Leads rounds in India. Show how you improve customers' financial health, not just growth."
     },
     {
-     "name": "PayPal Ventures",
-     "hq": "San Jose, US",
-     "type": "Corporate VC",
-     "stage": "Series A (in India)",
+     "name": "QED Investors",
+     "hq": "Alexandria, Virginia, USA",
+     "type": "Fintech VC",
+     "stage": "Early stage to growth",
+     "cheque": "Not disclosed",
+     "sectors": [
+      "Cards & credit",
+      "Neobanking",
+      "Embedded finance",
+      "AI in FS"
+     ],
+     "india_portfolio": [
+      "OneCard",
+      "Jupiter",
+      "Upswing",
+      "Efficient Capital Labs"
+     ],
+     "reach": "qedinvestors.com",
+     "note": "Operator-heavy team putting $250-300M to work across India and APAC."
+    },
+    {
+     "name": "Quona Capital",
+     "hq": "Washington, DC, USA",
+     "type": "Fintech VC (inclusion)",
+     "stage": "Seed to growth (mostly Series A+)",
+     "cheque": "Not disclosed",
+     "sectors": [
+      "MSME credit",
+      "Embedded finance",
+      "Insurtech",
+      "Payments"
+     ],
+     "india_portfolio": [
+      "Turno",
+      "Zinc",
+      "Equal",
+      "Rupifi"
+     ],
+     "reach": "quona.com/contact",
+     "note": "Has a Bengaluru team. Best fit if you serve underserved MSMEs or consumers."
+    },
+    {
+     "name": "Ribbit Capital",
+     "hq": "Palo Alto, USA",
+     "type": "Fintech VC",
+     "stage": "Early to late stage",
      "cheque": "Not disclosed",
      "sectors": [
       "Payments",
-      "Cross-border",
-      "Fintech infra"
+      "Wealth & investing",
+      "Consumer fintech",
+      "Crypto"
      ],
      "india_portfolio": [
-      "Xflow"
+      "PhonePe",
+      "Groww",
+      "CRED",
+      "Razorpay"
      ],
-     "reach": "newsroom.paypal-corp.com",
-     "note": "Joined Xflow's $16.6M Series A in Feb 2026. Fit: payments infra that touches global commerce."
+     "reach": "ribbitcap.com",
+     "note": "Very selective; usually comes in once traction is clear. Pitch with category-leader data."
     },
     {
-     "name": "Qualcomm Ventures",
-     "hq": "San Diego, US · India team",
-     "type": "Corporate VC",
-     "stage": "All stages",
-     "cheque": "Not disclosed ($150M India AI fund)",
-     "sectors": [
-      "On-device AI",
-      "Automotive",
-      "IoT",
-      "Robotics"
-     ],
-     "india_portfolio": [
-      "ideaForge",
-      "Shadowfax",
-      "SpotDraft",
-      "ToneTag"
-     ],
-     "reach": "qualcommventures.com",
-     "note": "In India since 2007 with 40+ companies. Added a $150M India AI fund in Feb 2026."
-    },
-    {
-     "name": "Amazon Smbhav Venture Fund",
-     "hq": "Amazon · India fund",
-     "type": "Corporate VC fund",
-     "stage": "Not disclosed",
-     "cheque": "Not disclosed ($350M fund)",
-     "sectors": [
-      "SMB digitisation",
-      "Consumer mfg.",
-      "Fintech",
-      "Health"
-     ],
-     "india_portfolio": [
-      "M1xchange",
-      "smallcase",
-      "Acko",
-      "Fitterfly"
-     ],
-     "reach": "aboutamazon.in",
-     "note": "Earmarked $120M (Dec 2024) for startups digitising consumer-goods manufacturing in India."
-    },
-    {
-     "name": "NVIDIA",
-     "hq": "Santa Clara, US",
-     "type": "Chipmaker (strategic)",
-     "stage": "Series B and later",
-     "cheque": "Not disclosed",
-     "sectors": [
-      "Foundation models",
-      "AI infra",
-      "Inference"
-     ],
-     "india_portfolio": [
-      "Sarvam AI",
-      "Simplismart"
-     ],
-     "reach": "nvidia.com/startups (Inception)",
-     "note": "Start with the free Inception programme; its Indian equity deals so far are AI model and infra plays."
-    },
-    {
-     "name": "Hitachi Ventures",
-     "hq": "Munich · Bengaluru office",
-     "type": "Corporate VC",
-     "stage": "Growth (strategic rounds)",
-     "cheque": "Not disclosed",
-     "sectors": [
-      "AI infra",
-      "Semiconductors",
-      "Adv. materials",
-      "Energy transition"
-     ],
-     "india_portfolio": [
-      "Scimplify"
-     ],
-     "reach": "hitachi-ventures.com",
-     "note": "Opened a Bengaluru office in Jun 2026 and led Scimplify's $25M round in Oct 2026."
-    },
-    {
-     "name": "Visa",
-     "hq": "San Francisco, US",
-     "type": "Strategic investor",
-     "stage": "Late stage",
-     "cheque": "~$4M in Phi Commerce (reported)",
-     "sectors": [
-      "Payments",
-      "B2B payments",
-      "Merchant tech"
-     ],
-     "india_portfolio": [
-      "Phi Commerce",
-      "PayMate"
-     ],
-     "reach": "visa.co.in",
-     "note": "Strategic money for payment companies on its rails; took about 2.5% of Phi Commerce in 2026."
-    },
-    {
-     "name": "MUFG",
-     "hq": "Tokyo, Japan",
-     "type": "Bank (strategic)",
-     "stage": "Mid to late stage",
-     "cheque": "Not disclosed ($300M Ganesha Fund)",
+     "name": "FinSight Ventures",
+     "hq": "US-based; India lead in Bengaluru",
+     "type": "Fintech & commerce VC",
+     "stage": "Growth (proven revenue)",
+     "cheque": "~$20M avg ($10M-$40M)",
      "sectors": [
       "Fintech",
-      "Digital lending",
-      "Financial services"
+      "Commerce",
+      "Consumer apps"
      ],
      "india_portfolio": [
-      "DMI Finance",
-      "Shriram Finance"
+      "Razorpay",
+      "Easy Home Finance",
+      "MediBuddy",
+      "CarDekho"
      ],
-     "reach": "bk.mufg.jp/global/investedinindia",
-     "note": "Ganesha Fund backs mid-to-late fintech; a new ~$250M India fund was reported in Jun 2026."
+     "reach": "finsightvc.com",
+     "note": "Plans to deploy $150-160M in India over 2-3 years. Approach once revenue is proven."
     }
    ],
    "cta_url": "scalerbee.com/TheFundGuy/contact.html"
   }
  },
  {
-  "post_after": "2026-11-26T10:00:00Z",
-  "id": "2026-11-26-investors-global-impact-climate",
+  "post_after": "2026-11-27T10:00:00Z",
+  "id": "2026-11-27-investors-global-accelerators",
   "preview": false,
-  "text": "Lightrock backs DeHaat and WayCool. Acumen has put over $41M into 40 Indian companies. Global impact capital is one of the most overlooked sources of money for Indian founders.\n\nThese investors back startups that serve farmers, small businesses, rural customers and the climate, and many write cheques from seed all the way to growth rounds.\n\nIn this carousel: 8 global impact and climate investors with recent Indian deals, from Accion Ventures and Acumen to ABC Impact, Lightrock, Circulate Capital, LeapFrog and GEF Capital, with stage, cheque, portfolio and how to reach each one.\n\nQuick tip: impact investors want proof of impact as much as revenue. Bring clear numbers, like farmers served, tonnes recycled or first-time borrowers, along with your unit economics. Pitch the fund whose thesis matches your customer.\n\nSave this for your next raise.\n\nIf you are looking to raise funds and need an expert, reach out to us below:\nhttps://scalerbee.com/TheFundGuy/contact.html\n\n#StartupFunding #Investors #IndianStartups #VentureCapital #TheFundGuy #ImpactInvesting",
-  "document_title": "8 global impact investors that back Indian founders",
+  "text": "Bengaluru rocket startup EtherealX has raised a $20.5M Series A. Before that, it was in the first India cohort of Accel's Atoms pre-seed programme.\n\nGlobal accelerators are still one of the fastest ways for an Indian founder to get a first cheque, credits and a network abroad. Many of them now have India cohorts or actively take Indian teams.\n\nIn this carousel: 8 global accelerators and startup programmes open to Indian founders. It covers Founder Institute, Accel Atoms, Techstars, 500 Global, Microsoft for Startups, UChicago's India Deep Tech Accelerator, Stanford Seed Spark and the AWS Generative AI Accelerator, with what you get, Indian alumni and how to apply.\n\nQuick tip: read the terms before you apply. Some programmes take equity (Techstars, 500 Global), some give only credits (Microsoft, AWS), and some need a partner incubator to nominate you (Stanford Seed Spark). Pick the one that fills your real gap, whether that is money, customers or a US market entry.\n\nSave this for your next raise.\n\nIf you are looking to raise funds and need an expert, reach out to us below:\nhttps://scalerbee.com/TheFundGuy/contact.html\n\n#StartupFunding #Investors #IndianStartups #VentureCapital #TheFundGuy #Accelerators",
+  "document_title": "8 global accelerators that back Indian founders",
   "carousel": {
-   "kicker": "Investor list · Global impact & climate",
-   "title": "8 global impact investors that back Indian founders",
-   "subtitle": "Impact and climate funds from the US, UK and Singapore with recent Indian deals: stage, cheque, portfolio, reach.",
+   "kicker": "Investor list · Global accelerators",
+   "title": "8 global accelerators that back Indian founders",
+   "subtitle": "Global accelerators and startup programmes open to Indian teams: what you get, alumni, how to apply.",
    "investors": [
     {
-     "name": "Accion Ventures",
-     "hq": "Washington DC, US",
-     "type": "Impact fintech VC",
-     "stage": "Pre-seed to seed",
-     "cheque": "$500K–$1M (reported)",
+     "name": "Founder Institute",
+     "hq": "Silicon Valley; India chapters",
+     "type": "Pre-seed pre-accelerator",
+     "stage": "Idea to early product",
+     "cheque": "No cash; 2.5% equity pledge (warrant)",
      "sectors": [
-      "Inclusive fintech",
-      "AI for finance",
-      "Lending infra"
+      "Sector-agnostic",
+      "AI",
+      "SaaS"
      ],
      "india_portfolio": [
-      "RevRag AI",
-      "TransBnk",
-      "Olyv",
-      "Aye Finance"
+      "GoFloaters",
+      "nicheBrains",
+      "Impactree"
      ],
-     "reach": "accion.org/venturelab",
-     "note": "About 30% of its $61.6M Fund II is set aside for India. Led RevRag AI's seed in Oct 2026."
+     "reach": "fi.co/mumbai",
+     "note": "Low-cost way to test an idea. Mumbai and Hyderabad cohorts close 15 Dec 2026."
     },
     {
-     "name": "Acumen",
-     "hq": "New York, US · India office",
-     "type": "Nonprofit impact investor",
-     "stage": "Early stage (patient capital)",
-     "cheque": "Not disclosed",
+     "name": "Accel Atoms",
+     "hq": "Global VC; Bengaluru team",
+     "type": "Equity pre-seed programme",
+     "stage": "Pre-product / raised < $2M",
+     "cheque": "Up to $1M-$2M (equity or convertible)",
      "sectors": [
-      "Agriculture",
-      "Clean energy",
-      "Waste",
-      "E-mobility"
+      "AI",
+      "Deep tech",
+      "Consumer",
+      "SaaS"
      ],
      "india_portfolio": [
-      "Kheyti",
-      "Bintix",
-      "eBik",
-      "Oorja"
+      "Praan",
+      "EtherealX",
+      "QOSMIC",
+      "Spendflo"
      ],
-     "reach": "acumen.org/investments/regions/india",
-     "note": "$41M+ into 40 Indian companies. Best fit: ventures serving rural or low-income customers."
+     "reach": "atoms.accel.com/apply",
+     "note": "Rolling applications. Open to Indian-origin founders anywhere, even before incorporation."
     },
     {
-     "name": "Elevar Equity",
-     "hq": "Seattle, US · India team",
-     "type": "Impact VC",
-     "stage": "Series A to B",
-     "cheque": "Not disclosed",
+     "name": "Techstars",
+     "hq": "USA; global programmes",
+     "type": "Equity accelerator",
+     "stage": "Pre-seed",
+     "cheque": "$220K (SAFE + 5% CEA); $120K in APAC",
      "sectors": [
-      "Fintech",
-      "Insurtech",
-      "Rural services"
-     ],
-     "india_portfolio": [
-      "SarvaGram",
-      "Coverstack"
-     ],
-     "reach": "elevarequity.com",
-     "note": "Backs businesses built for underserved customers; led Coverstack's ~$11M round in 2025."
-    },
-    {
-     "name": "ABC Impact",
-     "hq": "Singapore",
-     "type": "Impact PE (Temasek Trust)",
-     "stage": "Series B and beyond",
-     "cheque": "$10M–$45M",
-     "sectors": [
-      "Inclusion",
-      "Agritech",
-      "Healthcare",
-      "Climate tech"
-     ],
-     "india_portfolio": [
-      "Akshayakalpa",
-      "Cropin",
-      "Healthcare at Home"
-     ],
-     "reach": "abcimpact.com.sg",
-     "note": "About a third of Fund II is for India. Led Akshayakalpa's Rs 175 cr Series D in Mar 2026."
-    },
-    {
-     "name": "Lightrock",
-     "hq": "London, UK",
-     "type": "Impact growth investor",
-     "stage": "Growth",
-     "cheque": "$10M–$50M (Accelerate7 fund)",
-     "sectors": [
-      "Clean energy",
-      "E-mobility",
-      "Agritech",
+      "Sector-agnostic",
+      "SaaS",
+      "AI",
       "Fintech"
      ],
      "india_portfolio": [
-      "WayCool",
-      "DeHaat",
-      "Euler Motors",
-      "Aye Finance"
+      "Engagespot",
+      "AfterShoot",
+      "Asanify",
+      "CustomerGlu"
      ],
-     "reach": "lightrock.com",
-     "note": "New $500M Accelerate7 fund targets energy access and e-mobility. Led Euler's $47M Series E."
+     "reach": "techstars.com/accelerators",
+     "note": "No India programme now, but Indian teams still get into flagship US programmes."
     },
     {
-     "name": "Circulate Capital",
-     "hq": "Singapore",
-     "type": "Circular-economy investor",
-     "stage": "Growth",
-     "cheque": "Not disclosed",
+     "name": "500 Global",
+     "hq": "San Francisco, USA",
+     "type": "Equity accelerator / VC",
+     "stage": "Day 0 to early traction",
+     "cheque": "Up to $50K upfront; up to $1M follow-on",
      "sectors": [
-      "Plastics recycling",
-      "E-waste",
-      "Packaging",
-      "Materials"
+      "AI",
+      "SaaS",
+      "Deep tech",
+      "Fintech"
      ],
      "india_portfolio": [
-      "Recykal",
-      "Lucro Plastecycle",
-      "Srichakra Polyplast"
+      "Opslyft",
+      "LightSpeed Photonics"
      ],
-     "reach": "circulatecapital.com",
-     "note": "Committed $150M to Indian recycling and resource recovery from its Asia Fund II (Jun 2026)."
+     "reach": "500.co/founders/flagship",
+     "note": "4 months in-person in San Francisco. Best for India-built teams targeting the US."
     },
     {
-     "name": "LeapFrog Investments",
-     "hq": "Global · India team",
-     "type": "Impact private equity",
-     "stage": "Growth",
-     "cheque": "Not disclosed",
+     "name": "Microsoft for Startups",
+     "hq": "Redmond, USA; India team",
+     "type": "Credits & support programme",
+     "stage": "Any stage; no funding needed",
+     "cheque": "Up to $150K in credits",
      "sectors": [
-      "Healthcare",
-      "Financial services"
+      "AI",
+      "SaaS",
+      "Health",
+      "Sustainability"
      ],
      "india_portfolio": [
-      "Marengo Asia Hospitals",
-      "Fincare (exited)"
+      "Vecmocon",
+      "Whrrl Fintech",
+      "EcoRatings",
+      "Pradivya Software"
      ],
-     "reach": "leapfroginvest.com",
-     "note": "Plans up to $100M in Indian healthcare over two years; put $42M into Marengo Asia Hospitals."
+     "reach": "microsoft.com/en-in/startups",
+     "note": "Sign up for credits from day one; India cohorts like UNNATI AI add mentoring."
     },
     {
-     "name": "GEF Capital Partners",
-     "hq": "Washington DC, US · India",
-     "type": "Climate private equity",
-     "stage": "Growth",
+     "name": "UChicago India Deep Tech Accel.",
+     "hq": "Chicago, USA (Polsky Center)",
+     "type": "Cross-border accelerator",
+     "stage": "Early-stage deep tech",
      "cheque": "Not disclosed",
      "sectors": [
+      "Deep tech",
+      "Space",
       "Climate",
-      "Water",
-      "Agri-infra",
-      "Resource efficiency"
+      "Medtech"
      ],
      "india_portfolio": [
-      "Arya.ag",
-      "Membrane Group"
+      "BioSky Space",
+      "Curium Life",
+      "TriNano Technologies",
+      "Torus Motion"
      ],
-     "reach": "gefcapital.com",
-     "note": "Runs India-focused South Asia Growth Funds. Led Arya.ag's Rs 725 cr Series D in Jan 2026."
+     "reach": "polsky.uchicago.edu",
+     "note": "Built for IIT and research spinouts heading to the US. Watch for the next cohort call."
+    },
+    {
+     "name": "Stanford Seed Spark",
+     "hq": "Stanford, USA (GSB)",
+     "type": "Online founder programme",
+     "stage": "MVP / early traction",
+     "cheque": "Not disclosed",
+     "sectors": [
+      "Fintech",
+      "Health",
+      "Consumer",
+      "Edtech"
+     ],
+     "india_portfolio": [
+      "CypherSOL Fintech",
+      "Nexzdent",
+      "GreatMinds Fintech"
+     ],
+     "reach": "gsb.stanford.edu/seed/programs/spark",
+     "note": "No direct applications: a partner incubator nominates you. Ask yours if it is one."
+    },
+    {
+     "name": "AWS Generative AI Accelerator",
+     "hq": "Seattle, USA",
+     "type": "Credits-based accelerator",
+     "stage": "GenAI builders (stage not stated)",
+     "cheque": "Up to $1M in AWS credits",
+     "sectors": [
+      "GenAI",
+      "Fintech",
+      "Edtech",
+      "Martech"
+     ],
+     "india_portfolio": [
+      "Hyperbots",
+      "Smallest AI",
+      "Stimuler",
+      "Zocket"
+     ],
+     "reach": "aws.amazon.com/startups/generative-ai",
+     "note": "Fits compute-heavy AI teams. Indian startups made the 2024 and 2025 global cohorts."
     }
    ],
    "cta_url": "scalerbee.com/TheFundGuy/contact.html"
