@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "items": [
     {
       "id": "undp-generali-msme-insurance-2026",
@@ -706,52 +706,6 @@
       "link": "https://tribal.nic.in/downloads/Livelihood/Guidelines/VCF-STGuidelines1123.pdf",
       "note": "Rolling scheme with no fixed closing date. Funding is mostly debt-style debentures, so expect repayment or conversion terms; assistance is limited to twice your net worth. Applications are sourced through NSTFDC and IFCI Venture — contact them for the current application route.",
       "added": "2026-10-31"
-    },
-    {
-      "id": "national-startup-awards-6",
-      "title": "National Startup Awards 6.0 (2026)",
-      "org": "DPIIT, Ministry of Commerce & Industry (Startup India)",
-      "type": "Challenge",
-      "amount": "₹25 lakh per category winner",
-      "amountMax": 2500000,
-      "deadline": "2026-11-20",
-      "region": "National",
-      "stages": [
-        "MVP",
-        "Revenue",
-        "Growth"
-      ],
-      "sectors": [
-        "Agritech",
-        "Deeptech",
-        "Climate",
-        "Healthcare",
-        "Fintech",
-        "Defence",
-        "Spacetech",
-        "Mobility",
-        "Education",
-        "Semiconductors",
-        "Sector-agnostic"
-      ],
-      "equity": "No equity",
-      "summary": "The government's flagship startup awards are back with a much bigger purse: ₹25 lakh for the winner in each of 20 sector categories and two special categories, up from ₹10 lakh last edition. A separate ₹25 lakh pool covers school and college student innovators.",
-      "eligibility": [
-        "DPIIT-recognised startup (private limited company, registered partnership or LLP)",
-        "Not more than 10 years old from the date of incorporation",
-        "Annual turnover never above ₹100 crore in any financial year",
-        "Not under insolvency proceedings; past NSA winners cannot re-apply",
-        "Student Innovator track: school/college students (individual or team of up to 4) with a prototype, MVP or proof of concept; DPIIT recognition not needed"
-      ],
-      "benefits": [
-        "₹25 lakh cash prize per winning category (20 sectoral + Women-Led Startup of the Year + North-East Startup Excellence)",
-        "Student track prizes from ₹2 lakh to ₹6 lakh across four age groups",
-        "Mentoring, investor connects, market access and corporate tie-ups",
-        "National visibility and priority at DPIIT-backed startup events in India and abroad"
-      ],
-      "link": "https://www.startupindia.gov.in/content/sih/en/nsa-landing.html",
-      "note": "Applications opened 27 Oct 2026 and close 20 Nov 2026 per DPIIT's launch announcement (one aggregator shows 30 Nov — treat 20 Nov as the safe date). Keep your DPIIT certificate and recent financial statements ready; check the portal for the full category rules and how many categories you may enter.",
-      "added": "2026-11-01"
     },
     {
       "id": "set-award-2027",
@@ -1471,7 +1425,7 @@
       "type": "Accelerator",
       "amount": "Up to $250K (~₹2.2 crore) pre-seed for selected companies",
       "amountMax": 22000000,
-      "deadline": "2026-12-01",
+      "deadline": "2026-12-04",
       "region": "National",
       "stages": [
         "Idea"
@@ -1482,7 +1436,7 @@
         "Sector agnostic"
       ],
       "equity": "Takes equity",
-      "summary": "EF's Bangalore programme recruits individual technical and entrepreneurial people before they have a co-founder or an idea, helps them form a team and a company over 14 weeks in Bangalore, then moves funded teams to San Francisco. The Winter 2027 cohort starts in February 2027 and 1 December 2026 is the cut-off for its third selection round.",
+      "summary": "EF's Bangalore programme recruits individual technical and entrepreneurial people before they have a co-founder or an idea, helps them form a team and a company over 14 weeks in Bangalore, then moves funded teams to San Francisco. The Winter 2027 cohort starts in February 2027 and 4 December 2026 is the cut-off for the next selection round.",
       "eligibility": [
         "Individuals apply, not companies: you do not need a co-founder or a startup idea",
         "Aimed at early-career people with exceptional results relative to their peers, typically technical or commercial builders",
@@ -1497,7 +1451,7 @@
         "Access to EF's global investor and alumni network"
       ],
       "link": "https://apply.joinef.com/",
-      "note": "Apply by 1 December 2026 to be considered in the third of four selection rounds for Winter 2027 (programme starts February 2027). This is equity investment, not a grant, and only teams EF chooses to back receive money. Investment terms come from EF's published standard deal as reported by third parties; confirm the India terms at interview. Expect to relocate to San Francisco if funded.",
+      "note": "Apply by 4 December 2026 for the next selection round for Winter 2027 (date updated on EF's application page) (programme starts February 2027). This is equity investment, not a grant, and only teams EF chooses to back receive money. Investment terms come from EF's published standard deal as reported by third parties; confirm the India terms at interview. Expect to relocate to San Francisco if funded.",
       "added": "2026-11-08"
     },
     {
@@ -2024,47 +1978,6 @@
       ],
       "link": "https://tihiitb.org/programs/innovation-entrepreneurship-development/aarohan-7/",
       "note": "Apply online by 22 November 2026 (no closing time is published, so don't leave it to the last evening). Keep ready: certificate of incorporation, MoA/AoA, company PAN, DPIIT certificate or eligibility undertaking, up to three years of financial statements, a fully diluted cap table on letterhead, and the budget/milestone sheet and pitch deck in TIH's own templates (downloadable from the programme page). This is an investment, not a grant — expect equity or CCPS terms and an investment committee review after a possible pitch round. Queries: entredevelopment@tihiitb.org.",
-      "added": "2026-11-14"
-    },
-    {
-      "id": "imagine-h2o-2027",
-      "title": "Imagine H2O Accelerator & Imagine H2O Asia — 2027 Cohorts",
-      "org": "Imagine H2O (global non-profit water innovation accelerator)",
-      "type": "Accelerator",
-      "amount": "Mentoring, investor access + pilot co-funding (up to US$125K in recent cohorts)",
-      "amountMax": 11000000,
-      "deadline": "2026-11-20",
-      "region": "Global",
-      "stages": [
-        "Prototype",
-        "MVP",
-        "Revenue",
-        "Growth"
-      ],
-      "sectors": [
-        "Water",
-        "Climate",
-        "Cleantech",
-        "Agritech",
-        "Industrial"
-      ],
-      "equity": "Not stated",
-      "summary": "Imagine H2O has opened applications for its 2027 global Water Accelerator and its Asia programme, aimed at early-stage water technology companies that have finished a proof of concept. Selected startups get mentors, introductions to water-focused investors and utilities, and a route to funded pilot projects; the cohort is announced in April 2027.",
-      "eligibility": [
-        "For-profit startup that is less than 10 years old",
-        "Annual revenue below US$5 million",
-        "Proof of concept already completed",
-        "Equity raised below US$10 million for the global Accelerator, or below US$20 million for Imagine H2O Asia",
-        "Solution must address water — e.g. utilities, industrial water, agriculture water use, water quality or resilience"
-      ],
-      "benefits": [
-        "Year-long mentoring from water-industry experts, investors and founders",
-        "Introductions to water-focused venture capital and potential customers such as utilities and industrial users",
-        "Pilot support: recent cohorts could access co-funding of up to US$25K (Asia, with ADB and Singapore partners) and up to US$125K from Imagine H2O's Water Innovation Pilot Fund",
-        "Global visibility through Imagine H2O's network and events; the Asia track adds in-country advisors and customer meetings across South and Southeast Asia"
-      ],
-      "link": "https://www.imagineh2o.org/apply/",
-      "note": "Applications close Friday 20 November 2026 (US time — submit by 19 November in India to be safe). The 2027 cohort is announced in April 2027. Pilot-fund amounts above are from the 2026 programme and are competitive, not guaranteed. The organiser has not published fee or equity terms in its announcement; read the terms on the application page before applying.",
       "added": "2026-11-14"
     },
     {
@@ -2674,45 +2587,6 @@
       "link": "https://tinyurl.com/AIMM2026",
       "note": "Applications close 7 Dec 2026 (closing time not published — submit a day early). The organiser's application link is the short link above; prize split per category and the finale date had not been published at launch, so check the form for details. Pick the right category: idea-stage entries must already show a proof of concept.",
       "added": "2026-11-18"
-    },
-    {
-      "id": "cars24-grand-startup-challenge-2026",
-      "title": "Grand Startup Challenge 2026",
-      "org": "CARS24, with Startup India, MeitY Startup Hub and the Startup Policy Forum",
-      "type": "Challenge",
-      "amount": "₹1 Cr prize pool across 4 tracks",
-      "amountMax": 0,
-      "deadline": "2026-11-20",
-      "region": "National",
-      "stages": [
-        "Prototype",
-        "MVP",
-        "Revenue"
-      ],
-      "sectors": [
-        "Fintech",
-        "Mobility",
-        "Logistics",
-        "AI/ML"
-      ],
-      "equity": "Not stated",
-      "summary": "A national challenge for early-stage Indian startups working on fintech and lending, mobility and road safety, logistics and supply chains, or sovereign AI. Shortlisted teams get a month of mentoring in December before pitching at a finale in New Delhi in January 2027, where winners share a ₹1 crore prize pool.",
-      "eligibility": [
-        "Startup incorporated in India as a Private Limited Company or LLP",
-        "At least one founder working on the company full time",
-        "Early-stage: startups that have already raised more than ₹50 crore are excluded",
-        "Product must fit one of the four tracks: fintech/lending, mobility & road safety, logistics & supply chain, or sovereign AI",
-        "Must pass eight yes/no screening questions at the start of the form"
-      ],
-      "benefits": [
-        "Share of a ₹1 crore prize pool split across winners in all four tracks",
-        "Mentorship month in December 2026 for shortlisted startups",
-        "Pitch and demo slot at the January 2027 finale in New Delhi",
-        "Visibility to investors and the partner organisations"
-      ],
-      "link": "https://gsc.cars24.com/",
-      "note": "Applications close 20 Nov 2026 at 11:59 PM IST (already extended once). The form takes about 30 minutes and needs a pitch deck PDF (max 50 MB) plus a 2–5 minute founder video link (YouTube, Drive or Loom). Two reviewers score track fit, product evidence, team and traction equally. Per-winner prize split and any equity terms are not published.",
-      "added": "2026-11-19"
     },
     {
       "id": "create-ai-agents-championship-2026",
@@ -6119,6 +5993,645 @@
       "link": "https://500.co/founders/flagship",
       "note": "Rolling: the current batch runs 30 Nov 2026 – 9 Apr 2027, so new applications are considered for the following batch. Requires US relocation (Indian founders need suitable visas). Equity/SAFE terms are not published on the page; confirm before accepting.",
       "added": "2026-11-27"
+    },
+    {
+      "id": "nexa-lighthouse-asia-pacific-2026",
+      "title": "Nexa Lighthouse — Climate & Health Innovation Call (Asia-Pacific), Deadline Extended",
+      "org": "Grand Challenges Canada and AVPN, with funding partners including the Novo Nordisk Foundation, Bayer Foundation, India Health Fund, Sanofi Foundation and Temasek Foundation",
+      "type": "Grant",
+      "amount": "US$250K – US$2M per innovation",
+      "amountMax": 176000000,
+      "deadline": "2026-12-08",
+      "region": "Global",
+      "stages": [
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "HealthTech",
+        "ClimateTech",
+        "Public Health"
+      ],
+      "equity": "Varies",
+      "summary": "Grand Challenges Canada has pushed back the deadline for Nexa Lighthouse, its Transition-to-Scale call for proven innovations in Asia and the Pacific that help health systems cope with climate-driven risks: extreme heat, poor air quality and mosquito-borne diseases such as dengue and malaria.",
+      "eligibility": [
+        "Organisations incorporated in, and implementing in, an eligible Asia-Pacific country (the country list is in Appendix B of the funding document; India Health Fund is a funding partner)",
+        "The innovation must already be proven and ready to expand. Untested ideas are not funded.",
+        "Must fit one of two themes: climate-informed early warning and monitoring (heat, air quality, changing mosquito ecology) or climate-responsive patient care for those conditions",
+        "Proposals are accepted only through GCC's Fluxx portal"
+      ],
+      "benefits": [
+        "Transition-to-Scale funding of roughly US$250,000 to US$2 million per innovation, sized to its maturity",
+        "Support and network access from Grand Challenges Canada, AVPN and corporate and philanthropic funders across Asia",
+        "A route to scale across several Asia-Pacific health systems"
+      ],
+      "link": "https://www.grandchallenges.ca/funding-opportunity-nexa-lighthouse/",
+      "note": "Reopened: the deadline is extended to 8 Dec 2026, 2:00 pm ET (12:30 am IST on 9 Dec). Submissions go through gcc.fluxx.io only. Before applying, read the funding document for the country list, the form of funding (grant or other instrument) and the Stage 1 questions.",
+      "added": "2026-11-06"
+    },
+    {
+      "id": "unicef-venture-fund-open-source-frontier-tech-2027",
+      "title": "UNICEF Venture Fund — Call for Open Source Frontier Tech Solutions",
+      "org": "UNICEF Venture Fund (UNICEF Office of Innovation)",
+      "type": "Grant",
+      "amount": "Up to US$100K equity-free",
+      "amountMax": 8800000,
+      "deadline": "2027-01-31",
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "AI/ML",
+        "Blockchain",
+        "Deep Tech",
+        "Child Welfare",
+        "Social Impact"
+      ],
+      "equity": "No equity",
+      "summary": "UNICEF's Venture Fund is taking applications from early-stage for-profit startups building open-source frontier technology, such as AI/ML, blockchain, quantum or nanotech, that could improve children's lives. Selected startups receive up to US$100,000 in equity-free funding.",
+      "eligibility": [
+        "Registered as a private for-profit company in a UNICEF programme country (India is one)",
+        "Must have a working prototype; at the idea stage you are not eligible",
+        "The solution must already be open source, or the company must commit to open-sourcing it",
+        "Application must be written in English; women-led and youth-led (under 35) teams are encouraged to apply"
+      ],
+      "benefits": [
+        "Up to US$100,000 in equity-free funding (UNICEF can pay in fiat or crypto)",
+        "Technical mentorship and portfolio support from the UNICEF Office of Innovation",
+        "Visibility and links to UNICEF country offices and partners"
+      ],
+      "link": "https://form.jotform.com/263164435118354",
+      "note": "Closes 31 Jan 2027, 11:59 pm CET (4:29 am IST on 1 Feb). The link is UNICEF's official application form. UNICEF's general open-call web page still shows an older call as closed, so applicants should rely on the form. Any funded work has to be released under an open-source licence.",
+      "added": "2026-11-28"
+    },
+    {
+      "id": "innovation-world-cup-18",
+      "title": "18th Innovation World Cup (Industry, Industrial AI, Robotics, Security, Mobility)",
+      "org": "Innovation World Cup Series (WT | Wearable Technologies AG), with partners including STMicroelectronics, EBV Elektronik, Siemens and Bosch",
+      "type": "Challenge",
+      "amount": "In-kind prizes (no cash stated); pitch at HANNOVER MESSE 2027",
+      "amountMax": 0,
+      "deadline": "2027-02-04",
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Industrial AI",
+        "Robotics",
+        "IoT",
+        "Mobility",
+        "Security",
+        "Wearables",
+        "Hardware"
+      ],
+      "equity": "No equity",
+      "summary": "A free, long-running global contest for startups, scale-ups and SMEs in industrial tech. The top 15 in Industry, Industrial AI, Robotics, Mobility and Security pitch at HANNOVER MESSE 2027, and entrants are also considered for sponsor awards such as the ST Innovation Challenge and the EBV Innovation Hero.",
+      "eligibility": [
+        "Open to startups, scale-ups and innovative SMEs from any country",
+        "The product must fit one of the categories: Industry, Industrial AI, Robotics, Security or Mobility (wearables and smart city/home solutions have separate finals)",
+        "There is no stated limit on company age or stage; a working solution makes for a stronger entry",
+        "Free to enter online"
+      ],
+      "benefits": [
+        "Finalist pitch slot at HANNOVER MESSE 2027 in front of corporates and investors",
+        "Free development kits from STMicroelectronics and Würth Elektronik, plus access to labs and testing facilities",
+        "Engineering and supply-chain support through the EBV Innovation Hero award (sensor, IoT, edge AI and robotics solutions)",
+        "Marketing package, global media coverage and a place in the Hall of Fame"
+      ],
+      "link": "https://www.innovationworldcup.com/?p=13782",
+      "note": "Main deadline is 4 Feb 2027, 23:59 CET (4:29 am IST on 5 Feb). The separate EBV Innovation Hero page gives 11 Feb 2027, 11:59 pm CET, but describes that award as for EMEA startups. No cash prize is itemised. The headline 'worth US$500K+' is mostly in-kind, and the page does not say whether travel to Germany is covered.",
+      "added": "2026-11-28"
+    },
+    {
+      "id": "wfp-innovation-challenge-rolling",
+      "title": "WFP Innovation Challenge — Rolling Applications",
+      "org": "UN World Food Programme (WFP) Innovation Accelerator, Munich",
+      "type": "Accelerator",
+      "amount": "Equity-free funding (amount set per programme)",
+      "amountMax": 0,
+      "deadline": null,
+      "region": "Global",
+      "stages": [
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "AgriTech",
+        "FoodTech",
+        "Supply Chain",
+        "Nutrition",
+        "Humanitarian",
+        "Climate Resilience"
+      ],
+      "equity": "No equity",
+      "summary": "The WFP Innovation Accelerator takes applications year-round from startups and organisations working on hunger, emergency response and resilient food systems. It reviews them whenever funding or a programme opens and can offer equity-free funding and pilots with WFP country operations.",
+      "eligibility": [
+        "A registered legal entity, for-profit or non-profit",
+        "The innovation must be at least at MVP stage; proof of concept and early traction are preferred",
+        "Must already operate, or be willing to operate, in one of WFP's 120+ countries and territories (WFP runs a large India programme)",
+        "The proposal must explain how WFP fits the long-term strategy and include a plan for a sprint and a path to scale",
+        "Focus areas: emergency response, supply chain, smallholder farmers and food systems, school meals, resilience and livelihoods, nutrition"
+      ],
+      "benefits": [
+        "Equity-free funding to pilot and scale with WFP",
+        "Access to WFP operations and country offices for field implementation",
+        "Innovation consulting and mentoring, including from corporate partners",
+        "Visibility through WFP's channels"
+      ],
+      "link": "https://innovation.wfp.org/wfp-innovation-challenge",
+      "note": "Rolling with no closing date. Applications are reviewed in batches when funding or a programme becomes available, so there may be long waits, and WFP says it cannot reply to every applicant. The page does not state a grant size. Separate, dated calls (such as Hiper for emergency-response products) are listed at innovation.wfp.org/apply.",
+      "added": "2026-11-28"
+    },
+    {
+      "id": "uk-global-entrepreneur-programme",
+      "title": "UK Global Entrepreneur Programme (GEP) — Free Support to Set Up in the UK",
+      "org": "Department for Business and Trade (DBT), UK Government",
+      "type": "Accelerator",
+      "amount": "Free dealmaker mentoring + Innovator Founder visa endorsement (no cash)",
+      "amountMax": 0,
+      "deadline": null,
+      "region": "Global",
+      "stages": [
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Deep Tech",
+        "SaaS",
+        "Life Sciences",
+        "FinTech",
+        "ClimateTech",
+        "All tech"
+      ],
+      "equity": "No equity",
+      "summary": "A UK government programme in which experienced entrepreneur 'dealmakers' mentor high-growth, IP-led overseas companies that want to put their global HQ, a subsidiary or an R&D centre in the UK. It also helps founders get endorsed for the Innovator Founder visa.",
+      "eligibility": [
+        "A company not yet based in the UK that plans a UK HQ, subsidiary or R&D centre",
+        "Usually £250K to £10M+ in revenue (depending on sector); earlier-stage firms should have raised over £500K and hold registered IP",
+        "Over 20% growth across three years (or meeting the OECD high-growth definition), plus strong investor backing",
+        "A founder or co-founder must relocate to the UK, or a senior strategic role must be created there"
+      ],
+      "benefits": [
+        "Free one-to-one strategic mentoring from a GEP dealmaker",
+        "Help towards the Innovator Founder visa endorsement (3 years' leave for the founder and eligible family)",
+        "Introductions to UK investors, research partners and commercial networks",
+        "Onboarding into the UK ecosystem; no fees and no equity taken"
+      ],
+      "link": "https://www.business.gov.uk/campaign/gep/",
+      "note": "No fixed deadline: submit your details for an initial assessment. Selection is staged (team review, dealmaker due diligence, then a full application with a Senior Relationship Manager) and can take several weeks. There is no cash grant. This suits Indian companies with traction that are serious about moving leadership to the UK.",
+      "added": "2026-11-28"
+    },
+    {
+      "id": "hkstp-incubation-programme",
+      "title": "HKSTP Incubation Programme — up to HK$1.29M for Tech Startups (Overseas Founders Welcome)",
+      "org": "Hong Kong Science and Technology Parks Corporation (HKSTP)",
+      "type": "Grant",
+      "amount": "Up to HK$1.29M (~US$165K) + rent subsidy",
+      "amountMax": 14520000,
+      "deadline": null,
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "ICT",
+        "Electronics",
+        "GreenTech",
+        "Precision Engineering",
+        "Deep Tech"
+      ],
+      "equity": "Not stated",
+      "summary": "HKSTP's three-year on-site incubation programme at Hong Kong Science Park provides up to HK$1.29 million for technology and business development, plus subsidised workspace. Overseas founders, including Indian teams, can apply once they register a Hong Kong company.",
+      "eligibility": [
+        "Must meet HKSTP's Mandatory Admission Criteria: an innovative technology or business model, market-validated with an MVP or prototype",
+        "Must work in ICT, electronics, green technology or precision engineering (biotech startups apply to the sister Incu-Bio scheme)",
+        "Overseas companies are accepted but must first get Hong Kong business registration (InvestHK can help)",
+        "The team must operate on-site at HKSTP for the programme"
+      ],
+      "benefits": [
+        "Up to HK$1.29 million for technology and business development spending over 3 years",
+        "Rental subsidy for office or lab space in Hong Kong Science Park",
+        "Mentoring, investor and corporate matching, and a soft landing into Hong Kong and the Greater Bay Area"
+      ],
+      "link": "https://www.hkstp.org/programmes/incubation/incubation-programme",
+      "note": "Applications are accepted online at any time and assessed by a panel; rejected applicants can reapply three months after the panel result. The catch: you must set up a Hong Kong entity and work from the Park, which in practice means relocating at least part of the team. Equity terms are not stated on the page. Check the MAC PDF before applying.",
+      "added": "2026-11-28"
+    },
+    {
+      "id": "ksum-patent-support-scheme",
+      "title": "KSUM Patent Support Scheme (₹2 Lakh India / ₹10 Lakh Foreign)",
+      "org": "Kerala Startup Mission (KSUM), Government of Kerala",
+      "type": "Grant",
+      "amount": "Up to ₹2 lakh per Indian patent; up to ₹10 lakh per foreign patent",
+      "amountMax": 1000000,
+      "deadline": null,
+      "region": "Kerala",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Sector agnostic",
+        "Deep tech",
+        "IP-led products"
+      ],
+      "equity": "No equity",
+      "summary": "Kerala Startup Mission pays back the cost of protecting an invention, covering official fees and patent attorney charges for Kerala startups and student innovators. Reimbursement is released in stages as the patent moves from filing through examination to grant.",
+      "eligibility": [
+        "Startup registered in Kerala as a Pvt Ltd company or LLP, within 10 years of incorporation",
+        "Holds a KSUM Unique ID and/or DPIIT recognition or Udyam/Udyog Aadhaar",
+        "Patent application filed after 9 November 2015",
+        "Students currently enrolled can apply through their college IEDC; unregistered individual innovators are not eligible",
+        "Patent work must be handled by an attorney/agent registered with IP India"
+      ],
+      "benefits": [
+        "Up to ₹2 lakh per Indian patent and up to ₹10 lakh for foreign patents on one subject matter",
+        "Covers search, drafting, provisional and complete filing, claims, fast-track fees and prosecution",
+        "Paid in three tranches (filing, prosecution, grant) by treasury transfer",
+        "Already-granted patents are routed to the MSME patent reimbursement channel"
+      ],
+      "link": "https://sites.google.com/startupmission.in/patent",
+      "note": "Rolling reimbursement, no closing date. No advances: you pay first and claim. Renewal fees, appeals and Form 18A expedited examination are excluded, and trademarks, designs and copyrights are not covered. KSUM says processing takes about 20 days after hard copies are submitted, subject to fund availability.",
+      "added": "2026-11-28"
+    },
+    {
+      "id": "kfc-startup-kerala-loan",
+      "title": "Startup Kerala Loan Scheme — up to ₹1 Crore at 7% (KFC)",
+      "org": "Kerala Financial Corporation (KFC) with Kerala Startup Mission",
+      "type": "Debt",
+      "amount": "₹25 lakh (productisation) / ₹50 lakh (commercialisation) / ₹1 crore (scale-up)",
+      "amountMax": 10000000,
+      "deadline": null,
+      "region": "Kerala",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "IT/ITES",
+        "Manufacturing",
+        "Services",
+        "Sector agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Kerala Financial Corporation lends to tech-driven Kerala startups in stages, from productisation through scale-up, as term loans, working capital or a mix. KSUM's 2% interest subvention brings the effective rate down to about 7% a year.",
+      "eligibility": [
+        "Registered with KSUM or DPIIT, with registered office and operations in Kerala",
+        "Indian promoters hold at least 51% of shares at sanction",
+        "Technology is part of the core product, service, business or distribution model",
+        "Manufacturing, services, IT or ITES activity with a viable, scalable model"
+      ],
+      "benefits": [
+        "Stage-wise limits: up to ₹25 lakh, ₹50 lakh and ₹1 crore, funding up to 90% of project cost",
+        "9% p.a. base rate minus 2% KSUM subvention (about 7% effective)",
+        "Up to 12 months moratorium and 60 months total tenure",
+        "Can fund equipment, software, cloud, licences, marketing, salaries and rent"
+      ],
+      "link": "https://kfc.org/common-pages/startup-kerala-comprehensive-scheme-by-kfc-for-financing-startups",
+      "note": "Rolling; apply online at kfc.org. It is a loan, not a grant: promoters must put in at least 10%, a 0.60% guarantee-fund corpus fee applies, and an expert committee sanctions each stage separately. Ask KFC about security/collateral, which the scheme page does not spell out.",
+      "added": "2026-11-28"
+    },
+    {
+      "id": "kfc-startup-purchase-order-financing",
+      "title": "KFC Working Capital Against Purchase/Work Orders for Startups",
+      "org": "Kerala Financial Corporation (KFC)",
+      "type": "Debt",
+      "amount": "Credit line up to ₹10 crore (80% of order value)",
+      "amountMax": 100000000,
+      "deadline": null,
+      "region": "Kerala",
+      "stages": [
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Sector agnostic",
+        "GovTech",
+        "IT/ITES"
+      ],
+      "equity": "No equity",
+      "summary": "Startups in Kerala that have won a firm order can draw a KFC credit line to execute it, with the buyer paying KFC directly. It is meant to stop working-capital gaps from blocking delivery on government, PSU or large private contracts.",
+      "eligibility": [
+        "KSUM- or DPIIT-registered startup with registered office in Kerala",
+        "Holds a firm purchase, work or award order",
+        "For private or out-of-state buyers, a due-diligence report on the buyer from MIRA Inform or Dun & Bradstreet",
+        "Indian promoters hold at least 51%"
+      ],
+      "benefits": [
+        "Line of credit up to ₹10 crore for companies (₹8 crore for LLPs, partnerships, OPCs)",
+        "Disbursal up to 80% of the order value",
+        "Two-year line, renewable annually"
+      ],
+      "link": "https://kfc.org/common-pages/startup-kerala-comprehensive-scheme-by-kfc-for-financing-startups",
+      "note": "Rolling. Order must be executed within one year and fully repaid within 18 months; buyer payments are routed to KFC. Processing fee 0.20% of the sanctioned amount (minimum ₹10,000 plus GST).",
+      "added": "2026-11-28"
+    },
+    {
+      "id": "kfc-startup-venture-debt",
+      "title": "KFC Venture Debt for VC-Backed Kerala Startups (up to ₹10 Crore)",
+      "org": "Kerala Financial Corporation (KFC)",
+      "type": "Debt",
+      "amount": "Up to ₹10 crore",
+      "amountMax": 100000000,
+      "deadline": null,
+      "region": "Kerala",
+      "stages": [
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "IT hardware",
+        "Software/SaaS",
+        "Deep tech"
+      ],
+      "equity": "No equity",
+      "summary": "A state-backed venture debt line for Kerala IT hardware and software startups that already have a SEBI-registered VC or AIF on board, letting them extend runway without giving up more equity.",
+      "eligibility": [
+        "IT hardware or software startup registered with KSUM or DPIIT, with office in Kerala",
+        "A SEBI-registered VC fund or AIF has done due diligence and invested or confirmed its investment",
+        "Promoters contribute 20% of project cost",
+        "Indian promoters hold at least 51%"
+      ],
+      "benefits": [
+        "Up to ₹10 crore for companies (₹8 crore for LLPs, partnerships, OPCs)",
+        "Moratorium of up to 2 years",
+        "Total tenure up to 5 years"
+      ],
+      "link": "https://kfc.org/common-pages/startup-kerala-comprehensive-scheme-by-kfc-for-financing-startups",
+      "note": "Rolling; apply online via kfc.org. Only for startups with institutional VC/AIF backing. Interest rate and security for this window are not given on the scheme page, so confirm with KFC.",
+      "added": "2026-11-28"
+    },
+    {
+      "id": "kfc-sdg-seed-loan",
+      "title": "KFC Seed Loan for Socially Relevant (SDG) Startup Products",
+      "org": "Kerala Financial Corporation (KFC)",
+      "type": "Debt",
+      "amount": "Up to ₹1 crore",
+      "amountMax": 10000000,
+      "deadline": null,
+      "region": "Kerala",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Social impact",
+        "Climate",
+        "Health",
+        "Agritech",
+        "Sustainability"
+      ],
+      "equity": "No equity",
+      "summary": "KFC offers a seed loan to Kerala startups with a working prototype of a product that tackles a UN Sustainable Development Goal, to help them scale up and commercialise it.",
+      "eligibility": [
+        "KSUM- or DPIIT-registered startup based in Kerala",
+        "Has a working prototype of a socially relevant product aligned to a UN SDG",
+        "Promoters contribute 20% of project cost",
+        "Preference for products solving Kerala problems (Navakerala Missions, RBK), startups with CSR/impact-fund backing, or those in recognised accelerators"
+      ],
+      "benefits": [
+        "Loan of up to ₹1 crore for scaling and commercialisation",
+        "Moratorium of up to 1 year",
+        "Repayment over 36 months after the moratorium"
+      ],
+      "link": "https://kfc.org/common-pages/startup-kerala-comprehensive-scheme-by-kfc-for-financing-startups",
+      "note": "Rolling. The loan is capped at the lower of 50% of expected surplus over three years or 10% of projected proceeds over three years, so the real sanction may be far below ₹1 crore.",
+      "added": "2026-11-28"
+    },
+    {
+      "id": "tn-emerging-sector-seed-fund",
+      "title": "Tamil Nadu Emerging Sector Seed Fund (TNESSF)",
+      "org": "TNIFMC (sponsored by TIDCO and TIDEL), Government of Tamil Nadu",
+      "type": "Equity",
+      "amount": "₹3–10 crore per round (up to ₹1 crore for early-stage)",
+      "amountMax": 100000000,
+      "deadline": null,
+      "region": "Tamil Nadu",
+      "stages": [
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Sector agnostic",
+        "Emerging technologies",
+        "Sunrise sectors"
+      ],
+      "equity": "Takes equity",
+      "summary": "A SEBI-registered Category I AIF backed by the Tamil Nadu government that invests equity or convertibles in high-growth startups and MSMEs, mainly in emerging and sunrise sectors, with a ₹100 crore anchor commitment.",
+      "eligibility": [
+        "Innovative, high-growth startup or MSME with revenue up to ₹250 crore",
+        "Strong promoter track record and a capital-efficient model",
+        "Clear economic and social impact for Tamil Nadu",
+        "Clear exit potential and ESG practices"
+      ],
+      "benefits": [
+        "Typical cheque of ₹3–10 crore per round in equity or convertibles",
+        "Up to ₹1 crore for early-stage companies to reach their next milestone",
+        "Larger amounts possible for more mature companies"
+      ],
+      "link": "https://tidco.com/emargingsector.php",
+      "note": "Rolling: apply via the 'Apply' link on TNIFMC's website (linked from the TIDCO page). This is a venture fund taking equity, with normal VC-style due diligence, not a grant.",
+      "added": "2026-11-28"
+    },
+    {
+      "id": "andhra-pradesh-startup-sgst-reimbursement",
+      "title": "AP Startup SGST Reimbursement (100% of Net SGST for 5 Years)",
+      "org": "Andhra Pradesh Innovation Society (APIS), ITE&C Department, Government of Andhra Pradesh",
+      "type": "Grant",
+      "amount": "100% of net SGST paid, for up to 5 years",
+      "amountMax": 0,
+      "deadline": null,
+      "region": "Andhra Pradesh",
+      "stages": [
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Sector agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "Under AP Innovation & Startup Policy 4.0 (2024-29), eligible Andhra Pradesh startups get back the full net State GST they pay, for five years from starting commercial operations.",
+      "eligibility": [
+        "Pvt Ltd, registered partnership or LLP with registered office and GST registration in Andhra Pradesh",
+        "Within 10 years of incorporation, with turnover never above ₹100 crore",
+        "Innovation-led or scalable model; demergers, Section 8 companies, trusts, societies and franchisees are excluded"
+      ],
+      "benefits": [
+        "100% reimbursement of net SGST accruing to the state",
+        "Runs for 5 years from commercial operations or until 100% of eligible fixed capital investment is recovered, whichever comes first",
+        "Approval decision targeted within 60 days and payment within 60 days of approval"
+      ],
+      "link": "https://apit.ap.gov.in/assets/files/2025ITC_36424_MS9_E.pdf",
+      "note": "Rolling, claimed annually on the AP Startup One incentive portal (directly or via an RTIH hub or incubator) with GSTR-3B and GSTR-2A, on or before 30 September each year. Operating guidelines: G.O.Ms.No.9 (28 April 2025).",
+      "added": "2026-11-28"
+    },
+    {
+      "id": "andhra-pradesh-startup-seed-go-to-market-fund",
+      "title": "AP Startup Seed Funding & Go-to-Market Support (Equity, up to ₹50 Lakh Each)",
+      "org": "Andhra Pradesh Innovation Society (APIS), Government of Andhra Pradesh",
+      "type": "Equity",
+      "amount": "Up to ₹50 lakh seed + up to ₹50 lakh go-to-market",
+      "amountMax": 10000000,
+      "deadline": null,
+      "region": "Andhra Pradesh",
+      "stages": [
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Sector agnostic"
+      ],
+      "equity": "Takes equity",
+      "summary": "Policy 4.0 lets APIS put equity-linked seed money into Andhra Pradesh startups, plus a separate equity-based tranche for go-to-market and market entry.",
+      "eligibility": [
+        "Startup incorporated as Pvt Ltd, partnership or LLP with registered office in Andhra Pradesh",
+        "Under 10 years old and turnover never above ₹100 crore",
+        "Innovation-driven or scalable business with job or wealth-creation potential",
+        "Can receive grants or seed funding from only one AP government department"
+      ],
+      "benefits": [
+        "Seed funding of up to ₹50 lakh on an equity-sharing basis",
+        "Separate go-to-market support of up to ₹50 lakh, also equity-based",
+        "Applications reviewed by the state Monitoring & Evaluation Committee"
+      ],
+      "link": "https://apit.ap.gov.in/assets/files/2025ITC_36424_MS9_E.pdf",
+      "note": "Rolling, apply on the AP Startup One portal. The state takes equity; ask APIS for valuation and stake terms before applying. This is separate from the AP Startup Grant (up to ₹15 lakh, or ₹20 lakh for women/SC/ST/BC-led startups).",
+      "added": "2026-11-28"
+    },
+    {
+      "id": "andhra-pradesh-deeptech-seed-workstation-support",
+      "title": "AP Deeptech Startup Seed Funding (up to ₹1 Crore) & Free Workstations",
+      "org": "Andhra Pradesh Innovation Society (APIS), Government of Andhra Pradesh",
+      "type": "Grant",
+      "amount": "Need-based seed up to ₹1 crore + 100% workstation rent for 1 year",
+      "amountMax": 10000000,
+      "deadline": null,
+      "region": "Andhra Pradesh",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Deep tech",
+        "AI",
+        "Semiconductors",
+        "Advanced technology"
+      ],
+      "equity": "Not stated",
+      "summary": "Policy 4.0 has a larger, need-based seed window for deeptech and advanced-technology startups in Andhra Pradesh, plus a year of fully paid workstations in notified co-working or MSME parks.",
+      "eligibility": [
+        "Deeptech or advanced-technology startup meeting the AP startup definition (registered in AP, under 10 years, turnover never above ₹100 crore)",
+        "Pvt Ltd, partnership or LLP; trusts, societies and Section 8 companies excluded",
+        "Workstations must be in notified co-working spaces, neighbourhood workspaces or MSME parks"
+      ],
+      "benefits": [
+        "Need-based seed funding of up to ₹1 crore",
+        "100% workstation rental subsidy for up to 30 employees for one year"
+      ],
+      "link": "https://apit.ap.gov.in/assets/files/2025ITC_36424_MS9_E.pdf",
+      "note": "Rolling, through the AP Startup One portal or a sponsoring RTIH hub or incubator. The GO does not say whether deeptech seed money is a grant or equity; confirm with APIS.",
+      "added": "2026-11-28"
+    },
+    {
+      "id": "nsrcel-impact-orbit-skilling-livelihood-capgemini",
+      "title": "Impact Orbit – Skilling and Livelihood Innovations",
+      "org": "NSRCEL, IIM Bangalore (with Capgemini)",
+      "type": "Accelerator",
+      "amount": "Grant up to ₹12.5 lakh",
+      "amountMax": 1250000,
+      "deadline": null,
+      "region": "National",
+      "stages": [
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Skilling",
+        "Livelihoods",
+        "Social Impact",
+        "EdTech"
+      ],
+      "equity": "No equity",
+      "summary": "An impact-focused incubation track run by IIM Bangalore's startup hub NSRCEL with Capgemini for ventures that create jobs, build skills or improve livelihoods. Selected ventures get mentoring, fundraising and impact-measurement support, and grants of up to ₹12.5 lakh.",
+      "eligibility": [
+        "Registered for-profit or not-for-profit entity with at least one year of operations",
+        "Early revenue to growth stage, with a proof of concept or completed pilots",
+        "At least one full-time founder and a team of three or more employees",
+        "Early traction such as paying customers or users",
+        "Impact-first model that contributes to at least three UN Sustainable Development Goals"
+      ],
+      "benefits": [
+        "Grants of up to ₹12.5 lakh for selected ventures",
+        "One-on-one mentoring from domain experts",
+        "Help sharpening the value proposition and getting ready to raise funds",
+        "Support with impact measurement and reporting",
+        "No fees charged and no equity taken by NSRCEL"
+      ],
+      "link": "https://nsrcel.org/impact-orbit-skilling-and-livelihood-innovations/",
+      "note": "The official page says applications are 'closing soon' but gives no closing date, so apply early. You apply through NSRCEL's Accubate form, which is linked from the page. This is a separate track from the Impact Orbit AgeTech call.",
+      "added": "2026-11-28"
+    },
+    {
+      "id": "cie-iiith-meity-tide-2-eir-and-grant",
+      "title": "MeitY TIDE 2.0 EIR (₹4 Lakh) & Prototype Grant (₹7 Lakh) at CIE IIIT Hyderabad",
+      "org": "Centre for Innovation & Entrepreneurship (CIE), IIIT Hyderabad — MeitY TIDE 2.0 host incubator",
+      "type": "Grant",
+      "amount": "EIR seed grant up to ₹4 lakh; prototype grant up to ₹7 lakh",
+      "amountMax": 700000,
+      "deadline": null,
+      "region": "Telangana",
+      "stages": [
+        "Idea",
+        "Prototype",
+        "MVP"
+      ],
+      "sectors": [
+        "AI/ML",
+        "Computer Vision",
+        "Robotics",
+        "AR/VR",
+        "Smart City",
+        "Mobility",
+        "MedTech",
+        "Road Safety",
+        "Language Tech",
+        "Industry 4.0"
+      ],
+      "equity": "Not stated",
+      "summary": "CIE at IIIT Hyderabad hosts two tracks of the Ministry of Electronics and IT's TIDE 2.0 scheme. The Entrepreneur-in-Residence track gives up to ₹4 lakh to founders who have not yet set up a company, and the grant track gives early-stage deep-tech startups up to ₹7 lakh to build a prototype.",
+      "eligibility": [
+        "EIR: a 4-year science or engineering degree or diploma, or a 3-year degree or diploma plus 2 years of full-time work experience",
+        "EIR: you must work on the venture full time, hold no other salary or fellowship, and not yet run an established company",
+        "Grant: a deep-tech startup that grew out of research, is at prototype, MVP, pilot or product-development stage, and wants to use IIIT Hyderabad labs",
+        "Both tracks: the solution must use AI/ML, computer vision, robotics or AR/VR and fit a listed vertical (smart city, mobility, MedTech, traffic and road safety, language translation, Industry 4.0)"
+      ],
+      "benefits": [
+        "Seed grant of up to ₹4 lakh for EIR fellows",
+        "Grant of up to ₹7 lakh for prototype development for early-stage startups",
+        "Incubation and access to IIIT Hyderabad research labs",
+        "Mentoring through CIE, one of India's larger university incubators"
+      ],
+      "link": "https://cie.iiit.ac.in/tide-2-0/",
+      "note": "The official page shows a live 'Apply now' form for both tracks but no closing date or cohort timeline. Treat it as a rolling intake and confirm the current window with CIE outreach (cieoutreach@iiit.ac.in) before you prepare a full proposal. Equity and repayment terms are not stated on the page.",
+      "added": "2026-11-28"
     }
   ],
   "archive": [
@@ -6479,43 +6992,6 @@
       "added": "2026-10-30"
     },
     {
-      "id": "nexa-lighthouse-asia-pacific-2026",
-      "title": "Nexa Lighthouse — Climate & Health Innovation Call (Asia-Pacific)",
-      "org": "Grand Challenges Canada and AVPN, funded by the Novo Nordisk Foundation",
-      "type": "Grant",
-      "amount": "$250K – $2M (Transition to Scale)",
-      "amountMax": 176000000,
-      "deadline": "2026-11-17",
-      "region": "Global",
-      "stages": [
-        "Revenue",
-        "Growth"
-      ],
-      "sectors": [
-        "HealthTech",
-        "Climate",
-        "Public Health",
-        "MedTech",
-        "Social Impact"
-      ],
-      "equity": "Varies",
-      "summary": "Nexa Lighthouse funds proven, locally led innovations in Asia and the Pacific that help health systems act on climate risks such as extreme heat, air pollution and shifting malaria/dengue patterns. A linked South Asia call focuses on protecting people with diabetes and heart disease from extreme heat.",
-      "eligibility": [
-        "Incorporated organisations based in Asia-Pacific (India included): companies, social enterprises, NGOs, non-profits, research institutions or government bodies",
-        "Individuals, sole proprietorships, unincorporated trusts and partnerships cannot apply",
-        "Innovation must already be proven and ready to scale — this is not early-idea money",
-        "Solution must be locally led and address a climate-linked health threat (heat, air quality, vector-borne disease)"
-      ],
-      "benefits": [
-        "Transition to Scale investment of roughly $250,000 to $2 million per innovation, sized by maturity",
-        "Backing from Grand Challenges Canada and AVPN's network of Asian funders",
-        "Support to embed the solution with local health actors and systems"
-      ],
-      "link": "https://grandchallenges.ca/programs/nexa/",
-      "note": "Proposals are due 17 November 2026 at 2:00 pm ET (12:30 am IST on 18 November) via Grand Challenges Canada's Fluxx portal — apply through that portal, not the Novo Nordisk Foundation, or you risk disqualification. Funding instrument (grant vs. repayable/equity-linked) is set at the partners' discretion. The South Asia cardiometabolic-heat strand must be framed around heat protection for patients, not general climate adaptation.",
-      "added": "2026-11-06"
-    },
-    {
       "id": "be-hub-udaan-cohort-1",
       "title": "BE Hub Udaan — Accelerator Cohort 1",
       "org": "BE Hub (Saturo Technologies founders), Pune",
@@ -6575,6 +7051,132 @@
       "link": "https://www.techstars.com/accelerators",
       "note": "Applications close 18 Nov 2026.",
       "added": "2026-10-30"
+    },
+    {
+      "id": "national-startup-awards-6",
+      "title": "National Startup Awards 6.0 (2026)",
+      "org": "DPIIT, Ministry of Commerce & Industry (Startup India)",
+      "type": "Challenge",
+      "amount": "₹25 lakh per category winner",
+      "amountMax": 2500000,
+      "deadline": "2026-11-20",
+      "region": "National",
+      "stages": [
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Agritech",
+        "Deeptech",
+        "Climate",
+        "Healthcare",
+        "Fintech",
+        "Defence",
+        "Spacetech",
+        "Mobility",
+        "Education",
+        "Semiconductors",
+        "Sector-agnostic"
+      ],
+      "equity": "No equity",
+      "summary": "The government's flagship startup awards are back with a much bigger purse: ₹25 lakh for the winner in each of 20 sector categories and two special categories, up from ₹10 lakh last edition. A separate ₹25 lakh pool covers school and college student innovators.",
+      "eligibility": [
+        "DPIIT-recognised startup (private limited company, registered partnership or LLP)",
+        "Not more than 10 years old from the date of incorporation",
+        "Annual turnover never above ₹100 crore in any financial year",
+        "Not under insolvency proceedings; past NSA winners cannot re-apply",
+        "Student Innovator track: school/college students (individual or team of up to 4) with a prototype, MVP or proof of concept; DPIIT recognition not needed"
+      ],
+      "benefits": [
+        "₹25 lakh cash prize per winning category (20 sectoral + Women-Led Startup of the Year + North-East Startup Excellence)",
+        "Student track prizes from ₹2 lakh to ₹6 lakh across four age groups",
+        "Mentoring, investor connects, market access and corporate tie-ups",
+        "National visibility and priority at DPIIT-backed startup events in India and abroad"
+      ],
+      "link": "https://www.startupindia.gov.in/content/sih/en/nsa-landing.html",
+      "note": "Applications opened 27 Oct 2026 and close 20 Nov 2026 per DPIIT's launch announcement (one aggregator shows 30 Nov — treat 20 Nov as the safe date). Keep your DPIIT certificate and recent financial statements ready; check the portal for the full category rules and how many categories you may enter.",
+      "added": "2026-11-01"
+    },
+    {
+      "id": "imagine-h2o-2027",
+      "title": "Imagine H2O Accelerator & Imagine H2O Asia — 2027 Cohorts",
+      "org": "Imagine H2O (global non-profit water innovation accelerator)",
+      "type": "Accelerator",
+      "amount": "Mentoring, investor access + pilot co-funding (up to US$125K in recent cohorts)",
+      "amountMax": 11000000,
+      "deadline": "2026-11-20",
+      "region": "Global",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue",
+        "Growth"
+      ],
+      "sectors": [
+        "Water",
+        "Climate",
+        "Cleantech",
+        "Agritech",
+        "Industrial"
+      ],
+      "equity": "Not stated",
+      "summary": "Imagine H2O has opened applications for its 2027 global Water Accelerator and its Asia programme, aimed at early-stage water technology companies that have finished a proof of concept. Selected startups get mentors, introductions to water-focused investors and utilities, and a route to funded pilot projects; the cohort is announced in April 2027.",
+      "eligibility": [
+        "For-profit startup that is less than 10 years old",
+        "Annual revenue below US$5 million",
+        "Proof of concept already completed",
+        "Equity raised below US$10 million for the global Accelerator, or below US$20 million for Imagine H2O Asia",
+        "Solution must address water — e.g. utilities, industrial water, agriculture water use, water quality or resilience"
+      ],
+      "benefits": [
+        "Year-long mentoring from water-industry experts, investors and founders",
+        "Introductions to water-focused venture capital and potential customers such as utilities and industrial users",
+        "Pilot support: recent cohorts could access co-funding of up to US$25K (Asia, with ADB and Singapore partners) and up to US$125K from Imagine H2O's Water Innovation Pilot Fund",
+        "Global visibility through Imagine H2O's network and events; the Asia track adds in-country advisors and customer meetings across South and Southeast Asia"
+      ],
+      "link": "https://www.imagineh2o.org/apply/",
+      "note": "Applications close Friday 20 November 2026 (US time — submit by 19 November in India to be safe). The 2027 cohort is announced in April 2027. Pilot-fund amounts above are from the 2026 programme and are competitive, not guaranteed. The organiser has not published fee or equity terms in its announcement; read the terms on the application page before applying.",
+      "added": "2026-11-14"
+    },
+    {
+      "id": "cars24-grand-startup-challenge-2026",
+      "title": "Grand Startup Challenge 2026",
+      "org": "CARS24, with Startup India, MeitY Startup Hub and the Startup Policy Forum",
+      "type": "Challenge",
+      "amount": "₹1 Cr prize pool across 4 tracks",
+      "amountMax": 0,
+      "deadline": "2026-11-20",
+      "region": "National",
+      "stages": [
+        "Prototype",
+        "MVP",
+        "Revenue"
+      ],
+      "sectors": [
+        "Fintech",
+        "Mobility",
+        "Logistics",
+        "AI/ML"
+      ],
+      "equity": "Not stated",
+      "summary": "A national challenge for early-stage Indian startups working on fintech and lending, mobility and road safety, logistics and supply chains, or sovereign AI. Shortlisted teams get a month of mentoring in December before pitching at a finale in New Delhi in January 2027, where winners share a ₹1 crore prize pool.",
+      "eligibility": [
+        "Startup incorporated in India as a Private Limited Company or LLP",
+        "At least one founder working on the company full time",
+        "Early-stage: startups that have already raised more than ₹50 crore are excluded",
+        "Product must fit one of the four tracks: fintech/lending, mobility & road safety, logistics & supply chain, or sovereign AI",
+        "Must pass eight yes/no screening questions at the start of the form"
+      ],
+      "benefits": [
+        "Share of a ₹1 crore prize pool split across winners in all four tracks",
+        "Mentorship month in December 2026 for shortlisted startups",
+        "Pitch and demo slot at the January 2027 finale in New Delhi",
+        "Visibility to investors and the partner organisations"
+      ],
+      "link": "https://gsc.cars24.com/",
+      "note": "Applications close 20 Nov 2026 at 11:59 PM IST (already extended once). The form takes about 30 minutes and needs a pitch deck PDF (max 50 MB) plus a 2–5 minute founder video link (YouTube, Drive or Loom). Two reviewers score track fit, product evidence, team and traction equally. Per-winner prize split and any equity terms are not published.",
+      "added": "2026-11-19"
     }
   ]
 }
