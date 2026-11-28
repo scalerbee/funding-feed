@@ -1,128 +1,156 @@
 [
- {
-  "date": "2026-11-23",
-  "theme": "Singapore investors",
-  "investors": [
-   "Antler",
-   "BEENEXT",
-   "Jungle Ventures",
-   "Vertex Ventures SEA & India",
-   "Qualgro",
-   "Venturi Partners",
-   "EvolutionX Debt Capital",
-   "Temasek"
-  ]
- },
- {
-  "date": "2026-11-24",
-  "theme": "Japanese investors",
-  "investors": [
-   "Incubate Fund India",
-   "Beyond Next Ventures India",
-   "Enrission India Capital",
-   "UNLEASH Capital Partners",
-   "GMO VenturePartners",
-   "Sony Innovation Fund",
-   "SMBC Asia Rising Fund",
-   "SoftBank Vision Fund"
-  ]
- },
- {
-  "date": "2026-11-24",
-  "theme": "US seed funds, accelerators and VCs",
-  "investors": [
-   "Emergent Ventures India",
-   "South Park Commons",
-   "Y Combinator",
-   "Pioneer Fund",
-   "Soma Capital",
-   "Lightspeed",
-   "General Catalyst",
-   "Goodwater Capital"
-  ]
- },
- {
-  "date": "2026-11-25",
-  "theme": "Middle East investors",
-  "investors": [
-   "Hub71",
-   "BeyondSeed",
-   "AUM Ventures",
-   "Gulf Islamic Investments",
-   "Investcorp (India PE)",
-   "Mubadala",
-   "ADIA",
-   "Qatar Investment Authority"
-  ]
- },
- {
-  "date": "2026-11-25",
-  "theme": "European investors",
-  "investors": [
-   "Entrepreneur First",
-   "Picus Capital",
-   "Foundamental",
-   "RTP Global",
-   "Prosus Ventures",
-   "Sofina",
-   "Bertelsmann India Inv.",
-   "British Intl. Investment"
-  ]
- },
- {
-  "date": "2026-11-26",
-  "theme": "Global corporate VCs",
-  "investors": [
-   "Google for Startups Accel.",
-   "PayPal Ventures",
-   "Qualcomm Ventures",
-   "Amazon Smbhav Venture Fund",
-   "NVIDIA",
-   "Hitachi Ventures",
-   "Visa",
-   "MUFG"
-  ]
- },
- {
-  "date": "2026-11-26",
-  "theme": "Global impact & climate investors",
-  "investors": [
-   "Accion Ventures",
-   "Acumen",
-   "Elevar Equity",
-   "ABC Impact",
-   "Lightrock",
-   "Circulate Capital",
-   "LeapFrog Investments",
-   "GEF Capital Partners"
-  ]
- },
- {
-  "date": "2026-11-27",
-  "theme": "Global fintech investors",
-  "investors": [
-   "Tenity",
-   "Coinbase Ventures",
-   "Saison Capital",
-   "Flourish Ventures",
-   "QED Investors",
-   "Quona Capital",
-   "Ribbit Capital",
-   "FinSight Ventures"
-  ]
- },
- {
-  "date": "2026-11-27",
-  "theme": "Global accelerators",
-  "investors": [
-   "Founder Institute",
-   "Accel Atoms",
-   "Techstars",
-   "500 Global",
-   "Microsoft for Startups",
-   "UChicago India Deep Tech Accel.",
-   "Stanford Seed Spark",
-   "AWS Generative AI Accelerator"
-  ]
- }
+  {
+    "date": "2026-11-23",
+    "theme": "Singapore investors",
+    "investors": [
+      "Antler",
+      "BEENEXT",
+      "Jungle Ventures",
+      "Vertex Ventures SEA & India",
+      "Qualgro",
+      "Venturi Partners",
+      "EvolutionX Debt Capital",
+      "Temasek"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "theme": "Japanese investors",
+    "investors": [
+      "Incubate Fund India",
+      "Beyond Next Ventures India",
+      "Enrission India Capital",
+      "UNLEASH Capital Partners",
+      "GMO VenturePartners",
+      "Sony Innovation Fund",
+      "SMBC Asia Rising Fund",
+      "SoftBank Vision Fund"
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "theme": "US seed funds, accelerators and VCs",
+    "investors": [
+      "Emergent Ventures India",
+      "South Park Commons",
+      "Y Combinator",
+      "Pioneer Fund",
+      "Soma Capital",
+      "Lightspeed",
+      "General Catalyst",
+      "Goodwater Capital"
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "theme": "Middle East investors",
+    "investors": [
+      "Hub71",
+      "BeyondSeed",
+      "AUM Ventures",
+      "Gulf Islamic Investments",
+      "Investcorp (India PE)",
+      "Mubadala",
+      "ADIA",
+      "Qatar Investment Authority"
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "theme": "European investors",
+    "investors": [
+      "Entrepreneur First",
+      "Picus Capital",
+      "Foundamental",
+      "RTP Global",
+      "Prosus Ventures",
+      "Sofina",
+      "Bertelsmann India Inv.",
+      "British Intl. Investment"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "theme": "Global corporate VCs",
+    "investors": [
+      "Google for Startups Accel.",
+      "PayPal Ventures",
+      "Qualcomm Ventures",
+      "Amazon Smbhav Venture Fund",
+      "NVIDIA",
+      "Hitachi Ventures",
+      "Visa",
+      "MUFG"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "theme": "Global impact & climate investors",
+    "investors": [
+      "Accion Ventures",
+      "Acumen",
+      "Elevar Equity",
+      "ABC Impact",
+      "Lightrock",
+      "Circulate Capital",
+      "LeapFrog Investments",
+      "GEF Capital Partners"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "theme": "Global fintech investors",
+    "investors": [
+      "Tenity",
+      "Coinbase Ventures",
+      "Saison Capital",
+      "Flourish Ventures",
+      "QED Investors",
+      "Quona Capital",
+      "Ribbit Capital",
+      "FinSight Ventures"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "theme": "Global accelerators",
+    "investors": [
+      "Founder Institute",
+      "Accel Atoms",
+      "Techstars",
+      "500 Global",
+      "Microsoft for Startups",
+      "UChicago India Deep Tech Accel.",
+      "Stanford Seed Spark",
+      "AWS Generative AI Accelerator"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "theme": "US VCs with India teams",
+    "investors": [
+      "Together Fund",
+      "Nexus Venture Partners",
+      "Khosla Ventures",
+      "Bessemer Venture Partners",
+      "B Capital",
+      "Insight Partners",
+      "General Atlantic",
+      "WestBridge Capital"
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "theme": "Venture debt & revenue-based finance",
+    "investors": [
+      "GetVantage",
+      "Velocity",
+      "Recur Club",
+      "BlackSoil Capital",
+      "Stride Ventures",
+      "Trifecta Capital",
+      "Alteria Capital",
+      "InnoVen Capital"
+    ]
+  }
 ]
